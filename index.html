@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>onename</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
+        rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -15,19 +18,20 @@
             font-family: 'Comic Neue', cursive;
         }
 
-        html{
+        html {
             width: 100%;
             height: 100%;
         }
 
-        body{
+        body {
             width: 100%;
             height: 100%;
             display: flex;
             align-items: center;
         }
 
-        #content, #page{
+        #content,
+        #page {
             max-width: 1170px;
             margin: 0 auto;
             padding: 20px;
@@ -42,7 +46,7 @@
             gap: 50px;
         }
 
-        .buttons > button {
+        .buttons>button {
             padding: 20px 30px;
             font-size: 32px;
             font-weight: bold;
@@ -53,12 +57,12 @@
 
         }
 
-        .buttons > button:active{
+        .buttons>button:active {
             transform: scale(0.9);
             transition: all 0.1s ease-in-out;
         }
 
-        #stats{
+        #stats {
             font-weight: bold;
             font-size: 32px;
             align-items: center;
@@ -130,47 +134,56 @@
 
         /* from : https://css-loaders.com/dots-bars/ */
         .loader {
-        width: 40px;
-        height: 26px;
-        --c:no-repeat linear-gradient(#000 0 0);
-        background:
-            var(--c) 0    100%,
-            var(--c) 50%  100%,
-            var(--c) 100% 100%;
-        background-size:8px calc(100% - 4px);
-        position: relative;
+            width: 40px;
+            height: 26px;
+            --c: no-repeat linear-gradient(#000 0 0);
+            background:
+                var(--c) 0 100%,
+                var(--c) 50% 100%,
+                var(--c) 100% 100%;
+            background-size: 8px calc(100% - 4px);
+            position: relative;
         }
+
         .loader:before {
-        content: "";
-        position: absolute;
-        width: 8px;
-        height: 8px;
-        border-radius: 50%;
-        background: #000;
-        left: 0;
-        top: 0;
-        animation: 
-            l3-1 1.5s  linear infinite alternate,
-            l3-2 0.75s cubic-bezier(0,200,.8,200) infinite;
+            content: "";
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #000;
+            left: 0;
+            top: 0;
+            animation:
+                l3-1 1.5s linear infinite alternate,
+                l3-2 0.75s cubic-bezier(0, 200, .8, 200) infinite;
         }
+
         @keyframes l3-1 {
-        100% {left:calc(100% - 8px)}
+            100% {
+                left: calc(100% - 8px)
+            }
         }
+
         @keyframes l3-2 {
-        100% {top:-0.1px}
+            100% {
+                top: -0.1px
+            }
         }
     </style>
 </head>
+
 <body>
     <div id="content">
         <div id="page">
             <h1>Perguntas Exame - Categoria B</h1>
             <div class="buttons">
                 <button onclick="startExam('random')" style="background-color: #00A519; color: white;">Iniciar</button>
-                <button onclick="alert('em progresso...')" style="background-color: #D90000; color: white;">Mais Erradas =(</button>
-                <button onclick="showCustom()" style="background-color: #B8B8B8; color: black;" >Costumizado</button>
+                <button onclick="alert('em progresso...')" style="background-color: #D90000; color: white;">Mais Erradas
+                    =(</button>
+                <button onclick="showCustom()" style="background-color: #B8B8B8; color: black;">Costumizado</button>
             </div>
-        
+
             <div id="stats">
                 <p>Vez(es) aprovado: <span id="number">0</span></p>
                 <p>Vez(es) reprovado: <span id="number">0</span></p>
@@ -192,9 +205,9 @@
 
     <script>
         let topicos = [];
-        fetch("topicos.json").then((r)=>r.json()).then((top)=>{
+        fetch("topicos.json").then((r) => r.json()).then((top) => {
             let content = document.querySelector('.modal-content');
-            top.forEach((t)=>{
+            top.forEach((t) => {
                 let div = document.createElement('div');
                 div.style = `display: flex; gap: 20px; font-size: 18px; font-weight: bold;`
                 let input = document.createElement('input');
@@ -213,12 +226,12 @@
                 topicos.push(t);
             });
         })
-            
-        function showCustom(){
+
+        function showCustom() {
             document.getElementById('customModal').style.display = 'flex';
         }
 
-        function hideCustom(){
+        function hideCustom() {
             document.getElementById('customModal').style.display = 'none';
         }
 
@@ -247,21 +260,27 @@
                             .then(r => r.json())
                             .then((resp) => {
                                 const shuffled = resp.sort(() => 0.5 - Math.random());
-                                
+
                                 let totalTopics = selectedTopics.length;
-                                const questionsPerTopic = Math.round(30 / totalTopics);
-                                
-                                const selectedQuestions = shuffled.slice(0, questionsPerTopic);
+                                const questionsPerTopic = Math.floor(30 / totalTopics);
+                                const remainder = 30 % totalTopics;
 
+                                const selectedQuestions = [];
+                                let questionCount = 0;
 
-                                for (const question of selectedQuestions) {
-                                    finalQuestions.push(
-                                        {
-                                            "question": question.question,
-                                            "answers": question.answers,
-                                            "image": question.image                                         
-                                        }
-                                    )
+                                for (let i = 0; i < selectedTopics.length; i++) {
+                                    const extraQuestion = i < remainder ? 1 : 0;
+                                    const topicQuestions = shuffled.slice(questionCount, questionCount + questionsPerTopic + extraQuestion);
+
+                                    questionCount += questionsPerTopic + extraQuestion;
+
+                                    for (const question of topicQuestions) {
+                                        finalQuestions.push({
+                                            question: question.question,
+                                            answers: question.answers,
+                                            image: question.image
+                                        });
+                                    }
                                 }
 
                                 if (finalQuestions.length > 30) {
@@ -283,7 +302,7 @@
             localStorage.setItem('exam', JSON.stringify(finalQuestions));
             if (JSON.parse(localStorage.getItem('exam')).length == 0) {
                 // why the delay? because it neeeds time somehow and I don't know why
-                // because i dont wait for dom to be ready
+                // because i dont wait for dom to be ready (i think)
                 setTimeout(() => {
                     storeExam();
                 }, 500);
@@ -294,4 +313,5 @@
         }
     </script>
 </body>
+
 </html>
