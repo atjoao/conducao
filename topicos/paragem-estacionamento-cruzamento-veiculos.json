@@ -1,0 +1,3540 @@
+[
+  {
+    "question": "A dist\u00e2ncia m\u00ednima permitida para parar ou estacionar para tr\u00e1s da paragem de el\u00e9ctricos \u00e9 de:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2744.jpg",
+    "answers": [
+      {
+        "text": "3 metros",
+        "correct": false
+      },
+      {
+        "text": "5 metros",
+        "correct": false
+      },
+      {
+        "text": "6 metros",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A manobra do ve\u00edculo \u00e0 minha frente deve ser realizada:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2745.jpg",
+    "answers": [
+      {
+        "text": "Lentamente e no menor trajecto poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "No tempo que o condutor quiser.",
+        "correct": false
+      },
+      {
+        "text": "Rapidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A paragem do ve\u00edculo de transporte p\u00fablico:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2746.jpg",
+    "answers": [
+      {
+        "text": "Deve ser feita nos locais sinalizados para o efeito.",
+        "correct": true
+      },
+      {
+        "text": "\u00c9 proibida dentro das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Pode ser feita em qualquer local, desde que por breves instantes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A paragem e o estacionamento s\u00e3o proibidos nesta localidade?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2747.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 permitida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a menos de 10 metros antes do entroncamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a menos de 5 metros para um e outro lado do entroncamento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A paragem na auto-estrada \u00e9 sempre considerada uma contra-ordena\u00e7\u00e3o muito grave?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2748.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A que dist\u00e2ncia \u00e9 proibido parar ou estacionar do sinal indicativo da paragem de ve\u00edculos de transporte colectivo de passageiros?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2749.jpg",
+    "answers": [
+      {
+        "text": "A menos de 25 metros para a frente e 5 metros para tr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "A menos de 5 metros para a frente e 25 metros para tr\u00e1s.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A que dist\u00e2ncia m\u00ednima deste cruzamento posso parar ou estacionar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2750.jpg",
+    "answers": [
+      {
+        "text": "20 metros.",
+        "correct": false
+      },
+      {
+        "text": "30 metros.",
+        "correct": false
+      },
+      {
+        "text": "40 metros.",
+        "correct": false
+      },
+      {
+        "text": "50 metros.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A que dist\u00e2ncia m\u00ednima posso estacionar para tr\u00e1s deste sinal?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2751.jpg",
+    "answers": [
+      {
+        "text": "25 metros",
+        "correct": false
+      },
+      {
+        "text": "6 metros.",
+        "correct": true
+      },
+      {
+        "text": "8 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A que dist\u00e2ncia posso parar para tr\u00e1s do sinal?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2752.jpg",
+    "answers": [
+      {
+        "text": "10 metros.",
+        "correct": false
+      },
+      {
+        "text": "15 metros",
+        "correct": false
+      },
+      {
+        "text": "25 metros",
+        "correct": true
+      },
+      {
+        "text": "7 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A que dist\u00e2ncia posso parar para tr\u00e1s do sinal?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2753.jpg",
+    "answers": [
+      {
+        "text": "10 metros.",
+        "correct": false
+      },
+      {
+        "text": "15 metros",
+        "correct": false
+      },
+      {
+        "text": "25 metros",
+        "correct": true
+      },
+      {
+        "text": "8 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Antes de uma curva de visibilidade reduzida \u00e9 proibido parar:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2754.jpg",
+    "answers": [
+      {
+        "text": "A 30 metros da mesma.",
+        "correct": true
+      },
+      {
+        "text": "A 60 metros da mesma.",
+        "correct": false
+      },
+      {
+        "text": "A 80 metros da mesma.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular fora de uma localidade devo saber que o estacionamento:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2755.jpg",
+    "answers": [
+      {
+        "text": "Deve fazer-se fora da faixa de rodagem ou, n\u00e3o sendo poss\u00edvel, o mais pr\u00f3ximo poss\u00edvel da berma.",
+        "correct": false
+      },
+      {
+        "text": "Deve fazer-se fora da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Deve fazer-se na faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular fora de uma localidade devo saber que:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2756.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso estacionar a menos de 150 metros de uma curva.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o posso estacionar a menos de 50 metros de uma curva.",
+        "correct": true
+      },
+      {
+        "text": "Posso estacionar a menos de 25 metros de um curva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao estacionar neste local, irei impedir a forma\u00e7\u00e3o de uma fila. Posso estacionar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2757.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, mas apenas se n\u00e3o deixar ligadas as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que por pouco tempo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Caso o condutor do ve\u00edculo estacionado em cima do passeio n\u00e3o seja identificado, quem ser\u00e1 responsabilizado por esta infrac\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2758.jpg",
+    "answers": [
+      {
+        "text": "Apenas o condutor pode ser responsabilizado.",
+        "correct": false
+      },
+      {
+        "text": "Ningu\u00e9m ser\u00e1 responsabilizado, caso n\u00e3o se identifique o condutor.",
+        "correct": false
+      },
+      {
+        "text": "O propriet\u00e1rio.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Circulo correctamente para estacionar o meu ve\u00edculo do lado esquerdo da faixa de rodagem.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2759.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Cometo uma contra-ordena\u00e7\u00e3o se parar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2760.jpg",
+    "answers": [
+      {
+        "text": "Sim, grave, se parar na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, leve, se parar na berma.",
+        "correct": false
+      },
+      {
+        "text": "Sim, muito grave, se parar na faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Conduzo um ve\u00edculo ligeiro com reboque. Quem deve recuar, considerando que nos encontramos a dist\u00e2ncia id\u00eantica do local onde o cruzamento \u00e9 poss\u00edvel?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2761.jpg",
+    "answers": [
+      {
+        "text": "Eu, porque vou a subir.",
+        "correct": false
+      },
+      {
+        "text": "O outro condutor porque vem a descer.",
+        "correct": false
+      },
+      {
+        "text": "O outro condutor, porque conduz um ve\u00edculo de igual categoria, sem reboque.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Considera-se abusivo o estacionamento deste reboque em parque que n\u00e3o lhe \u00e9 destinado exclusivamente?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2762.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se estiver neste local mais de 30 dias.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se estiver neste local mais de 72 horas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Considera-se estacionamento a imobiliza\u00e7\u00e3o do ve\u00edculo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2763.jpg",
+    "answers": [
+      {
+        "text": "Para cargas e descargas.",
+        "correct": false
+      },
+      {
+        "text": "Por tempo superior a 10 minutos.",
+        "correct": false
+      },
+      {
+        "text": "Sempre que o condutor n\u00e3o esteja pronto a retomar a marcha assim que necess\u00e1rio.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Considera-se estacionamento abusivo quando para al\u00e9m do per\u00edodo de tempo permitido, o ve\u00edculo permanecer em local de estacionamento limitado por:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2764.jpg",
+    "answers": [
+      {
+        "text": "1 hora.",
+        "correct": false
+      },
+      {
+        "text": "2 horas.",
+        "correct": true
+      },
+      {
+        "text": "30 minutos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Considera-se estacionamento abusivo, a perman\u00eancia deste ve\u00edculo, no mesmo espa\u00e7o, por um per\u00edodo de:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2765.jpg",
+    "answers": [
+      {
+        "text": "10 dias.",
+        "correct": false
+      },
+      {
+        "text": "20 dias.",
+        "correct": false
+      },
+      {
+        "text": "40 dias.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Considera-se estacionamento abusivo, o estacionamento de um ve\u00edculo que apresente sinais evidentes de abandono por tempo superior a:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2766.jpg",
+    "answers": [
+      {
+        "text": "10 horas.",
+        "correct": false
+      },
+      {
+        "text": "2 horas.",
+        "correct": false
+      },
+      {
+        "text": "48 horas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Considera-se estacionamento abusivo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2767.jpg",
+    "answers": [
+      {
+        "text": "O de ve\u00edculo durante 20 dias no mesmo local.",
+        "correct": false
+      },
+      {
+        "text": "O de ve\u00edculo em zona de estacionamento condicionado ao pagamento de taxa.",
+        "correct": false
+      },
+      {
+        "text": "O estacionamento em parque, quando as taxas correspondentes a 5 dias, n\u00e3o tiverem sido pagas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Considera-se que o ve\u00edculo em cima do passeio:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2768.jpg",
+    "answers": [
+      {
+        "text": "Constitui grave perturba\u00e7\u00e3o para o tr\u00e2nsito de pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o constitui qualquer perturba\u00e7\u00e3o e como tal est\u00e1 bem estacionado.",
+        "correct": false
+      },
+      {
+        "text": "Se n\u00e3o estiver neste local para al\u00e9m de duas horas, n\u00e3o constitui perturba\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Considera-se que os ve\u00edculos imobilizados em segunda fila est\u00e3o estacionados:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2769.jpg",
+    "answers": [
+      {
+        "text": "Correctamente, porque as luzes de perigo est\u00e3o ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Correctamente, porque h\u00e1 espa\u00e7o suficiente na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Indevidamente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Dada a aus\u00eancia de berma no local em que me encontro, posso parar mais \u00e0 frente na rotunda para largar um passageiro?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2770.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a paragem \u00e9 proibida nas rotundas.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que a paragem seja r\u00e1pida e sinalizada com as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que assinale convenientemente a minha inten\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dentro das localidades \u00e9 proibido estacionar:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2771.jpg",
+    "answers": [
+      {
+        "text": "A mais de 5 metros antes das passagens assinaladas para a travessia de pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Nas curvas.",
+        "correct": false
+      },
+      {
+        "text": "Nos locais de visibilidade insuficiente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Dentro das localidades \u00e9 proibido estacionar:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2772.jpg",
+    "answers": [
+      {
+        "text": "A mais de 10 metros das passagens assinaladas para a travessia de pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "De modo a provocar embara\u00e7o para os restantes utentes.",
+        "correct": true
+      },
+      {
+        "text": "Nos locais destinados a esse fim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dentro das localidades o estacionamento deve ser feito:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2773.jpg",
+    "answers": [
+      {
+        "text": "Na berma.",
+        "correct": false
+      },
+      {
+        "text": "Na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Nos locais a esse fim destinados.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Devo saber que \u00e9 proibido parar ou estacionar a menos de:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2774.jpg",
+    "answers": [
+      {
+        "text": "20 metros antes dos sinais luminosos se a altura dos ve\u00edculos, incluindo a respectiva carga, os encobrir.",
+        "correct": true
+      },
+      {
+        "text": "20 metros para a frente e para tr\u00e1s dos sinais luminosos.",
+        "correct": false
+      },
+      {
+        "text": "50 metros antes dos sinais luminosos se a altura dos ve\u00edculos, incluindo a respectiva carga, os encobrir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo saber que \u00e9 proibido parar ou estacionar:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2775.jpg",
+    "answers": [
+      {
+        "text": "A menos de 5 metros antes e nas passagens assinaladas para a travessia de pe\u00f5es ou de veloc\u00edpedes.",
+        "correct": true
+      },
+      {
+        "text": "A menos de 5 metros depois das passagens assinaladas para a travessia de pe\u00f5es ou de veloc\u00edpedes.",
+        "correct": false
+      },
+      {
+        "text": "A menos de 5 metros para um e outro lado das passagens assinaladas para a travessia de pe\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 permitido o estacionamento na faixa de rodagem.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2776.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 permitido parar ou estacionar na berma da via em que circulo?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2777.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a paragem e o estacionamento s\u00e3o proibidos porque circulo numa auto-estrada.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, apenas a paragem \u00e9 permitida porque circulo num itiner\u00e1rio complementar.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a paragem e o estacionamento s\u00e3o permitidos porque circulo numa estrada nacional.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 proibido estacionar a menos de:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2778.jpg",
+    "answers": [
+      {
+        "text": "15 metros antes da passagem de pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "5 metros antes da passagem de pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "8 metros antes da passagem de pe\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 proibido estacionar de forma a provocar embara\u00e7o para o tr\u00e2nsito?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2779.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, se a intensidade de tr\u00e2nsito for reduzida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas dentro das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 proibido estacionar em segunda fila?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2780.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se impedir a forma\u00e7\u00e3o de uma fila de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 proibido estacionar na faixa de rodagem?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2781.jpg",
+    "answers": [
+      {
+        "text": "Sim, em qualquer situa\u00e7\u00e3o dentro das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Sim, fora das localidades",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 proibido estacionar nas curvas?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2782.jpg",
+    "answers": [
+      {
+        "text": "Sim, em todas as curvas fora das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Sim, em todas as curvas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, nas curvas de visibilidade reduzida.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 proibido estacionar:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2783.jpg",
+    "answers": [
+      {
+        "text": "Em todas as curvas.",
+        "correct": false
+      },
+      {
+        "text": "Em todas as localidades.",
+        "correct": false
+      },
+      {
+        "text": "Em todos os locais de visibilidade reduzida.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 proibido parar neste local.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2784.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em caso de necessidade disponho de um telefone de emerg\u00eancia a 300 metros.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2785.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em todos os locais em que existam parqu\u00edmetros, o estacionamento \u00e9 autorizado independentemente do pagamento de taxas de utiliza\u00e7\u00e3o.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2786.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Encontramo-nos a dist\u00e2ncia id\u00eantica do local em que o cruzamento \u00e9 poss\u00edvel para que a manobra seja poss\u00edvel, devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2787.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que o outro condutor recue, pois vou a subir.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar, para que se torne mais f\u00e1cil para o outro recuar.",
+        "correct": false
+      },
+      {
+        "text": "Recuar, porque vou a subir.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Encontramo-nos a dist\u00e2ncias id\u00eanticas do local onde o cruzamento \u00e9 poss\u00edvel. Dever\u00e1 o outro condutor recuar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2788.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o. Eu devo recuar porque vou a subir e a manobra \u00e9 manifestamente mais f\u00e1cil para mim.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a manobra \u00e9 mais f\u00e1cil para ele.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre porque vem a descer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Encontrando-me a menos de 5 metros do cruzamento, posso parar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2789.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, de forma alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, dado n\u00e3o existir qualquer sinaliza\u00e7\u00e3o que pro\u00edba a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sinalize a manobra antecipadamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Encontro-me a 30 metros do cruzamento. Posso parar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2790.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, n\u00e3o posso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que sinalize correctamente a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, uma vez que n\u00e3o existe sinaliza\u00e7\u00e3o a proibir a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Encontro-me a menos de 5 m da passagem para pe\u00f5es. Posso parar ou estacionar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2791.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, \u00e9 proibido parar ou estacionar antes e nas passagens assinaladas para a travessia de pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Sim, do lado direito da faixa de rodagem e antes do sinal de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas estou autorizado a parar antes da passagem de pe\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Estamos a dist\u00e2ncia id\u00eantica do local em que o cruzamento \u00e9 poss\u00edvel. Qual deve recuar, para que a manobra seja poss\u00edvel?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2792.jpg",
+    "answers": [
+      {
+        "text": "Eu porque vou a subir.",
+        "correct": true
+      },
+      {
+        "text": "O condutor que n\u00e3o tomar a iniciativa de avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "O outro condutor porque vem a descer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este local de estacionamento \u00e9:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2793.jpg",
+    "answers": [
+      {
+        "text": "Condicionado.",
+        "correct": true
+      },
+      {
+        "text": "Limitado.",
+        "correct": false
+      },
+      {
+        "text": "Proibido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este ve\u00edculo mostra sinais evidentes de abandono. Pode ser removido?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2794.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas o seu propriet\u00e1rio o pode fazer.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se estiver estacionado neste local h\u00e1 pelo menos 24 horas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se se mantiver neste local por tempo superior a 48 horas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estes ve\u00edculos encontram-se correctamente estacionados em segunda fila?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2795.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, o estacionamento em segunda fila \u00e9 proibido.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, salvo se n\u00e3o impedirem o acesso aos ve\u00edculos estacionados.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que n\u00e3o impe\u00e7am a sa\u00edda dos outros ve\u00edculos estacionados.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Estes ve\u00edculos est\u00e3o estacionados ilegalmente?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2796.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se permanecerem neste local mais de duas horas.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estou a chegar ao final da passagem estreita. Devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2797.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Fazer marcha atr\u00e1s porque o ve\u00edculo circula em miss\u00e3o urgente de socorro.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Estou a menos de 10 metros da passagem de n\u00edvel. Posso estacionar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2798.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, \u00e9 proibido estacionar a menos de 20 metros das passagens de n\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque \u00e9 proibido.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque s\u00f3 a menos de 8 metros da passagem de n\u00edvel \u00e9 proibido estacionar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Estou a menos de 5 metros do entroncamento. Posso parar ou estacionar ?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2799.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas logo ap\u00f3s o entroncamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Estou proibido de estacionar neste local se obrigar os ve\u00edculos a utilizar a parte da faixa de rodagem destinada ao sentido contr\u00e1rio?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2800.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 permitida se n\u00e3o causar perigo.",
+        "correct": false
+      },
+      {
+        "text": "Sim, salvo se a sinaliza\u00e7\u00e3o vertical n\u00e3o proibir o estacionamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estou proibido de estacionar sempre que os ve\u00edculos que circulam nesta via de tr\u00e2nsito tenham de utilizar a parte destinada ao sentido contr\u00e1rio para circular. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2801.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Fora das localidades \u00e9 proibido estacionar na faixa de rodagem.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2802.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Fora das localidades \u00e9 proibido estacionar na faixa de rodagem.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2803.jpg",
+    "answers": [
+      {
+        "text": "Certo",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Havendo boas condi\u00e7\u00f5es de visibilidade, onde \u00e9 que a paragem e o estacionamento s\u00e3o proibidos?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2804.jpg",
+    "answers": [
+      {
+        "text": "A menos de 30 metros de qualquer sinal de ced\u00eancia de passagem.",
+        "correct": false
+      },
+      {
+        "text": "A menos de 30 metros dos sinais de obriga\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Nas placas centrais das rotundas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Imediatamente a seguir ao entroncamento pretendo largar um passageiro. Devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2805.jpg",
+    "answers": [
+      {
+        "text": "Continuar, e seguir at\u00e9 um local onde o posso fazer.",
+        "correct": true
+      },
+      {
+        "text": "Sinalizar a paragem e realiz\u00e1-la o mais rapidamente poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar a paragem, com o indicador de mudan\u00e7a de direc\u00e7\u00e3o para a direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na auto-estrada em que circulo quais s\u00e3o as manobras proibidas?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2806.jpg",
+    "answers": [
+      {
+        "text": "Paragem, estacionamento, marcha atr\u00e1s e invers\u00e3o do sentido de marcha.",
+        "correct": true
+      },
+      {
+        "text": "S\u00f3 as de paragem e estacionamento.",
+        "correct": false
+      },
+      {
+        "text": "S\u00f3 as de paragem, de estacionamento e marcha atr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na ponte em que circulo posso parar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2807.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em caso algum.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que seja para largar um passageiro.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que utilize os quatro 'piscas' em simult\u00e2neo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na via em que circulo \u00e9 permitido parar ou estacionar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2808.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, \u00e9 proibido parar ou estacionar em qualquer circunst\u00e2ncia.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se a paragem ou estacionamento forem feitos na berma.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se parar ou estacionar num local destinado a esse fim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "N\u00e3o \u00e9 poss\u00edvel o cruzamento dos dois ve\u00edculos. Encontrando-se ambos a dist\u00e2ncia id\u00eantica do local em que podem cruzar, qual dos condutores \u00e9 obrigado a fazer marcha atr\u00e1s?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2809.jpg",
+    "answers": [
+      {
+        "text": "Eu, porque des\u00e7o.",
+        "correct": false
+      },
+      {
+        "text": "O condutor do ve\u00edculo que sobe.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "N\u00e3o sendo necess\u00e1rio recorrer \u00e0 marcha atr\u00e1s nesta via de forte inclina\u00e7\u00e3o, quem deve ceder a passagem?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2810.jpg",
+    "answers": [
+      {
+        "text": "Aquele que chegou primeiro ao tro\u00e7o.",
+        "correct": false
+      },
+      {
+        "text": "O meu ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "O ve\u00edculo pesado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "N\u00e3o sendo poss\u00edvel estacionar fora da faixa de rodagem, devo imobilizar o meu ve\u00edculo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2811.jpg",
+    "answers": [
+      {
+        "text": "Com as luzes de presen\u00e7a ligadas.",
+        "correct": false
+      },
+      {
+        "text": "O mais pr\u00f3ximo poss\u00edvel do eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "O mais pr\u00f3ximo poss\u00edvel do limite direito.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "N\u00e3o sendo poss\u00edvel o cruzamento entre os dois ve\u00edculos nesta via, e estando o meu mais pr\u00f3ximo do local onde podem cruzar, quem deve fazer marcha atr\u00e1s?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2812.jpg",
+    "answers": [
+      {
+        "text": "Eu.",
+        "correct": true
+      },
+      {
+        "text": "O condutor do outro ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nas auto-estradas \u00e9 permitido:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2813.jpg",
+    "answers": [
+      {
+        "text": "Mudar de direc\u00e7\u00e3o, parar, ultrapassar e utilizar as luzes de cruzamento.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de via de tr\u00e2nsito para efectuar manobras.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar, estacionar sobre a via e mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nas auto-estradas \u00e9 proibido parar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2814.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas \u00e9 proibido parar na berma.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, nos locais a esse fim destinados.",
+        "correct": true
+      },
+      {
+        "text": "Sim, apenas na faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nas passagens estreitas os ve\u00edculos dos bombeiros t\u00eam sempre prioridade.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2815.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nas pontes \u00e9 proibido:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2816.jpg",
+    "answers": [
+      {
+        "text": "Estacionar, sendo no entanto permitido parar.",
+        "correct": false
+      },
+      {
+        "text": "Parar e estacionar.",
+        "correct": true
+      },
+      {
+        "text": "Parar, sendo no entanto permitido estacionar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nas pontes o estacionamento \u00e9:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2817.jpg",
+    "answers": [
+      {
+        "text": "Condicionado.",
+        "correct": false
+      },
+      {
+        "text": "Limitado.",
+        "correct": false
+      },
+      {
+        "text": "Proibido.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nas rotundas a paragem \u00e9:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2818.jpg",
+    "answers": [
+      {
+        "text": "Desaconselhada.",
+        "correct": false
+      },
+      {
+        "text": "Permitida.",
+        "correct": false
+      },
+      {
+        "text": "Proibida.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nas rotundas posso parar e/ou estacionar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2819.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, ambas as manobras s\u00e3o proibidas.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, apenas posso parar.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas s\u00f3 nas rotundas fora das localidades.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta passagem estreita quem deve recuar para possibilitar o cruzamento dos ve\u00edculos?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2820.jpg",
+    "answers": [
+      {
+        "text": "Eu, porque estou mais pr\u00f3ximo do local em que o cruzamento \u00e9 poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "O outro condutor, porque chegou primeiro ao estreitamento da via.",
+        "correct": false
+      },
+      {
+        "text": "O outro condutor, porque vem a descer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta passagem estreita, devo ceder a passagem?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2821.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque chego primeiro \u00e0 passagem.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque circulo a maior velocidade.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque conduzo um ligeiro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta passagem estreita, devo ser eu a recuar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2822.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque estou mais longe do local em que o cruzamento \u00e9 poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque o outro ve\u00edculo \u00e9 um autom\u00f3vel pesado.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque estou mais perto do local em que o cruzamento \u00e9 poss\u00edvel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta passagem estreita, porque estou mais perto do local em que o cruzamento \u00e9 poss\u00edvel, devo ser eu a recuar.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2823.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta passagem estreita, quem deve ceder a passagem?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2824.jpg",
+    "answers": [
+      {
+        "text": "Eu, porque estou no in\u00edcio da passagem.",
+        "correct": false
+      },
+      {
+        "text": "Eu, porque o outro ve\u00edculo \u00e9 pesado.",
+        "correct": false
+      },
+      {
+        "text": "O condutor do pesado, porque chega depois \u00e0 passagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta passagem estreita, quem deve recuar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2825.jpg",
+    "answers": [
+      {
+        "text": "Eu, porque conduzo um autom\u00f3vel ligeiro.",
+        "correct": false
+      },
+      {
+        "text": "Eu, porque estou mais perto do local em que o cruzamento \u00e9 poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "O outro condutor, porque conduz um autom\u00f3vel pesado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o quem deve ceder a passagem?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2826.jpg",
+    "answers": [
+      {
+        "text": "Eu, porque cheguei depois a este tro\u00e7o.",
+        "correct": true
+      },
+      {
+        "text": "O outro condutor porque conduz um autom\u00f3vel pesado de mercadorias.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o em que o ve\u00edculo pesado est\u00e1 mais pr\u00f3ximo do local em que o cruzamento \u00e9 poss\u00edvel, devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2827.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que o outro condutor recue.",
+        "correct": true
+      },
+      {
+        "text": "Avan\u00e7ar de imediato.",
+        "correct": false
+      },
+      {
+        "text": "Fazer marcha atr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o torna-se necess\u00e1rio recorrer \u00e0 manobra de marcha atr\u00e1s. Quem deve recuar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2828.jpg",
+    "answers": [
+      {
+        "text": "Aquele que chegou depois ao local.",
+        "correct": false
+      },
+      {
+        "text": "Aquele que chegou primeiro ao tro\u00e7o.",
+        "correct": false
+      },
+      {
+        "text": "Aquele que estiver mais pr\u00f3ximo do local em que o cruzamento \u00e9 poss\u00edvel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, como devo proceder perante o ciclista a virar para a esquerda?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2829.jpg",
+    "answers": [
+      {
+        "text": "Aguardar a passagem do veloc\u00edpede e s\u00f3 depois avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Passar entre o veloc\u00edpede e o autom\u00f3vel.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar a via de tr\u00e2nsito da esquerda para prosseguir a marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2830.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar em primeiro lugar.",
+        "correct": false
+      },
+      {
+        "text": "Ceder a passagem.",
+        "correct": true
+      },
+      {
+        "text": "Parar obrigatoriamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2831.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que o autocarro retome a marcha.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar com recurso \u00e0 marcha atr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, em que as dist\u00e2ncias do local onde o cruzamento \u00e9 poss\u00edvel, s\u00e3o id\u00eanticas, devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2832.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que o outro recorra \u00e0 marcha atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar, perante o autom\u00f3vel pesado.",
+        "correct": false
+      },
+      {
+        "text": "Recuar, perante o autom\u00f3vel pesado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, em que cheguei em primeiro lugar ao local do estreitamento, devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2833.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Recuar e ceder a passagem.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros e avan\u00e7ar depois.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, estando o meu ve\u00edculo mais pr\u00f3ximo do local em que o cruzamento \u00e9 poss\u00edvel, quem deve recuar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2834.jpg",
+    "answers": [
+      {
+        "text": "Eu.",
+        "correct": true
+      },
+      {
+        "text": "O condutor do ve\u00edculo dos bombeiros.",
+        "correct": false
+      },
+      {
+        "text": "O condutor do ve\u00edculo que est\u00e1 a subir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, estou proibido de parar imediatamente antes da rotunda de que me aproximo?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2835.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a paragem s\u00f3 \u00e9 proibida dentro da rotunda.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, apenas o estacionamento \u00e9 proibido.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se a dist\u00e2ncia for inferior a 5 metros.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, o que devo fazer?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2836.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que um condutor me ceda a passagem.",
+        "correct": true
+      },
+      {
+        "text": "Avan\u00e7ar, interrompendo a fila de tr\u00e2nsito \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, o ve\u00edculo que transita em sentido contr\u00e1rio deve avan\u00e7ar primeiro porque:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2837.jpg",
+    "answers": [
+      {
+        "text": "Chegou primeiro \u00e0 passagem estreita.",
+        "correct": true
+      },
+      {
+        "text": "\u00c9 um autom\u00f3vel ligeiro.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 um ve\u00edculo de maiores dimens\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, quem deve avan\u00e7ar em primeiro lugar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2838.jpg",
+    "answers": [
+      {
+        "text": "Eu.",
+        "correct": true
+      },
+      {
+        "text": "Quem primeiro chegou ao local.",
+        "correct": false
+      },
+      {
+        "text": "Quem tiver de contornar o obst\u00e1culo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, quem deve recuar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2839.jpg",
+    "answers": [
+      {
+        "text": "Eu, porque conduzo um autom\u00f3vel ligeiro.",
+        "correct": false
+      },
+      {
+        "text": "Eu, porque estou mais pr\u00f3ximo do local onde o cruzamento \u00e9 poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "O condutor do pesado, porque est\u00e1 mais longe do local onde o cruzamento \u00e9 poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, quem passa em primeiro lugar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2840.jpg",
+    "answers": [
+      {
+        "text": "O meu ve\u00edculo, porque o autom\u00f3vel pesado p\u00e1ra para me ceder a passagem",
+        "correct": true
+      },
+      {
+        "text": "O ve\u00edculo pesado porque n\u00e3o tem o dever de ceder a passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, \u00e9 proibido parar ou estacionar a menos de 50 metros da curva.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2841.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas \u00e9 proibido parar.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta via de forte inclina\u00e7\u00e3o, quem deve ceder a passagem?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2842.jpg",
+    "answers": [
+      {
+        "text": "O meu ve\u00edculo porque \u00e9 um autom\u00f3vel ligeiro.",
+        "correct": false
+      },
+      {
+        "text": "O outro ve\u00edculo porque desce.",
+        "correct": true
+      },
+      {
+        "text": "O outro ve\u00edculo porque \u00e9 um autom\u00f3vel pesado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta via \u00e9 proibido:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2843.jpg",
+    "answers": [
+      {
+        "text": "Parar.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste cruzamento, qual deve ser o \u00faltimo ve\u00edculo a passar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2844.jpg",
+    "answers": [
+      {
+        "text": "O autom\u00f3vel \u00e0 minha direita, porque o sinal a isso o obriga.",
+        "correct": true
+      },
+      {
+        "text": "O veloc\u00edpede, porque n\u00e3o tem motor.",
+        "correct": false
+      },
+      {
+        "text": "O veloc\u00edpede, porque vai mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 permitido estacionar:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2845.jpg",
+    "answers": [
+      {
+        "text": "Do lado direito antes do primeiro sinal vertical.",
+        "correct": true
+      },
+      {
+        "text": "Do lado direito depois do segundo sinal vertical.",
+        "correct": false
+      },
+      {
+        "text": "Em qualquer dos lados.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local condicionado ao pagamento de taxa, ter\u00e1 estacionado abusivamente o condutor que:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2846.jpg",
+    "answers": [
+      {
+        "text": "Deixar ultrapassar uma hora para al\u00e9m do tempo pago.",
+        "correct": false
+      },
+      {
+        "text": "Estacionar o seu ve\u00edculo por tempo superior a 30 minutos.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o efectuar o pagamento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 permitido estacionar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2847.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 poss\u00edvel imobilizar o meu ve\u00edculo?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2848.jpg",
+    "answers": [
+      {
+        "text": "Sim, desde que ligue as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas na berma.",
+        "correct": false
+      },
+      {
+        "text": "Sim, na faixa de rodagem por circunst\u00e2ncias motivadas pela pr\u00f3pria circula\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 proibido estacionar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2849.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 proibido parar a menos de:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2850.jpg",
+    "answers": [
+      {
+        "text": "3 metros para a frente e 25m para tr\u00e1s do sinal indicativo da paragem de transporte colectivo de passageiros.",
+        "correct": false
+      },
+      {
+        "text": "5 metros para a frente e 25m para tr\u00e1s do sinal indicativo da paragem de transporte colectivo de passageiros.",
+        "correct": true
+      },
+      {
+        "text": "7 metros para a frente e 25m para tr\u00e1s do sinal indicativo da paragem de transporte colectivo de passageiros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso estacionar na faixa de rodagem.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2851.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso estacionar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2852.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a marca rodovi\u00e1ria n\u00e3o me permite.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que seja poss\u00edvel faz\u00ea-lo fora da faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso parar:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2853.jpg",
+    "answers": [
+      {
+        "text": "No lado direito, se poss\u00edvel fora da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "No lado esquerdo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local s\u00f3 \u00e9 poss\u00edvel estacionar fora da faixa de rodagem.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2854.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, \u00e9 permitido o estacionamento fora da faixa de rodagem?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2855.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, em caso de avaria das luzes indicadoras de mudan\u00e7a de direc\u00e7\u00e3o devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2856.jpg",
+    "answers": [
+      {
+        "text": "Fazer os sinais regulamentares com o bra\u00e7o.",
+        "correct": true
+      },
+      {
+        "text": "Ligar os m\u00e9dios.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar as luzes de travagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, o estacionamento \u00e9 condicionado a:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2857.jpg",
+    "answers": [
+      {
+        "text": "Idosos.",
+        "correct": false
+      },
+      {
+        "text": "Pessoas com defici\u00eancia.",
+        "correct": true
+      },
+      {
+        "text": "Todos os ve\u00edculos que transportem crian\u00e7as de colo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, posso estacionar na via de tr\u00e2nsito?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2858.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque circulo dentro da localidade.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se ligar as luzes de perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, posso parar na faixa de rodagem?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2859.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o circulem ve\u00edculos \u00e0 minha retaguarda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que seja uma imobiliza\u00e7\u00e3o r\u00e1pida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, se o meu ve\u00edculo avariar devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2860.jpg",
+    "answers": [
+      {
+        "text": "Mant\u00ea-lo na faixa de rodagem com as luzes de m\u00e9dios acesas.",
+        "correct": false
+      },
+      {
+        "text": "Mant\u00ea-lo na faixa de rodagem com as luzes de perigo ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Retir\u00e1-lo da faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, se tiver uma avaria no meu ve\u00edculo terei de o imobilizar e sinalizar:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2861.jpg",
+    "answers": [
+      {
+        "text": "No eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "O mais \u00e0 direita poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "O mais \u00e0 esquerda poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste parque \u00e9 permitido o acesso:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2862.jpg",
+    "answers": [
+      {
+        "text": "A motociclos.",
+        "correct": false
+      },
+      {
+        "text": "A todos e quaisquer ve\u00edculos, excepto motociclos simples.",
+        "correct": true
+      },
+      {
+        "text": "S\u00f3 a veloc\u00edpedes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No estacionamento com parqu\u00edmetros, o tempo de estacionamento autorizado depende:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2863.jpg",
+    "answers": [
+      {
+        "text": "Da dimens\u00e3o do ve\u00edculo estacionado.",
+        "correct": false
+      },
+      {
+        "text": "Do pagamento da taxa de utiliza\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Do tipo de ve\u00edculo estacionado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro estou proibido de:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2864.jpg",
+    "answers": [
+      {
+        "text": "Estacionar, mas posso parar desde que seja por pouco tempo.",
+        "correct": false
+      },
+      {
+        "text": "Parar e estacionar.",
+        "correct": true
+      },
+      {
+        "text": "Parar mas posso estacionar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local em que vou transitar \u00e9 proibido estacionar:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2865.jpg",
+    "answers": [
+      {
+        "text": "Por circular fora de uma localidade.",
+        "correct": false
+      },
+      {
+        "text": "Por ser um t\u00fanel.",
+        "correct": true
+      },
+      {
+        "text": "Se n\u00e3o ligar as luzes de cruzamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local onde me encontro posso imobilizar o meu ve\u00edculo para fazer uma descarga?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2866.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, neste local \u00e9 proibido parar e estacionar.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque circulo numa localidade.",
+        "correct": false
+      },
+      {
+        "text": "Sim, apenas \u00e9 proibido o estacionamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos locais de visibilidade insuficiente:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2867.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso parar nem estacionar.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o posso parar, mas posso estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Posso estacionar, mas n\u00e3o devo parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos t\u00faneis \u00e9 permitido:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2868.jpg",
+    "answers": [
+      {
+        "text": "Estacionar e parar.",
+        "correct": false
+      },
+      {
+        "text": "Imobilizar o ve\u00edculo para a entrada de passageiros, desde que o condutor esteja pronto para retomar a marcha.",
+        "correct": false
+      },
+      {
+        "text": "Imobilizar o ve\u00edculo por circunst\u00e2ncias pr\u00f3prias da circula\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nos t\u00faneis \u00e9 proibido:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2869.jpg",
+    "answers": [
+      {
+        "text": "Estacionar mas n\u00e3o parar.",
+        "correct": false
+      },
+      {
+        "text": "Parar e estacionar.",
+        "correct": true
+      },
+      {
+        "text": "Parar mas n\u00e3o estacionar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Numa zona assinalada pelo sinal, posso estacionar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2870.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque n\u00e3o posso estacionar nessa zona.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o haja ve\u00edculos estacionados.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se conduzir um autom\u00f3vel ligeiro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O autom\u00f3vel ligeiro de mercadorias est\u00e1 correctamente estacionado?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2871.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, o estacionamento deve fazer-se sempre fora da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque est\u00e1 o mais pr\u00f3ximo poss\u00edvel do respectivo limite direito da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O C\u00f3digo da Estrada permite-me parar ou estacionar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2872.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, estou proibido de parar ou estacionar neste local.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, sendo apenas permitida a paragem e fora da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida mas apenas fora da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do autom\u00f3vel ligeiro comporta-se correctamente?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2873.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque est\u00e1 a estacionar do lado esquerdo.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque no local \u00e9 permitido o estacionamento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor do pesado, deve ceder-me a passagem porque chega depois a esta passagem estreita.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2874.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo estacionado em cima do passeio comete uma infrac\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2875.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque n\u00e3o constitui embara\u00e7o para os restantes utentes.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se n\u00e3o estiver pronto a retomar a marcha.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor pode estacionar sobre a guia?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2876.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O estacionamento abusivo do ve\u00edculo pode dar origem:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2877.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 apreens\u00e3o do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0 apreens\u00e3o dos documentos do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0 sua remo\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O meu veiculo e o ve\u00edculo pesado encontram-se a dist\u00e2ncias id\u00eanticas do local onde o cruzamento \u00e9 poss\u00edvel. Qual deve recuar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2878.jpg",
+    "answers": [
+      {
+        "text": "O meu ve\u00edculo por ser ligeiro.",
+        "correct": true
+      },
+      {
+        "text": "O outro ve\u00edculo por ser pesado.",
+        "correct": false
+      },
+      {
+        "text": "O que tomar a iniciativa de recuar primeiro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O n\u00e3o pagamento das taxas correspondentes a 5 dias de utiliza\u00e7\u00e3o de um parque implica que se considera o ve\u00edculo em:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2879.jpg",
+    "answers": [
+      {
+        "text": "Estacionamento abusivo",
+        "correct": true
+      },
+      {
+        "text": "Estacionamento proibido",
+        "correct": false
+      },
+      {
+        "text": "Paragem proibida",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que deve fazer o condutor do ve\u00edculo pesado?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2880.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Ceder a passagem.",
+        "correct": true
+      },
+      {
+        "text": "Recuar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que deve fazer o condutor do ve\u00edculo que se encontra \u00e0 minha direita antes de entrar no cruzamento?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2881.jpg",
+    "answers": [
+      {
+        "text": "Parar e passar depois dos outros dois ve\u00edculos.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir a velocidade e cumprir a regra geral da ced\u00eancia de passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o, em que as dist\u00e2ncias do local em que o cruzamento \u00e9 poss\u00edvel s\u00e3o id\u00eanticas?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2882.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Parar, porque fui o primeiro condutor a chegar \u00e0 passagem estreita.",
+        "correct": false
+      },
+      {
+        "text": "Recuar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2883.jpg",
+    "answers": [
+      {
+        "text": "Aguardar a passagem do outro condutor.",
+        "correct": true
+      },
+      {
+        "text": "Avan\u00e7ar para tentar cruzar-me em simult\u00e2neo.",
+        "correct": false
+      },
+      {
+        "text": "Buzinar para que o outro condutor recue, uma vez que tenho prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2884.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Parar na passagem estreita.",
+        "correct": false
+      },
+      {
+        "text": "Recuar na passagem estreita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo de matr\u00edcula 08-08-AM pode ser removido, porque:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2885.jpg",
+    "answers": [
+      {
+        "text": "Est\u00e1 parado em segunda fila.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o tem as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Se encontra estacionado em segunda fila na faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo dos bombeiros est\u00e1 mais pr\u00f3ximo do local em que o cruzamento \u00e9 poss\u00edvel. Quem deve recuar?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2886.jpg",
+    "answers": [
+      {
+        "text": "O meu ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "O que for de menores dimens\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "O ve\u00edculo dos bombeiros.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo em miss\u00e3o urgente de socorro deve:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2887.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar em simult\u00e2neo.",
+        "correct": false
+      },
+      {
+        "text": "Fazer marcha atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Permitir que eu termine a passagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo est\u00e1 parado correctamente?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2888.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque n\u00e3o pode parar, nem estacionar nesse local.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque nesse local pode estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque pode parar e estacionar nesse local.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo estacionado em cima do passeio, pode ser apreendido?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2889.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o pode ser apreendido nem removido, se estiver estacionado h\u00e1 menos de duas horas.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o pode ser apreendido, mas pode ser removido.",
+        "correct": true
+      },
+      {
+        "text": "Sim, pela entidade competente, pelo facto de estar estacionado indevidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo estacionado incorre numa infrac\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2890.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque neste local \u00e9 permitido o estacionamento por tempo indeterminado.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se permanecer no mesmo local por per\u00edodo superior a 30 dias.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo estacionado, pode ser removido?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2891.jpg",
+    "answers": [
+      {
+        "text": "Sim, se continuar no mesmo local, por 10 dias.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se continuar no mesmo local, por 15 dias.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se continuar no mesmo local, por 30 dias.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo imediatamente \u00e0 minha frente est\u00e1 parado para entrar um passageiro. Pode faz\u00ea-lo?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2892.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo preto comete uma contra-ordena\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2893.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se estiver estacionado.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se estiver parado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo que est\u00e1 estacionado em cima do passeio pode ser imediatamente removido?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2894.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, o facto de estar em cima do passeio n\u00e3o \u00e9 motivo para remo\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se estiver estacionado h\u00e1 mais de duas horas.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo que est\u00e1 parado junto do passeio est\u00e1 posicionado:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2895.jpg",
+    "answers": [
+      {
+        "text": "Correctamente, porque est\u00e3o a entrar passageiros.",
+        "correct": false
+      },
+      {
+        "text": "Incorrectamente, porque \u00e9 proibida a paragem e o estacionamento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo que transita em sentido contr\u00e1rio, deve:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2896.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Ceder a passagem.",
+        "correct": false
+      },
+      {
+        "text": "Se necess\u00e1rio recorrer \u00e0 manobra de marcha atr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os condutores dos ve\u00edculos estacionados em segunda fila:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2897.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o praticam qualquer infrac\u00e7\u00e3o porque t\u00eam as luzes de perigo ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Praticam uma contra-ordena\u00e7\u00e3o grave.",
+        "correct": false
+      },
+      {
+        "text": "Praticam uma contra-ordena\u00e7\u00e3o leve.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos bloqueados:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2898.jpg",
+    "answers": [
+      {
+        "text": "Podem n\u00e3o ser rebocados.",
+        "correct": true
+      },
+      {
+        "text": "S\u00e3o sempre apreendidos.",
+        "correct": false
+      },
+      {
+        "text": "S\u00e3o sempre rebocados.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos estacionados abusivamente :",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2899.jpg",
+    "answers": [
+      {
+        "text": "Podem ser removidos pelas entidades competentes.",
+        "correct": true
+      },
+      {
+        "text": "S\u00e3o sempre apreendidos pelas entidades competentes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos estacionados em segunda fila constituem perturba\u00e7\u00e3o para o tr\u00e2nsito, consequentemente:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2900.jpg",
+    "answers": [
+      {
+        "text": "Os condutores s\u00e3o autuados, mas os ve\u00edculos n\u00e3o s\u00e3o removidos.",
+        "correct": false
+      },
+      {
+        "text": "Os ve\u00edculos s\u00e3o removidos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos pesados imobilizados neste local cometem uma infrac\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2901.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, se a sua imobiliza\u00e7\u00e3o constituir apenas paragem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se a sua imobiliza\u00e7\u00e3o constituir estacionamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos que se encontram estacionados neste local, est\u00e3o a cometer uma infrac\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2902.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas o ve\u00edculo de mercadorias.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para passar por este ve\u00edculo, \u00e9 mais seguro:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2903.jpg",
+    "answers": [
+      {
+        "text": "Aguardar a passagem do ve\u00edculo que circula em sentido contr\u00e1rio e s\u00f3 ent\u00e3o efectuar a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Efectuar a manobra o mais rapidamente poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros e aguardar que o condutor inicie a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para ver e ser visto devo:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2904.jpg",
+    "answers": [
+      {
+        "text": "Ligar os 'm\u00e1ximos'",
+        "correct": false
+      },
+      {
+        "text": "Ligar os 'm\u00e9dios' e as luzes de nevoeiro.",
+        "correct": true
+      },
+      {
+        "text": "Ligar os 'm\u00ednimos'.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal estou proibido de:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2905.jpg",
+    "answers": [
+      {
+        "text": "Parar a menos de 15 metros da paragem do el\u00e9ctrico.",
+        "correct": false
+      },
+      {
+        "text": "Parar a menos de 20 metros da paragem do el\u00e9ctrico.",
+        "correct": false
+      },
+      {
+        "text": "Parar a menos de 6 metros para tr\u00e1s do sinal.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pode ser bloqueado o ve\u00edculo que se encontre em local de estacionamento limitado, para al\u00e9m do tempo permitido mais de:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2906.jpg",
+    "answers": [
+      {
+        "text": "1 hora.",
+        "correct": false
+      },
+      {
+        "text": "2 horas.",
+        "correct": true
+      },
+      {
+        "text": "30 minutos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar a 5 metros da bomba de combust\u00edvel?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2907.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, s\u00f3 posso realizar a manobra a, pelo menos, 10 metros da bomba.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que tome as precau\u00e7\u00f5es necess\u00e1rias \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se o fizer a partir das 19 horas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar \u00e0 noite nesta via de tr\u00e2nsito?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2908.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que ligue as luzes de cruzamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar a tr\u00eas metros para a frente do sinal?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2909.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar em cima do passeio?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2910.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque apenas \u00e9 permitido parar.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se demorar pouco tempo e ligar as luzes de perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar em segunda fila imediatamente a seguir \u00e0 passagem de pe\u00f5es?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2911.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, n\u00e3o posso estacionar.",
+        "correct": true
+      },
+      {
+        "text": "Sim, do lado direito da via.",
+        "correct": false
+      },
+      {
+        "text": "Sim, do lado esquerdo da via.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar em segunda fila?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2912.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, n\u00e3o posso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que deixe ligados os quatro 'piscas'.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que estacione por pouco tempo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar em segunda fila?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2913.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, o estacionamento \u00e9 proibido.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o impe\u00e7a o tr\u00e2nsito de ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que n\u00e3o obrigue os condutores a utilizar a outra faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar em segunda fila?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2914.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, se for por mais do que 5 minutos.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que por breves momentos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar junto \u00e0 marca rodovi\u00e1ria amarela.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2915.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, para cargas e descargas.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar na faixa de rodagem?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2916.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar neste local:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2917.jpg",
+    "answers": [
+      {
+        "text": "Fora da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Na faixa de rodagem e ligar os '4 piscas' em simult\u00e2neo.",
+        "correct": false
+      },
+      {
+        "text": "O mais \u00e0 direita da faixa de rodagem e ligar as luzes de presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2918.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, neste local s\u00f3 posso parar.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que o fa\u00e7a o mais \u00e0 direita poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2919.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, \u00e9 proibido estacionar a menos de 20 metros das bombas de combust\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, excepto se estacionar a mais de 3 metros da bomba de combust\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que estacione a, pelo menos, 5 metros da bomba de combust\u00edvel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2920.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, \u00e9 proibido estacionar em todas as curvas.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, por breves instantes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2921.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, por que h\u00e1 pe\u00f5es a fazer a travessia da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque \u00e9 proibido estacionar a menos de 5 metros para a frente e 25 metros para tr\u00e1s do sinal indicativo de paragem do transporte colectivo de passageiros.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o embarace o tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2922.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o exista sinaliza\u00e7\u00e3o em contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar no cruzamento?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2923.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca posso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que deixe ligados os quatro 'piscas' em simult\u00e2neo.",
+        "correct": false
+      },
+      {
+        "text": "Sim, visto n\u00e3o existir sinaliza\u00e7\u00e3o que pro\u00edba a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar o autom\u00f3vel na ponte em que circulo?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2924.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nas pontes o estacionamento \u00e9 proibido.",
+        "correct": true
+      },
+      {
+        "text": "Sim, apesar de nas pontes o estacionamento n\u00e3o ser aconselhado.",
+        "correct": false
+      },
+      {
+        "text": "Sim, muito embora nas pontes o estacionamento seja limitado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar imediatamente a seguir ao sinal?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2925.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar junto ao sinal indicativo da paragem de ve\u00edculos de transporte colectivo de passageiros?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2926.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas antes da passagem de pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas fora da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2927.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, pelo tempo m\u00ednimo necess\u00e1rio para receber ou largar passageiros.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se n\u00e3o circularem ve\u00edculos \u00e0 minha retaguarda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar neste local?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2928.jpg",
+    "answers": [
+      {
+        "text": "Na faixa de rodagem \u00e9 proibido, sendo no entanto permitido na berma.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, por breves instantes na berma.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar no local em que me encontro?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2929.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o comprometa a seguran\u00e7a do tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sinalize a manobra com anteced\u00eancia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar no local exacto em que me encontro?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2930.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se n\u00e3o comprometer a seguran\u00e7a dos outros utentes.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se sinalizar devidamente a minha inten\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar o meu ve\u00edculo nesta ponte?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2931.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida desde que se trate de uma imobiliza\u00e7\u00e3o r\u00e1pida do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre que n\u00e3o embarace o tr\u00e2nsito nem comprometa a seguran\u00e7a dos outros utentes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar ou estacionar na proximidade dos sinais luminosos?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2932.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida a menos de 20 metros se a altura dos ve\u00edculos, incluindo a respectiva carga, encobrir os sinais luminosos.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, a manobra \u00e9 sempre proibida a menos de 25 metros antes dos sinais luminosos.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas sempre antes dos sinais e a uma dist\u00e2ncia n\u00e3o inferior a 5 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar ou estacionar no local em que me encontro, apesar de me encontrar a menos de 5 m do cruzamento?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2933.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, apenas posso estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas antes do cruzamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar sobre esta ponte?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2934.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em caso algum.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque o meu ve\u00edculo parado fica a menos de tr\u00eas metros da linha cont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sinalize correctamente a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo estacionar. Devo realizar a manobra:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2935.jpg",
+    "answers": [
+      {
+        "text": "Junto ao passeio, paralelamente \u00e0 via.",
+        "correct": false
+      },
+      {
+        "text": "Sobre o passeio, 'em espinha'.",
+        "correct": true
+      },
+      {
+        "text": "Sobre o passeio, paralelamente \u00e0 via.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quem deve ceder a passagem?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2936.jpg",
+    "answers": [
+      {
+        "text": "Eu.",
+        "correct": false
+      },
+      {
+        "text": "O condutor do ve\u00edculo vermelho, por n\u00e3o ter ainda chegado \u00e0 zona estreita.",
+        "correct": true
+      },
+      {
+        "text": "O que circular a maior velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quem deve recorrer \u00e0 manobra de marcha atr\u00e1s, sabendo que as dist\u00e2ncias em que \u00e9 poss\u00edvel o cruzamento s\u00e3o id\u00eanticas?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2937.jpg",
+    "answers": [
+      {
+        "text": "Eu, porque conduzo um autom\u00f3vel ligeiro.",
+        "correct": true
+      },
+      {
+        "text": "O condutor do outro ve\u00edculo, porque \u00e9 um autom\u00f3vel pesado.",
+        "correct": false
+      },
+      {
+        "text": "O condutor do ve\u00edculo pesado porque est\u00e1 a subir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se estacionar impedindo a sa\u00edda dos ve\u00edculos estacionados \u00e0 minha direita, cometo uma infrac\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2938.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, desde que deixe as luzes de perigo ligadas.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se estacionar o meu ve\u00edculo na berma da auto-estrada ele pode ser removido?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2939.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se mostrar sinais evidentes de abandono.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se o ve\u00edculo apresentar sinais evidentes de abandono, ser\u00e1 considerado estacionamento abusivo, se estiver no mesmo local por tempo superior a:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2940.jpg",
+    "answers": [
+      {
+        "text": "12 horas.",
+        "correct": false
+      },
+      {
+        "text": "24 horas.",
+        "correct": false
+      },
+      {
+        "text": "48 horas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se um ve\u00edculo estiver estacionado indevidamente, pode ser bloqueado?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2941.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, s\u00f3 pode ser bloqueado por raz\u00f5es de seguran\u00e7a nacional.",
+        "correct": false
+      },
+      {
+        "text": "Sim, por tempo ilimitado.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sempre que se verifique uma grande intensidade de tr\u00e2nsito o estacionamento \u00e9 proibido.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2942.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sendo imposs\u00edvel o cruzamento entre dois ve\u00edculos que se encontram \u00e0 mesma dist\u00e2ncia do local onde se poder\u00e3o cruzar, deve recuar qualquer um deles perante um conjunto de ve\u00edculos.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2943.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Todas as contra-ordena\u00e7\u00f5es praticadas em auto-estrada s\u00e3o classificadas como muito graves?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2944.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a paragem \u00e9 considerada uma contra-ordena\u00e7\u00e3o leve.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, o estacionamento na faixa de rodagem \u00e9 considerado uma contra-ordena\u00e7\u00e3o grave.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Todas as marcas rodovi\u00e1rias de cor amarela t\u00eam car\u00e1cter tempor\u00e1rio.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2945.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Todos os ve\u00edculos que estejam impedidos de seguir a marcha, por avaria, s\u00e3o obrigados a estar sinalizados com sinal de pr\u00e9-sinaliza\u00e7\u00e3o?",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2946.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a coloca\u00e7\u00e3o do tri\u00e2ngulo apenas \u00e9 obrigat\u00f3ria fora das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Sim, todos.",
+        "correct": false
+      },
+      {
+        "text": "Todos os ve\u00edculos a motor, salvo os dotados de apenas duas ou tr\u00eas rodas, os motocultivadores e os quadriciclos sem caixa",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Um condutor ao circular nesta via p\u00fablica deve saber que a paragem e o estacionamento nunca s\u00e3o permitidos, salvo nos locais especialmente destinados a esse fim.",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2947.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Um dos motivos para o bloqueamento ou remo\u00e7\u00e3o de ve\u00edculos, \u00e9:",
+    "image": "images/paragem-estacionamento-cruzamento-veiculos_2948.jpg",
+    "answers": [
+      {
+        "text": "A paragem em cima do passeio.",
+        "correct": false
+      },
+      {
+        "text": "Estacionar de forma a constituir perturba\u00e7\u00e3o para o tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Estacionar dentro das localidades.",
+        "correct": false
+      }
+    ]
+  }
+]

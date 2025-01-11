@@ -1,0 +1,5446 @@
+[
+  {
+    "question": "A manobra de invers\u00e3o do sentido de marcha \u00e9 permitida neste local?",
+    "image": "images/outras-manobras_2949.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a sinaliza\u00e7\u00e3o existente na via n\u00e3o me permite efectuar a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a sinaliza\u00e7\u00e3o existente na via permite-me efectuar a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, antes da curva e do sinal de perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de invers\u00e3o do sentido de marcha \u00e9 permitida nos t\u00faneis que tenham mais de uma via de tr\u00e2nsito.",
+    "image": "images/outras-manobras_2950.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": true
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de invers\u00e3o do sentido de marcha \u00e9 proibida em todos os t\u00faneis?",
+    "image": "images/outras-manobras_2951.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas nos t\u00faneis de visibilidade reduzida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a manobra \u00e9 sempre proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, excepto nos t\u00faneis com mais de uma via de tr\u00e2nsito no mesmo sentido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de invers\u00e3o do sentido de marcha \u00e9 proibida:",
+    "image": "images/outras-manobras_2952.jpg",
+    "answers": [
+      {
+        "text": "Apenas nos entroncamentos de visibilidade reduzida.",
+        "correct": true
+      },
+      {
+        "text": "Em todos os entroncamentos.",
+        "correct": false
+      },
+      {
+        "text": "\u00danica e exclusivamente nos cruzamentos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de invers\u00e3o do sentido de marcha \u00e9 sempre proibida nas lombas?",
+    "image": "images/outras-manobras_2953.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, salvo se existirem duas ou mais vias de tr\u00e2nsito no mesmo sentido.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A manobra de invers\u00e3o do sentido de marcha \u00e9 sempre proibida numa passagem de n\u00edvel?",
+    "image": "images/outras-manobras_2954.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, se for utilizada como manobra auxiliar ou de recurso.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A manobra de invers\u00e3o do sentido de marcha numa ponte \u00e9 sempre proibida. Concorda com a afirma\u00e7\u00e3o?",
+    "image": "images/outras-manobras_2955.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de invers\u00e3o do sentido de marcha \u00e9 permitida nas pontes que, pela sua largura ou outras caracter\u00edsticas, seja apropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a manobra de invers\u00e3o do sentido de marcha \u00e9 sempre proibida nas pontes.",
+        "correct": true
+      },
+      {
+        "text": "Sim, excepto nas pontes com mais de uma via de tr\u00e2nsito no mesmo sentido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de marcha atr\u00e1s deve ser realizada:",
+    "image": "images/outras-manobras_2956.jpg",
+    "answers": [
+      {
+        "text": "No maior trajecto poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "No menor trajecto poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "No trajecto que o condutor considerar necess\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de marcha atr\u00e1s deve ser utilizada como manobra de recurso e executada:",
+    "image": "images/outras-manobras_2957.jpg",
+    "answers": [
+      {
+        "text": "Lentamente e no maior trajecto poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Lentamente.",
+        "correct": true
+      },
+      {
+        "text": "Rapidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de marcha atr\u00e1s \u00e9 permitida neste local?",
+    "image": "images/outras-manobras_2958.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 sempre proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas como manobra auxiliar e no menor trajecto poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se for necess\u00e1rio recuar at\u00e9 ao local onde se encontra o telefone de emerg\u00eancia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de marcha atr\u00e1s \u00e9 proibida em todas as curvas. Concorda com a afirma\u00e7\u00e3o?",
+    "image": "images/outras-manobras_2959.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida nas curvas de visibilidade reduzida excepto se a via, pela sua largura, for apropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida nas curvas de visibilidade reduzida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a manobra \u00e9 proibida em todas as curvas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de marcha atr\u00e1s \u00e9 proibida em todos os entroncamentos. Concorda com a afirma\u00e7\u00e3o?",
+    "image": "images/outras-manobras_2960.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a marcha atr\u00e1s \u00e9 proibida em todos os entroncamentos de visibilidade reduzida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a marcha atr\u00e1s \u00e9 proibida em todos os entroncamentos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de marcha atr\u00e1s \u00e9 proibida nos t\u00faneis.",
+    "image": "images/outras-manobras_2961.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A manobra de marcha atr\u00e1s nas vias fora das localidades apenas \u00e9 permitida como manobra auxiliar ou de recurso. Concorda com a afirma\u00e7\u00e3o?",
+    "image": "images/outras-manobras_2962.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A manobra de marcha atr\u00e1s:",
+    "image": "images/outras-manobras_2963.jpg",
+    "answers": [
+      {
+        "text": "Deve efectuar-se rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Deve efectuar-se sempre que se verifique grande intensidade de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 permitida como manobra de recurso.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A manobra de mudan\u00e7a de direc\u00e7\u00e3o \u00e0 direita deve ser executada:",
+    "image": "images/outras-manobras_2964.jpg",
+    "answers": [
+      {
+        "text": "No maior trajecto poss\u00edvel, desde que tenha espa\u00e7o dispon\u00edvel na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Ocupando com a devida anteced\u00eancia o eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Respeitando a posi\u00e7\u00e3o de marcha e no trajecto mais curto.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A manobra de mudan\u00e7a de direc\u00e7\u00e3o \u00e0 direita deve ser realizada:",
+    "image": "images/outras-manobras_2965.jpg",
+    "answers": [
+      {
+        "text": "No trajecto mais curto.",
+        "correct": true
+      },
+      {
+        "text": "No trajecto mais longo.",
+        "correct": false
+      },
+      {
+        "text": "Pelo eixo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de ultrapassagem \u00e9 permitida neste local?",
+    "image": "images/outras-manobras_2966.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque n\u00e3o h\u00e1 sinaliza\u00e7\u00e3o vertical que pro\u00edba a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque n\u00e3o h\u00e1 tr\u00e2nsito em sentido contr\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de ultrapassagem \u00e9 proibida imediatamente antes dos entroncamentos?",
+    "image": "images/outras-manobras_2967.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se a visibilidade for reduzida.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria que se encontra \u00e0 minha esquerda n\u00e3o me permite realizar a manobra de :",
+    "image": "images/outras-manobras_2968.jpg",
+    "answers": [
+      {
+        "text": "Invers\u00e3o do sentido de marcha.",
+        "correct": true
+      },
+      {
+        "text": "Marcha atr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A marcha atr\u00e1s \u00e9 uma manobra de recurso, que n\u00e3o deve ser executada:",
+    "image": "images/outras-manobras_2969.jpg",
+    "answers": [
+      {
+        "text": "A uma velocidade reduzida.",
+        "correct": false
+      },
+      {
+        "text": "Nas vias de sentido \u00fanico.",
+        "correct": false
+      },
+      {
+        "text": "Nos locais com muita intensidade de tr\u00e2nsito.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A marcha atr\u00e1s pode ser considerada uma manobra de recurso?",
+    "image": "images/outras-manobras_2970.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A mudan\u00e7a de direc\u00e7\u00e3o \u00e0 direita:",
+    "image": "images/outras-manobras_2971.jpg",
+    "answers": [
+      {
+        "text": "Deve ser executada o mais \u00e0 direita poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "\u00c9 proibida neste local.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o deve ser executada pelo ve\u00edculo que circula \u00e0 minha frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A mudan\u00e7a de direc\u00e7\u00e3o para a direita, deve ser realizada:",
+    "image": "images/outras-manobras_2972.jpg",
+    "answers": [
+      {
+        "text": "No trajecto mais curto, junto ao limite direito da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Pelo lado direito da faixa de rodagem, independentemente do trajecto.",
+        "correct": false
+      },
+      {
+        "text": "Pelo lado esquerdo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A que velocidade devo fazer marcha atr\u00e1s?",
+    "image": "images/outras-manobras_2973.jpg",
+    "answers": [
+      {
+        "text": "Lentamente e com precau\u00e7\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Nunca a mais de 10 Km/h.",
+        "correct": false
+      },
+      {
+        "text": "O mais r\u00e1pido poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A realiza\u00e7\u00e3o da manobra de invers\u00e3o do sentido de marcha \u00e9 permitida neste local?",
+    "image": "images/outras-manobras_2974.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida neste local.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a faixa de rodagem encontra-se livre na extens\u00e3o e largura necess\u00e1rias \u00e0 realiza\u00e7\u00e3o da manobra com seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Sim, devendo aproximar-me o mais poss\u00edvel do limite direito da faixa de rodagem e efectuar a manobra no trajecto mais seguro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o existente nesta via de tr\u00e2nsito permite-me inverter o sentido de marcha?",
+    "image": "images/outras-manobras_2975.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a linha cont\u00ednua proibe apenas a manobra de ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A via de tr\u00e2nsito \u00e0 minha esquerda pode ser utilizada por condutores que:",
+    "image": "images/outras-manobras_2976.jpg",
+    "answers": [
+      {
+        "text": "Me pretendam ultrapassar.",
+        "correct": false
+      },
+      {
+        "text": "Queiram mudar de direc\u00e7\u00e3o \u00e0 esquerda, assinalando adequadamente a sua inten\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A via de tr\u00e2nsito \u00e0 minha esquerda:",
+    "image": "images/outras-manobras_2977.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 destinada aos condutores que pretendem mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": true
+      },
+      {
+        "text": "\u00c9 uma via de abrandamento.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 uma via de acelera\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Antes de iniciar a manobra de marcha atr\u00e1s \u00e9 necess\u00e1rio verificar:",
+    "image": "images/outras-manobras_2978.jpg",
+    "answers": [
+      {
+        "text": "Quantos sentidos tem a via de tr\u00e2nsito em que circulo.",
+        "correct": false
+      },
+      {
+        "text": "Se a visibilidade \u00e9 suficiente.",
+        "correct": true
+      },
+      {
+        "text": "Se \u00e9 poss\u00edvel ou n\u00e3o inverter o sentido de marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Antes de iniciar a manobra de mudan\u00e7a de direc\u00e7\u00e3o para a esquerda, devo assegurar-me:",
+    "image": "images/outras-manobras_2979.jpg",
+    "answers": [
+      {
+        "text": "Que a manobra seja efectuada \u00e0 maior velocidade poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Que a manobra seja efectuada o mais poss\u00edvel \u00e0 esquerda da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Que dela n\u00e3o resulte perigo ou embara\u00e7o para o tr\u00e2nsito.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Antes de realizar qualquer manobra, devo ter em aten\u00e7\u00e3o as condi\u00e7\u00f5es de visibilidade.",
+    "image": "images/outras-manobras_2980.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta ponte estou proibido de:",
+    "image": "images/outras-manobras_2981.jpg",
+    "answers": [
+      {
+        "text": "Circular com velocidade moderada.",
+        "correct": false
+      },
+      {
+        "text": "Circular o mais pr\u00f3ximo poss\u00edvel do passeio.",
+        "correct": false
+      },
+      {
+        "text": "Efectuar a manobra de marcha atr\u00e1s.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta ponte, nunca posso inverter o sentido de marcha. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/outras-manobras_2982.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 permitida se n\u00e3o houver intensidade de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, a manobra \u00e9 poss\u00edvel se o ve\u00edculo que circula em sentido contr\u00e1rio parar.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a manobra \u00e9 proibida.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta via de tr\u00e2nsito devo saber que:",
+    "image": "images/outras-manobras_2983.jpg",
+    "answers": [
+      {
+        "text": "A manobra de marcha atr\u00e1s \u00e9 permitida nas lombas, desde que, seja efectuada como manobra de recurso e no menor trajecto poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "A manobra de marcha atr\u00e1s \u00e9 permitida neste local em virtude das marcas rodovi\u00e1rias.",
+        "correct": false
+      },
+      {
+        "text": "A manobra de marcha atr\u00e1s \u00e9 proibida nas lombas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta via de tr\u00e2nsito e perante a sinaliza\u00e7\u00e3o existente devo saber que:",
+    "image": "images/outras-manobras_2984.jpg",
+    "answers": [
+      {
+        "text": "Posso efectuar a manobra de invers\u00e3o do sentido de marcha desde que nunca cause perigo ou embara\u00e7o para o tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Posso efectuar a manobra de invers\u00e3o do sentido de marcha lentamente, ainda que cause algum embara\u00e7o injustificado aos restantes utentes da via, mas desde que nunca cause qualquer perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local estou obrigado a moderar especialmente a velocidade do meu ve\u00edculo.",
+    "image": "images/outras-manobras_2985.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local um condutor deve saber que:",
+    "image": "images/outras-manobras_2986.jpg",
+    "answers": [
+      {
+        "text": "Apenas pode inverter o sentido de marcha no pr\u00f3ximo entroncamento.",
+        "correct": false
+      },
+      {
+        "text": "Est\u00e1 proibido de inverter o sentido de marcha e que tem prioridade no pr\u00f3ximo entroncamento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local, devo saber que:",
+    "image": "images/outras-manobras_2987.jpg",
+    "answers": [
+      {
+        "text": "A sinaliza\u00e7\u00e3o da passagem de n\u00edvel n\u00e3o me pro\u00edbe de inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 sempre proibido inverter o sentido de marcha numa passagem de n\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Posso inverter o sentido de marcha desde que n\u00e3o transponha a linha branca no eixo da via.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local, devo saber que:",
+    "image": "images/outras-manobras_2988.jpg",
+    "answers": [
+      {
+        "text": "Estou proibido de inverter o sentido de marcha.",
+        "correct": true
+      },
+      {
+        "text": "Posso efectuar a manobra de invers\u00e3o do sentido de marcha devendo aproximar-me do eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Posso efectuar a manobra de invers\u00e3o do sentido de marcha porque a sinaliza\u00e7\u00e3o n\u00e3o me pro\u00edbe.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular num t\u00fanel devo saber que:",
+    "image": "images/outras-manobras_2989.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 proibida a manobra de marcha atr\u00e1s, ainda que pela berma.",
+        "correct": true
+      },
+      {
+        "text": "S\u00f3 posso efectuar a manobra de marcha atr\u00e1s se a visibilidade for suficiente ou se a via, pela sua largura ou outras caracter\u00edsticas, for apropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sou obrigado a ligar os m\u00e9dios ou as luzes de estrada se n\u00e3o tiver uma visibilidade m\u00ednima de 100 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular num t\u00fanel, devo saber que a manobra de invers\u00e3o do sentido de marcha:",
+    "image": "images/outras-manobras_2990.jpg",
+    "answers": [
+      {
+        "text": "Apenas \u00e9 permitida se a visibilidade for boa e a via de tr\u00e2nsito tiver largura suficiente e for apropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibida, sendo sancionada com coima e inibi\u00e7\u00e3o de conduzir pelo per\u00edodo m\u00e1ximo de um m\u00eas.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibida, sendo sancionada com coima e inibi\u00e7\u00e3o de conduzir.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular numa auto-estrada devo saber que:",
+    "image": "images/outras-manobras_2991.jpg",
+    "answers": [
+      {
+        "text": "A manobra de marcha atr\u00e1s s\u00f3 \u00e9 permitida como manobra auxiliar ou de recurso e deve efectuar-se lentamente e no menor trajecto poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "A manobra de marcha atr\u00e1s s\u00f3 \u00e9 permitida se na faixa de rodagem existirem duas ou mais filas de tr\u00e2nsito no mesmo sentido.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido fazer marcha atr\u00e1s ainda que fora da faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular numa ponte posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_2992.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, excepto em pontes como a da imagem em que, pela sua largura, \u00e9 inapropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao efectuar o atravessamento de uma passagem de n\u00edvel, devo saber que:",
+    "image": "images/outras-manobras_2993.jpg",
+    "answers": [
+      {
+        "text": "Apenas posso inverter o sentido de marcha depois de me certificar que a intensidade do tr\u00e2nsito n\u00e3o me obriga a imobilizar o ve\u00edculo sobre a passagem de n\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o posso inverter o sentido de marcha, salvo no caso de uma passagem de n\u00edvel com guarda.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o posso inverter o sentido de marcha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao fazer marcha atr\u00e1s, nesta via, devo:",
+    "image": "images/outras-manobras_2994.jpg",
+    "answers": [
+      {
+        "text": "Exceder a dist\u00e2ncia de 50 metros.",
+        "correct": false
+      },
+      {
+        "text": "Realizar a manobra lentamente e no menor trajecto poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Realizar a manobra num espa\u00e7o inferior a 10 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao mudar de direc\u00e7\u00e3o o ve\u00edculo que me precede, deve:",
+    "image": "images/outras-manobras_2995.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem se existirem pe\u00f5es a atravessar a faixa de rodagem em que vai entrar.",
+        "correct": true
+      },
+      {
+        "text": "Ligar as luzes de perigo, devido \u00e0s dimens\u00f5es do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Parar, antes de terminar a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao pretender mudar de direc\u00e7\u00e3o \u00e0 esquerda, devo:",
+    "image": "images/outras-manobras_2996.jpg",
+    "answers": [
+      {
+        "text": "Aproximar o ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Aproximar sempre o ve\u00edculo do lado esquerdo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Manter o ve\u00edculo o mais \u00e0 direita poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao transitar nesta via de tr\u00e2nsito posso mudar de direc\u00e7\u00e3o \u00e0 direita?",
+    "image": "images/outras-manobras_2997.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que mude imediatamente de via de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sinalize a minha inten\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao transitar nesta via de tr\u00e2nsito, sou obrigado:",
+    "image": "images/outras-manobras_2998.jpg",
+    "answers": [
+      {
+        "text": "A mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "A parar antes de mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "A seguir em frente ou a mudar de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ap\u00f3s o sinal vertical, n\u00e3o \u00e9 poss\u00edvel inverter o sentido de marcha.",
+    "image": "images/outras-manobras_2999.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ap\u00f3s o sinal, a invers\u00e3o de sentido de marcha \u00e9 proibida?",
+    "image": "images/outras-manobras_3000.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Circulo fora de uma localidade. A manobra de invers\u00e3o do sentido de marcha neste local:",
+    "image": "images/outras-manobras_3001.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 permitida porque me encontro antes da curva.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibida e constitui contra-ordena\u00e7\u00e3o leve sancionada com coima.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibida podendo ficar inibido de conduzir.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Circulo fora de uma localidade. Posso inverter o sentido de marcha no local onde me encontro?",
+    "image": "images/outras-manobras_3002.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a sinaliza\u00e7\u00e3o da via de tr\u00e2nsito n\u00e3o pro\u00edbe a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas no tro\u00e7o da via onde terminam as duas linhas cont\u00ednuas adjacentes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Circulo junto ao eixo da faixa de rodagem. Comporto-me correctamente, porque pretendo:",
+    "image": "images/outras-manobras_3003.jpg",
+    "answers": [
+      {
+        "text": "Mudar de direc\u00e7\u00e3o para a direita.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o para a esquerda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Circulo numa ponte. Posso fazer marcha atr\u00e1s?",
+    "image": "images/outras-manobras_3004.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque \u00e9 proibido fazer marcha atr\u00e1s em pontes.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que haja pouca intensidade de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque \u00e9 permitido realizar esta manobra em pontes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Circulo numa ponte. Posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3005.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, neste local a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que sinalize correctamente a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas s\u00f3 ap\u00f3s o condutor do outro ve\u00edculo concluir a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Circulo numa via de tr\u00e2nsito em filas paralelas. Posso mudar para a via de tr\u00e2nsito da esquerda para:",
+    "image": "images/outras-manobras_3006.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Circulo numa via equiparada a auto-estrada. Posso efectuar a manobra de marcha de atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3007.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 sempre proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, antes da lomba e no menor trajecto poss\u00edvel porque n\u00e3o circulo numa auto-estrada.",
+        "correct": false
+      },
+      {
+        "text": "Sim, junto \u00e0 berma e porque existem tr\u00eas vias de tr\u00e2nsito no mesmo sentido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder para mudar de direc\u00e7\u00e3o \u00e0 direita no pr\u00f3ximo entroncamento?",
+    "image": "images/outras-manobras_3008.jpg",
+    "answers": [
+      {
+        "text": "Aproximar-me do eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Aproximar-me do limite direito da faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder para mudar de direc\u00e7\u00e3o \u00e0 esquerda na pr\u00f3xima intersec\u00e7\u00e3o?",
+    "image": "images/outras-manobras_3009.jpg",
+    "answers": [
+      {
+        "text": "Aproximar o ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Efectuar a manobra no trajecto mais curto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Considera estar correctamente posicionado para mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/outras-manobras_3010.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devido \u00e0 intensidade de tr\u00e2nsito, deveria estar j\u00e1 na via mais \u00e0 esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque n\u00e3o necessito de passar para a via mais \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Considerando que circulo fora de uma localidade, posso ocupar a via imediatamente \u00e0 minha esquerda?",
+    "image": "images/outras-manobras_3011.jpg",
+    "answers": [
+      {
+        "text": "Sim, para mudar de direc\u00e7\u00e3o ou ultrapassar.",
+        "correct": true
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dentro do t\u00fanel n\u00e3o posso:",
+    "image": "images/outras-manobras_3012.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar e inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Depois de passar o sinal, posso fazer invers\u00e3o do sentido de marcha?",
+    "image": "images/outras-manobras_3013.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo efectuar a marcha atr\u00e1s:",
+    "image": "images/outras-manobras_3014.jpg",
+    "answers": [
+      {
+        "text": "Lentamente e no menor trajecto poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "O mais rapidamente poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo iniciar a manobra de ultrapassagem imediatamente?",
+    "image": "images/outras-manobras_3015.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, n\u00e3o me \u00e9 permitido.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque neste local \u00e9 proibida a execu\u00e7\u00e3o de qualquer manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque n\u00e3o existe tr\u00e2nsito em sentido oposto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 permitida a realiza\u00e7\u00e3o da manobra de invers\u00e3o do sentido de marcha neste local. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/outras-manobras_3016.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a via \u00e9 apropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque n\u00e3o se verifica grande intensidade de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 permitida manobra de marcha atr\u00e1s numa passagem de n\u00edvel?",
+    "image": "images/outras-manobras_3017.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, excepto perante as instru\u00e7\u00f5es dos agentes ferrovi\u00e1rios.",
+        "correct": false
+      },
+      {
+        "text": "Sim, no caso da passagem de n\u00edvel n\u00e3o dispor de protec\u00e7\u00e3o ou sinaliza\u00e7\u00e3o pode-se realizar a manobra de marcha atr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9-me permitido realizar a manobra de marcha atr\u00e1s, neste local?",
+    "image": "images/outras-manobras_3018.jpg",
+    "answers": [
+      {
+        "text": "Sim, porque n\u00e3o circulam ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o local n\u00e3o \u00e9 de visibilidade reduzida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se percorrer s\u00f3 dois metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em algumas circunst\u00e2ncias, a manobra de invers\u00e3o do sentido de marcha pode ser efectuada numa passagem de n\u00edvel. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/outras-manobras_3019.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 sempre proibida nas passagens de n\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que a via, pela sua largura ou outras caracter\u00edsticas, seja apropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que a visibilidade seja suficiente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em determinados locais e situa\u00e7\u00f5es, n\u00e3o sendo poss\u00edvel inverter o sentido de marcha posso recorrer \u00e0 manobra de marcha atr\u00e1s.",
+    "image": "images/outras-manobras_3020.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado, porque em todos os locais que \u00e9 proibido inverter o sentido de marcha \u00e9 tamb\u00e9m proibido fazer marcha atr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em lombas de boa visibilidade \u00e9 permitido realizar a manobra de invers\u00e3o do sentido de marcha.",
+    "image": "images/outras-manobras_3021.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": true
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Encontro-me a 5 metros da passagem de n\u00edvel. Posso estacionar?",
+    "image": "images/outras-manobras_3022.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Encontro-me a menos de 5 metros deste entroncamento. Posso parar neste local?",
+    "image": "images/outras-manobras_3023.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, dado n\u00e3o existir sinaliza\u00e7\u00e3o que pro\u00edba a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sinalize a manobra correcta e antecipadamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Encontro-me correctamente posicionado na via para:",
+    "image": "images/outras-manobras_3024.jpg",
+    "answers": [
+      {
+        "text": "Mudar de direc\u00e7\u00e3o para a direita.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o para a esquerda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Encontro-me correctamente posicionado na via?",
+    "image": "images/outras-manobras_3025.jpg",
+    "answers": [
+      {
+        "text": "Sim, caso pretenda mudar de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Sim, caso pretenda mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a via \u00e9 larga e n\u00e3o h\u00e1 tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Encontro-me correctamente posicionado para mudar de direc\u00e7\u00e3o para a esquerda?",
+    "image": "images/outras-manobras_3026.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque estou proibido de mudar de direc\u00e7\u00e3o para a esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, \u00e9 esta a via de tr\u00e2nsito que devo utilizar para realizar a manobra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este condutor est\u00e1 a praticar uma infrac\u00e7\u00e3o?",
+    "image": "images/outras-manobras_3027.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque est\u00e1 a inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque est\u00e1 a recorrer \u00e0 marcha atr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este condutor pretende inverter o sentido de marcha no local onde se encontra. Procede correctamente?",
+    "image": "images/outras-manobras_3028.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque o local n\u00e3o \u00e9 adequado \u00e0 execu\u00e7\u00e3o desta manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a visibilidade do local n\u00e3o \u00e9 insuficiente para a execu\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque n\u00e3o h\u00e1 muita intensidade de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este condutor que inverte o sentido de marcha deve:",
+    "image": "images/outras-manobras_3029.jpg",
+    "answers": [
+      {
+        "text": "Desistir da manobra. No local em que se encontra est\u00e1 a cometer uma infrac\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Executar a manobra rapidamente, continuando a recorrer \u00e0 marcha atr\u00e1s de maneira a n\u00e3o entrar na rotunda.",
+        "correct": false
+      },
+      {
+        "text": "Iniciar de imediato a manobra, sem recorrer \u00e0 marcha atr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Estou correctamente colocado, para:",
+    "image": "images/outras-manobras_3030.jpg",
+    "answers": [
+      {
+        "text": "Fazer marcha atr\u00e1s neste local.",
+        "correct": false
+      },
+      {
+        "text": "Inverter o sentido de marcha neste local.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o neste local.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estou proibido de efectuar a manobra de marcha atr\u00e1s neste local porque:",
+    "image": "images/outras-manobras_3031.jpg",
+    "answers": [
+      {
+        "text": "A berma n\u00e3o tem largura suficiente para, com seguran\u00e7a, efectuar a manobra.",
+        "correct": false
+      },
+      {
+        "text": "A faixa de rodagem tem apenas uma via de tr\u00e2nsito afecta a cada sentido.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido efectuar a manobra numa lomba",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estou proibido de inverter o sentido de marcha neste local porque a faixa de rodagem tem apenas uma via de tr\u00e2nsito afecta a cada sentido e circulam ve\u00edculos em sentido contr\u00e1rio.",
+    "image": "images/outras-manobras_3032.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o est\u00e1 correcta.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o est\u00e1 incorrecta.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estou proibido de mudar de direc\u00e7\u00e3o para a direita:",
+    "image": "images/outras-manobras_3033.jpg",
+    "answers": [
+      {
+        "text": "Em dois entroncamentos sucessivos.",
+        "correct": false
+      },
+      {
+        "text": "No pr\u00f3ximo entroncamento.",
+        "correct": true
+      },
+      {
+        "text": "Nos sucessivos entroncamentos, at\u00e9 encontrar o sinal de fim de proibi\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fora das localidades \u00e9 proibido estacionar nas faixas de rodagem.",
+    "image": "images/outras-manobras_3034.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Fora de uma localidade o estacionamento \u00e9 proibido dentro da faixa de rodagem.",
+    "image": "images/outras-manobras_3035.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Imediatamente ap\u00f3s o sinal, posso mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/outras-manobras_3036.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Iniciei a mudan\u00e7a para a fila de tr\u00e2nsito da direita. Em que direc\u00e7\u00f5es posso seguir?",
+    "image": "images/outras-manobras_3037.jpg",
+    "answers": [
+      {
+        "text": "Apenas em frente",
+        "correct": false
+      },
+      {
+        "text": "Apenas para a direita.",
+        "correct": false
+      },
+      {
+        "text": "Para a direita e em frente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Na auto-estrada em que circulo \u00e9 proibido:",
+    "image": "images/outras-manobras_3038.jpg",
+    "answers": [
+      {
+        "text": "Circular a menos de 60 Km/h",
+        "correct": false
+      },
+      {
+        "text": "Inverter o sentido de marcha",
+        "correct": true
+      },
+      {
+        "text": "Transitar com os m\u00e1ximos ligados.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na mudan\u00e7a de direc\u00e7\u00e3o para a esquerda tenho que:",
+    "image": "images/outras-manobras_3039.jpg",
+    "answers": [
+      {
+        "text": "Aproximar-me o mais poss\u00edvel da direita, mantendo uma dist\u00e2ncia que permita evitar acidentes em rela\u00e7\u00e3o aos ve\u00edculos que circulam em sentido contr\u00e1rio e efectuar a manobra no trajecto mais longo.",
+        "correct": false
+      },
+      {
+        "text": "Aproximar-me, com a necess\u00e1ria anteced\u00eancia e o mais poss\u00edvel, do eixo da faixa de rodagem e efectuar a manobra tomando as precau\u00e7\u00f5es necess\u00e1rias para evitar acidentes.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Na ponte onde circulo, posso fazer marcha atr\u00e1s?",
+    "image": "images/outras-manobras_3040.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, excepto como manobra de recurso.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que sinalize correctamente a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na pr\u00f3xima intersec\u00e7\u00e3o pretendo mudar de direc\u00e7\u00e3o \u00e0 direita, devo:",
+    "image": "images/outras-manobras_3041.jpg",
+    "answers": [
+      {
+        "text": "Continuar nesta via de tr\u00e2nsito, porque quando h\u00e1 grande intensidade de tr\u00e2nsito a mudan\u00e7a de direc\u00e7\u00e3o n\u00e3o \u00e9 permitida.",
+        "correct": false
+      },
+      {
+        "text": "Ocupar com a devida anteced\u00eancia a via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "Ocupar qualquer uma das vias de tr\u00e2nsito porque o tr\u00e2nsito circula com velocidade muito reduzida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na pr\u00f3xima intersec\u00e7\u00e3o vou mudar de direc\u00e7\u00e3o \u00e0 direita. Ao executar a manobra devo faz\u00ea-lo:",
+    "image": "images/outras-manobras_3042.jpg",
+    "answers": [
+      {
+        "text": "Ocupando o eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizando e mudando, em seguran\u00e7a, para a via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Na rotunda onde estou a entrar n\u00e3o posso:",
+    "image": "images/outras-manobras_3043.jpg",
+    "answers": [
+      {
+        "text": "Circular em sentido girat\u00f3rio para inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Circular pela via da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Fazer marcha-atr\u00e1s.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "N\u00e3o devo iniciar a manobra de mudan\u00e7a de direc\u00e7\u00e3o \u00e0 esquerda, sem antes:",
+    "image": "images/outras-manobras_3044.jpg",
+    "answers": [
+      {
+        "text": "Avisar os outros condutores com o sinal sonoro.",
+        "correct": false
+      },
+      {
+        "text": "Me certificar que a manobra n\u00e3o constitui perigo para o restante tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "N\u00e3o \u00e9 permitido realizar qualquer manobra de que resulte embara\u00e7o para o tr\u00e2nsito.",
+    "image": "images/outras-manobras_3045.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o de nevoeiro posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3046.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a visibilidade \u00e9 insuficiente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque h\u00e1 pouca intensidade de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se fizer a manobra muito rapidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/outras-manobras_3047.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar, logo que poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Buzinar, para advertir o condutor da frente que a luz se encontra verde.",
+        "correct": false
+      },
+      {
+        "text": "Seguir em frente, visto n\u00e3o poder mudar de direc\u00e7\u00e3o para a esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o o que devo fazer?",
+    "image": "images/outras-manobras_3048.jpg",
+    "answers": [
+      {
+        "text": "Parar obrigatoriamente.",
+        "correct": false
+      },
+      {
+        "text": "Transitar com precau\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar o ve\u00edculo que circula \u00e0 minha frente, utilizando o eixo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3049.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, posso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3050.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3051.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso.",
+        "correct": true
+      },
+      {
+        "text": "Posso, se acender os ' m\u00e1ximos'.",
+        "correct": false
+      },
+      {
+        "text": "Posso, se buzinar ao mesmo tempo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3052.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/outras-manobras_3053.jpg",
+    "answers": [
+      {
+        "text": "Mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de via de tr\u00e2nsito porque pretendo mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/outras-manobras_3054.jpg",
+    "answers": [
+      {
+        "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda ou \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Seguir a indica\u00e7\u00e3o da seta de selec\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, n\u00e3o posso inverter o sentido de marcha porque:",
+    "image": "images/outras-manobras_3055.jpg",
+    "answers": [
+      {
+        "text": "A sinaliza\u00e7\u00e3o pro\u00edbe a realiza\u00e7\u00e3o da manobra.",
+        "correct": true
+      },
+      {
+        "text": "A visibilidade \u00e9 reduzida.",
+        "correct": false
+      },
+      {
+        "text": "Circulo fora de uma localidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, o que me impede de realizar a manobra de invers\u00e3o do sentido de marcha?",
+    "image": "images/outras-manobras_3056.jpg",
+    "answers": [
+      {
+        "text": "A entrada numa localidade.",
+        "correct": false
+      },
+      {
+        "text": "A largura da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "A marca rodovi\u00e1ria.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, para mudar de direc\u00e7\u00e3o \u00e0 esquerda \u00e9 necess\u00e1rio:",
+    "image": "images/outras-manobras_3057.jpg",
+    "answers": [
+      {
+        "text": "Apenas sinalizar.",
+        "correct": false
+      },
+      {
+        "text": "Com anteced\u00eancia sinalizar e aproximar o ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Parar antes de iniciar a execu\u00e7\u00e3o da manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, para mudar de direc\u00e7\u00e3o para a esquerda devo:",
+    "image": "images/outras-manobras_3058.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com velocidade moderada, tomando as devidas precau\u00e7\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Avan\u00e7ar em simult\u00e2neo com o outro condutor.",
+        "correct": false
+      },
+      {
+        "text": "Ceder a passagem ao outro condutor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso fazer marcha-atr\u00e1s?",
+    "image": "images/outras-manobras_3059.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a visibilidade \u00e9 reduzida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a via tem largura suficiente para o efeito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o pavimento \u00e9 regular.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3060.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso.",
+        "correct": true
+      },
+      {
+        "text": "Posso, se a manobra for feita lentamente.",
+        "correct": false
+      },
+      {
+        "text": "Posso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso realizar a invers\u00e3o do sentido de marcha?",
+    "image": "images/outras-manobras_3061.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que me aproxime do limite esquerdo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que o fa\u00e7a o mais rapidamente poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso realizar a manobra de marcha-atr\u00e1s?",
+    "image": "images/outras-manobras_3062.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a visibilidade \u00e9 insuficiente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o pise ou transponha a linha cont\u00ednua \u00e0 minha direita.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque estou pr\u00f3ximo de uma curva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso ultrapassar o ve\u00edculo que circula \u00e0 minha frente?",
+    "image": "images/outras-manobras_3063.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que o fa\u00e7a antes da passagem estreita.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o sinal de proibi\u00e7\u00e3o apenas limita a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta via de um s\u00f3 sentido, se aproximar o ve\u00edculo do lado esquerdo da faixa de rodagem:",
+    "image": "images/outras-manobras_3064.jpg",
+    "answers": [
+      {
+        "text": "Devo mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Estarei a praticar uma infrac\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Posso mudar de direc\u00e7\u00e3o \u00e0 esquerda, mas tamb\u00e9m \u00e0 direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta via posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3065.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a sinaliza\u00e7\u00e3o existente no local obriga-me a seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que acelere e a execute o mais rapidamente poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que assinale a manobra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste cruzamento posso mudar de direc\u00e7\u00e3o para a esquerda?",
+    "image": "images/outras-manobras_3066.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque as marcas rodovi\u00e1rias obrigam-me a seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sinalize adequadamente a manobra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local a manobra de marcha atr\u00e1s:",
+    "image": "images/outras-manobras_3067.jpg",
+    "answers": [
+      {
+        "text": "Deve ser efectuada junto ao eixo da via.",
+        "correct": false
+      },
+      {
+        "text": "Deve ser efectuada rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibida.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local a sinaliza\u00e7\u00e3o luminosa prevalece sobre a sinaliza\u00e7\u00e3o vertical?",
+    "image": "images/outras-manobras_3068.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local com m\u00e1 visibilidade, e tendo em conta a sinaliza\u00e7\u00e3o vertical, posso realizar a manobra de invers\u00e3o do sentido de marcha?",
+    "image": "images/outras-manobras_3069.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a realiza\u00e7\u00e3o da manobra n\u00e3o \u00e9 permitida no local.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que ligue os quatro piscas para ser visto pelos outros utentes.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a via tem largura suficiente para a realiza\u00e7\u00e3o da manobra de uma s\u00f3 vez.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque me aproximo de uma rotunda onde o tr\u00e2nsito se faz em sentido girat\u00f3rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local devo:",
+    "image": "images/outras-manobras_3070.jpg",
+    "answers": [
+      {
+        "text": "Fazer marcha atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 permitido inverter o sentido de marcha e em caso afirmativo, como devo proceder?",
+    "image": "images/outras-manobras_3071.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o. Devo prosseguir a marcha e desistir da manobra porque estou pr\u00f3ximo de uma curva.",
+        "correct": true
+      },
+      {
+        "text": "Sim, \u00e9 permitido e devo aproximar-me com a necess\u00e1ria anteced\u00eancia e tanto quanto poss\u00edvel, do eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, \u00e9 permitido e devo aproximar-me com a necess\u00e1ria anteced\u00eancia e tanto quanto poss\u00edvel, do limite esquerdo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local em que a visibilidade \u00e9 insuficiente, n\u00e3o \u00e9 permitido:",
+    "image": "images/outras-manobras_3072.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": true
+      },
+      {
+        "text": "Moderar a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Transitar o mais \u00e0 direita da minha via de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local estou proibido de:",
+    "image": "images/outras-manobras_3073.jpg",
+    "answers": [
+      {
+        "text": "Buzinar.",
+        "correct": false
+      },
+      {
+        "text": "Circular a 40 Km/h.",
+        "correct": false
+      },
+      {
+        "text": "Fazer marcha atr\u00e1s.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local n\u00e3o posso:",
+    "image": "images/outras-manobras_3074.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": true
+      },
+      {
+        "text": "Virar \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso executar a manobra de marcha atr\u00e1s?",
+    "image": "images/outras-manobras_3075.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a visibilidade do local n\u00e3o \u00e9 suficiente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que a execute rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que utilize o eixo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso fazer marcha-atr\u00e1s?",
+    "image": "images/outras-manobras_3076.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que sinalize a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas s\u00f3 como manobra de recurso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3077.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3078.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3079.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo procurar um local de melhor visibilidade.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque existe um ve\u00edculo a sair de um caminho particular.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3080.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca posso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas s\u00f3 quando n\u00e3o houver intensidade de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, posso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3081.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque vou pisar a linha descont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que acelere para realizar a manobra o mais rapidamente poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que assinale a manobra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3082.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque existe uma guia.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas rapidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3083.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a faixa de rodagem apenas tem um sentido de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque sou obrigado a mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque existem duas vias de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3084.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a visibilidade \u00e9 manifestamente reduzida.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, rapidamente e sem causar embara\u00e7o aos restantes utentes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3085.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, \u00e9 proibido.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque existe apenas uma via de tr\u00e2nsito no sentido em que circulo.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque o tipo de pavimento n\u00e3o permite a realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso ocupar a via de tr\u00e2nsito da esquerda se pretender:",
+    "image": "images/outras-manobras_3086.jpg",
+    "answers": [
+      {
+        "text": "Estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso realizar a manobra de marcha-atr\u00e1s?",
+    "image": "images/outras-manobras_3087.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 sempre proibida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, como manobra auxiliar e no menor trajecto poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Sim, como manobra auxiliar e o mais rapidamente poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso:",
+    "image": "images/outras-manobras_3088.jpg",
+    "answers": [
+      {
+        "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o ou inverter o sentido de marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso:",
+    "image": "images/outras-manobras_3089.jpg",
+    "answers": [
+      {
+        "text": "Estacionar do lado esquerdo da via.",
+        "correct": false
+      },
+      {
+        "text": "Inverter o sentido da marcha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda. O que devo fazer?",
+    "image": "images/outras-manobras_3090.jpg",
+    "answers": [
+      {
+        "text": "Colocar o ve\u00edculo em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Manter o ve\u00edculo nesta via de tr\u00e2nsito, porque h\u00e1 apenas um sentido.",
+        "correct": false
+      },
+      {
+        "text": "Passar para a via de tr\u00e2nsito da esquerda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, a sinaliza\u00e7\u00e3o existente n\u00e3o me permite inverter o sentido de marcha.",
+    "image": "images/outras-manobras_3091.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, ao pretender mudar de direc\u00e7\u00e3o \u00e0 direita, devo:",
+    "image": "images/outras-manobras_3092.jpg",
+    "answers": [
+      {
+        "text": "Aproximar com anteced\u00eancia o ve\u00edculo do limite direito da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Aproximar o ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Aproximar o ve\u00edculo do lado esquerdo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, devo:",
+    "image": "images/outras-manobras_3093.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3094.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a marca rodovi\u00e1ria pode ser transposta.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque vou entrar num t\u00fanel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local:",
+    "image": "images/outras-manobras_3095.jpg",
+    "answers": [
+      {
+        "text": "Devo transitar com precau\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Existem duas vias de tr\u00e2nsito em cada sentido.",
+        "correct": false
+      },
+      {
+        "text": "Sou obrigado a mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste preciso local posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3096.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque existe sinaliza\u00e7\u00e3o que me pro\u00edbe de realizar a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque circulo de dia.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se o fizer a velocidade especialmente reduzida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No entroncamento pretendo mudar de direc\u00e7\u00e3o para a esquerda. Devo sinalizar a manobra com a devida anteced\u00eancia e:",
+    "image": "images/outras-manobras_3097.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar e encostar-me o mais \u00e0 direita poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar o mais rapidamente poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Colocar-me na via a esse fim destinada.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No exacto local onde me encontro posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3098.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a visibilidade do local \u00e9 suficiente.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local em que circulo posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3099.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a marca rodovi\u00e1ria existente no eixo da faixa de rodagem me impede a execu\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque a visibilidade do local n\u00e3o \u00e9 suficiente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, posso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro a paragem e o estacionamento s\u00f3 s\u00e3o permitidos na berma direita da faixa de rodagem.",
+    "image": "images/outras-manobras_3100.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": true
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro em que a visibilidade \u00e9 reduzida, posso realizar a manobra de invers\u00e3o do sentido de marcha?",
+    "image": "images/outras-manobras_3101.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a visibilidade \u00e9 insuficiente.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque nas curvas a manobra \u00e9 sempre proibida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a via tem dois sentidos e largura suficiente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro estou proibido de efectuar a manobra de ultrapassagem?",
+    "image": "images/outras-manobras_3102.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, uma vez que n\u00e3o existe sinaliza\u00e7\u00e3o a proibir a realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro n\u00e3o \u00e9 permitido:",
+    "image": "images/outras-manobras_3103.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": true
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o na pr\u00f3xima intersec\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Seguir em frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro o estacionamento:",
+    "image": "images/outras-manobras_3104.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 permitido.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3105.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, pois existe uma marca rodovi\u00e1ria longitudinal no pavimento.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque a via de tr\u00e2nsito descreve uma curva.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sinalize adequadamente a manobra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro posso realizar a manobra de invers\u00e3o do sentido de marcha?",
+    "image": "images/outras-manobras_3106.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que n\u00e3o cause perigo ou embara\u00e7o para o tr\u00e2nsito.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro, como devo proceder para mudar de direc\u00e7\u00e3o \u00e0 esquerda no pr\u00f3ximo entroncamento?",
+    "image": "images/outras-manobras_3107.jpg",
+    "answers": [
+      {
+        "text": "Fazer o respectivo sinal e aproximar-me do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Fazer o respectivo sinal gestual e ligar as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Passar de imediato para a via da esquerda realizando a manobra o mais r\u00e1pido poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro, posso realizar a manobra que me permite colocar o ve\u00edculo a circular em sentido oposto \u00e0quele em que sigo?",
+    "image": "images/outras-manobras_3108.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a manobra de marcha-atr\u00e1s \u00e9 proibida nos cruzamentos.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque as condi\u00e7\u00f5es de visibilidade s\u00e3o reduzidas.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se n\u00e3o se aproximar nenhum ve\u00edculo em sentido contr\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro:",
+    "image": "images/outras-manobras_3109.jpg",
+    "answers": [
+      {
+        "text": "Devo circular \u00e0 velocidade m\u00ednima de 50 Km/h.",
+        "correct": false
+      },
+      {
+        "text": "Devo circular com velocidade especialmente moderada.",
+        "correct": true
+      },
+      {
+        "text": "Posso inverter o sentido da marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local exacto onde me encontro n\u00e3o \u00e9 permitido:",
+    "image": "images/outras-manobras_3110.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem.",
+        "correct": false
+      },
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": true
+      },
+      {
+        "text": "Moderar a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local exacto onde me encontro, posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3111.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque n\u00e3o posso transpor a linha mista.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que sinalize correctamente a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a linha mista pode ser transposta.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local exacto onde me encontro, posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3112.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local onde me encontro posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3113.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que o fa\u00e7a rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se sinalizar correctamente a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local onde me encontro:",
+    "image": "images/outras-manobras_3114.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso inverter o sentido de marcha.",
+        "correct": true
+      },
+      {
+        "text": "Posso inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Posso parar ou estacionar do lado direito da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No pr\u00f3ximo entroncamento posso mudar de direc\u00e7\u00e3o para a esquerda?",
+    "image": "images/outras-manobras_3115.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a sinaliza\u00e7\u00e3o existente pro\u00edbe a realiza\u00e7\u00e3o da manobra.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque vou entrar numa via com sentido \u00fanico.",
+        "correct": false
+      },
+      {
+        "text": "Sim, pois sou obrigado pela sinaliza\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No pr\u00f3ximo entroncamento pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda. Devo:",
+    "image": "images/outras-manobras_3116.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem a todos os ve\u00edculos que transitem na via em que vou entrar.",
+        "correct": true
+      },
+      {
+        "text": "Ceder a passagem aos ve\u00edculos da direita e avan\u00e7ar antes dos vindos da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Ceder a passagem, somente a todos os ve\u00edculos com motor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No pr\u00f3ximo entroncamento:",
+    "image": "images/outras-manobras_3117.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso mudar de direc\u00e7\u00e3o para a esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Posso mudar de direc\u00e7\u00e3o para a esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos t\u00faneis \u00e9 permitida a realiza\u00e7\u00e3o da manobra de marcha-atr\u00e1s?",
+    "image": "images/outras-manobras_3118.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se a visibilidade n\u00e3o for reduzida ou insuficiente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se tiverem boas condi\u00e7\u00f5es de ilumina\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos t\u00faneis \u00e9 permitido:",
+    "image": "images/outras-manobras_3119.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Ultrapassar e inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Ultrapassar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nos t\u00faneis \u00e9 proibido inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3120.jpg",
+    "answers": [
+      {
+        "text": "Sim, em todos os t\u00faneis.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas se o t\u00fanel for de um s\u00f3 sentido.",
+        "correct": false
+      },
+      {
+        "text": "Sim, unicamente quando a visibilidade for reduzida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Numa passagem de n\u00edvel \u00e9 permitido inverter o sentido de marcha.",
+    "image": "images/outras-manobras_3121.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor de um ve\u00edculo que transite em miss\u00e3o de presta\u00e7\u00e3o de socorro:",
+    "image": "images/outras-manobras_3122.jpg",
+    "answers": [
+      {
+        "text": "Deve ceder a passagem aos ve\u00edculos que saiam de uma passagem de n\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Tem prioridade de passagem em rela\u00e7\u00e3o aos ve\u00edculos que saiam de uma passagem de n\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo branco pode inverter o sentido de marcha neste momento?",
+    "image": "images/outras-manobras_3123.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo que circula \u00e0 minha frente deve:",
+    "image": "images/outras-manobras_3124.jpg",
+    "answers": [
+      {
+        "text": "Aproximar com a devida anteced\u00eancia o ve\u00edculo ao lado esquerdo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Aproximar com a devida anteced\u00eancia o ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Mudar para a via de tr\u00e2nsito da esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo que circula imediatamente \u00e0 minha frente sinaliza a inten\u00e7\u00e3o de:",
+    "image": "images/outras-manobras_3125.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de via de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar ou inverter o sentido de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor pretende seguir pela primeira sa\u00edda da rotunda, deve:",
+    "image": "images/outras-manobras_3126.jpg",
+    "answers": [
+      {
+        "text": "Contornar a rotunda pela esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Encostar o ve\u00edculo \u00e0 placa central.",
+        "correct": false
+      },
+      {
+        "text": "Transitar o mais \u00e0 direita poss\u00edvel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor que circula \u00e0 minha frente deve:",
+    "image": "images/outras-manobras_3127.jpg",
+    "answers": [
+      {
+        "text": "Aproximar, com anteced\u00eancia, o ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Com anteced\u00eancia, aproximar o ve\u00edculo ao lado esquerdo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Parar antes de iniciar a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor que circula \u00e0 minha frente e est\u00e1 a indicar a mudan\u00e7a de direc\u00e7\u00e3o para a esquerda procede correctamente?",
+    "image": "images/outras-manobras_3128.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque para mudar de direc\u00e7\u00e3o para a esquerda pode transpor qualquer marca no pavimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor que circula \u00e0 minha frente procede correctamente para mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/outras-manobras_3129.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a mudan\u00e7a de direc\u00e7\u00e3o \u00e9 proibida nas curvas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque se aproxima com a necess\u00e1ria anteced\u00eancia do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque se aproxima com a necess\u00e1ria anteced\u00eancia do limite esquerdo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor que circula \u00e0 minha frente, pode transpor a marca rodovi\u00e1ria?",
+    "image": "images/outras-manobras_3130.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas o pode fazer se a sua inten\u00e7\u00e3o for inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se o fizer rapidamente, sem provocar embara\u00e7o no tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor que circula \u00e0 minha frente, pretende mudar de direc\u00e7\u00e3o \u00e0 direita. Procede correctamente:",
+    "image": "images/outras-manobras_3131.jpg",
+    "answers": [
+      {
+        "text": "Se aproximar o ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Se aproximar o ve\u00edculo do lado direito da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Se aproximar o ve\u00edculo do limite esquerdo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor que se encontra \u00e0 minha frente, est\u00e1 a cometer uma infrac\u00e7\u00e3o?",
+    "image": "images/outras-manobras_3132.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o. O condutor tem o ve\u00edculo imobilizado.",
+        "correct": false
+      },
+      {
+        "text": "Sim, est\u00e1 a cometer uma infrac\u00e7\u00e3o, mesmo n\u00e3o pretendendo executar qualquer outra manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas se iniciar qualquer manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor que se encontra \u00e0 minha frente:",
+    "image": "images/outras-manobras_3133.jpg",
+    "answers": [
+      {
+        "text": "Comete uma infrac\u00e7\u00e3o, apenas porque est\u00e1 a transpor a marca rodovi\u00e1ria.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o est\u00e1 a proceder correctamente.",
+        "correct": true
+      },
+      {
+        "text": "Procede correctamente, porque n\u00e3o h\u00e1 muita intensidade de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/outras-manobras_3134.jpg",
+    "answers": [
+      {
+        "text": "Ceder passagem ao ve\u00edculo contr\u00e1rio e contornar o ve\u00edculo indevidamente estacionado.",
+        "correct": true
+      },
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros e contornar rapidamente o ve\u00edculo imobilizado, utilizando as luzes de perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/outras-manobras_3135.jpg",
+    "answers": [
+      {
+        "text": "Aumentar um pouco a velocidade de modo a n\u00e3o permitir que o outro condutor termine a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Estar especialmente atento ao comportamento do condutor que acaba de cometer uma infrac\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros, n\u00e3o permitindo que o outro condutor termine a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/outras-manobras_3136.jpg",
+    "answers": [
+      {
+        "text": "Contornar o ve\u00edculo que est\u00e1 a inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Permitir que o outro condutor termine a manobra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que estou proibido de fazer no local em que me encontro?",
+    "image": "images/outras-manobras_3137.jpg",
+    "answers": [
+      {
+        "text": "Fazer uso dos sinais sonoros.",
+        "correct": false
+      },
+      {
+        "text": "Inverter o sentido de marcha do ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "Parar na berma direita da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal de obriga\u00e7\u00e3o impede-me de mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/outras-manobras_3138.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, pois a manobra \u00e9 poss\u00edvel devendo contornar a placa existente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, pois s\u00f3 me \u00e9 poss\u00edvel mudar de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal gr\u00e1fico vertical pro\u00edbe a manobra de invers\u00e3o do sentido de marcha?",
+    "image": "images/outras-manobras_3139.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque o sinal se destina a proibir a paragem e o estacionamento.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque pro\u00edbe a paragem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque pro\u00edbe o estacionamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical pro\u00edbe a realiza\u00e7\u00e3o da manobra de invers\u00e3o do sentido de marcha.",
+    "image": "images/outras-manobras_3140.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O \u00fanico factor que pode impedir a realiza\u00e7\u00e3o da manobra de invers\u00e3o do sentido de marcha \u00e9 a intensidade do tr\u00e2nsito.",
+    "image": "images/outras-manobras_3141.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo que circula \u00e0 minha frente est\u00e1 a iniciar a manobra de ultrapassagem. Devo:",
+    "image": "images/outras-manobras_3142.jpg",
+    "answers": [
+      {
+        "text": "Iniciar a mesma manobra em simult\u00e2neo.",
+        "correct": false
+      },
+      {
+        "text": "Manter o meu ve\u00edculo na mesma via de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo que circula \u00e0 minha frente vai:",
+    "image": "images/outras-manobras_3143.jpg",
+    "answers": [
+      {
+        "text": "Inverter a marcha.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo verde est\u00e1 imobilizado correctamente?",
+    "image": "images/outras-manobras_3144.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque n\u00e3o tem ligadas as luzes de presen\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque ocupa parte da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque o local tem muita visibilidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os condutores s\u00e3o obrigados a ceder a passagem aos ve\u00edculos que saiam de uma passagem de n\u00edvel.",
+    "image": "images/outras-manobras_3145.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os indicadores de mudan\u00e7a de direc\u00e7\u00e3o est\u00e3o avariados. Pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda. Devo assinalar a manobra:",
+    "image": "images/outras-manobras_3146.jpg",
+    "answers": [
+      {
+        "text": "Com a buzina.",
+        "correct": false
+      },
+      {
+        "text": "Com o bra\u00e7o.",
+        "correct": true
+      },
+      {
+        "text": "Com os m\u00e9dios.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para contornar o ve\u00edculo imobilizado, devo:",
+    "image": "images/outras-manobras_3147.jpg",
+    "answers": [
+      {
+        "text": "Ligar as luzes de estrada e ceder a passagem a quem circula em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar a minha inten\u00e7\u00e3o e ceder a passagem a quem circula em sentido contr\u00e1rio.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros e as luzes de perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para mudar de direc\u00e7\u00e3o \u00e0 esquerda devo:",
+    "image": "images/outras-manobras_3148.jpg",
+    "answers": [
+      {
+        "text": "Realizar a manobra antes da zona onde se encontra o sinal.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar a manobra e respeitar a sinaliza\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sinalizar a manobra e seguir pelo caminho mais curto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para mudar de direc\u00e7\u00e3o \u00e0 esquerda estou bem colocado?",
+    "image": "images/outras-manobras_3149.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, j\u00e1 deveria estar colocado na via de tr\u00e2nsito da esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Sim, pois s\u00f3 junto ao entroncamento devo colocar-me \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para mudar de direc\u00e7\u00e3o \u00e0 esquerda, devo:",
+    "image": "images/outras-manobras_3150.jpg",
+    "answers": [
+      {
+        "text": "Manter-me nesta via.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de via de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Ocupar qualquer das vias de tr\u00e2nsito, porque apenas existe um sentido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para mudar de direc\u00e7\u00e3o \u00e0 esquerda, nesta via de sentido \u00fanico, devo:",
+    "image": "images/outras-manobras_3151.jpg",
+    "answers": [
+      {
+        "text": "Ocupar a via de tr\u00e2nsito da esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Ocupar qualquer das vias de tr\u00e2nsito, porque n\u00e3o circulam ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Olhar ao espelho retrovisor, sinalizar e aproximar o ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para mudar de direc\u00e7\u00e3o para a direita no pr\u00f3ximo entroncamento estou correctamente posicionado?",
+    "image": "images/outras-manobras_3152.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para mudar de direc\u00e7\u00e3o para a esquerda devo sinalizar a manobra:",
+    "image": "images/outras-manobras_3153.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ando com precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ando porque as nossas traject\u00f3rias n\u00e3o se interceptam.",
+        "correct": false
+      },
+      {
+        "text": "Cedendo a passagem ao ve\u00edculo que se apresenta no cruzamento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para que a manobra a realizar pelo outro condutor seja feita em seguran\u00e7a, deve:",
+    "image": "images/outras-manobras_3154.jpg",
+    "answers": [
+      {
+        "text": "Ligar as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Parar sempre antes de avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar correctamente a manobra e com prud\u00eancia ocupar o espa\u00e7o da via adequado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para recorrer \u00e0 manobra de marcha atr\u00e1s devo certificar-me que o local \u00e9 seguro e que:",
+    "image": "images/outras-manobras_3155.jpg",
+    "answers": [
+      {
+        "text": "Ao executar a manobra lentamente a pratico no maior trajecto poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Executo a manobra lentamente.",
+        "correct": true
+      },
+      {
+        "text": "Executo a manobra no maior trajecto poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o devo:",
+    "image": "images/outras-manobras_3156.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que a sinaliza\u00e7\u00e3o luminosa passe a verde e virar \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Parar ao sinal luminoso porque pretendo seguir em frente.",
+        "correct": true
+      },
+      {
+        "text": "Prosseguir a marcha se pretender seguir em frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o existente na via, posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3157.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante este sinal, devo:",
+    "image": "images/outras-manobras_3158.jpg",
+    "answers": [
+      {
+        "text": "Aguardar a passagem do ve\u00edculo e seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda ou \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "Prosseguir a marcha em frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal de obriga\u00e7\u00e3o, devo:",
+    "image": "images/outras-manobras_3159.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem quer mude de direc\u00e7\u00e3o \u00e0 esquerda ou \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o para a esquerda ou para a direita.",
+        "correct": true
+      },
+      {
+        "text": "Seguir em frente, obrigatoriamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso circular sobre as raias obl\u00edquas?",
+    "image": "images/outras-manobras_3160.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, estou proibido de entrar na \u00e1rea por elas abrangida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas para efeitos de paragem e/ou estacionamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se pretender mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de invers\u00e3o do sentido de marcha nesta ponte?",
+    "image": "images/outras-manobras_3161.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de invers\u00e3o de marcha \u00e9 proibida nas pontes.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a visibilidade \u00e9 boa e a via de tr\u00e2nsito \u00e9 larga e permite a realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, uma vez que n\u00e3o se verifica grande intensidade de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de invers\u00e3o do sentido de marcha neste local?",
+    "image": "images/outras-manobras_3162.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo seguir no sentido indicado pela sinaliza\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, estou longe da curva e n\u00e3o se verifica qualquer intensidade de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de invers\u00e3o do sentido de marcha neste local?",
+    "image": "images/outras-manobras_3163.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que antes da curva.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha atr\u00e1s at\u00e9 ao entroncamento anterior que se encontra a uma dist\u00e2ncia de 250 metros?",
+    "image": "images/outras-manobras_3164.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a marcha atr\u00e1s s\u00f3 \u00e9 permitida como manobra de recurso e deve efectuar-se no menor trajecto poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque circulo na via de tr\u00e2nsito da direita.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque existem duas vias de tr\u00e2nsito no mesmo sentido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha atr\u00e1s na ponte?",
+    "image": "images/outras-manobras_3165.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida pois n\u00e3o se verifica grande intensidade de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas neste local e como manobra auxiliar ou de recurso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha atr\u00e1s nesta ponte?",
+    "image": "images/outras-manobras_3166.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, esta manobra \u00e9 sancionada com coima e apreens\u00e3o dos documentos do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, esta manobra \u00e9 sancionada com coima e inibi\u00e7\u00e3o de conduzir.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas fora da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3167.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de marcha atr\u00e1s \u00e9 proibida nas lombas.",
+        "correct": true
+      },
+      {
+        "text": "Sim, como manobra auxiliar e no menor trajecto poss\u00edvel dado que se trata de um local de boa visibilidade.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a via se encontra sinalizada com uma linha descont\u00ednua.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3168.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a marcha atr\u00e1s \u00e9 permitida como manobra auxiliar ou de recurso e deve efectuar-se lentamente e no menor trajecto poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a marcha atr\u00e1s \u00e9 permitida como manobra auxiliar ou de recurso e deve efectuar-se rapidamente para n\u00e3o causar embara\u00e7o para o tr\u00e2nsito e num trajecto m\u00ednimo de 50 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3169.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de marcha atr\u00e1s \u00e9 proibida em entroncamentos.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, estou sempre proibido de efectuar a manobra em locais cuja via de tr\u00e2nsito, pela sua largura, seja inapropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se em caso de cruzamento de ve\u00edculos tiver necessidade de efectuar a manobra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3170.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida em curvas de visibilidade reduzida.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque vou a descer.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que n\u00e3o cause perigo ou embara\u00e7o para o tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3171.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas antes da lomba.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas devo encostar-me \u00e0 berma para realizar a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha atr\u00e1s numa passagem de n\u00edvel?",
+    "image": "images/outras-manobras_3172.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de marcha atr\u00e1s numa passagem de n\u00edvel \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, uma vez que se trata da aproxima\u00e7\u00e3o de uma passagem de n\u00edvel sem guarda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se n\u00e3o se verificar qualquer tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha atr\u00e1s numa ponte?",
+    "image": "images/outras-manobras_3173.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de marcha atr\u00e1s \u00e9 proibida numa ponte.",
+        "correct": true
+      },
+      {
+        "text": "Sim, excepto quando se verifique grande intensidade de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se a via de tr\u00e2nsito tiver largura suficiente para, sem causar embara\u00e7o aos outros utentes, realizar a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de marcha-atr\u00e1s neste t\u00fanel?",
+    "image": "images/outras-manobras_3174.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a marcha atr\u00e1s \u00e9 sempre proibida nos t\u00faneis.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque se trata de um t\u00fanel com boa visibilidade.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque se trata de um t\u00fanel com duas vias de tr\u00e2nsito no mesmo sentido e a berma \u00e9 apropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de ultrapassagem neste local?",
+    "image": "images/outras-manobras_3175.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a sinaliza\u00e7\u00e3o vertical permite.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque existe pouca intensidade de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar no local em que me encontro?",
+    "image": "images/outras-manobras_3176.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o comprometa a seguran\u00e7a dos outros utentes.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que n\u00e3o obrigue \u00e0 utiliza\u00e7\u00e3o do lado esquerdo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar no local em que me encontro?",
+    "image": "images/outras-manobras_3177.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que o fa\u00e7a dentro da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso fazer a manobra de mudan\u00e7a de direc\u00e7\u00e3o para a esquerda?",
+    "image": "images/outras-manobras_3178.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a manobra vai embara\u00e7ar o tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se n\u00e3o houver sinaliza\u00e7\u00e3o a proibir a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso fazer invers\u00e3o do sentido de marcha neste local?",
+    "image": "images/outras-manobras_3179.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso fazer marcha atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3180.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a visibilidade \u00e9 insuficiente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que execute a manobra no maior trajecto poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Sim, rapidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso fazer marcha-atr\u00e1s na rotunda de que me aproximo?",
+    "image": "images/outras-manobras_3181.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas se n\u00e3o houver tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se a visibilidade for suficiente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ficar inibido de conduzir se efectuar a manobra de marcha atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3182.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o. Se n\u00e3o respeitar as regras relativas \u00e0 marcha atr\u00e1s tenho que pagar uma coima.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso iniciar a manobra de ultrapassagem neste local?",
+    "image": "images/outras-manobras_3183.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a sinaliza\u00e7\u00e3o n\u00e3o pro\u00edbe a realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido da marcha neste local?",
+    "image": "images/outras-manobras_3184.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque n\u00e3o h\u00e1 tr\u00e2nsito em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se antes informar os condutores \u00e0 minha retaguarda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido da marcha no local em que me encontro?",
+    "image": "images/outras-manobras_3185.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, ap\u00f3s deixar passar o ve\u00edculo que circula em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que assinale correctamente a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha antes de uma curva?",
+    "image": "images/outras-manobras_3186.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que a via seja de sentido \u00fanico.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que seja de boa visibilidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha do meu ve\u00edculo neste local?",
+    "image": "images/outras-manobras_3187.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, deveria ter-me aproximado, com a necess\u00e1ria anteced\u00eancia e o mais poss\u00edvel, do limite direito da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a via pela sua largura \u00e9 apropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a visibilidade \u00e9 suficiente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha na passagem de n\u00edvel?",
+    "image": "images/outras-manobras_3188.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, \u00e9 proibido inverter o sentido de marcha numa passagem de n\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a sinaliza\u00e7\u00e3o permite-me efectuar a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que da realiza\u00e7\u00e3o n\u00e3o resulte perigo ou embara\u00e7o para o tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste cruzamento de visibilidade reduzida?",
+    "image": "images/outras-manobras_3189.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que o fa\u00e7a rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque neste momento n\u00e3o existe tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3190.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3191.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3192.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque as marcas rodovi\u00e1rias n\u00e3o permitem a realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, de modo a que da realiza\u00e7\u00e3o da manobra n\u00e3o resulte perigo ou embara\u00e7o para o tr\u00e2nsito.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3193.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de invers\u00e3o do sentido de marcha \u00e9 proibida nas curvas de visibilidade reduzida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a via \u00e9 apropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, devendo aproximar-me do lado direito da faixa de rodagem e efectuar a manobra rapidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3194.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de invers\u00e3o do sentido de marcha \u00e9 proibida neste local.",
+        "correct": true
+      },
+      {
+        "text": "Sim, antes da curva e a uma velocidade n\u00e3o inferior \u00e0 indicada no sinal para n\u00e3o causar perigo ou embara\u00e7o para o tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas posso efectuar a manobra antes da curva e no menor trajecto poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3195.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, e se criar perigo para os outros utentes da via estou a cometer um crime.",
+        "correct": true
+      },
+      {
+        "text": "Sim, antes da curva e n\u00e3o excedendo a velocidade m\u00e1xima indicada no sinal.",
+        "correct": false
+      },
+      {
+        "text": "Sim, devendo aproximar-me, o mais poss\u00edvel, do lado direito da faixa de rodagem e efectuar a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3196.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, \u00e9 proibido inverter o sentido de marcha numa curva de visibilidade reduzida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas na curva porque a via \u00e9 mais larga e tenho maior visibilidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3197.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de invers\u00e3o do sentido de marcha \u00e9 proibida neste local.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o cause perigo ou embara\u00e7o injustificado aos restantes utentes da via.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3198.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a sinaliza\u00e7\u00e3o da via n\u00e3o pro\u00edbe a realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque tenho boa visibilidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3199.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, devo efectuar a manobra de imediato dado que a linha descont\u00ednua permite a sua realiza\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas depois de deixar passar o ve\u00edculo que circula em sentido contr\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3200.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 sempre proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a largura da faixa de rodagem permite que a manobra se fa\u00e7a com a necess\u00e1ria seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a manobra \u00e9 sempre permitida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3201.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3202.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas antes do estreitamento da via que se aproxima.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3203.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a sinaliza\u00e7\u00e3o n\u00e3o pro\u00edbe a realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a via tem largura suficiente para realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/outras-manobras_3204.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque o local \u00e9 inapropriado.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que execute a manobra sem recurso \u00e0 marcha atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste momento?",
+    "image": "images/outras-manobras_3205.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque o tr\u00e2nsito \u00e9 intenso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que realize a manobra rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque n\u00e3o existe sinaliza\u00e7\u00e3o a proibir a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha no local em que me encontro?",
+    "image": "images/outras-manobras_3206.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a visibilidade no local \u00e9 insuficiente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque os condutores que se apresentam pela direita t\u00eam que me ceder a passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha no pr\u00f3ximo entroncamento?",
+    "image": "images/outras-manobras_3207.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, \u00e9 proibido inverter sentido de marcha em todos os entroncamentos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha, nesta via?",
+    "image": "images/outras-manobras_3208.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha, neste local?",
+    "image": "images/outras-manobras_3209.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque existe apenas uma via de tr\u00e2nsito para cada sentido.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o transponha a marca rodovi\u00e1ria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha?",
+    "image": "images/outras-manobras_3210.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/outras-manobras_3211.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em nenhum caso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas s\u00f3 depois de ceder a passagem a todos os ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Sim, observando as regras de ced\u00eancia de passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso mudar de direc\u00e7\u00e3o para a direita no pr\u00f3ximo entroncamento?",
+    "image": "images/outras-manobras_3212.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, devendo sinalizar correctamente a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque no pr\u00f3ximo entroncamento n\u00e3o vigora qualquer proibi\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso mudar de direc\u00e7\u00e3o para a direita?",
+    "image": "images/outras-manobras_3213.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, para tal deveria estar a circular na via de tr\u00e2nsito da direita.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que sinalize correctamente a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, posso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso mudar de direc\u00e7\u00e3o para a esquerda no pr\u00f3ximo entroncamento?",
+    "image": "images/outras-manobras_3214.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar e/ou estacionar no local em que me encontro?",
+    "image": "images/outras-manobras_3215.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas posso estacionar.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, ambas as manobras s\u00e3o permitidas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar na berma da faixa de rodagem?",
+    "image": "images/outras-manobras_3216.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque circulo em meio n\u00e3o urbano.",
+        "correct": false
+      },
+      {
+        "text": "Sim, depois de tomadas as devidas precau\u00e7\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso realizar a manobra de invers\u00e3o do sentido de marcha nesta lomba?",
+    "image": "images/outras-manobras_3217.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque n\u00e3o circula nenhum ve\u00edculo \u00e0 minha rectaguarda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, tomando as devidas precau\u00e7\u00f5es e apenas como manobra de recurso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso realizar a manobra de invers\u00e3o do sentido de marcha neste cruzamento de visibilidade reduzida?",
+    "image": "images/outras-manobras_3218.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque o sinal vertical n\u00e3o pro\u00edbe a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso realizar a manobra de invers\u00e3o do sentido de marcha no local em que me encontro?",
+    "image": "images/outras-manobras_3219.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nas lombas a manobra \u00e9 sempre proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a via tem dois sentidos de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque circulo dentro duma localidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso realizar a manobra de marcha atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3220.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 sempre proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a sinaliza\u00e7\u00e3o n\u00e3o pro\u00edbe a realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que a manobra seja efectuada o mais rapidamente poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso realizar a manobra de marcha atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3221.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devido \u00e0s caracter\u00edsticas do local.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas para efectuar a manobra de estacionamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso realizar a manobra de marcha-atr\u00e1s no local em que me encontro?",
+    "image": "images/outras-manobras_3222.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devido \u00e0 sinaliza\u00e7\u00e3o horizontal.",
+        "correct": false
+      },
+      {
+        "text": "Sim, dado que o local \u00e9 de boa visibilidade.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que a efectue rapidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso realizar a manobra de ultrapassagem no local em que me encontro?",
+    "image": "images/outras-manobras_3223.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a sinaliza\u00e7\u00e3o vertical prevalece sobre a horizontal.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso recorrer \u00e0 manobra de marcha atr\u00e1s neste local?",
+    "image": "images/outras-manobras_3224.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, neste local \u00e9 proibido.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que realize a manobra rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que re\u00fana as condi\u00e7\u00f5es de seguran\u00e7a necess\u00e1rias.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar no t\u00fanel.",
+    "image": "images/outras-manobras_3225.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar o ve\u00edculo que circula \u00e0 minha frente?",
+    "image": "images/outras-manobras_3226.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, ocupando o lado esquerdo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, tomando as devidas precau\u00e7\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar o ve\u00edculo que circula \u00e0 minha frente?",
+    "image": "images/outras-manobras_3227.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o se aproximem ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque no local em que me encontro a manobra n\u00e3o \u00e9 proibida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar o ve\u00edculo que circula \u00e0 minha frente?",
+    "image": "images/outras-manobras_3228.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque n\u00e3o circulam ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o sinal luminoso est\u00e1 verde.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso virar para a esquerda, no pr\u00f3ximo cruzamento?",
+    "image": "images/outras-manobras_3229.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, tenho que seguir em frente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque n\u00e3o h\u00e1 tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se fizer a manobra com especial precau\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo inverter o sentido da marcha. Devo:",
+    "image": "images/outras-manobras_3230.jpg",
+    "answers": [
+      {
+        "text": "Fazer sinais de luzes.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar o 'pisca' para a esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo inverter o sentido de marcha nesta via p\u00fablica. Posso efectuar a manobra?",
+    "image": "images/outras-manobras_3231.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas junto ao pr\u00f3ximo entroncamento de visibilidade reduzida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo inverter o sentido de marcha neste local. Posso efectuar a manobra?",
+    "image": "images/outras-manobras_3232.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas antes da curva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo inverter o sentido de marcha. Devo:",
+    "image": "images/outras-manobras_3233.jpg",
+    "answers": [
+      {
+        "text": "Desistir da manobra, porque a marca rodovi\u00e1ria \u00e0 minha direita n\u00e3o o permite.",
+        "correct": false
+      },
+      {
+        "text": "Desistir da manobra, porque a visibilidade do local \u00e9 insuficiente.",
+        "correct": true
+      },
+      {
+        "text": "Executar a manobra rapidamente, sem causar embara\u00e7o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo inverter o sentido de marcha. Posso efectuar a manobra neste local?",
+    "image": "images/outras-manobras_3234.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida neste local.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a linha descont\u00ednua permite a realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo inverter o sentido de marcha. Posso efectuar a manobra?",
+    "image": "images/outras-manobras_3235.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque me encontro numa lomba.",
+        "correct": true
+      },
+      {
+        "text": "Sim, as marcas rodovi\u00e1rias permitem a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, o sinal vertical n\u00e3o pro\u00edbe.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 direita na pr\u00f3xima intersec\u00e7\u00e3o. Devo:",
+    "image": "images/outras-manobras_3236.jpg",
+    "answers": [
+      {
+        "text": "Desistir da manobra, porque n\u00e3o \u00e9 permitida.",
+        "correct": false
+      },
+      {
+        "text": "Manter o ve\u00edculo na via de tr\u00e2nsito da esquerda, onde j\u00e1 me encontro.",
+        "correct": false
+      },
+      {
+        "text": "Ocupar a via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 direita, devo:",
+    "image": "images/outras-manobras_3237.jpg",
+    "answers": [
+      {
+        "text": "Continuar nesta via de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar a manobra e mudar de via de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Sinalizar a minha inten\u00e7\u00e3o, continuando na mesma via de tr\u00e2nsito, porque h\u00e1 apenas um sentido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 direita. Devo ceder a passagem ao outro condutor.",
+    "image": "images/outras-manobras_3238.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 direita. Devo:",
+    "image": "images/outras-manobras_3239.jpg",
+    "answers": [
+      {
+        "text": "Aproximar o ve\u00edculo ao lado esquerdo da minha via de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Aproximar o ve\u00edculo com a necess\u00e1ria anteced\u00eancia do lado esquerdo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Manter o ve\u00edculo o mais \u00e0 direita poss\u00edvel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda, devo continuar nesta via de tr\u00e2nsito?",
+    "image": "images/outras-manobras_3240.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a via de tr\u00e2nsito da esquerda \u00e9 a via adequada.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a intensidade de tr\u00e2nsito \u00e9 bastante reduzida, logo qualquer das vias \u00e9 adequada.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque na intersec\u00e7\u00e3o \u00e9 proibido mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda, devo:",
+    "image": "images/outras-manobras_3241.jpg",
+    "answers": [
+      {
+        "text": "Aproximar o ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Aproximar o ve\u00edculo do limite esquerdo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Manter o ve\u00edculo o mais \u00e0 direita da via, porque a intensidade de tr\u00e2nsito n\u00e3o justifica a altera\u00e7\u00e3o de traject\u00f3ria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda. Devo aproximar-me do eixo da faixa de rodagem:",
+    "image": "images/outras-manobras_3242.jpg",
+    "answers": [
+      {
+        "text": "A uma dist\u00e2ncia m\u00e1xima de 20 metros do local da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Com a anteced\u00eancia necess\u00e1ria para realizar a manobra em seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "No local exacto do entroncamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda. Devo ceder a passagem:",
+    "image": "images/outras-manobras_3243.jpg",
+    "answers": [
+      {
+        "text": "Aos ve\u00edculos da esquerda e da direita.",
+        "correct": true
+      },
+      {
+        "text": "S\u00f3 ao ve\u00edculo da direita",
+        "correct": false
+      },
+      {
+        "text": "S\u00f3 ao ve\u00edculo da esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda. Devo:",
+    "image": "images/outras-manobras_3244.jpg",
+    "answers": [
+      {
+        "text": "Evitar a manobra, caso desta possa resultar perigo ou embara\u00e7o \u00e0 circula\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Passar imediatamente para a via de tr\u00e2nsito mais \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros, para mais rapidamente passar \u00e0 via da esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda. Devo:",
+    "image": "images/outras-manobras_3245.jpg",
+    "answers": [
+      {
+        "text": "Colocar-me o mais poss\u00edvel \u00e0 direita da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Colocar-me o mais poss\u00edvel \u00e0 esquerda da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar antecipadamente e realizar a manobra junto da linha mista.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda. O que devo fazer?",
+    "image": "images/outras-manobras_3246.jpg",
+    "answers": [
+      {
+        "text": "Com a devida anteced\u00eancia, sinalizar e aproximar o meu ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Desistir da manobra, porque os sentidos de tr\u00e2nsito s\u00e3o divididos por uma linha cont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de via de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 esquerda. Para tal devo:",
+    "image": "images/outras-manobras_3247.jpg",
+    "answers": [
+      {
+        "text": "Aproximar o ve\u00edculo ao lado esquerdo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Aproximar o ve\u00edculo da marca rodovi\u00e1ria que est\u00e1 a dividir as vias de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Aproximar o ve\u00edculo do eixo da faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o para a direita. Devo ceder a passagem:",
+    "image": "images/outras-manobras_3248.jpg",
+    "answers": [
+      {
+        "text": "Aos dois autom\u00f3veis.",
+        "correct": false
+      },
+      {
+        "text": "S\u00f3 ao autom\u00f3vel da direita.",
+        "correct": false
+      },
+      {
+        "text": "S\u00f3 ao autom\u00f3vel da esquerda, porque o da direita segue em frente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o para a esquerda no pr\u00f3ximo entroncamento. Como devo proceder?",
+    "image": "images/outras-manobras_3249.jpg",
+    "answers": [
+      {
+        "text": "Fazer o respectivo sinal com a m\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Fazer o respectivo sinal e aproximar-me do eixo da faixa de rodagem",
+        "correct": true
+      },
+      {
+        "text": "Passar de imediato para a via de tr\u00e2nsito da esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o para a esquerda. Como proceder?",
+    "image": "images/outras-manobras_3250.jpg",
+    "answers": [
+      {
+        "text": "Devo aproximar-me, com a necess\u00e1ria anteced\u00eancia e o mais poss\u00edvel, do eixo da faixa de rodagem e efectuar a manobra por forma que da sua realiza\u00e7\u00e3o n\u00e3o resulte perigo ou embara\u00e7o para o tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Devo aproximar-me, com a necess\u00e1ria anteced\u00eancia e o mais poss\u00edvel, do lado direito da faixa de rodagem e efectuar a manobra de modo a n\u00e3o embara\u00e7ar o tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o para a esquerda. Devo:",
+    "image": "images/outras-manobras_3251.jpg",
+    "answers": [
+      {
+        "text": "Aproximar-me com a devida anteced\u00eancia do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Circular pelo lado esquerdo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Conservar-me o mais poss\u00edvel \u00e0 direita da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual a manobra que estou impossibilitado de realizar no local em que me encontro?",
+    "image": "images/outras-manobras_3252.jpg",
+    "answers": [
+      {
+        "text": "A invers\u00e3o do sentido de marcha.",
+        "correct": true
+      },
+      {
+        "text": "A ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual das seguintes manobras \u00e9 permitida nos t\u00faneis?",
+    "image": "images/outras-manobras_3253.jpg",
+    "answers": [
+      {
+        "text": "Invers\u00e3o do sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Marcha-atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Nenhuma das mencionadas.",
+        "correct": false
+      },
+      {
+        "text": "Ultrapassagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Quando \u00e9 que o condutor do ve\u00edculo \u00e0 minha frente deve cessar o sinal realizado com o indicador de mudan\u00e7a de direc\u00e7\u00e3o \u00e0 direita?",
+    "image": "images/outras-manobras_3254.jpg",
+    "answers": [
+      {
+        "text": "Assim que tenha iniciado a mudan\u00e7a de via de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Logo que deixe de constituir perigo para os outros utentes.",
+        "correct": false
+      },
+      {
+        "text": "Logo que tenha conclu\u00eddo a manobra de mudan\u00e7a de direc\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Quando executo a manobra de estacionamento, \u00e9 poss\u00edvel recorrer \u00e0 marcha atr\u00e1s?",
+    "image": "images/outras-manobras_3255.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, quando estaciono nunca posso fazer marcha atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas dentro da localidade.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Que espa\u00e7o posso percorrer em marcha atr\u00e1s?",
+    "image": "images/outras-manobras_3256.jpg",
+    "answers": [
+      {
+        "text": "100 metros.",
+        "correct": false
+      },
+      {
+        "text": "O m\u00ednimo indispens\u00e1vel.",
+        "correct": true
+      },
+      {
+        "text": "O que entender, se com isso n\u00e3o prejudicar o tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que manobra estou proibido de realizar no local em que me encontro?",
+    "image": "images/outras-manobras_3257.jpg",
+    "answers": [
+      {
+        "text": "A paragem.",
+        "correct": false
+      },
+      {
+        "text": "A ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "O estacionamento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Que manobra estou proibido de realizar no local em que me encontro?",
+    "image": "images/outras-manobras_3258.jpg",
+    "answers": [
+      {
+        "text": "A paragem fora da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "O estacionamento na faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que manobra se prepara para realizar o condutor que circula \u00e0 minha frente?",
+    "image": "images/outras-manobras_3259.jpg",
+    "answers": [
+      {
+        "text": "Invers\u00e3o do sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Marcha-atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Mudan\u00e7a de direc\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Regra geral, a marcha atr\u00e1s como manobra auxiliar ou de recurso, deve ser executada:",
+    "image": "images/outras-manobras_3260.jpg",
+    "answers": [
+      {
+        "text": "Lentamente e no maior trajecto poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Lentamente e no menor trajecto poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Rapidamente e o mais \u00e0 direita poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Regra geral, ao mudar de direc\u00e7\u00e3o \u00e0 esquerda, devo:",
+    "image": "images/outras-manobras_3261.jpg",
+    "answers": [
+      {
+        "text": "Dar a direita ao centro de intersec\u00e7\u00e3o das duas vias.",
+        "correct": false
+      },
+      {
+        "text": "Dar a esquerda ao centro de intersec\u00e7\u00e3o das duas vias.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se pretender inverter o sentido de marcha devo aproximar-me o mais poss\u00edvel do eixo da faixa de rodagem. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/outras-manobras_3262.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se pretender mudar de direc\u00e7\u00e3o \u00e0 esquerda, devo:",
+    "image": "images/outras-manobras_3263.jpg",
+    "answers": [
+      {
+        "text": "Aproximar o ve\u00edculo da marca rodovi\u00e1ria que divide as duas vias.",
+        "correct": false
+      },
+      {
+        "text": "Desistir da manobra porque o sinal est\u00e1 vermelho.",
+        "correct": false
+      },
+      {
+        "text": "Ocupar a via de tr\u00e2nsito adequada.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se puder inverter o sentido de marcha, sem recurso \u00e0 marcha-atr\u00e1s posso realizar a manobra neste local?",
+    "image": "images/outras-manobras_3264.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tendo-me enganado no caminho pretendido, como devo proceder para passar a circular em sentido oposto \u00e0quele em que sigo?",
+    "image": "images/outras-manobras_3265.jpg",
+    "answers": [
+      {
+        "text": "Fazendo marcha-atr\u00e1s pela berma e com as luzes de perigo ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Invertendo o sentido de marcha no local em que me encontro.",
+        "correct": false
+      },
+      {
+        "text": "Seguindo at\u00e9 \u00e0 rotunda e optando a\u00ed pela direc\u00e7\u00e3o desejada.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Um dos factores que pode impedir a execu\u00e7\u00e3o da manobra de invers\u00e3o do sentido de marcha, \u00e9 a visibilidade do local.",
+    "image": "images/outras-manobras_3266.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uma das manobras proibidas de realizar neste local \u00e9 a invers\u00e3o do sentido de marcha. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/outras-manobras_3267.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, neste local ainda posso realizar a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a manobra \u00e9 proibida neste local.",
+        "correct": true
+      },
+      {
+        "text": "Sim, excepto para os autom\u00f3veis pesados que circulam em sentido contr\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vou mudar de direc\u00e7\u00e3o para a direita. Devo:",
+    "image": "images/outras-manobras_3268.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem se o outro ve\u00edculo seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Prosseguir normalmente, com precau\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  }
+]

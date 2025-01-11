@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Comic Neue', cursive;
+        }
+    
+        html{
+            width: 100%;
+            height: 100%;
+        }
+    
+        body{
+            width: 100%;
+            max-width: 1170px;
+            margin: 0 auto;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+        }
+    
+        header {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            height: fit-content;
+            padding: 20px 0px 40px 0px;
+        }
+    
+        header > div {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 20px;
+        }
+    
+        header > div > p{
+            font-size: 1.2rem;
+        }
+    
+        .content {
+            display: flex;
+            flex-direction: row;
+            gap: 40px;
+        }
+    
+        #selection {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            align-items: start;
+            margin-bottom: 30px;
+        }
+    
+        #question {
+            font-size: 1.4rem;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+    
+        #selection img {
+            max-width: 600px;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+    
+        .buttons {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 15px;
+            width: 100%;
+        }
+    
+        .buttons > button {
+            padding: 15px 25px;
+            font-size: 1.2rem;
+            font-weight: 500;
+            border-radius: 10px;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            background: white;
+            text-align: left;
+        }
+    
+        .buttons > button:hover:not([disabled]) {
+            background: #f5f5f5;
+        }
+    
+        .buttons > .selected {
+            background: #e8e8e8;
+            border-color: #999;
+        }
+
+        .buttons > .correct {
+            background: #00A519;
+            border-color: #52C363;
+            color: white;
+        }
+
+        .buttons > .wrong {
+            background: #D90000;
+            border-color: rgb(195, 82, 82);
+            color: white;
+        }
+
+        #continue {
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            border-radius: 10px;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            background: #00A519;
+            width: 100%;
+            color: white;
+        }
+
+        #continue:hover:not([disabled]) {
+            background: #008514;
+        }
+
+        #continue:disabled {
+            background: #ddd;
+            color: #999;
+        }
+
+        p#question {
+            font-size: 1.4rem;
+            line-height: 1.6;
+            margin-bottom: 20px;
+
+            border-radius: 10px;
+            width: fit-content;
+            height: fit-content;
+        }
+
+        .layout {
+            border: 1px solid black;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            border-radius: 10px;
+            position: absolute;
+            width: 100%;
+            bottom: -70px;
+        }
+
+        .layout.correct {
+            color: white;
+            background: #52C363;
+            font-weight: bold;
+            font-size: 30px;
+        }
+
+        .layout.correct #nextQuestion {
+            background: #00A519;
+            color: white;
+            padding: 10px 20px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            border-radius: 10px;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            border: 1px solid black;
+        }
+
+        .layout.wrong {
+            color: white;
+            background: #F1AEAE;
+            font-weight: bold;
+            font-size: 30px;
+        }
+
+        .layout.wrong #nextQuestion {
+            background: #D90000;
+            color: white;
+            padding: 10px 20px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            border-radius: 10px;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            border: 1px solid black;
+        }
+
+        .layout > button{
+            padding: 10px;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: translateY(0) translateX(0) translateZ(0); }
+            10%, 30%, 50%, 70%, 90% { transform: translateY(-5px) translateX(-5px) translateZ(-5px);}
+            20%, 40%, 60%, 80% { transform: translateY(5px) translateX(5px) translateZ(5px); }
+        }
+
+        .shake {
+            animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both infinite;
+            transform: translate3d(0, 0, 0);
+            backface-visibility: hidden;
+            perspective: 1000px;
+        }
+
+        #back {
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            border-radius: 10px;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            background: #00A519;
+            width: 100%;
+            color: white;
+        }
+
+        
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Perguntas Exame - Categoria B</h1>
+        <div>
+            <p>Respondidas: <span id="answered">0</span>/<span id="total">0</span></p>
+            <p>Streak: <span id="streak">0</span>🔥</p>
+        </div>
+    </header>
+
+
+    <div class="content" style="position: relative;">
+        <div style="width: 100%;">
+            <div>
+                <div id="timer" style="position: fixed; top: 20px; right: 20px; font-size: 24px; font-weight: bold;"></div>
+            </div>
+            <div id="selection">
+                <div style="display: flex; gap: 10px; flex-direction: row-reverse;">
+                    <p id="question">A carregar ..</p>
+                    <img width="800px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbUTKT4JPN4tBMpELFFJPlvWeS7WTylMxrbQ&s" alt="">    
+                </div>
+                <div class="buttons"></div>    
+            </div>
+
+            <button id="continue" disabled onclick="answerQuestion()">Continuar</button>
+
+            <div class="layout wrong" style="display: none;">
+                <p style="color: red">😭😭😭 ERRASTE! A RESPOSTA ERA <span id="anwnser"></span></p>
+                <button id="nextQuestion">Seguinte</button>
+            </div>
+
+            <div class="layout correct" style="display: none;">
+                <p style="color: white">ACERTASTE!!!! 🎉🎉🎉🎉</p>
+                <button id="nextQuestion">Seguinte</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="resultados" style="display: none;">
+        <div style="display: flex; width: 100%; justify-content: center; padding-bottom: 30px;">
+            <h1 id="resultado">TESTE</h1>
+        </div>
+
+        <div class="perguntas"></div>
+
+        <div style="display: flex;align-content: center;align-items: center;/*! justify-items: center; */padding-bottom: 20px;justify-content: space-between;">
+            <h2 style="padding-right: 10px;">Resultados</h2>
+            <div style="display: flex; /*! flex-direction: column; */ /*! justify-content: space-between; */ /*! margin-bottom: 30px; */gap: 20px;">
+                <b>Acertaste: <span id="correct">0</span></b>
+                <b>Erraste: <span id="wrong">0</span></b>    
+            </div>    
+        </div>
+        <button id="back" onclick="window.location.href = `/`">Voltar ao inicio</button>
+    </div>
+
+    <script>
+        let audiocor = new Audio("/assets/cor.mp3")
+        let audiowor = new Audio("/assets/inc.mp3")
+        let audiolost = new Audio("/assets/lost.mp3")
+        let audiowon = new Audio("/assets/won.mp3")
+
+        let answered = 0
+        let streak = 0
+        let allowSelection = true
+        let timer;
+
+        let correct = []
+        let wrong = []
+
+        function loadResultados(){
+            document.querySelector(".content").style.display = "none"
+            document.querySelector(".resultados").style.display = ""
+
+            const total = JSON.parse(localStorage.getItem("exam"))
+
+            const answered = correct.length + wrong.length
+            if (answered < total.length) {
+                for(let i = 0; i < total.length; i++) {
+                    if (!correct.find((el) => el.question == i) && !wrong.find((el) => el.question == i)) {
+                        wrong.push(i)
+                    }
+                }
+            }
+
+            document.getElementById("correct").textContent = correct.length
+            document.getElementById("wrong").textContent = wrong.length
+
+            let final;
+            if (wrong.length >= 3){
+                final = "Reprovado"
+                audiolost.play()
+            } else {
+                final = "Aprovado"
+                if (streak == total.length){
+                    final = "Aprovado com distinção!!😎😎"
+                }
+                audiowon.play()
+            }
+            document.getElementById("resultado").textContent = final
+            document.getElementById("resultado").style.color = wrong.length >= 3 ? "red" : "green"
+
+            let joinedarr = wrong.concat(correct)
+            joinedarr.forEach((el) => {
+                let elorg = total[typeof el === "object" ? el["question"] : el]
+                let answered = typeof el === "object" ? el["selected"] : -1
+
+                const div = document.createElement("div")
+                const divgroup = document.createElement("div")
+                divgroup.style = "display: flex;gap: 10px;flex-direction: row-reverse;"
+
+                div.id = "selection"
+                const p = document.createElement("p")
+                p.id = "question"
+                p.textContent = elorg.question
+                const img = document.createElement("img")
+                divgroup.appendChild(p)
+                divgroup.appendChild(img)
+
+                div.appendChild(divgroup)
+
+                const divbtn = document.createElement("div")
+                divbtn.classList.add("buttons")
+                elorg.answers.forEach((answer, index) => {
+                    console.log()
+                    const button = document.createElement("button")
+                    button.disabled = true
+                    button.textContent = answer.text
+                    button.dataset.index = index
+                    if (answer.correct || (index == answered && answer.correct)) {
+                        button.classList.add("correct")
+                    } else if (index == answered) {
+                        button.classList.add("wrong")
+                    }
+                    divbtn.appendChild(button)
+                })
+                div.appendChild(divbtn)
+                img.src = elorg.image
+                document.querySelector(".perguntas").appendChild(div)
+            })
+
+        }
+
+        function clearButtons() {
+            document.querySelectorAll(".buttons button").forEach((button) => {
+                button.remove()
+            })
+        }
+
+        function answerQuestion() {
+            if (!allowSelection) return
+            if (document.querySelector(".buttons button.selected")) {
+                const buttonindex = document.querySelector(".buttons button.selected").dataset.index
+                const questions = JSON.parse(localStorage.getItem("exam"))
+                const question = questions[answered]
+
+                const remap = {
+                    1: "A)",
+                    2: "B)",
+                    3: "C)",
+                    4: "D)"
+                }
+
+                console.log(question)
+                console.log(question.answers)
+                console.log(question.answers.findIndex((answer) => answer.correct))
+
+                document.getElementById("anwnser").textContent = remap[question.answers.findIndex((answer) => answer.correct) + 1]
+
+                if (question.answers[buttonindex].correct) {
+                    streak++
+                    document.getElementById("streak").textContent = streak
+                    document.querySelector(".layout.correct").style.display = ""
+                    allowSelection = false
+
+                    document.querySelectorAll(".buttons button").forEach((button) => {
+                        button.setAttribute("disabled", "")
+                    })
+                    document.querySelector(".buttons .selected").classList.add("correct")
+                    document.querySelector(".buttons .selected").classList.remove("selected")
+
+                    correct.push({
+                        question: answered,
+                        selected: buttonindex
+                    })
+                    audiocor.play()
+                } else {
+                    streak = 0
+                    document.getElementById("streak").textContent = streak
+                    document.querySelector(".layout.wrong").style.display = ""
+                    allowSelection = false
+                    document.querySelectorAll(".buttons button").forEach((button) => {
+                        console.log(button)
+                        if (button.dataset.index == question.answers.findIndex((answer) => answer.correct)) {
+                            button.classList.add("correct")
+                        }
+
+                        button.setAttribute("disabled", "")
+                    })
+                    document.querySelector(".buttons .selected").classList.add("wrong")
+                    document.querySelector(".buttons .selected").classList.remove("selected")
+                    wrong.push({
+                        question: answered,
+                        selected: buttonindex
+                    })
+                    audiowor.play()
+                }
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+            const questions = JSON.parse(localStorage.getItem("exam"))
+            const total = questions.length
+
+            document.getElementById("total").textContent = total
+
+            const image = document.querySelector("img")
+            const question = document.getElementById("question")
+
+            image.src = questions[answered].image
+            question.textContent = questions[answered].question
+
+            const anwnsers = questions[answered].answers
+
+            anwnsers.forEach((answer, index) => {
+                const button = document.createElement("button")
+                button.textContent = answer.text
+                button.dataset.index = index
+
+                button.addEventListener("click", (e) => {
+                    if (!allowSelection) return
+
+                    document.querySelectorAll(".buttons button").forEach((button) => {
+                        button.classList.remove("selected")
+                    })
+
+                    e.target.classList.add("selected")
+
+                    document.getElementById("continue").removeAttribute("disabled")
+                })
+
+                const contbtn = document.querySelector("#continue").disabled = true
+
+                document.querySelector(".buttons").appendChild(button)
+
+            })
+
+            document.querySelectorAll("#nextQuestion").forEach((element)=>{
+                element.addEventListener("click", (e)=> {
+                    const questions = JSON.parse(localStorage.getItem("exam"))
+
+                    document.querySelector(".layout.correct").style.display = "none"
+                    document.querySelector(".layout.wrong").style.display = "none"
+                    document.querySelector("div.buttons").innerHTML = ""
+                    document.getElementById("continue").setAttribute("disabled", "")
+
+                    answered++
+                    document.getElementById("answered").textContent = answered
+
+                    if (answered >= total) {
+                        clearInterval(timer);
+                        alert("Acabou o exame!")
+                        loadResultados();
+                        return
+                    }
+
+                    const image = document.querySelector("img")
+                    const question = document.getElementById("question")
+
+                    image.src = questions[answered].image
+                    question.textContent = questions[answered].question
+
+                    const anwnsers = questions[answered].answers
+
+                    anwnsers.forEach((answer, index) => {
+                        const button = document.createElement("button")
+                        button.textContent = answer.text
+                        button.dataset.index = index
+
+                        button.addEventListener("click", (e) => {
+                            if (!allowSelection) return
+
+                            document.querySelectorAll(".buttons button").forEach((button) => {
+                                button.classList.remove("selected")
+                            })
+
+                            e.target.classList.add("selected")
+
+                            document.getElementById("continue").removeAttribute("disabled")
+                        })
+
+                        const contbtn = document.querySelector("#continue").disabled = true
+
+                        document.querySelector(".buttons").appendChild(button)
+                        allowSelection = true
+                    })
+                })
+            })
+        })
+
+        let timeLeft = 30*60;
+        const timerDisplay = document.getElementById('timer');
+
+        function startTimer() {
+            timer = setInterval(() => {
+                timeLeft--;
+                
+                const minutes = Math.floor(timeLeft / 60);
+                const seconds = timeLeft % 60;
+                
+                timerDisplay.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+
+                if (timeLeft <= 30){
+                    timerDisplay.style.color = "red";
+                    if (!document.querySelector("body").classList.contains("shake")) {
+                        document.querySelector("body").classList.add("shake")
+                    }
+                }
+
+                if (timeLeft <= 0) {
+                    clearInterval(timer);
+                    alert("Acabou o tempo!")
+                    document.querySelector("body").classList.remove("shake")
+                    loadResultados();
+                }
+            }, 1000);
+        }
+
+        window.addEventListener('load', startTimer);
+
+    </script>
+</body>
+</html>

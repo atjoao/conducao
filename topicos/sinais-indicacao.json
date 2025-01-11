@@ -1,0 +1,2946 @@
+[
+    {
+        "question": "A cor verde do sinal \u00e0 minha direita indica-me que circulo:",
+        "image": "images/sinais-indicacao_2138.jpg",
+        "answers": [
+            {
+                "text": "Num itiner\u00e1rio principal.",
+                "correct": true
+            },
+            {
+                "text": "Numa auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "Numa estrada nacional.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "\u00c0 dist\u00e2ncia de 300 metros vou encontrar um posto de abastecimento de combust\u00edvel onde poderei abastecer o meu autom\u00f3vel com GPL. A afirma\u00e7\u00e3o \u00e9:",
+        "image": "images/sinais-indicacao_2139.jpg",
+        "answers": [
+            {
+                "text": "Falsa.",
+                "correct": true
+            },
+            {
+                "text": "Verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A dist\u00e2ncia indicada no sinal de aproxima\u00e7\u00e3o de sa\u00edda \u00e9 relativa:",
+        "image": "images/sinais-indicacao_2140.jpg",
+        "answers": [
+            {
+                "text": "Ao in\u00edcio da pr\u00f3xima localidade.",
+                "correct": false
+            },
+            {
+                "text": "Ao in\u00edcio da via de abrandamento ou de sa\u00edda.",
+                "correct": true
+            },
+            {
+                "text": "Ao pr\u00f3ximo sinal de indica\u00e7\u00e3o de sa\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A paragem assinalada destina-se \u00e0 imobiliza\u00e7\u00e3o de:",
+        "image": "images/sinais-indicacao_2141.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis pesados.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos afectos ao transporte de crian\u00e7as.",
+                "correct": true
+            },
+            {
+                "text": "Ve\u00edculos que transitem sobre carris.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A partir da sinaliza\u00e7\u00e3o existente na via sei que:",
+        "image": "images/sinais-indicacao_2142.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o posso inverter o sentido de marcha.",
+                "correct": true
+            },
+            {
+                "text": "Posso inverter o sentido de marcha porque a linha descont\u00ednua permite.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A partir deste sinal sei que:",
+        "image": "images/sinais-indicacao_2143.jpg",
+        "answers": [
+            {
+                "text": "A via em que circulo tem prioridade de passagem.",
+                "correct": false
+            },
+            {
+                "text": "Existe uma via de tr\u00e2nsito em cada sentido.",
+                "correct": false
+            },
+            {
+                "text": "O tr\u00e2nsito se passa a fazer apenas num sentido.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A partir do sinal vertical circulo numa via em que n\u00e3o \u00e9 permitido:",
+        "image": "images/sinais-indicacao_2144.jpg",
+        "answers": [
+            {
+                "text": "Aos quadriciclos ultrapassar.",
+                "correct": false
+            },
+            {
+                "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A que dist\u00e2ncia posso encontrar repetida esta demarca\u00e7\u00e3o miriam\u00e9trica da via?",
+        "image": "images/sinais-indicacao_2145.jpg",
+        "answers": [
+            {
+                "text": "Em cada 10 quil\u00f3metros percorridos.",
+                "correct": true
+            },
+            {
+                "text": "Em cada 100 metros percorridos.",
+                "correct": false
+            },
+            {
+                "text": "Em cada quil\u00f3metro percorrido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A que tipo de sinais correspondem estas demarca\u00e7\u00f5es com identifica\u00e7\u00e3o da via em que circulo?",
+        "image": "images/sinais-indicacao_2146.jpg",
+        "answers": [
+            {
+                "text": "Sinais de confirma\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sinais de indica\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sinais de informa\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o complementar existente neste local, indica:",
+        "image": "images/sinais-indicacao_2147.jpg",
+        "answers": [
+            {
+                "text": "A posi\u00e7\u00e3o e limites de obst\u00e1culos existentes.",
+                "correct": false
+            },
+            {
+                "text": "O desenvolvimento de um tro\u00e7o em curva.",
+                "correct": true
+            },
+            {
+                "text": "O ponto de diverg\u00eancia de uma sa\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o de cor azul que se encontra na via de tr\u00e2nsito onde circulo chama-se:",
+        "image": "images/sinais-indicacao_2148.jpg",
+        "answers": [
+            {
+                "text": "Sinal de confirma\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sinal de direc\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sinal de pr\u00e9-aviso gr\u00e1fico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o desta via indica-me a aproxima\u00e7\u00e3o de:",
+        "image": "images/sinais-indicacao_2149.jpg",
+        "answers": [
+            {
+                "text": "Uma passagem de n\u00edvel a 150 metros.",
+                "correct": false
+            },
+            {
+                "text": "Uma passagem de n\u00edvel com guarda a 300 metros.",
+                "correct": true
+            },
+            {
+                "text": "Uma sa\u00edda a 300 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o existente obriga-me a seguir em frente?",
+        "image": "images/sinais-indicacao_2150.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o vertical encontrada na via informa que:",
+        "image": "images/sinais-indicacao_2151.jpg",
+        "answers": [
+            {
+                "text": "A pr\u00f3xima sa\u00edda da via onde circulo se encontra a 2000 metros.",
+                "correct": true
+            },
+            {
+                "text": "As localidades indicadas no sinal est\u00e3o a uma dist\u00e2ncia de 13 Km.",
+                "correct": false
+            },
+            {
+                "text": "As localidades indicadas no sinal est\u00e3o a uma dist\u00e2ncia de 2000 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o vertical informa-me:",
+        "image": "images/sinais-indicacao_2152.jpg",
+        "answers": [
+            {
+                "text": "Que do lado direito existe um parque de estacionamento autorizado para todos os autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Que posso estacionar paralelamente \u00e0 via, sobre o passeio.",
+                "correct": false
+            },
+            {
+                "text": "Que, do lado direito da via existe um parque de estacionamento restritivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A via indicada pelo sinal passa a ser:",
+        "image": "images/sinais-indicacao_2153.jpg",
+        "answers": [
+            {
+                "text": "Auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "Via de acesso a uma oficina de repara\u00e7\u00f5es para autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Via reservada a autom\u00f3veis e motociclos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Antes da sa\u00edda desta auto-estrada vou encontrar outros sinais complementares?",
+        "image": "images/sinais-indicacao_2154.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque este sinal se encontra a 750 metros.",
+                "correct": false
+            },
+            {
+                "text": "Sim vou encontrar, mas apenas a 200 metros.",
+                "correct": false
+            },
+            {
+                "text": "Sim, pelo menos mais dois sinais.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ao circular nesta via e perante este sinal, fico a saber que:",
+        "image": "images/sinais-indicacao_2155.jpg",
+        "answers": [
+            {
+                "text": "A 500 metros, vou ter informa\u00e7\u00e3o sobre onde se encontra um posto de abastecimento de combust\u00edvel.",
+                "correct": false
+            },
+            {
+                "text": "Se encontra a 500 metros um posto de abastecimento de combust\u00edvel com GPL.",
+                "correct": false
+            },
+            {
+                "text": "Se encontra a 500 metros um posto de abastecimento de combust\u00edvel.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ao encontrar este sinal devo:",
+        "image": "images/sinais-indicacao_2156.jpg",
+        "answers": [
+            {
+                "text": "Adaptar a condu\u00e7\u00e3o \u00e0s caracter\u00edsticas da via em que passo a circular.",
+                "correct": true
+            },
+            {
+                "text": "Reduzir a velocidade pois vou encontrar um desvio na via.",
+                "correct": false
+            },
+            {
+                "text": "Tomar precau\u00e7\u00f5es especiais, pois a via n\u00e3o tem sa\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ao encontrar o sinal de informa\u00e7\u00e3o, devo:",
+        "image": "images/sinais-indicacao_2157.jpg",
+        "answers": [
+            {
+                "text": "Ceder a passagem a quaisquer ve\u00edculos que saiam do local assinalado.",
+                "correct": false
+            },
+            {
+                "text": "Evitar fazer ru\u00eddos.",
+                "correct": true
+            },
+            {
+                "text": "Parar obrigatoriamente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal de indica\u00e7\u00e3o, os ve\u00edculos circulam:",
+        "image": "images/sinais-indicacao_2158.jpg",
+        "answers": [
+            {
+                "text": "Apenas no sentido contr\u00e1rio ao meu.",
+                "correct": false
+            },
+            {
+                "text": "Apenas no sentido em que me encontro.",
+                "correct": false
+            },
+            {
+                "text": "Nos dois sentidos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal de indica\u00e7\u00e3o:",
+        "image": "images/sinais-indicacao_2159.jpg",
+        "answers": [
+            {
+                "text": "Deixa de haver limite para a velocidade m\u00e1xima.",
+                "correct": false
+            },
+            {
+                "text": "Transito numa auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "Transito numa via com acessos condicionados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal vertical, os limites de velocidade m\u00ednima:",
+        "image": "images/sinais-indicacao_2160.jpg",
+        "answers": [
+            {
+                "text": "Diminuem.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o existem.",
+                "correct": false
+            },
+            {
+                "text": "S\u00e3o obrigat\u00f3rios.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal, o estacionamento \u00e9:",
+        "image": "images/sinais-indicacao_2161.jpg",
+        "answers": [
+            {
+                "text": "Autorizado.",
+                "correct": true
+            },
+            {
+                "text": "Limitado.",
+                "correct": false
+            },
+            {
+                "text": "Proibido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "At\u00e9 \u00e0 pr\u00f3xima sa\u00edda desta auto-estrada irei encontrar mais dois sinais complementares, nomeadamente a 500 e a 750 metros da sa\u00edda. Concorda com esta afirma\u00e7\u00e3o?",
+        "image": "images/sinais-indicacao_2162.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "At\u00e9 \u00e0 pr\u00f3xima sa\u00edda desta auto-estrada irei encontrar outros sinais complementares de aproxima\u00e7\u00e3o de sa\u00edda?",
+        "image": "images/sinais-indicacao_2163.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque este j\u00e1 est\u00e1 a 750 metros da sa\u00edda.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mais dois.",
+                "correct": true
+            },
+            {
+                "text": "Sim, mais um.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "De acordo com o sinal vertical, o que vou encontrar \u00e0 dist\u00e2ncia de 500 metros?",
+        "image": "images/sinais-indicacao_2164.jpg",
+        "answers": [
+            {
+                "text": "Obras ou obst\u00e1culos na via.",
+                "correct": false
+            },
+            {
+                "text": "Um posto de abastecimento de combust\u00edvel.",
+                "correct": false
+            },
+            {
+                "text": "Uma sa\u00edda da auto-estrada.",
+                "correct": true
+            },
+            {
+                "text": "Uma via de sa\u00edda para a \u00e1rea de servi\u00e7o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Devo saber que os dois sinais verticais de fundo azul existentes na via, s\u00e3o:",
+        "image": "images/sinais-indicacao_2165.jpg",
+        "answers": [
+            {
+                "text": "De confirma\u00e7\u00e3o e direc\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "De informa\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "De pr\u00e9-sinaliza\u00e7\u00e3o e confirma\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal complementar est\u00e1 colocado numa via reservada a autom\u00f3veis e motociclos a 500 metros de uma sa\u00edda.",
+        "image": "images/sinais-indicacao_2166.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal d\u00e1 indica\u00e7\u00e3o aos condutores de:",
+        "image": "images/sinais-indicacao_2167.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de sa\u00edda a 150 metros.",
+                "correct": true
+            },
+            {
+                "text": "Fim de todas as proibi\u00e7\u00f5es a 150 metros.",
+                "correct": false
+            },
+            {
+                "text": "T\u00fanel a 150 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal de informa\u00e7\u00e3o indica-me:",
+        "image": "images/sinais-indicacao_2168.jpg",
+        "answers": [
+            {
+                "text": "Fim de auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "Fim de localidade.",
+                "correct": false
+            },
+            {
+                "text": "Fim de via reservada a autom\u00f3veis e motociclos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal \u00e9 de:",
+        "image": "images/sinais-indicacao_2169.jpg",
+        "answers": [
+            {
+                "text": "Indica\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Perigo.",
+                "correct": false
+            },
+            {
+                "text": "Pr\u00e9-sinaliza\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal \u00e9 de:",
+        "image": "images/sinais-indicacao_2170.jpg",
+        "answers": [
+            {
+                "text": "Indica\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Regulamenta\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica que a 300 metros existe:",
+        "image": "images/sinais-indicacao_2171.jpg",
+        "answers": [
+            {
+                "text": "Um telefone de utiliza\u00e7\u00e3o p\u00fablica.",
+                "correct": false
+            },
+            {
+                "text": "Um telefone para utiliza\u00e7\u00e3o em caso de emerg\u00eancia.",
+                "correct": true
+            },
+            {
+                "text": "Uma \u00e1rea de servi\u00e7o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica que \u00e0 dist\u00e2ncia de 1000 metros s\u00f3 posso seguir:",
+        "image": "images/sinais-indicacao_2172.jpg",
+        "answers": [
+            {
+                "text": "Em frente ou para a direita.",
+                "correct": false
+            },
+            {
+                "text": "Em frente.",
+                "correct": false
+            },
+            {
+                "text": "Para a direita.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me a proximidade de um local:",
+        "image": "images/sinais-indicacao_2173.jpg",
+        "answers": [
+            {
+                "text": "Para estacionar o ve\u00edculo em caso de situa\u00e7\u00f5es atmosf\u00e9ricas adversas.",
+                "correct": false
+            },
+            {
+                "text": "Para estacionar o ve\u00edculo se quiser descansar.",
+                "correct": false
+            },
+            {
+                "text": "Para imobilizar o ve\u00edculo em caso de falha do sistema de travagem.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me que vou:",
+        "image": "images/sinais-indicacao_2174.jpg",
+        "answers": [
+            {
+                "text": "Entrar numa auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "Sair de uma auto-estrada.",
+                "correct": true
+            },
+            {
+                "text": "Sair de uma via reservada a autom\u00f3veis e motociclos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me:",
+        "image": "images/sinais-indicacao_2175.jpg",
+        "answers": [
+            {
+                "text": "Auto-estrada.",
+                "correct": true
+            },
+            {
+                "text": "Fim de auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "Via reservada a autom\u00f3veis e motociclos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-indicacao_2176.jpg",
+        "answers": [
+            {
+                "text": "A aproxima\u00e7\u00e3o da passagem assinalada para a travessia de pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "A aproxima\u00e7\u00e3o de um local frequentado por pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "O local exacto da passagem de pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-indicacao_2177.jpg",
+        "answers": [
+            {
+                "text": "Estacionamento autorizado.",
+                "correct": true
+            },
+            {
+                "text": "Estacionamento para t\u00e1xis.",
+                "correct": false
+            },
+            {
+                "text": "Parque de campismo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal obriga os condutores a seguir em direc\u00e7\u00e3o ao est\u00e1dio?",
+        "image": "images/sinais-indicacao_2178.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque o sinal obriga a seguir em direc\u00e7\u00e3o \u00e0 auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, porque estou perante um sinal de regulamenta\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical indica:",
+        "image": "images/sinais-indicacao_2179.jpg",
+        "answers": [
+            {
+                "text": "Tr\u00e2nsito de sentido obrigat\u00f3rio.",
+                "correct": false
+            },
+            {
+                "text": "Via com tr\u00e2nsito de sentido \u00fanico.",
+                "correct": true
+            },
+            {
+                "text": "Via onde s\u00f3 \u00e9 poss\u00edvel formar uma fila de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Estou perante um sinal de indica\u00e7\u00e3o.",
+        "image": "images/sinais-indicacao_2180.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Nesta situa\u00e7\u00e3o posso efectuar a invers\u00e3o de sentido de marcha?",
+        "image": "images/sinais-indicacao_2181.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, pois a sinaliza\u00e7\u00e3o existente n\u00e3o mo permite.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mudando \u00e0 direita na pr\u00f3xima intersec\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, no exacto local onde me encontro.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Nesta via de tr\u00e2nsito e perante a sinaliza\u00e7\u00e3o vertical:",
+        "image": "images/sinais-indicacao_2182.jpg",
+        "answers": [
+            {
+                "text": "Estou obrigado a circular a mais de 50 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "Estou obrigado a circular a uma velocidade m\u00e1xima de 50 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "Sou aconselhado a circular a uma velocidade m\u00e1xima de 50 Km/h.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo:",
+        "image": "images/sinais-indicacao_2183.jpg",
+        "answers": [
+            {
+                "text": "Aguardar pela abertura da cancela da ponte m\u00f3vel.",
+                "correct": true
+            },
+            {
+                "text": "Inverter o sentido de marcha, pois a ponte termina num precip\u00edcio.",
+                "correct": false
+            },
+            {
+                "text": "Inverter o sentido de marcha, porque a via n\u00e3o tem sa\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "No preciso local em que me encontro circulo:",
+        "image": "images/sinais-indicacao_2184.jpg",
+        "answers": [
+            {
+                "text": "Ainda numa localidade.",
+                "correct": true
+            },
+            {
+                "text": "Fora de uma localidade.",
+                "correct": false
+            },
+            {
+                "text": "Numa via reservada a autom\u00f3veis e motociclos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O equipamento identificador \u00e9 atribu\u00eddo:",
+        "image": "images/sinais-indicacao_2185.jpg",
+        "answers": [
+            {
+                "text": "A um determinado ve\u00edculo, independentemente do condutor.",
+                "correct": true
+            },
+            {
+                "text": "Ao condutor ou ao ve\u00edculo, consoante a op\u00e7\u00e3o pretendida.",
+                "correct": false
+            },
+            {
+                "text": "Ao condutor, independentemente do ve\u00edculo que conduz.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O espa\u00e7o que separa os dois sinais de indica\u00e7\u00e3o, do lado direito da via, serve para parar ou estacionar:",
+        "image": "images/sinais-indicacao_2186.jpg",
+        "answers": [
+            {
+                "text": "Qualquer ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Somente o ve\u00edculo do deficiente residente.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos adaptados a deficientes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O primeiro sinal, de fundo verde, colocado \u00e0 minha esquerda \u00e9 de:",
+        "image": "images/sinais-indicacao_2187.jpg",
+        "answers": [
+            {
+                "text": "Informa\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Selec\u00e7\u00e3o de vias.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+        "image": "images/sinais-indicacao_2188.jpg",
+        "answers": [
+            {
+                "text": "Mudar de direc\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Seguir em frente, se tencionar passar na portagem.",
+                "correct": true
+            },
+            {
+                "text": "Seguir obrigatoriamente na direc\u00e7\u00e3o do est\u00e1dio.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer neste local?",
+        "image": "images/sinais-indicacao_2189.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Parar obrigatoriamente.",
+                "correct": false
+            },
+            {
+                "text": "Utilizar os sinais sonoros ou luminosos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que me indica o sinal vertical?",
+        "image": "images/sinais-indicacao_2190.jpg",
+        "answers": [
+            {
+                "text": "O n\u00famero de faixas de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "O n\u00famero de pistas especiais.",
+                "correct": false
+            },
+            {
+                "text": "O n\u00famero e sentido das vias de tr\u00e2nsito.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que me indica o sinal vertical?",
+        "image": "images/sinais-indicacao_2191.jpg",
+        "answers": [
+            {
+                "text": "A exist\u00eancia de bermas em ambos os sentidos.",
+                "correct": false
+            },
+            {
+                "text": "As diferentes direc\u00e7\u00f5es das faixas de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "O n\u00famero e sentido das vias de tr\u00e2nsito.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que se verifica ap\u00f3s a passagem pelo sinal vertical?",
+        "image": "images/sinais-indicacao_2192.jpg",
+        "answers": [
+            {
+                "text": "Deixa de ser obrigat\u00f3ria a dist\u00e2ncia de seguran\u00e7a m\u00e1xima de 60m face ao ve\u00edculo da frente.",
+                "correct": false
+            },
+            {
+                "text": "Deixa de ser obrigat\u00f3ria a velocidade m\u00ednima de 60 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Deixa de ser recomendada a dist\u00e2ncia de seguran\u00e7a m\u00ednima de 60m face ao ve\u00edculo da frente.",
+                "correct": false
+            },
+            {
+                "text": "Deixa de ser recomendada a velocidade m\u00e1xima de 60 km/h.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-indicacao_2193.jpg",
+        "answers": [
+            {
+                "text": "Que o tr\u00e2nsito nos dois sentidos passa a fazer-se apenas numa s\u00f3 via.",
+                "correct": false
+            },
+            {
+                "text": "Que vou encontrar uma curva e contracurva \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Supress\u00e3o de via de tr\u00e2nsito.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-indicacao_2194.jpg",
+        "answers": [
+            {
+                "text": "Alargamento da via de tr\u00e2nsito mais \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Escapat\u00f3ria.",
+                "correct": true
+            },
+            {
+                "text": "Via obstru\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-indicacao_2195.jpg",
+        "answers": [
+            {
+                "text": "Fim da obriga\u00e7\u00e3o de circular a 50 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Fim da velocidade recomendada de 50 km/h.",
+                "correct": true
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o de circular a 50 km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-indicacao_2196.jpg",
+        "answers": [
+            {
+                "text": "Auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "Via reservada a autom\u00f3veis e motociclos.",
+                "correct": true
+            },
+            {
+                "text": "Via reservada apenas a autom\u00f3veis ligeiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-indicacao_2197.jpg",
+        "answers": [
+            {
+                "text": "Passagem a\u00e9rea destinada ao tr\u00e2nsito de pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Passagem desnivelada para pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Passagem em rampa para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Passagem para pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-indicacao_2198.jpg",
+        "answers": [
+            {
+                "text": "Fim da obriga\u00e7\u00e3o de usar correntes de neve.",
+                "correct": false
+            },
+            {
+                "text": "Fim da recomenda\u00e7\u00e3o de usar correntes de neve.",
+                "correct": true
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o de retirar as correntes de neve.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O segundo sinal de indica\u00e7\u00e3o, informa que terminou:",
+        "image": "images/sinais-indicacao_2199.jpg",
+        "answers": [
+            {
+                "text": "A obriga\u00e7\u00e3o de transitarem ve\u00edculos com d\u00edstico de deficientes.",
+                "correct": false
+            },
+            {
+                "text": "A proibi\u00e7\u00e3o de pararem ve\u00edculos com d\u00edstico de deficiente.",
+                "correct": false
+            },
+            {
+                "text": "O local de estacionamento para ve\u00edculos com d\u00edstico de deficiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal colocado mais \u00e0 direita \u00e9 de:",
+        "image": "images/sinais-indicacao_2200.jpg",
+        "answers": [
+            {
+                "text": "Indica\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Perigo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal complementar indica-me a aproxima\u00e7\u00e3o de uma sa\u00edda em auto-estrada.",
+        "image": "images/sinais-indicacao_2201.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de fundo amarelo \u00e9 utilizado em situa\u00e7\u00f5es em que a sinaliza\u00e7\u00e3o tem um car\u00e1cter:",
+        "image": "images/sinais-indicacao_2202.jpg",
+        "answers": [
+            {
+                "text": "Definitivo.",
+                "correct": false
+            },
+            {
+                "text": "Tempor\u00e1rio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de fundo azul indica-me:",
+        "image": "images/sinais-indicacao_2203.jpg",
+        "answers": [
+            {
+                "text": "Que a via passa de um para dois sentidos.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito de sentido \u00fanico.",
+                "correct": false
+            },
+            {
+                "text": "Via p\u00fablica sem sa\u00edda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de fundo azul obriga-me a inverter o sentido de marcha?",
+        "image": "images/sinais-indicacao_2204.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque se trata de um sinal de informa\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, porque se trata de um sinal de informa\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, porque se trata de um sinal de obriga\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de fundo azul, indica-me a exist\u00eancia de:",
+        "image": "images/sinais-indicacao_2205.jpg",
+        "answers": [
+            {
+                "text": "Um local onde devo ceder a passagem aos ve\u00edculos que saiam de um posto de abastecimento.",
+                "correct": false
+            },
+            {
+                "text": "Um posto de abastecimento de combust\u00edvel com GPL.",
+                "correct": true
+            },
+            {
+                "text": "Um posto de abastecimento de combust\u00edvel sem GPL.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de fundo branco indica aproxima\u00e7\u00e3o de uma sa\u00edda a 150 metros. Concorda com esta afirma\u00e7\u00e3o?",
+        "image": "images/sinais-indicacao_2206.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, a pr\u00f3xima sa\u00edda nesta auto-estrada \u00e9 a 150 metros.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de indica\u00e7\u00e3o destina-se:",
+        "image": "images/sinais-indicacao_2207.jpg",
+        "answers": [
+            {
+                "text": "\u00c0 paragem de ve\u00edculos afectos ao transporte de crian\u00e7as.",
+                "correct": true
+            },
+            {
+                "text": "\u00c0 paragem de ve\u00edculos de transporte colectivo de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Ao estacionamento de ve\u00edculos que transportam crian\u00e7as.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de indica\u00e7\u00e3o est\u00e1 colocado no local exacto da escapat\u00f3ria?",
+        "image": "images/sinais-indicacao_2208.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de indica\u00e7\u00e3o, dever\u00e1 estar colocado:",
+        "image": "images/sinais-indicacao_2209.jpg",
+        "answers": [
+            {
+                "text": "No in\u00edcio da auto-estrada e duma via reservada a autom\u00f3veis e motociclos.",
+                "correct": false
+            },
+            {
+                "text": "No in\u00edcio de uma via reservada a autom\u00f3veis e motociclos.",
+                "correct": false
+            },
+            {
+                "text": "Nos locais em que os condutores iniciam a circula\u00e7\u00e3o em auto-estrada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de indica\u00e7\u00e3o, mais pr\u00f3ximo, indica:",
+        "image": "images/sinais-indicacao_2210.jpg",
+        "answers": [
+            {
+                "text": "Um local para estacionamento de ve\u00edculos com o d\u00edstico de deficiente.",
+                "correct": true
+            },
+            {
+                "text": "Um parque interdito a ve\u00edculos com d\u00edstico de deficiente.",
+                "correct": false
+            },
+            {
+                "text": "Um parque para cadeiras de rodas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de indica\u00e7\u00e3o, mais pr\u00f3ximo, informa que:",
+        "image": "images/sinais-indicacao_2211.jpg",
+        "answers": [
+            {
+                "text": "A via \u00e9 destinada ao tr\u00e2nsito de ve\u00edculos com o d\u00edstico de deficiente.",
+                "correct": false
+            },
+            {
+                "text": "A via \u00e9 proibida a ve\u00edculos com o d\u00edstico de deficiente.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 permitido o estacionamento de ve\u00edculos com o d\u00edstico de deficiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de informa\u00e7\u00e3o d\u00e1 indica\u00e7\u00e3o aos condutores de:",
+        "image": "images/sinais-indicacao_2212.jpg",
+        "answers": [
+            {
+                "text": "Fim de auto estrada.",
+                "correct": true
+            },
+            {
+                "text": "Fim de todas as proibi\u00e7\u00f5es anteriormente impostas.",
+                "correct": false
+            },
+            {
+                "text": "Fim de via reservada a autom\u00f3veis e motociclos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de informa\u00e7\u00e3o indica-me:",
+        "image": "images/sinais-indicacao_2213.jpg",
+        "answers": [
+            {
+                "text": "A velocidade m\u00e1xima autorizada.",
+                "correct": false
+            },
+            {
+                "text": "A velocidade m\u00e1xima recomendada.",
+                "correct": true
+            },
+            {
+                "text": "A velocidade m\u00ednima autorizada.",
+                "correct": false
+            },
+            {
+                "text": "O fim de limita\u00e7\u00e3o de velocidade.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de informa\u00e7\u00e3o indica-me:",
+        "image": "images/sinais-indicacao_2214.jpg",
+        "answers": [
+            {
+                "text": "Fim de auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "Fim de via reservada a autom\u00f3veis e motociclos.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a autom\u00f3veis.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de informa\u00e7\u00e3o indica-me:",
+        "image": "images/sinais-indicacao_2215.jpg",
+        "answers": [
+            {
+                "text": "A velocidade m\u00ednima a que sou obrigado a circular.",
+                "correct": false
+            },
+            {
+                "text": "A velocidade recomendada.",
+                "correct": true
+            },
+            {
+                "text": "Curva \u00e0 direita e contracurva numa extens\u00e3o de 600 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de informa\u00e7\u00e3o indica:",
+        "image": "images/sinais-indicacao_2216.jpg",
+        "answers": [
+            {
+                "text": "Fim de auto-estrada a 750 metros.",
+                "correct": false
+            },
+            {
+                "text": "Fim de corredor de transportes p\u00fablicos a 750 metros.",
+                "correct": false
+            },
+            {
+                "text": "Fim de via reservada a autom\u00f3veis e motociclos a 750 metros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de informa\u00e7\u00e3o indica:",
+        "image": "images/sinais-indicacao_2217.jpg",
+        "answers": [
+            {
+                "text": "Caminho obrigat\u00f3rio para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Passagem para pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Travessia de pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de informa\u00e7\u00e3o indica:",
+        "image": "images/sinais-indicacao_2218.jpg",
+        "answers": [
+            {
+                "text": "Uma passagem para pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Uma pista obrigat\u00f3ria para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Uma via em que \u00e9 proibido o tr\u00e2nsito de pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de informa\u00e7\u00e3o indica:",
+        "image": "images/sinais-indicacao_2219.jpg",
+        "answers": [
+            {
+                "text": "Entreposto comercial de campismo e reboques de campismo.",
+                "correct": false
+            },
+            {
+                "text": "Oficina de repara\u00e7\u00f5es de caravanas.",
+                "correct": false
+            },
+            {
+                "text": "Parque misto para campismo e reboques de campismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de informa\u00e7\u00e3o significa:",
+        "image": "images/sinais-indicacao_2220.jpg",
+        "answers": [
+            {
+                "text": "Estacionamento autorizado.",
+                "correct": true
+            },
+            {
+                "text": "Paragem proibida.",
+                "correct": false
+            },
+            {
+                "text": "Pra\u00e7a de t\u00e1xis.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de estacionar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de informa\u00e7\u00e3o, indica-me que vai terminar a via reservada a:",
+        "image": "images/sinais-indicacao_2221.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis e motociclos.",
+                "correct": true
+            },
+            {
+                "text": "T\u00e1xis.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos de transporte p\u00fablico.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de paragem de transporte colectivo, dever\u00e1 estar colocado:",
+        "image": "images/sinais-indicacao_2222.jpg",
+        "answers": [
+            {
+                "text": "A 15 metros do local de paragem.",
+                "correct": false
+            },
+            {
+                "text": "A 3 metros do local de paragem.",
+                "correct": false
+            },
+            {
+                "text": "No local exacto do local de paragem.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de pr\u00e9-sinaliza\u00e7\u00e3o indica que:",
+        "image": "images/sinais-indicacao_2223.jpg",
+        "answers": [
+            {
+                "text": "\u00c0 dist\u00e2ncia de 1500 metros h\u00e1 uma sa\u00edda para as localidades identificadas.",
+                "correct": true
+            },
+            {
+                "text": "\u00c0 dist\u00e2ncia de 1500 metros t\u00eam inicio as localidades identificadas.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido ultrapassar numa dist\u00e2ncia de 1500 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal existente na via de tr\u00e2nsito \u00e9 de:",
+        "image": "images/sinais-indicacao_2224.jpg",
+        "answers": [
+            {
+                "text": "Confirma\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Direc\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Pr\u00e9-sinaliza\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal existente nesta via de tr\u00e2nsito indica-me a localiza\u00e7\u00e3o de:",
+        "image": "images/sinais-indicacao_2225.jpg",
+        "answers": [
+            {
+                "text": "Uma passagem para pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Uma pista obrigat\u00f3ria para pe\u00f5es \u00e0 minha direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica a demarca\u00e7\u00e3o miriam\u00e9trica, de:",
+        "image": "images/sinais-indicacao_2226.jpg",
+        "answers": [
+            {
+                "text": "Um itiner\u00e1rio complementar.",
+                "correct": false
+            },
+            {
+                "text": "Um itiner\u00e1rio principal.",
+                "correct": false
+            },
+            {
+                "text": "Uma auto-estrada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica a entrada:",
+        "image": "images/sinais-indicacao_2227.jpg",
+        "answers": [
+            {
+                "text": "Num itiner\u00e1rio complementar.",
+                "correct": false
+            },
+            {
+                "text": "Numa via onde vigoram regras especiais, como por exemplo a separa\u00e7\u00e3o f\u00edsica de faixas de rodagem.",
+                "correct": true
+            },
+            {
+                "text": "Numa via reservada a autom\u00f3veis.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica que \u00e9 permitido:",
+        "image": "images/sinais-indicacao_2228.jpg",
+        "answers": [
+            {
+                "text": "Estacionar em cima do passeio.",
+                "correct": false
+            },
+            {
+                "text": "Estacionar em segunda fila.",
+                "correct": false
+            },
+            {
+                "text": "Estacionar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica uma zona destinada \u00e0 imobiliza\u00e7\u00e3o em caso de falha de trav\u00f5es. Esta escapat\u00f3ria deve estar:",
+        "image": "images/sinais-indicacao_2229.jpg",
+        "answers": [
+            {
+                "text": "Fora da faixa de rodagem.",
+                "correct": true
+            },
+            {
+                "text": "Na faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Na via de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica-me a exist\u00eancia:",
+        "image": "images/sinais-indicacao_2230.jpg",
+        "answers": [
+            {
+                "text": "De um cais ou precip\u00edcio a seguir \u00e0 ponte.",
+                "correct": false
+            },
+            {
+                "text": "De um telef\u00e9rico a seguir \u00e0 ponte.",
+                "correct": false
+            },
+            {
+                "text": "De uma ponte m\u00f3vel.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica-me que 200 metros \u00e0 frente vou encontrar:",
+        "image": "images/sinais-indicacao_2231.jpg",
+        "answers": [
+            {
+                "text": "Um local adequado para inverter o sentido de marcha.",
+                "correct": true
+            },
+            {
+                "text": "Um local adequado para virar \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Uma via de acelera\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica-me que:",
+        "image": "images/sinais-indicacao_2232.jpg",
+        "answers": [
+            {
+                "text": "A estrada n\u00e3o tem sa\u00edda.",
+                "correct": false
+            },
+            {
+                "text": "Terminou a auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "Vou entrar numa auto-estrada",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica-me:",
+        "image": "images/sinais-indicacao_2233.jpg",
+        "answers": [
+            {
+                "text": "O local onde posso inverter o sentido de marcha.",
+                "correct": true
+            },
+            {
+                "text": "Que n\u00e3o posso inverter o sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "Que sou obrigado a inverter o sentido de marcha.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica-me:",
+        "image": "images/sinais-indicacao_2234.jpg",
+        "answers": [
+            {
+                "text": "Cais ou precip\u00edcio.",
+                "correct": false
+            },
+            {
+                "text": "Ponte m\u00f3vel.",
+                "correct": true
+            },
+            {
+                "text": "Subida de inclina\u00e7\u00e3o acentuada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-indicacao_2235.jpg",
+        "answers": [
+            {
+                "text": "Paragem de transportes colectivos de passageiros que transitam sobre carris.",
+                "correct": false
+            },
+            {
+                "text": "Paragem de ve\u00edculos afectos ao transporte de crian\u00e7as.",
+                "correct": false
+            },
+            {
+                "text": "Paragem de ve\u00edculos de transporte colectivo de passageiros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-indicacao_2236.jpg",
+        "answers": [
+            {
+                "text": "O fim de uma via com acessos condicionados.",
+                "correct": false
+            },
+            {
+                "text": "O in\u00edcio de uma auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "Uma via reservada a autom\u00f3veis e motociclos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-indicacao_2237.jpg",
+        "answers": [
+            {
+                "text": "A dist\u00e2ncia a que me encontro da pr\u00f3xima sa\u00edda.",
+                "correct": true
+            },
+            {
+                "text": "A dist\u00e2ncia em km, para a primeira sa\u00edda da auto-estrada.",
+                "correct": false
+            },
+            {
+                "text": "A dist\u00e2ncia para o fim da auto-estrada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-indicacao_2238.jpg",
+        "answers": [
+            {
+                "text": "Estacionamento autorizado.",
+                "correct": true
+            },
+            {
+                "text": "Estacionamento proibido.",
+                "correct": false
+            },
+            {
+                "text": "Paragem e estacionamento n\u00e3o autorizado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-indicacao_2239.jpg",
+        "answers": [
+            {
+                "text": "Estacionamento autorizado.",
+                "correct": false
+            },
+            {
+                "text": "Paragem de transportes p\u00fablicos.",
+                "correct": false
+            },
+            {
+                "text": "Paragem de ve\u00edculos afectos ao transporte de crian\u00e7as.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-indicacao_2240.jpg",
+        "answers": [
+            {
+                "text": "A aproxima\u00e7\u00e3o de uma \u00e1rea de servi\u00e7o.",
+                "correct": true
+            },
+            {
+                "text": "A aproxima\u00e7\u00e3o de via de sa\u00edda para a \u00e1rea de servi\u00e7o.",
+                "correct": false
+            },
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma sa\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-indicacao_2241.jpg",
+        "answers": [
+            {
+                "text": "A exist\u00eancia de um t\u00fanel.",
+                "correct": true
+            },
+            {
+                "text": "A exist\u00eancia de uma passagem inferior.",
+                "correct": false
+            },
+            {
+                "text": "O fim de um t\u00fanel.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal informa-me da exist\u00eancia de uma via destinada apenas ao tr\u00e2nsito:",
+        "image": "images/sinais-indicacao_2242.jpg",
+        "answers": [
+            {
+                "text": "De autom\u00f3veis e motociclos.",
+                "correct": true
+            },
+            {
+                "text": "De autom\u00f3veis ligeiros de passageiros e mistos.",
+                "correct": false
+            },
+            {
+                "text": "De transporte p\u00fablico.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal quadrangular \u00e9 de:",
+        "image": "images/sinais-indicacao_2243.jpg",
+        "answers": [
+            {
+                "text": "Informa\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Perigo.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal rectangular \u00e9 de:",
+        "image": "images/sinais-indicacao_2244.jpg",
+        "answers": [
+            {
+                "text": "Informa\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Pr\u00e9-sinaliza\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Zona.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal representa a exist\u00eancia:",
+        "image": "images/sinais-indicacao_2245.jpg",
+        "answers": [
+            {
+                "text": "De um estreitamento da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "De um local onde devo ligar as luzes de estrada.",
+                "correct": false
+            },
+            {
+                "text": "De um t\u00fanel.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal representa:",
+        "image": "images/sinais-indicacao_2246.jpg",
+        "answers": [
+            {
+                "text": "Um local onde se deve inverter o sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "Um precip\u00edcio.",
+                "correct": false
+            },
+            {
+                "text": "Uma escapat\u00f3ria.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal tur\u00edstico-cultural indica-me:",
+        "image": "images/sinais-indicacao_2247.jpg",
+        "answers": [
+            {
+                "text": "A entrada numa regi\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Patrim\u00f3nio cultural.",
+                "correct": false
+            },
+            {
+                "text": "Patrim\u00f3nio natural.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal tur\u00edstico-cultural indica-me:",
+        "image": "images/sinais-indicacao_2248.jpg",
+        "answers": [
+            {
+                "text": "Patrim\u00f3nio natural.",
+                "correct": true
+            },
+            {
+                "text": "Ponto de entrada ou in\u00edcio de uma rota tur\u00edstica.",
+                "correct": false
+            },
+            {
+                "text": "Zona de pesca desportiva.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de fundo azul d\u00e1 indica\u00e7\u00e3o aos condutores que v\u00e3o passar a circular na auto-estrada A25.",
+        "image": "images/sinais-indicacao_2249.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de fundo azul indica-me:",
+        "image": "images/sinais-indicacao_2250.jpg",
+        "answers": [
+            {
+                "text": "A proximidade de uma curva \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Os destinos da pr\u00f3xima sa\u00edda.",
+                "correct": true
+            },
+            {
+                "text": "Que a localidade mais pr\u00f3xima \u00e9 Pero Negro.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de fundo azul indica-me:",
+        "image": "images/sinais-indicacao_2251.jpg",
+        "answers": [
+            {
+                "text": "A exist\u00eancia de uma descida perigosa para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "A localiza\u00e7\u00e3o de uma passagem desnivelada para pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Que no fim da pr\u00f3xima descida se podem encontrar pe\u00f5es a atravessar a via.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica a exist\u00eancia de:",
+        "image": "images/sinais-indicacao_2252.jpg",
+        "answers": [
+            {
+                "text": "Dois sentidos de tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Duas faixas de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Duas vias de tr\u00e2nsito no mesmo sentido.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica aos condutores:",
+        "image": "images/sinais-indicacao_2253.jpg",
+        "answers": [
+            {
+                "text": "Estacionamento autorizado.",
+                "correct": false
+            },
+            {
+                "text": "Passagem desnivelada para pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Pista especial para pe\u00f5es e veloc\u00edpedes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me fim de velocidade:",
+        "image": "images/sinais-indicacao_2254.jpg",
+        "answers": [
+            {
+                "text": "Obrigat\u00f3ria.",
+                "correct": false
+            },
+            {
+                "text": "Permitida.",
+                "correct": false
+            },
+            {
+                "text": "Proibida.",
+                "correct": false
+            },
+            {
+                "text": "Recomendada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me o n\u00famero e sentido das faixas de rodagem.",
+        "image": "images/sinais-indicacao_2255.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me que a 250 metros existe:",
+        "image": "images/sinais-indicacao_2256.jpg",
+        "answers": [
+            {
+                "text": "Uma entrada para a via reservada a autom\u00f3veis e motociclos.",
+                "correct": false
+            },
+            {
+                "text": "Uma esta\u00e7\u00e3o de servi\u00e7o.",
+                "correct": false
+            },
+            {
+                "text": "Uma sa\u00edda da auto-estrada em que circulo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me que \u00e0 dist\u00e2ncia de 300 metros vou encontrar:",
+        "image": "images/sinais-indicacao_2257.jpg",
+        "answers": [
+            {
+                "text": "Um posto de abastecimento de combust\u00edvel com GPL.",
+                "correct": false
+            },
+            {
+                "text": "Um posto de abastecimento de combust\u00edvel.",
+                "correct": true
+            },
+            {
+                "text": "Uma oficina com bomba de combust\u00edvel.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me que deixa de ser obrigat\u00f3ria a utiliza\u00e7\u00e3o de correntes de neve nas rodas motoras.",
+        "image": "images/sinais-indicacao_2258.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me:",
+        "image": "images/sinais-indicacao_2259.jpg",
+        "answers": [
+            {
+                "text": "Passagem desnivelada e passagem para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Passagem desnivelada para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Passagem para pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me:",
+        "image": "images/sinais-indicacao_2260.jpg",
+        "answers": [
+            {
+                "text": "A exist\u00eancia de uma rampa que permite a travessia de pe\u00f5es em cadeira de rodas.",
+                "correct": false
+            },
+            {
+                "text": "Uma passagem desnivelada para pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Uma passagem superior para pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica:",
+        "image": "images/sinais-indicacao_2261.jpg",
+        "answers": [
+            {
+                "text": "Sentido obrigat\u00f3rio.",
+                "correct": false
+            },
+            {
+                "text": "Via com tr\u00e2nsito de sentido \u00fanico.",
+                "correct": true
+            },
+            {
+                "text": "Via onde s\u00f3 \u00e9 poss\u00edvel formar uma fila de tr\u00e2nsito em cada sentido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica:",
+        "image": "images/sinais-indicacao_2262.jpg",
+        "answers": [
+            {
+                "text": "Obriga\u00e7\u00e3o de seguir em frente na pr\u00f3xima intersec\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Via com tr\u00e2nsito de sentido \u00fanico.",
+                "correct": true
+            },
+            {
+                "text": "Via com uma s\u00f3 fila de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical informa-me que vou encontrar um local onde posso inverter o sentido de marcha.",
+        "image": "images/sinais-indicacao_2263.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical recomenda:",
+        "image": "images/sinais-indicacao_2264.jpg",
+        "answers": [
+            {
+                "text": "A circula\u00e7\u00e3o a velocidade moderada para n\u00e3o danificar os pneus.",
+                "correct": false
+            },
+            {
+                "text": "O uso de correntes de neve.",
+                "correct": true
+            },
+            {
+                "text": "O uso de pneus especiais para a circula\u00e7\u00e3o no gelo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O telefone dispon\u00edvel nesta via deve ser utilizado:",
+        "image": "images/sinais-indicacao_2265.jpg",
+        "answers": [
+            {
+                "text": "Em caso de acidente ou avaria.",
+                "correct": true
+            },
+            {
+                "text": "Em qualquer situa\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Quando existe congestionamento de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os sinais colocados neste local t\u00eam a designa\u00e7\u00e3o de:",
+        "image": "images/sinais-indicacao_2266.jpg",
+        "answers": [
+            {
+                "text": "Baias direccionais.",
+                "correct": true
+            },
+            {
+                "text": "Setas de desvio.",
+                "correct": false
+            },
+            {
+                "text": "Setas de direc\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os sinais de pr\u00e9-aviso gr\u00e1fico devem conter os destinos referentes a cada uma das direc\u00e7\u00f5es bem como a identifica\u00e7\u00e3o das estradas que lhe est\u00e3o associadas. Concorda com a afirma\u00e7\u00e3o?",
+        "image": "images/sinais-indicacao_2267.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Para circular nesta via de tr\u00e2nsito devo:",
+        "image": "images/sinais-indicacao_2268.jpg",
+        "answers": [
+            {
+                "text": "Ser portador de equipamento identificador ou pagar com cart\u00e3o multibanco.",
+                "correct": false
+            },
+            {
+                "text": "Ser portador de equipamento identificador.",
+                "correct": true
+            },
+            {
+                "text": "Transitar a velocidade inferior a 40 km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o que se encontra na via fico a saber qual a dist\u00e2ncia at\u00e9 \u00e0 passagem de n\u00edvel?",
+        "image": "images/sinais-indicacao_2269.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o vertical sou informado que a 250 metros vou encontrar:",
+        "image": "images/sinais-indicacao_2270.jpg",
+        "answers": [
+            {
+                "text": "Um atalho.",
+                "correct": false
+            },
+            {
+                "text": "Uma escapat\u00f3ria.",
+                "correct": true
+            },
+            {
+                "text": "Uma subida perigosa \u00e0 direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal devo saber:",
+        "image": "images/sinais-indicacao_2271.jpg",
+        "answers": [
+            {
+                "text": "Que a via p\u00fablica \u00e0 minha frente n\u00e3o tem sa\u00edda.",
+                "correct": true
+            },
+            {
+                "text": "Que n\u00e3o tenho prioridade no pr\u00f3ximo entroncamento.",
+                "correct": false
+            },
+            {
+                "text": "Que tenho prioridade no pr\u00f3ximo entroncamento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal fico a saber que a faixa de rodagem em que circulo tem:",
+        "image": "images/sinais-indicacao_2272.jpg",
+        "answers": [
+            {
+                "text": "Dois sentidos.",
+                "correct": true
+            },
+            {
+                "text": "Quatro sentidos.",
+                "correct": false
+            },
+            {
+                "text": "Uma via de tr\u00e2nsito em cada sentido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal fico a saber que circulo:",
+        "image": "images/sinais-indicacao_2273.jpg",
+        "answers": [
+            {
+                "text": "Na auto-estrada A25.",
+                "correct": true
+            },
+            {
+                "text": "Na estrada nacional E80.",
+                "correct": false
+            },
+            {
+                "text": "Num itiner\u00e1rio principal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal fico obrigado a seguir em direc\u00e7\u00e3o a Lisboa?",
+        "image": "images/sinais-indicacao_2274.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque fico obrigado a seguir em direc\u00e7\u00e3o a Coimbra.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, essa \u00e9 a fun\u00e7\u00e3o do sinal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal n\u00e3o podem transitar:",
+        "image": "images/sinais-indicacao_2275.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Quadriciclos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal vertical de fundo azul fico a saber que:",
+        "image": "images/sinais-indicacao_2276.jpg",
+        "answers": [
+            {
+                "text": "Terminou a auto-estrada.",
+                "correct": true
+            },
+            {
+                "text": "Vou entrar numa auto-estrada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal vertical sou aconselhado a usar correntes de neve. Concorda com esta afirma\u00e7\u00e3o?",
+        "image": "images/sinais-indicacao_2277.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, excepto nas rodas motoras.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal, devo adoptar algumas precau\u00e7\u00f5es?",
+        "image": "images/sinais-indicacao_2278.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o sinal informa a proximidade de um hotel.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, o sinal informa a proximidade de uma via reservada.",
+                "correct": false
+            },
+            {
+                "text": "Sim, devo evitar fazer ru\u00eddo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal, sei que circulo:",
+        "image": "images/sinais-indicacao_2279.jpg",
+        "answers": [
+            {
+                "text": "Num IC.",
+                "correct": false
+            },
+            {
+                "text": "Num IP.",
+                "correct": false
+            },
+            {
+                "text": "Numa auto-estrada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal, um condutor deve saber que:",
+        "image": "images/sinais-indicacao_2280.jpg",
+        "answers": [
+            {
+                "text": "A 300 metros situa-se um posto de abastecimento de combust\u00edvel com GPL.",
+                "correct": true
+            },
+            {
+                "text": "A pr\u00f3xima sa\u00edda desta via situa-se a menos de 300 metros.",
+                "correct": false
+            },
+            {
+                "text": "Tem prioridade de passagem sobre os ve\u00edculos que transitem em servi\u00e7o urgente e que saiam do posto de abastecimento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o local indicado pelo sinal, n\u00e3o posso estacionar a menos de:",
+        "image": "images/sinais-indicacao_2281.jpg",
+        "answers": [
+            {
+                "text": "25 metros antes da paragem",
+                "correct": false
+            },
+            {
+                "text": "30 metros",
+                "correct": false
+            },
+            {
+                "text": "5 metros para a frente e 25 metros para tr\u00e1s .",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal complementar do lado direito da via fico a saber que:",
+        "image": "images/sinais-indicacao_2282.jpg",
+        "answers": [
+            {
+                "text": "A via em que circulo termina a 150 metros.",
+                "correct": false
+            },
+            {
+                "text": "Estou a 150 metros da pr\u00f3xima localidade.",
+                "correct": false
+            },
+            {
+                "text": "Estou a 150 metros da pr\u00f3xima sa\u00edda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de cor verde \u00e0 minha direita, fico a saber que:",
+        "image": "images/sinais-indicacao_2283.jpg",
+        "answers": [
+            {
+                "text": "A pr\u00f3xima sa\u00edda se situa a uma dist\u00e2ncia de 300 metros.",
+                "correct": true
+            },
+            {
+                "text": "A pr\u00f3xima sa\u00edda se situa a uma dist\u00e2ncia de 900 metros, uma vez que cada barra inclinada corresponde a uma dist\u00e2ncia de 300 metros.",
+                "correct": false
+            },
+            {
+                "text": "Me aproximo de um tro\u00e7o em que as duas vias de tr\u00e2nsito se encontram em obras na extens\u00e3o indicada pelo sinal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de fundo amarelo fico a saber que:",
+        "image": "images/sinais-indicacao_2284.jpg",
+        "answers": [
+            {
+                "text": "A circula\u00e7\u00e3o de ve\u00edculos passa de tr\u00eas para duas vias de tr\u00e2nsito no mesmo sentido.",
+                "correct": false
+            },
+            {
+                "text": "A via de tr\u00e2nsito onde circulo est\u00e1 temporariamente sem berma a 1300 metros.",
+                "correct": true
+            },
+            {
+                "text": "Se verifica supress\u00e3o de uma via de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de fundo azul, fico a saber que:",
+        "image": "images/sinais-indicacao_2285.jpg",
+        "answers": [
+            {
+                "text": "H\u00e1 duas vias de tr\u00e2nsito no sentido em que circulo.",
+                "correct": false
+            },
+            {
+                "text": "H\u00e1 duas vias de tr\u00e2nsito no sentido oposto \u00e0quele em que circulo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de indica\u00e7\u00e3o devo:",
+        "image": "images/sinais-indicacao_2286.jpg",
+        "answers": [
+            {
+                "text": "Ligar as luzes de cruzamento.",
+                "correct": true
+            },
+            {
+                "text": "Ligar as luzes de perigo.",
+                "correct": false
+            },
+            {
+                "text": "Ligar o indicador de mudan\u00e7a de direc\u00e7\u00e3o para entrar no t\u00fanel.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de indica\u00e7\u00e3o:",
+        "image": "images/sinais-indicacao_2287.jpg",
+        "answers": [
+            {
+                "text": "A auto-estrada termina a 750m.",
+                "correct": false
+            },
+            {
+                "text": "Devo mudar de via de tr\u00e2nsito, se a minha inten\u00e7\u00e3o for continuar em frente.",
+                "correct": false
+            },
+            {
+                "text": "Estou a 750m da pr\u00f3xima sa\u00edda da auto-estrada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de informa\u00e7\u00e3o que se encontra nesta via p\u00fablica, devo saber que:",
+        "image": "images/sinais-indicacao_2288.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o posso exceder a velocidade indicada no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Sou aconselhado a transitar \u00e0 velocidade m\u00e1xima de 50 Km/h.",
+                "correct": true
+            },
+            {
+                "text": "Sou aconselhado a transitar \u00e0 velocidade m\u00ednima de 50 Km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal devo:",
+        "image": "images/sinais-indicacao_2289.jpg",
+        "answers": [
+            {
+                "text": "Parar obrigatoriamente.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade porque pode surgir uma crian\u00e7a.",
+                "correct": true
+            },
+            {
+                "text": "Utilizar os sinais sonoros de forma intermitente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal existente na via de tr\u00e2nsito, fico a saber:",
+        "image": "images/sinais-indicacao_2290.jpg",
+        "answers": [
+            {
+                "text": "A dist\u00e2ncia at\u00e9 \u00e0 sa\u00edda mais pr\u00f3xima.",
+                "correct": true
+            },
+            {
+                "text": "A dist\u00e2ncia at\u00e9 \u00e0s localidades descritas no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Que faltam 2000 metros para entrar em Sobral de Monte Agra\u00e7o.",
+                "correct": false
+            },
+            {
+                "text": "Que faltam 2000 metros para terminar a via.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal sei que posso encontrar crian\u00e7as a circular:",
+        "image": "images/sinais-indicacao_2291.jpg",
+        "answers": [
+            {
+                "text": "Ap\u00f3s ter percorrido 100 metros.",
+                "correct": false
+            },
+            {
+                "text": "Numa extens\u00e3o de 100 metros.",
+                "correct": true
+            },
+            {
+                "text": "Nunca a menos de 100 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal sou informado do local adequado:",
+        "image": "images/sinais-indicacao_2292.jpg",
+        "answers": [
+            {
+                "text": "Para fazer a manobra de marcha-atr\u00e1s.",
+                "correct": false
+            },
+            {
+                "text": "Para fazer invers\u00e3o de sentido de marcha.",
+                "correct": true
+            },
+            {
+                "text": "Para fazer uma mudan\u00e7a de direc\u00e7\u00e3o para a esquerda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal vertical:",
+        "image": "images/sinais-indicacao_2293.jpg",
+        "answers": [
+            {
+                "text": "Estou proibido de parar a uma dist\u00e2ncia de 30 km.",
+                "correct": false
+            },
+            {
+                "text": "Fico obrigado a parar na pr\u00f3xima \u00e1rea de servi\u00e7o.",
+                "correct": false
+            },
+            {
+                "text": "Sou informado da dist\u00e2ncia a que me encontro da pr\u00f3xima \u00e1rea de servi\u00e7o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Posso circular nesta via p\u00fablica a uma velocidade de 50 Km/h?",
+        "image": "images/sinais-indicacao_2294.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, estou proibido de exceder a velocidade m\u00e1xima de 50 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, o sinal obriga-me a circular a uma velocidade superior a 50 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "Sim, \u00e9 esta a velocidade m\u00e1xima recomendada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Posso encontrar este sinal, num itiner\u00e1rio complementar?",
+        "image": "images/sinais-indicacao_2295.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, este sinal indica que circulo num IP.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, este sinal indica que circulo num IC.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que a sinaliza\u00e7\u00e3o vertical d\u00e1 aos condutores?",
+        "image": "images/sinais-indicacao_2296.jpg",
+        "answers": [
+            {
+                "text": "Fim de todas as proibi\u00e7\u00f5es impostas aos ve\u00edculos autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Fim de via reservada exclusivamente a autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Que terminou a via reservada a autom\u00f3veis e motociclos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que este sinal d\u00e1 aos condutores?",
+        "image": "images/sinais-indicacao_2297.jpg",
+        "answers": [
+            {
+                "text": "A exist\u00eancia de um hospital.",
+                "correct": true
+            },
+            {
+                "text": "A exist\u00eancia de um posto de primeiros socorros.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de um heliporto.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual das seguintes afirma\u00e7\u00f5es est\u00e1 correcta para o sinal de informa\u00e7\u00e3o?",
+        "image": "images/sinais-indicacao_2298.jpg",
+        "answers": [
+            {
+                "text": "Localiza\u00e7\u00e3o de uma passagem para pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Passagem proibida a pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Pista obrigat\u00f3ria para pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual deve ser o meu comportamento, perante o sinal vertical?",
+        "image": "images/sinais-indicacao_2299.jpg",
+        "answers": [
+            {
+                "text": "Parar para interpretar a sua indica\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Seguir atentamente.",
+                "correct": true
+            },
+            {
+                "text": "Sinalizar a inten\u00e7\u00e3o de parar na \u00e1rea de servi\u00e7o indicada pelo sinal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal vertical?",
+        "image": "images/sinais-indicacao_2300.jpg",
+        "answers": [
+            {
+                "text": "Abertura de nova via de tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Aproxima\u00e7\u00e3o de via sem sa\u00edda para ve\u00edculos.",
+                "correct": false
+            },
+            {
+                "text": "Supress\u00e3o de via de tr\u00e2nsito.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Que indica o sinal de informa\u00e7\u00e3o?",
+        "image": "images/sinais-indicacao_2301.jpg",
+        "answers": [
+            {
+                "text": "Parque autorizado para o estacionamento de reboques de campismo.",
+                "correct": false
+            },
+            {
+                "text": "Parque misto para campismo e reboques de campismo.",
+                "correct": true
+            },
+            {
+                "text": "Pousada ou estalagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Que indica\u00e7\u00e3o me \u00e9 dada pelo sinal vertical?",
+        "image": "images/sinais-indicacao_2302.jpg",
+        "answers": [
+            {
+                "text": "O ponto de sa\u00edda de um circuito ou o final de uma rota tur\u00edstica.",
+                "correct": false
+            },
+            {
+                "text": "O ponto onde tem in\u00edcio a localidade identificada.",
+                "correct": false
+            },
+            {
+                "text": "O ponto onde termina a localidade identificada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Se quiser ir por Lisboa, o sinal vertical informa-me que:",
+        "image": "images/sinais-indicacao_2303.jpg",
+        "answers": [
+            {
+                "text": "Estou a 197 km de Lisboa.",
+                "correct": true
+            },
+            {
+                "text": "J\u00e1 percorri 197 km para chegar a Lisboa.",
+                "correct": false
+            },
+            {
+                "text": "Tenho que apanhar a estrada nacional 197.",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,2008 @@
+[
+  {
+    "question": "A refer\u00eancia IC 17, colocada na sinaliza\u00e7\u00e3o indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2023.jpg",
+    "answers": [
+      {
+        "text": "Que circulo no itiner\u00e1rio complementar n\u00ba 17.",
+        "correct": true
+      },
+      {
+        "text": "Que faltam 17 kms para o in\u00edcio da A1.",
+        "correct": false
+      },
+      {
+        "text": "Que me encontro no km 17, da via em que circulo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o com fundo azul que se encontra nesta via indica-me que circulo numa auto-estrada. Concorda com a afirma\u00e7\u00e3o?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2024.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, embora me transmita outras informa\u00e7\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o desta via p\u00fablica, informa-me que circulo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2025.jpg",
+    "answers": [
+      {
+        "text": "Na auto-estrada A25.",
+        "correct": true
+      },
+      {
+        "text": "Na estrada nacional A25.",
+        "correct": false
+      },
+      {
+        "text": "Na estrada nacional N16.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o presente indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2026.jpg",
+    "answers": [
+      {
+        "text": "Fim da estrada com prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Mudan\u00e7a de direc\u00e7\u00e3o da via com prioridade.",
+        "correct": true
+      },
+      {
+        "text": "Proximidade de um cruzamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o vertical que se encontra mais pr\u00f3xima indica-me:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2027.jpg",
+    "answers": [
+      {
+        "text": "Aproxima\u00e7\u00e3o de uma rotunda.",
+        "correct": true
+      },
+      {
+        "text": "Que tenho prioridade no pr\u00f3ximo entroncamento.",
+        "correct": false
+      },
+      {
+        "text": "Rotunda com via sem prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o vertical que se encontra mais pr\u00f3xima, indica-me:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2028.jpg",
+    "answers": [
+      {
+        "text": "Aproxima\u00e7\u00e3o de uma rotunda.",
+        "correct": true
+      },
+      {
+        "text": "Curva perigosa \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "O local exacto onde posso inverter o sentido de marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A via de tr\u00e2nsito em que circulo vai terminar. Devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2029.jpg",
+    "answers": [
+      {
+        "text": "Ceder passagem a todos os ve\u00edculos que circulam na via da esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Inverter o sentido de marcha porque a via n\u00e3o tem continua\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Parar e ceder passagem a todos os ve\u00edculos com que vou cruzar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta via de tr\u00e2nsito, devo saber que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2030.jpg",
+    "answers": [
+      {
+        "text": "A velocidade m\u00e1xima recomendada para esta via \u00e9 de 60 Km/h.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o posso exceder a velocidade m\u00e1xima de 60 Km/h.",
+        "correct": false
+      },
+      {
+        "text": "Sou obrigado a transitar a uma velocidade n\u00e3o inferior \u00e0 indicada no sinal.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta via p\u00fablica, devo saber que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2031.jpg",
+    "answers": [
+      {
+        "text": "Devo ceder a passagem a todos e quaisquer ve\u00edculos que transitem na via que se aproxima.",
+        "correct": true
+      },
+      {
+        "text": "No pr\u00f3ximo entroncamento, estou obrigado a ceder a passagem apenas aos autom\u00f3veis.",
+        "correct": false
+      },
+      {
+        "text": "Tenho prioridade de passagem sobre os ve\u00edculos sem motor que circulam na via que se aproxima.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao passar por este sinal vertical posso concluir que circulo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2032.jpg",
+    "answers": [
+      {
+        "text": "Numa auto-estrada.",
+        "correct": false
+      },
+      {
+        "text": "Numa via n\u00e3o urbana.",
+        "correct": false
+      },
+      {
+        "text": "Numa via urbana.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Circulo numa via com prioridade:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2033.jpg",
+    "answers": [
+      {
+        "text": "Se seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Se voltar \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "Se voltar \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devem proceder os condutores que circulam na via de tr\u00e2nsito mais \u00e0 direita?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2034.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem.",
+        "correct": true
+      },
+      {
+        "text": "Parar obrigatoriamente antes de mudar de via de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Passar para o lado esquerdo da faixa de rodagem porque t\u00eam prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder face ao sinal vertical triangular?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2035.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com cuidado, apesar de ter prioridade de passagem.",
+        "correct": true
+      },
+      {
+        "text": "Ceder a passagem a todos os ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Ceder a passagem aos ve\u00edculos que se apresentem pela direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder no entroncamento de que me aproximo?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2036.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar sem precau\u00e7\u00f5es dado ter o direito de passar em primeiro lugar.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar, verificando se os condutores que circulam na via com que me cruzo me cedem a passagem.",
+        "correct": true
+      },
+      {
+        "text": "Ceder a passagem a todos os ve\u00edculos motorizados.",
+        "correct": false
+      },
+      {
+        "text": "Ceder a passagem aos ve\u00edculos que se apresentem pela direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder perante o sinal vertical de ced\u00eancia de passagem?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2037.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem a todos os ve\u00edculos.",
+        "correct": true
+      },
+      {
+        "text": "Ceder a passagem apenas aos ve\u00edculos vindos da direita.",
+        "correct": false
+      },
+      {
+        "text": "Ceder a passagem apenas aos ve\u00edculos vindos da esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder perante o sinal vertical?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2038.jpg",
+    "answers": [
+      {
+        "text": "Manter a velocidade porque o tr\u00e2nsito passa a fazer-se apenas num s\u00f3 sentido.",
+        "correct": false
+      },
+      {
+        "text": "Manter a velocidade porque tenho prioridade no pr\u00f3ximo estreitamento da via p\u00fablica.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade porque a circula\u00e7\u00e3o passa a ser feita nos dois sentidos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Conduzo um autom\u00f3vel ligeiro de passageiros, de uso particular. Perante o sinal circular de fundo azul, devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2039.jpg",
+    "answers": [
+      {
+        "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Mudar para a via de tr\u00e2nsito \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Seguir em frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Continuando a circular nesta via de tr\u00e2nsito, na pr\u00f3xima intersec\u00e7\u00e3o, devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2040.jpg",
+    "answers": [
+      {
+        "text": "Mudar de direc\u00e7\u00e3o para a direita.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o para a esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Seguir em frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De acordo com a sinaliza\u00e7\u00e3o vertical, devem ceder a passagem os condutores que circulam na via de tr\u00e2nsito:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2041.jpg",
+    "answers": [
+      {
+        "text": "Da direita.",
+        "correct": true
+      },
+      {
+        "text": "Da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Do centro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devido \u00e0 sinaliza\u00e7\u00e3o vertical que se encontra nesta via, na via de tr\u00e2nsito mais \u00e0 direita n\u00e3o tenho obriga\u00e7\u00e3o de circular a velocidade m\u00ednima. Concorda com a afirma\u00e7\u00e3o?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2042.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, n\u00e3o posso transitar a velocidade instant\u00e2nea inferior a 50 km/h.",
+        "correct": true
+      },
+      {
+        "text": "Sim, apenas nas duas vias de tr\u00e2nsito mais \u00e0 esquerda estou obrigado a circular a velocidade m\u00ednima.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque se trata de uma via de abrandamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo circular nesta via de tr\u00e2nsito?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2043.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, se circular a 70 km/h.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, se circular a 90 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Sim, excepto para ultrapassar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Esta via de tr\u00e2nsito destina-se a:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2044.jpg",
+    "answers": [
+      {
+        "text": "Invers\u00e3o de sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Mudan\u00e7a de direc\u00e7\u00e3o para a esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Esta via \u00e9 uma auto-estrada.",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2045.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este sinal adverte-me para:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2046.jpg",
+    "answers": [
+      {
+        "text": "A aproxima\u00e7\u00e3o de um cruzamento ou entroncamento.",
+        "correct": true
+      },
+      {
+        "text": "A aproxima\u00e7\u00e3o de uma passagem de n\u00edvel sem guarda.",
+        "correct": false
+      },
+      {
+        "text": "A proximidade de uma estrada com prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este sinal \u00e9 de:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2047.jpg",
+    "answers": [
+      {
+        "text": "Ced\u00eancia de passagem.",
+        "correct": true
+      },
+      {
+        "text": "Informa\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Selec\u00e7\u00e3o de vias.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este sinal indica a aproxima\u00e7\u00e3o de:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2048.jpg",
+    "answers": [
+      {
+        "text": "Um cruzamento com via sem prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Um entroncamento com via sem prioridade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este sinal indica a proibi\u00e7\u00e3o de ultrapassar:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2049.jpg",
+    "answers": [
+      {
+        "text": "Para autom\u00f3veis ligeiros e pesados.",
+        "correct": true
+      },
+      {
+        "text": "Somente para autom\u00f3veis ligeiros.",
+        "correct": false
+      },
+      {
+        "text": "Somente para autom\u00f3veis pesados.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este sinal indica que os condutores:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2050.jpg",
+    "answers": [
+      {
+        "text": "T\u00eam prioridade de passagem na pr\u00f3xima intersec\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "T\u00eam prioridade de passagem na pr\u00f3xima passagem estreita.",
+        "correct": false
+      },
+      {
+        "text": "T\u00eam prioridade de passagem nos sucessivos cruzamentos e entroncamentos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este sinal indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2051.jpg",
+    "answers": [
+      {
+        "text": "Aproxima\u00e7\u00e3o de um cruzamento com via com prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Fim de via com prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Prioridade de passagem nas sucessivas intersec\u00e7\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este sinal indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2052.jpg",
+    "answers": [
+      {
+        "text": "Obriga\u00e7\u00e3o de ceder a passagem.",
+        "correct": false
+      },
+      {
+        "text": "Que existe um cruzamento com via com prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Que existe um cruzamento com via sem prioridade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este sinal informa-me que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2053.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "No sentido em que circulo existe apenas uma via de tr\u00e2nsito e duas em sentido oposto.",
+        "correct": true
+      },
+      {
+        "text": "Posso utilizar qualquer das tr\u00eas vias de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este sinal obriga a:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2054.jpg",
+    "answers": [
+      {
+        "text": "Ced\u00eancia de passagem a todos os ve\u00edculos que circulem na via de que me aproximo.",
+        "correct": true
+      },
+      {
+        "text": "Ced\u00eancia de passagem nos sucessivos entroncamentos e cruzamentos.",
+        "correct": false
+      },
+      {
+        "text": "Paragem no pr\u00f3ximo cruzamento ou entroncamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este sinal pro\u00edbe-me ultrapassar qualquer autom\u00f3vel?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2055.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este sinal pro\u00edbe-me:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2056.jpg",
+    "answers": [
+      {
+        "text": "A paragem e o estacionamento.",
+        "correct": false
+      },
+      {
+        "text": "A paragem.",
+        "correct": false
+      },
+      {
+        "text": "O estacionamento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este sinal significa:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2057.jpg",
+    "answers": [
+      {
+        "text": "Paragem obrigat\u00f3ria.",
+        "correct": false
+      },
+      {
+        "text": "Via com prioridade.",
+        "correct": true
+      },
+      {
+        "text": "Via sem prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este sinal significa:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2058.jpg",
+    "answers": [
+      {
+        "text": "Prioridade tempor\u00e1ria.",
+        "correct": false
+      },
+      {
+        "text": "Via com prioridade.",
+        "correct": true
+      },
+      {
+        "text": "Via sem prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na presen\u00e7a destes sinais verticais, sou sempre obrigado a parar o meu ve\u00edculo. A afirma\u00e7\u00e3o \u00e9:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2059.jpg",
+    "answers": [
+      {
+        "text": "Falsa.",
+        "correct": true
+      },
+      {
+        "text": "Verdadeira.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na via de tr\u00e2nsito em que circulo, estou correctamente posicionado para seguir para o Porto.",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2060.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na via em que est\u00e1 colocado o sinal circular azul, a que autom\u00f3veis \u00e9 permitida a circula\u00e7\u00e3o?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2061.jpg",
+    "answers": [
+      {
+        "text": "De transporte p\u00fablico de passageiros.",
+        "correct": true
+      },
+      {
+        "text": "Ligeiros e pesados de passageiros.",
+        "correct": false
+      },
+      {
+        "text": "Pesados de passageiros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta faixa de rodagem:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2062.jpg",
+    "answers": [
+      {
+        "text": "Como regra geral, n\u00e3o devo circular na via de tr\u00e2nsito mais \u00e1 direita.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o circulam ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o posso ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o ao seguir em frente devo optar:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2063.jpg",
+    "answers": [
+      {
+        "text": "Pela via de tr\u00e2nsito em que circulo.",
+        "correct": true
+      },
+      {
+        "text": "Pela via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Pela via de tr\u00e2nsito mais \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo utilizar a via de tr\u00e2nsito mais \u00e0 esquerda se pretender tomar a direc\u00e7\u00e3o:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2064.jpg",
+    "answers": [
+      {
+        "text": "A1 Norte.",
+        "correct": false
+      },
+      {
+        "text": "Aeroporto.",
+        "correct": true
+      },
+      {
+        "text": "Ponte Vasco da Gama.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo utilizar:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2065.jpg",
+    "answers": [
+      {
+        "text": "A via de tr\u00e2nsito da direita, excepto para ultrapassar.",
+        "correct": false
+      },
+      {
+        "text": "A via de tr\u00e2nsito mais conveniente ao meu destino.",
+        "correct": true
+      },
+      {
+        "text": "Sempre a via de tr\u00e2nsito da direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o sou informado de que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2066.jpg",
+    "answers": [
+      {
+        "text": "A orienta\u00e7\u00e3o da via com prioridade muda de direc\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Tenho de ceder passagem aos ve\u00edculos vindos da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Tenho de respeitar a regra geral da prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, para seguir em direc\u00e7\u00e3o \u00e0 IC2, posso utilizar:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2067.jpg",
+    "answers": [
+      {
+        "text": "A via mais \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "A via mais \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Indistintamente a via em que circulo ou outra mais \u00e0 direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso ultrapassar?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2068.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta via sou sempre obrigado a transitar na via de tr\u00e2nsito mais \u00e0 direita.",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2069.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2070.jpg",
+    "answers": [
+      {
+        "text": "Mudar de via de tr\u00e2nsito se transitar na via mais \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      },
+      {
+        "text": "Transitar com precau\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, ainda posso seguir em frente?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2071.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a seta me pro\u00edbe a mudan\u00e7a de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que tome as devidas precau\u00e7\u00f5es e mude de via.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, os condutores que circulam em sentido contr\u00e1rio, encontram no in\u00edcio da ponte um sinal de:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2072.jpg",
+    "answers": [
+      {
+        "text": "Ced\u00eancia de passagem.",
+        "correct": true
+      },
+      {
+        "text": "Informa\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Proibi\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que indica este sinal?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2073.jpg",
+    "answers": [
+      {
+        "text": "Cruzamento com via com prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Cruzamento com via sem prioridade.",
+        "correct": true
+      },
+      {
+        "text": "Cruzamento de vias desniveladas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que me indica o sinal vertical?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2074.jpg",
+    "answers": [
+      {
+        "text": "Que na zona em que me encontro \u00e9 aconselh\u00e1vel circular a 40 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Que na zona em que vou entrar a velocidade m\u00e1xima est\u00e1 limitada a 40 km/h.",
+        "correct": true
+      },
+      {
+        "text": "Que na zona em que vou entrar a velocidade m\u00ednima permitida \u00e9 de 40 km/h.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que significa este sinal?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2075.jpg",
+    "answers": [
+      {
+        "text": "Ced\u00eancia de passagem.",
+        "correct": true
+      },
+      {
+        "text": "Entroncamento com via sem prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Outros perigos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que significa o sinal vertical de forma triangular?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2076.jpg",
+    "answers": [
+      {
+        "text": "Aproxima\u00e7\u00e3o de rotunda.",
+        "correct": true
+      },
+      {
+        "text": "Obriga\u00e7\u00e3o de contornar placa ou obst\u00e1culo.",
+        "correct": false
+      },
+      {
+        "text": "Rotunda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que significa o sinal vertical triangular?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2077.jpg",
+    "answers": [
+      {
+        "text": "Cruzamento com via com prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Cruzamento com via sem prioridade.",
+        "correct": true
+      },
+      {
+        "text": "Entroncamento com via com prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que significa o sinal vertical?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2078.jpg",
+    "answers": [
+      {
+        "text": "Entrada numa zona em que a paragem e o estacionamento s\u00e3o proibidos.",
+        "correct": true
+      },
+      {
+        "text": "Entrada numa zona em que apenas a paragem \u00e9 proibida.",
+        "correct": false
+      },
+      {
+        "text": "Entrada numa zona em que apenas o estacionamento \u00e9 proibido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal circular de fundo azul, permite o tr\u00e2nsito a todos os:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2079.jpg",
+    "answers": [
+      {
+        "text": "Autom\u00f3veis de passageiros.",
+        "correct": false
+      },
+      {
+        "text": "Ve\u00edculos de transporte p\u00fablico.",
+        "correct": true
+      },
+      {
+        "text": "Ve\u00edculos pesados.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal de afecta\u00e7\u00e3o de vias adverte-me para:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2080.jpg",
+    "answers": [
+      {
+        "text": "Aproxima\u00e7\u00e3o de entroncamento com estrada sem prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Aproxima\u00e7\u00e3o de passagem estreita.",
+        "correct": false
+      },
+      {
+        "text": "Supress\u00e3o da via de tr\u00e2nsito.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal de ced\u00eancia de passagem indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2081.jpg",
+    "answers": [
+      {
+        "text": "Paragem obrigat\u00f3ria.",
+        "correct": true
+      },
+      {
+        "text": "Perigos v\u00e1rios.",
+        "correct": false
+      },
+      {
+        "text": "Sentido proibido.",
+        "correct": false
+      },
+      {
+        "text": "Tr\u00e2nsito proibido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal de formato triangular indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2082.jpg",
+    "answers": [
+      {
+        "text": "Entroncamento com via com prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Entroncamento com via sem prioridade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal de zona indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2083.jpg",
+    "answers": [
+      {
+        "text": "Fim de zona de estacionamento autorizado.",
+        "correct": true
+      },
+      {
+        "text": "Fim de zona de paragem e estacionamento proibidos.",
+        "correct": false
+      },
+      {
+        "text": "Fim de zona de paragem proibida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal indica que na pr\u00f3xima intersec\u00e7\u00e3o:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2084.jpg",
+    "answers": [
+      {
+        "text": "Devem ceder-me a passagem.",
+        "correct": true
+      },
+      {
+        "text": "Devo ceder a passagem.",
+        "correct": false
+      },
+      {
+        "text": "Devo parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal indica que nesta zona o estacionamento \u00e9 permitido das:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2085.jpg",
+    "answers": [
+      {
+        "text": "20 \u00e0s 20 horas.",
+        "correct": false
+      },
+      {
+        "text": "20 \u00e0s 8 horas.",
+        "correct": true
+      },
+      {
+        "text": "8 \u00e0s 20 horas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal indica que os autom\u00f3veis de mercadorias n\u00e3o podem transitar:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2086.jpg",
+    "answers": [
+      {
+        "text": "Apenas naquela via de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Ap\u00f3s o sinal.",
+        "correct": true
+      },
+      {
+        "text": "At\u00e9 encontrar o sinal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2087.jpg",
+    "answers": [
+      {
+        "text": "Fim de uma zona com um limite m\u00ednimo de velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Fim do limite de velocidade imposto por sinaliza\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "In\u00edcio de uma zona com um limite m\u00e1ximo de velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2088.jpg",
+    "answers": [
+      {
+        "text": "Um local de estacionamento autorizado.",
+        "correct": false
+      },
+      {
+        "text": "Uma zona de estacionamento proibido.",
+        "correct": true
+      },
+      {
+        "text": "Uma zona de paragem proibida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal informa-me que na via de tr\u00e2nsito central devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2089.jpg",
+    "answers": [
+      {
+        "text": "Circular a menos de 70 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Circular \u00e0 velocidade constante de 70 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Circular \u00e0 velocidade m\u00ednima de 70 km/h.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal informa-me que na via de tr\u00e2nsito mais \u00e0 esquerda devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2090.jpg",
+    "answers": [
+      {
+        "text": "Circular a menos de 90 Km/h.",
+        "correct": false
+      },
+      {
+        "text": "Circular \u00e0 velocidade constante de 90 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Circular \u00e0 velocidade m\u00ednima de 90 km/h.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal pro\u00edbe o tr\u00e2nsito:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2091.jpg",
+    "answers": [
+      {
+        "text": "A todos os autom\u00f3veis pesados.",
+        "correct": false
+      },
+      {
+        "text": "Aos autom\u00f3veis ligeiros de mercadorias.",
+        "correct": true
+      },
+      {
+        "text": "Apenas aos autom\u00f3veis pesados de mercadorias.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal que se encontra na via p\u00fablica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2092.jpg",
+    "answers": [
+      {
+        "text": "Pro\u00edbe a paragem e o estacionamento.",
+        "correct": true
+      },
+      {
+        "text": "Pro\u00edbe apenas a paragem a todos os ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Pro\u00edbe apenas o estacionamento a ve\u00edculos pesados de mercadorias.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal significa:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2093.jpg",
+    "answers": [
+      {
+        "text": "Ced\u00eancia de passagem nos estreitamentos da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Proibi\u00e7\u00e3o de inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Tr\u00e2nsito simult\u00e2neo nos dois sentidos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal triangular indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2094.jpg",
+    "answers": [
+      {
+        "text": "Entroncamento com via sem prioridade.",
+        "correct": true
+      },
+      {
+        "text": "Entroncamento onde devo ceder passagem.",
+        "correct": false
+      },
+      {
+        "text": "Prioridade nos sucessivos cruzamentos e entroncamentos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical de fundo branco, indica-me que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2095.jpg",
+    "answers": [
+      {
+        "text": "A circula\u00e7\u00e3o passa a ser feita apenas numa via de tr\u00e2nsito e que devo ceder passagem a todos os ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Devo ceder a passagem aos ve\u00edculos que circulem na via da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Os ve\u00edculos que transitem na via mais \u00e0 esquerda devem ceder a passagem a todos os que circulem na via da direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical indica aos condutores que circulam na via mais \u00e0 direita que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2096.jpg",
+    "answers": [
+      {
+        "text": "Devem ceder a passagem aos ve\u00edculos que transitem na via \u00e0 sua esquerda e que se aproxima.",
+        "correct": true
+      },
+      {
+        "text": "T\u00eam prioridade de passagem sobre os ve\u00edculos que circulem \u00e0 sua esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical indica que no tro\u00e7o de via onde o mesmo se aplica, o tr\u00e2nsito se faz simultaneamente nos dois sentidos.",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2097.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical indica-me que vou entrar numa zona em que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2098.jpg",
+    "answers": [
+      {
+        "text": "A paragem e o estacionamento s\u00e3o permitidos do lado direito da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "A paragem e o estacionamento s\u00e3o proibidos.",
+        "correct": true
+      },
+      {
+        "text": "Apenas a paragem \u00e9 permitida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical indica-me que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2099.jpg",
+    "answers": [
+      {
+        "text": "A via p\u00fablica passa a ter tr\u00e2nsito nos dois sentidos.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o tenho prioridade no pr\u00f3ximo estreitamento da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "O tr\u00e2nsito passa a fazer-se apenas num sentido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical indica-me:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2100.jpg",
+    "answers": [
+      {
+        "text": "Curva perigosa \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Entroncamento com via com prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Entroncamento com via sem prioridade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical indica-me:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2101.jpg",
+    "answers": [
+      {
+        "text": "Zona de estacionamento permitido do lado direito da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Zona de estacionamento proibido.",
+        "correct": true
+      },
+      {
+        "text": "Zona de paragem e estacionamento proibidos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2102.jpg",
+    "answers": [
+      {
+        "text": "O fim do limite m\u00e1ximo de velocidade.",
+        "correct": true
+      },
+      {
+        "text": "O limite de velocidade recomendado para toda a faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "O limite m\u00ednimo de velocidade, para aquela zona.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2103.jpg",
+    "answers": [
+      {
+        "text": "Estacionamento proibido.",
+        "correct": true
+      },
+      {
+        "text": "Local de paragem proibida.",
+        "correct": false
+      },
+      {
+        "text": "Zona de paragem e estacionamento limitado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical pro\u00edbe o tr\u00e2nsito:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2104.jpg",
+    "answers": [
+      {
+        "text": "A todos os autom\u00f3veis pesados.",
+        "correct": false
+      },
+      {
+        "text": "Aos autom\u00f3veis ligeiros e pesados de mercadorias.",
+        "correct": true
+      },
+      {
+        "text": "Apenas aos autom\u00f3veis pesados de mercadorias.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical que se encontra nesta via p\u00fablica indica-me que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2105.jpg",
+    "answers": [
+      {
+        "text": "A via p\u00fablica tem dois sentidos de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Devo ceder a passagem ao ve\u00edculo que transita em sentido contr\u00e1rio.",
+        "correct": true
+      },
+      {
+        "text": "Tenho prioridade de passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical, de afecta\u00e7\u00e3o de vias, indica:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2106.jpg",
+    "answers": [
+      {
+        "text": "A aproxima\u00e7\u00e3o de um entroncamento.",
+        "correct": false
+      },
+      {
+        "text": "A supress\u00e3o de uma via de tr\u00e2nsito com obrigatoriedade de ced\u00eancia de passagem.",
+        "correct": true
+      },
+      {
+        "text": "Que no sentido em que transito passam a existir duas vias de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os condutores que circulam na via de tr\u00e2nsito da direita devem:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2107.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem e mudar de via de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Mudar para a faixa de rodagem da esquerda, antes do sinal.",
+        "correct": false
+      },
+      {
+        "text": "Parar antes de mudar de via de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os sinais colocados no p\u00f3rtico s\u00e3o:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2108.jpg",
+    "answers": [
+      {
+        "text": "De afecta\u00e7\u00e3o de vias.",
+        "correct": false
+      },
+      {
+        "text": "De pr\u00e9-sinaliza\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "De selec\u00e7\u00e3o de vias.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para ir para o Carregado:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2109.jpg",
+    "answers": [
+      {
+        "text": "Devo mudar para a via de tr\u00e2nsito central ou da direita.",
+        "correct": false
+      },
+      {
+        "text": "Devo mudar para a via de tr\u00e2nsito central.",
+        "correct": false
+      },
+      {
+        "text": "Posso manter-me na via de tr\u00e2nsito em que circulo.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para me dirigir \u00e0 A1 NORTE:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2110.jpg",
+    "answers": [
+      {
+        "text": "Disponho de quatro vias de tr\u00e2nsito, devendo utilizar a via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "Posso optar por qualquer das vias de tr\u00e2nsito existentes.",
+        "correct": false
+      },
+      {
+        "text": "Tenho de manter-me na via de tr\u00e2nsito em que circulo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para seguir a direc\u00e7\u00e3o Areeiro devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2111.jpg",
+    "answers": [
+      {
+        "text": "Manter-me na via de tr\u00e2nsito em que circulo.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o para a direita neste cruzamento.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar e mudar progressivamente para a via de tr\u00e2nsito \u00e0 minha direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para seguir em direc\u00e7\u00e3o \u00e0 A1 devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2112.jpg",
+    "answers": [
+      {
+        "text": "Seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar e mudar progressivamente para a via de tr\u00e2nsito \u00e0 minha direita.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar e mudar progressivamente para a via de tr\u00e2nsito \u00e0 minha esquerda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para seguir em direc\u00e7\u00e3o \u00e0 A3, devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2113.jpg",
+    "answers": [
+      {
+        "text": "Manter-me na via de tr\u00e2nsito em que circulo.",
+        "correct": true
+      },
+      {
+        "text": "Passar progressivamente para a via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Passar progressivamente para a via de tr\u00e2nsito mais \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para seguir em direc\u00e7\u00e3o \u00e0 Esta\u00e7\u00e3o do Oriente devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2114.jpg",
+    "answers": [
+      {
+        "text": "Manter-me na via de tr\u00e2nsito em que circulo.",
+        "correct": false
+      },
+      {
+        "text": "Passar para a via de tr\u00e2nsito \u00e0 minha esquerda e prosseguir.",
+        "correct": false
+      },
+      {
+        "text": "Passar progressivamente para uma das vias de tr\u00e2nsito \u00e0 minha direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para seguir em direc\u00e7\u00e3o \u00e0 N1, devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2115.jpg",
+    "answers": [
+      {
+        "text": "Manter-me na via de tr\u00e2nsito em que circulo.",
+        "correct": false
+      },
+      {
+        "text": "Passar para a via de tr\u00e2nsito \u00e0 minha direita e prosseguir.",
+        "correct": false
+      },
+      {
+        "text": "Passar progressivamente para a via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para seguir em direc\u00e7\u00e3o a Sintra, estou bem colocado?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2116.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, pois deveria circular na via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que mude sem quaisquer precau\u00e7\u00f5es para a via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Sim, pois posso utilizar qualquer via de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o existente a indicar que a circula\u00e7\u00e3o passa de tr\u00eas para duas vias:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2117.jpg",
+    "answers": [
+      {
+        "text": "Devo ceder a passagem aos ve\u00edculos da direita.",
+        "correct": false
+      },
+      {
+        "text": "Tenho prioridade de passagem sobre os ve\u00edculos que circulam na via mais \u00e0 direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o existente devo saber que na via de tr\u00e2nsito onde circulo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2118.jpg",
+    "answers": [
+      {
+        "text": "Devo circular a uma velocidade m\u00e9dia de 70 km/h.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 obrigat\u00f3rio circular \u00e0 velocidade m\u00ednima de 70 km/h.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o devo circular a mais de 70 Km/h.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o vertical desta via, devo saber que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2119.jpg",
+    "answers": [
+      {
+        "text": "Aproxima-se uma via sem prioridade a 100 metros.",
+        "correct": false
+      },
+      {
+        "text": "Estou obrigado a ceder a passagem a todos os ve\u00edculos que circulam na via que se aproxima.",
+        "correct": true
+      },
+      {
+        "text": "Os condutores que transitam na via onde se encontra este sinal t\u00eam prioridade de passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o vertical existente nesta via p\u00fablica devo saber que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2120.jpg",
+    "answers": [
+      {
+        "text": "Cede sempre a passagem o ve\u00edculo que chega depois ao estreitamento da via.",
+        "correct": false
+      },
+      {
+        "text": "Devo ceder a passagem ao ve\u00edculo que circula em sentido contr\u00e1rio.",
+        "correct": true
+      },
+      {
+        "text": "O ve\u00edculo que desce deve ceder-me a passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante este sinal devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2121.jpg",
+    "answers": [
+      {
+        "text": "Ceder passagem aos ve\u00edculos sem motor que se apresentem pela direita.",
+        "correct": false
+      },
+      {
+        "text": "Circular com velocidade moderada e respeitar a regra de ced\u00eancia de passagem.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros na passagem de n\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante este sinal devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2122.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar, porque n\u00e3o tenho que ceder passagem.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar, porque o tr\u00e2nsito se faz em simult\u00e2neo nos dois sentidos.",
+        "correct": false
+      },
+      {
+        "text": "Ceder passagem no estreitamento da via.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante este sinal sei que na via de tr\u00e2nsito \u00e0 minha esquerda n\u00e3o podem circular autom\u00f3veis:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2123.jpg",
+    "answers": [
+      {
+        "text": "Ligeiros e pesados de mercadorias.",
+        "correct": false
+      },
+      {
+        "text": "Pesados de mercadorias e de passageiros.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante este sinal sei que vou entrar numa zona:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2124.jpg",
+    "answers": [
+      {
+        "text": "Onde n\u00e3o posso parar nem estacionar.",
+        "correct": true
+      },
+      {
+        "text": "Onde posso parar e estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Onde posso parar mas n\u00e3o estacionar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante este sinal vertical fico a saber que vou entrar numa zona de:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2125.jpg",
+    "answers": [
+      {
+        "text": "Estacionamento autorizado.",
+        "correct": false
+      },
+      {
+        "text": "Estacionamento proibido apenas para autom\u00f3veis pesados.",
+        "correct": false
+      },
+      {
+        "text": "Estacionamento proibido.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal de fundo branco tenho prioridade sobre os ve\u00edculos que circulam na via da esquerda. Concorda com a afirma\u00e7\u00e3o?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2126.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal vertical de forma triangular sei que no pr\u00f3ximo entroncamento devo ceder a passagem aos ve\u00edculos que se apresentem pela direita.",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2127.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": true
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal vertical devo saber que:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2128.jpg",
+    "answers": [
+      {
+        "text": "Aproxima-se uma curva perigosa \u00e0 esquerda.",
+        "correct": true
+      },
+      {
+        "text": "O tr\u00e2nsito apenas se faz num s\u00f3 sentido.",
+        "correct": false
+      },
+      {
+        "text": "Tenho prioridade de passagem no pr\u00f3ximo entroncamento ou cruzamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal vertical, o tr\u00e2nsito \u00e9 proibido em toda aquela zona a:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2129.jpg",
+    "answers": [
+      {
+        "text": "Autom\u00f3veis de mercadorias.",
+        "correct": true
+      },
+      {
+        "text": "Todos os autom\u00f3veis pesados.",
+        "correct": false
+      },
+      {
+        "text": "Todos os autom\u00f3veis.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso circular a velocidade superior a 40 Km/h nesta via de tr\u00e2nsito?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2130.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, o sinal indica-me entrada numa zona em que a velocidade est\u00e1 limitada \u00e0 indicada no sinal.",
+        "correct": true
+      },
+      {
+        "text": "Sim, o sinal indica-me a entrada numa zona de velocidade recomendada superior a 40 Km/h.",
+        "correct": false
+      },
+      {
+        "text": "Sim, o sinal indica-me que terminou a zona de velocidade limitada a 40 Km/h.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso entrar no corredor de circula\u00e7\u00e3o:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2131.jpg",
+    "answers": [
+      {
+        "text": "Para mudar de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "Para seguir em frente, desde que n\u00e3o mude de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Para ultrapassar um ve\u00edculo que pretenda mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo ir para Elvas. Devo:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2132.jpg",
+    "answers": [
+      {
+        "text": "Deixar a estrada em que circulo quando encontrar a nacional N\u00ba4.",
+        "correct": false
+      },
+      {
+        "text": "Fazer sinal de mudan\u00e7a de direc\u00e7\u00e3o e sair na pr\u00f3xima sa\u00edda.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar o autom\u00f3vel pesado e sair na pr\u00f3xima sa\u00edda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo seguir em direc\u00e7\u00e3o \u00e0 IC2, utilizo a via de tr\u00e2nsito adequada?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2133.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual o significado do sinal de ced\u00eancia de passagem?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2134.jpg",
+    "answers": [
+      {
+        "text": "Aproxima\u00e7\u00e3o de pra\u00e7a onde a velocidade \u00e9 limitada a 70 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Aproxima\u00e7\u00e3o de rotunda onde o tr\u00e2nsito se processa em sentido girat\u00f3rio.",
+        "correct": true
+      },
+      {
+        "text": "Obrigatoriedade de ceder a passagem aos ve\u00edculos que entram na rotunda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Regra geral, este sinal \u00e9 utilizado no interior das localidades.",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2135.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se circular com um autom\u00f3vel ligeiro de mercadorias posso seguir em frente?",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2136.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, o sinal pro\u00edbe a circula\u00e7\u00e3o de autom\u00f3veis ligeiros e pesados de mercadorias.",
+        "correct": true
+      },
+      {
+        "text": "Sim, o sinal apenas pro\u00edbe a passagem de autom\u00f3veis pesados de mercadorias.",
+        "correct": false
+      },
+      {
+        "text": "Sim, o sinal indica zona de estacionamento proibido a autom\u00f3veis pesados de mercadorias.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Transito dentro duma localidade. Ap\u00f3s o sinal, a velocidade m\u00e1xima:",
+    "image": "images/sinais-prescricao-especifica-sinais-cedencia-passagem_2137.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 de 40 km/h.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 de 50 km/h.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o tem qualquer limite.",
+        "correct": false
+      }
+    ]
+  }
+]

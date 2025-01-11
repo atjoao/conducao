@@ -1,0 +1,3702 @@
+[
+    {
+        "question": "A agressividade \u00e9 um estado emocional que afecta negativamente o desempenho da condu\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4060.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A altera\u00e7\u00e3o do campo visual de um condutor devido \u00e0 ingest\u00e3o de bebidas alco\u00f3licas, manifesta-se por:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4061.jpg",
+        "answers": [
+            {
+                "text": "Aumento da vis\u00e3o lateral.",
+                "correct": false
+            },
+            {
+                "text": "Redu\u00e7\u00e3o da vis\u00e3o lateral.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A audi\u00e7\u00e3o \u00e9 um sentido muito importante na tarefa da condu\u00e7\u00e3o. Em que momento?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4062.jpg",
+        "answers": [
+            {
+                "text": "Na decis\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Na recolha da informa\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "No tratamento da informa\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A capacidade de condu\u00e7\u00e3o pode ser prejudicada pela ingest\u00e3o de pequenas quantidades de \u00e1lcool?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4063.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, s\u00e3o completamente inofensivas.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, se forem ingeridas durante a refei\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, pois podem levar \u00e0 sobrevaloriza\u00e7\u00e3o da capacidade de condu\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A capacidade para conduzir pode ser alterada pela ingest\u00e3o de medicamentos?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4064.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, salvo se n\u00e3o tiverem sido prescritos pelo m\u00e9dico.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas no caso dos sedativos e tranquilizantes.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o com uma taxa de \u00e1lcool de 0,7 g/l, \u00e9 considerada:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4065.jpg",
+        "answers": [
+            {
+                "text": "Contra-ordena\u00e7\u00e3o grave.",
+                "correct": true
+            },
+            {
+                "text": "Contra-ordena\u00e7\u00e3o muito grave.",
+                "correct": false
+            },
+            {
+                "text": "Crime.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o com uma taxa de \u00e1lcool, igual ou superior a 0,8 g/l, \u00e9 considerada:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4066.jpg",
+        "answers": [
+            {
+                "text": "Contra-ordena\u00e7\u00e3o grave.",
+                "correct": false
+            },
+            {
+                "text": "Contra-ordena\u00e7\u00e3o muito grave.",
+                "correct": true
+            },
+            {
+                "text": "Crime.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o com uma taxa de \u00e1lcool, superior a 1,3 g/l, \u00e9 considerada:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4067.jpg",
+        "answers": [
+            {
+                "text": "Contra-ordena\u00e7\u00e3o grave.",
+                "correct": false
+            },
+            {
+                "text": "Contra-ordena\u00e7\u00e3o leve.",
+                "correct": false
+            },
+            {
+                "text": "Crime.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o sob a influ\u00eancia do \u00e1lcool:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4068.jpg",
+        "answers": [
+            {
+                "text": "Aumenta o tempo de recupera\u00e7\u00e3o ap\u00f3s encandeamento.",
+                "correct": true
+            },
+            {
+                "text": "Diminui o tempo de recupera\u00e7\u00e3o ap\u00f3s encandeamento.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o altera o tempo de recupera\u00e7\u00e3o ap\u00f3s encandeamento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o sob influ\u00eancia de \u00e1lcool \u00e9 sempre considerada uma contra-ordena\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4069.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o sob influ\u00eancia de \u00e1lcool pode ser considerada crime?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4070.jpg",
+        "answers": [
+            {
+                "text": "Sim, se o valor for igual ou superior a 0,5 g/l.",
+                "correct": false
+            },
+            {
+                "text": "Sim, se o valor for igual ou superior a 0,8 g/l.",
+                "correct": false
+            },
+            {
+                "text": "Sim, se o valor for igual ou superior a 1,2 g/l.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o sob influ\u00eancia de subst\u00e2ncias psicotr\u00f3picas pode ser punida como crime.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4071.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o sob influ\u00eancia do \u00e1lcool \u00e9 um factor negativo para o correcto desempenho da tarefa da condu\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4072.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o sob influ\u00eancia do \u00e1lcool provoca no condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4073.jpg",
+        "answers": [
+            {
+                "text": "A diminui\u00e7\u00e3o do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "O aumento do tempo de reac\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "O aumento dos reflexos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o sob influ\u00eancia do \u00e1lcool:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4074.jpg",
+        "answers": [
+            {
+                "text": "Aumenta o risco de acidente.",
+                "correct": true
+            },
+            {
+                "text": "Diminui o risco de acidente.",
+                "correct": false
+            },
+            {
+                "text": "Em nada interfere com a seguran\u00e7a rodovi\u00e1ria.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A condu\u00e7\u00e3o sob o efeito de \u00e1lcool pode ser punida como pr\u00e1tica de crime:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4075.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A elevada ingest\u00e3o de bebidas alco\u00f3licas provoca num condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4076.jpg",
+        "answers": [
+            {
+                "text": "A redu\u00e7\u00e3o da capacidade de reac\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "O aumento da capacidade de aten\u00e7\u00e3o e concentra\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "O aumento das capacidades de avalia\u00e7\u00e3o das dist\u00e2ncias.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A fadiga do condutor reduz significativamente:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4077.jpg",
+        "answers": [
+            {
+                "text": "A dist\u00e2ncia de paragem do ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "A dist\u00e2ncia de reac\u00e7\u00e3o do condutor.",
+                "correct": false
+            },
+            {
+                "text": "A sua capacidade de vigil\u00e2ncia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A fadiga \u00e9 um factor que provoca, no condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4078.jpg",
+        "answers": [
+            {
+                "text": "A diminui\u00e7\u00e3o do seu tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "A diminui\u00e7\u00e3o do tempo de reac\u00e7\u00e3o, logo a sua aten\u00e7\u00e3o \u00e9 maior.",
+                "correct": false
+            },
+            {
+                "text": "O aumento do seu tempo de reac\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A fadiga influencia a recolha de informa\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4079.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, assim como influencia toda a tarefa da condu\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, mas apenas em condu\u00e7\u00e3o urbana.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A fadiga na condu\u00e7\u00e3o pode provocar:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4080.jpg",
+        "answers": [
+            {
+                "text": "A diminui\u00e7\u00e3o da dist\u00e2ncia de travagem.",
+                "correct": false
+            },
+            {
+                "text": "A redu\u00e7\u00e3o da dist\u00e2ncia de paragem.",
+                "correct": false
+            },
+            {
+                "text": "O aumento do tempo de reac\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A fadiga na condu\u00e7\u00e3o pode ter como consequ\u00eancia:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4081.jpg",
+        "answers": [
+            {
+                "text": "Diminui\u00e7\u00e3o da vigil\u00e2ncia em rela\u00e7\u00e3o ao meio envolvente.",
+                "correct": true
+            },
+            {
+                "text": "Diminui\u00e7\u00e3o do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Maior rapidez dos reflexos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A fadiga provoca sonol\u00eancia. A sonol\u00eancia provoca o aumento:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4082.jpg",
+        "answers": [
+            {
+                "text": "Da dist\u00e2ncia de travagem e do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Da dist\u00e2ncia de travagem.",
+                "correct": false
+            },
+            {
+                "text": "Do tempo de reac\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o da mesma quantidade de bebida alco\u00f3lica afecta igualmente todos os condutores?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4083.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, depende de factores como o peso, a idade, o sexo, entre outros.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o, s\u00f3 afecta o condutor de acordo com a idade que tiver.",
+                "correct": false
+            },
+            {
+                "text": "Sim, afecta.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de alguns medicamentos pode ser t\u00e3o perigosa para a condu\u00e7\u00e3o como o \u00e1lcool.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4084.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de bebidas alco\u00f3licas afecta o campo visual do condutor?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4085.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o \u00e1lcool apenas influencia a acuidade visual do condutor.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o \u00e1lcool aumenta o campo visual.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o \u00e1lcool diminui o campo visual.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de bebidas alco\u00f3licas influencia a condu\u00e7\u00e3o, porque:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4086.jpg",
+        "answers": [
+            {
+                "text": "Aumenta os reflexos do condutor.",
+                "correct": false
+            },
+            {
+                "text": "Diminui a resist\u00eancia f\u00edsica do condutor.",
+                "correct": true
+            },
+            {
+                "text": "O condutor fica mais consciente do perigo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de bebidas alco\u00f3licas pode provocar no condutor um falso estado de euforia e confian\u00e7a, que o leva a:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4087.jpg",
+        "answers": [
+            {
+                "text": "Conduzir com maior seguran\u00e7a.",
+                "correct": false
+            },
+            {
+                "text": "Necessitar de menos tempo para reagir.",
+                "correct": false
+            },
+            {
+                "text": "Sobrevalorizar as suas capacidades e minimizar o risco de acidente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de bebidas alco\u00f3licas provoca no condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4088.jpg",
+        "answers": [
+            {
+                "text": "Reac\u00e7\u00f5es mais r\u00e1pidas.",
+                "correct": false
+            },
+            {
+                "text": "Um aumento da capacidade visual.",
+                "correct": false
+            },
+            {
+                "text": "Uma diminui\u00e7\u00e3o das capacidades f\u00edsicas e ps\u00edquicas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de bebidas alco\u00f3licas provoca no condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4089.jpg",
+        "answers": [
+            {
+                "text": "Bem estar e melhoria da aten\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Dificuldade de recupera\u00e7\u00e3o ap\u00f3s encandeamento.",
+                "correct": true
+            },
+            {
+                "text": "Redu\u00e7\u00e3o do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de bebidas alco\u00f3licas, mesmo em pequenas quantidades, podem ter como consequ\u00eancia:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4090.jpg",
+        "answers": [
+            {
+                "text": "Aumentar o tempo de reac\u00e7\u00e3o e a dist\u00e2ncia de paragem.",
+                "correct": true
+            },
+            {
+                "text": "Aumentar o tempo de reac\u00e7\u00e3o, mas n\u00e3o a dist\u00e2ncia de paragem.",
+                "correct": false
+            },
+            {
+                "text": "Diminuir o tempo de reac\u00e7\u00e3o e a dist\u00e2ncia de paragem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de bebidas alco\u00f3licas:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4091.jpg",
+        "answers": [
+            {
+                "text": "Acalma o condutor.",
+                "correct": false
+            },
+            {
+                "text": "Diminui a capacidade de reac\u00e7\u00e3o do condutor.",
+                "correct": true
+            },
+            {
+                "text": "Torna o condutor mais consciente do perigo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de bebidas alco\u00f3licas:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4092.jpg",
+        "answers": [
+            {
+                "text": "Alarga o campo visual.",
+                "correct": false
+            },
+            {
+                "text": "Diminui o campo visual.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o afecta o campo visual.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de certo tipo de medicamentos n\u00e3o \u00e9 concili\u00e1vel com o exerc\u00edcio da condu\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4093.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de certos tipos de medicamentos pode influenciar a vis\u00e3o e os reflexos do condutor?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4094.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, os medicamentos apenas podem prejudicar a capacidade motora do condutor.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, os medicamentos apenas podem prejudicar a capacidade visual do condutor.",
+                "correct": false
+            },
+            {
+                "text": "Sim, os medicamentos podem prejudicar a capacidade visual e motora do condutor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A ingest\u00e3o de igual quantidade de uma bebida alco\u00f3lica afecta da mesma forma todos os condutores?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4095.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, a influ\u00eancia depende de v\u00e1rios factores como o peso, a idade, o sexo, entre outros.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o, s\u00e3o mais afectados os condutores de menos idade.",
+                "correct": false
+            },
+            {
+                "text": "Sim, desde que a bebida seja a mesma.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A monotonia na condu\u00e7\u00e3o pode aparecer em:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4096.jpg",
+        "answers": [
+            {
+                "text": "Rectas prolongadas circulando a velocidade mais ou menos constante.",
+                "correct": true
+            },
+            {
+                "text": "Vias com perfil sinuoso.",
+                "correct": false
+            },
+            {
+                "text": "Zonas urbanas que requerem uma constante mudan\u00e7a de velocidade.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A recolha de informa\u00e7\u00e3o \u00e9 feita essencialmente atrav\u00e9s da audi\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4097.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A recolha de informa\u00e7\u00e3o pode ser feita atrav\u00e9s da audi\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4098.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque toda a informa\u00e7\u00e3o \u00e9 recebida atrav\u00e9s da vis\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas na condu\u00e7\u00e3o nocturna.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A taxa de \u00e1lcool no sangue (TAS) varia com:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4099.jpg",
+        "answers": [
+            {
+                "text": "A gradua\u00e7\u00e3o alco\u00f3lica da bebida.",
+                "correct": true
+            },
+            {
+                "text": "A hora do dia",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A vis\u00e3o crom\u00e1tica \u00e9 a capacidade que permite ao condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4100.jpg",
+        "answers": [
+            {
+                "text": "Avaliar a dist\u00e2ncia de seguran\u00e7a.",
+                "correct": false
+            },
+            {
+                "text": "Avaliar dist\u00e2ncias.",
+                "correct": false
+            },
+            {
+                "text": "Distinguir cores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A vis\u00e3o \u00e9 um dos sentidos mais importantes na tarefa da condu\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4101.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A vis\u00e3o em t\u00fanel manifesta-se de que modo?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4102.jpg",
+        "answers": [
+            {
+                "text": "Perda total da capacidade de vis\u00e3o crom\u00e1tica.",
+                "correct": false
+            },
+            {
+                "text": "Perda total de vis\u00e3o lateral.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A vis\u00e3o estereosc\u00f3pica permite ao condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4103.jpg",
+        "answers": [
+            {
+                "text": "Avaliar dist\u00e2ncias.",
+                "correct": true
+            },
+            {
+                "text": "Distinguir cores.",
+                "correct": false
+            },
+            {
+                "text": "Resistir ao encandeamento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ao condutor com uma taxa de \u00e1lcool no sangue de 0,9 g/l \u00e9 aplic\u00e1vel a san\u00e7\u00e3o acess\u00f3ria de inibi\u00e7\u00e3o de conduzir de:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4104.jpg",
+        "answers": [
+            {
+                "text": "Dois meses a dois anos.",
+                "correct": true
+            },
+            {
+                "text": "Seis meses a dois anos.",
+                "correct": false
+            },
+            {
+                "text": "Um m\u00eas a seis meses.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ao ingerir \u00e1lcool e medicamentos, em simult\u00e2neo, o condutor pode ver aumentado o efeito de ambas as subst\u00e2ncias na condu\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4105.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s a ingest\u00e3o de \u00e1lcool, as capacidades f\u00edsicas e ps\u00edquicas do condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4106.jpg",
+        "answers": [
+            {
+                "text": "Aumentam devido ao estado de euforia.",
+                "correct": false
+            },
+            {
+                "text": "Ficam alteradas.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 s\u00e3o alteradas se beber em grande quantidade.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s a ingest\u00e3o de bebidas alco\u00f3licas os efeitos do \u00e1lcool come\u00e7am a manifestar-se:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4107.jpg",
+        "answers": [
+            {
+                "text": "Decorridas mais de 3 horas.",
+                "correct": false
+            },
+            {
+                "text": "Durante a 2\u00aa hora.",
+                "correct": false
+            },
+            {
+                "text": "Muito rapidamente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s a ingest\u00e3o de bebidas alco\u00f3licas os efeitos do \u00e1lcool na condu\u00e7\u00e3o come\u00e7am a manifestar-se:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4108.jpg",
+        "answers": [
+            {
+                "text": "Decorridas mais de 3 horas.",
+                "correct": false
+            },
+            {
+                "text": "Logo durante a 1\u00aa hora.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 a partir da 2\u00aa hora.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s a ingest\u00e3o de bebidas alco\u00f3licas, um obst\u00e1culo que surja na frente do condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4109.jpg",
+        "answers": [
+            {
+                "text": "Parece \u00e0 dist\u00e2ncia correcta.",
+                "correct": false
+            },
+            {
+                "text": "Parece mais longe.",
+                "correct": true
+            },
+            {
+                "text": "Parece mais pr\u00f3ximo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s a ingest\u00e3o de bebidas alco\u00f3licas:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4110.jpg",
+        "answers": [
+            {
+                "text": "As faculdades necess\u00e1rias \u00e0 condu\u00e7\u00e3o s\u00e3o perturbadas.",
+                "correct": true
+            },
+            {
+                "text": "O condutor \u00e9 menos afectado de dia.",
+                "correct": false
+            },
+            {
+                "text": "O condutor s\u00f3 \u00e9 afectado na capacidade visual.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s ingerir bebidas alco\u00f3licas, os obst\u00e1culos que um condutor aviste \u00e0 sua frente na via p\u00fablica, parecem-lhe estar:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4111.jpg",
+        "answers": [
+            {
+                "text": "\u00c0 dist\u00e2ncia real.",
+                "correct": false
+            },
+            {
+                "text": "Mais longe.",
+                "correct": true
+            },
+            {
+                "text": "Mais pr\u00f3ximo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "As bebidas alco\u00f3licas podem levar os condutores a:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4112.jpg",
+        "answers": [
+            {
+                "text": "Diminuir os reflexos, aumentando o tempo de reac\u00e7\u00e3o e a dist\u00e2ncia de paragem.",
+                "correct": true
+            },
+            {
+                "text": "Melhorar a sua capacidade de avalia\u00e7\u00e3o das condi\u00e7\u00f5es do tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Melhorar a sua capacidade de dom\u00ednio do ve\u00edculo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "As bebidas alco\u00f3licas, mesmo tomadas em pequenas quantidades, podem afectar a condu\u00e7\u00e3o:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4113.jpg",
+        "answers": [
+            {
+                "text": "Atrav\u00e9s da redu\u00e7\u00e3o do campo visual.",
+                "correct": true
+            },
+            {
+                "text": "Atrav\u00e9s da redu\u00e7\u00e3o do risco de acidente.",
+                "correct": false
+            },
+            {
+                "text": "Atrav\u00e9s da redu\u00e7\u00e3o do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "As bebidas alco\u00f3licas, s\u00f3 t\u00eam efeitos negativos no condutor, a partir de uma taxa de \u00e1lcool no sangue igual ou superior a 0,5 g/l.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4114.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Com a taxa de \u00e1lcool no sangue de 0,9 g/l, o condutor ser\u00e1 sancionado pela pr\u00e1tica:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4115.jpg",
+        "answers": [
+            {
+                "text": "De uma contra-ordena\u00e7\u00e3o grave.",
+                "correct": false
+            },
+            {
+                "text": "De uma contra-ordena\u00e7\u00e3o leve.",
+                "correct": false
+            },
+            {
+                "text": "De uma contra-ordena\u00e7\u00e3o muito grave.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Com uma taxa de \u00e1lcool no sangue de 0,5 g/l, o condutor ser\u00e1 punido, pela pr\u00e1tica de uma contra-ordena\u00e7\u00e3o:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4116.jpg",
+        "answers": [
+            {
+                "text": "Grave.",
+                "correct": true
+            },
+            {
+                "text": "Leve.",
+                "correct": false
+            },
+            {
+                "text": "Muito grave.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Com uma taxa de \u00e1lcool no sangue de 0,5g/l, um condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4117.jpg",
+        "answers": [
+            {
+                "text": "Continua apto a conduzir com seguran\u00e7a.",
+                "correct": false
+            },
+            {
+                "text": "Fica com as suas capacidades para a condu\u00e7\u00e3o diminu\u00eddas.",
+                "correct": true
+            },
+            {
+                "text": "Fica euf\u00f3rico, o que lhe d\u00e1 maior consci\u00eancia do perigo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Com uma taxa de \u00e1lcool no sangue igual ou superior a 0,5g/l, sem submiss\u00e3o a novos exames, o condutor fica impedido de conduzir durante:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4118.jpg",
+        "answers": [
+            {
+                "text": "12 horas.",
+                "correct": true
+            },
+            {
+                "text": "2 horas.",
+                "correct": false
+            },
+            {
+                "text": "24 horas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Com uma taxa de \u00e1lcool, de 0,7 g/l, o condutor ser\u00e1 sancionado:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4119.jpg",
+        "answers": [
+            {
+                "text": "Apenas com coima.",
+                "correct": false
+            },
+            {
+                "text": "Apenas com inibi\u00e7\u00e3o de conduzir.",
+                "correct": false
+            },
+            {
+                "text": "Com coima e inibi\u00e7\u00e3o de conduzir.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Como devo circular no local em que me encontro?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4120.jpg",
+        "answers": [
+            {
+                "text": "Contornar a placa pela direita.",
+                "correct": true
+            },
+            {
+                "text": "Contornar a placa pela esquerda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder para vencer a sonol\u00eancia durante uma viagem?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4121.jpg",
+        "answers": [
+            {
+                "text": "Ligar o r\u00e1dio e abrir as janelas.",
+                "correct": false
+            },
+            {
+                "text": "Parar de vez em quando para tomar caf\u00e9.",
+                "correct": false
+            },
+            {
+                "text": "Parar em local apropriado e descansar o suficiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder perante o sinal de obriga\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4122.jpg",
+        "answers": [
+            {
+                "text": "Ceder a passagem aos ve\u00edculos da direita.",
+                "correct": false
+            },
+            {
+                "text": "Circular junto ao eixo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Contornar a placa ou obst\u00e1culo pelo lado indicado pela seta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder perante o sinal de obriga\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4123.jpg",
+        "answers": [
+            {
+                "text": "Ceder a passagem.",
+                "correct": false
+            },
+            {
+                "text": "Contornar a placa ou obst\u00e1culo.",
+                "correct": false
+            },
+            {
+                "text": "Mudar de direc\u00e7\u00e3o \u00e0 direita porque o sentido \u00e9 obrigat\u00f3rio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Conduzir sob a influ\u00eancia do \u00e1lcool:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4124.jpg",
+        "answers": [
+            {
+                "text": "Aumenta a vis\u00e3o perif\u00e9rica.",
+                "correct": false
+            },
+            {
+                "text": "Diminui a vis\u00e3o perif\u00e9rica.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o altera a vis\u00e3o perif\u00e9rica.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Conduzir sob a influ\u00eancia do \u00e1lcool:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4125.jpg",
+        "answers": [
+            {
+                "text": "Aumenta a vis\u00e3o lateral.",
+                "correct": false
+            },
+            {
+                "text": "Aumenta o tempo de reac\u00e7\u00e3o e a capacidade de previs\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Diminui a capacidade de recolher informa\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Conduzir sob o efeito do \u00e1lcool:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4126.jpg",
+        "answers": [
+            {
+                "text": "Aumenta a capacidade de aten\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Diminui a capacidade de aten\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o altera a capacidade de aten\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Considera que o comportamento deste condutor \u00e9 adequado a uma condu\u00e7\u00e3o segura?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4127.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, porque a distrac\u00e7\u00e3o n\u00e3o influencia a condu\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, se estiver a praticar uma condu\u00e7\u00e3o urbana.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Considera-se condu\u00e7\u00e3o sob o efeito de \u00e1lcool, quando o condutor apresenta uma TAS:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4128.jpg",
+        "answers": [
+            {
+                "text": "Igual ou superior a 0,3g/l.",
+                "correct": false
+            },
+            {
+                "text": "Igual ou superior a 0,5g/l.",
+                "correct": true
+            },
+            {
+                "text": "Superior a 0,5g/l.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Considera-se crime a condu\u00e7\u00e3o com uma taxa de \u00e1lcool, igual ou superior a:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4129.jpg",
+        "answers": [
+            {
+                "text": "0,5 g/l.",
+                "correct": false
+            },
+            {
+                "text": "0,8 g/l.",
+                "correct": false
+            },
+            {
+                "text": "1,2 g/l.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Considera-se sob a influ\u00eancia do \u00e1lcool o condutor que apresente uma taxa de \u00e1lcool, igual ou superior a:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4130.jpg",
+        "answers": [
+            {
+                "text": "0,3 g/l.",
+                "correct": false
+            },
+            {
+                "text": "0,4 g/l.",
+                "correct": false
+            },
+            {
+                "text": "0,5 g/l.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Constitui crime a condu\u00e7\u00e3o com uma taxa de \u00e1lcool no sangue:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4131.jpg",
+        "answers": [
+            {
+                "text": "Igual ou superior a 0,8 g/l.",
+                "correct": false
+            },
+            {
+                "text": "Igual ou superior a 1,0 g/l.",
+                "correct": false
+            },
+            {
+                "text": "Igual ou superior a 1,2 g/l.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Contribuindo para que o condutor se sinta melhor f\u00edsica e psicologicamente, os tranquilizantes permitem a condu\u00e7\u00e3o em seguran\u00e7a.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4132.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Cria situa\u00e7\u00f5es de perigo para o tr\u00e2nsito:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4133.jpg",
+        "answers": [
+            {
+                "text": "A condu\u00e7\u00e3o sob a influ\u00eancia de \u00e1lcool.",
+                "correct": true
+            },
+            {
+                "text": "O ve\u00edculo parado a aguardar a passagem do comboio.",
+                "correct": false
+            },
+            {
+                "text": "O ve\u00edculo que circule pela direita da faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Cria, em geral, uma situa\u00e7\u00e3o de perigo no tr\u00e2nsito:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4134.jpg",
+        "answers": [
+            {
+                "text": "A condu\u00e7\u00e3o sob a influ\u00eancia de bebidas alco\u00f3licas.",
+                "correct": true
+            },
+            {
+                "text": "A paragem junto a um sinal de stop.",
+                "correct": false
+            },
+            {
+                "text": "A realiza\u00e7\u00e3o da manobra de invers\u00e3o do sentido de marcha.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "De que forma pode o estado emocional prejudicar o exerc\u00edcio da condu\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4135.jpg",
+        "answers": [
+            {
+                "text": "Diminuindo a fadiga muscular resultante da pr\u00f3pria condu\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Diminuindo o grau de aten\u00e7\u00e3o e de concentra\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Diminuindo o n\u00edvel de agressividade na condu\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Devido \u00e0 ingest\u00e3o de bebidas alco\u00f3licas, a capacidade de previs\u00e3o do condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4136.jpg",
+        "answers": [
+            {
+                "text": "Aumenta.",
+                "correct": false
+            },
+            {
+                "text": "Diminui.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o se altera.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Dos seguintes factores assinale aquele de que depende mais a dist\u00e2ncia de reac\u00e7\u00e3o:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4137.jpg",
+        "answers": [
+            {
+                "text": "Da ingest\u00e3o de bebidas alco\u00f3licas.",
+                "correct": true
+            },
+            {
+                "text": "Do perfil da via.",
+                "correct": false
+            },
+            {
+                "text": "Do sistema de travagem do ve\u00edculo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Dos seguintes factores, assinale aquele que \u00e9 agravado pela condu\u00e7\u00e3o nocturna:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4138.jpg",
+        "answers": [
+            {
+                "text": "A audi\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "A fadiga.",
+                "correct": true
+            },
+            {
+                "text": "A taxa de \u00e1lcool no sangue.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Durante uma viagem longa \u00e9 aconselh\u00e1vel ao condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4139.jpg",
+        "answers": [
+            {
+                "text": "Fazer a viagem o mais rapidamente poss\u00edvel.",
+                "correct": false
+            },
+            {
+                "text": "Ir bebendo bebidas energ\u00e9ticas, enquanto puder.",
+                "correct": false
+            },
+            {
+                "text": "Parar e descansar de 2 em 2 horas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Durante uma viagem longa, como pode um condutor evitar a fadiga?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4140.jpg",
+        "answers": [
+            {
+                "text": "Beber caf\u00e9.",
+                "correct": false
+            },
+            {
+                "text": "Fazer paragens para relaxar o corpo e desentorpecer as pernas.",
+                "correct": true
+            },
+            {
+                "text": "Ingerir uma pequena quantidade de uma subst\u00e2ncia excitante.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "\u00c9 considerada uma contra-ordena\u00e7\u00e3o muito grave, a condu\u00e7\u00e3o com uma taxa de \u00e1lcool no sangue de:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4141.jpg",
+        "answers": [
+            {
+                "text": "0,6 g/l.",
+                "correct": false
+            },
+            {
+                "text": "0,7 g/l.",
+                "correct": false
+            },
+            {
+                "text": "0,9 g/l.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "\u00c9 considerado crime a condu\u00e7\u00e3o com uma taxa de \u00e1lcool no sangue, igual a:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4142.jpg",
+        "answers": [
+            {
+                "text": "0,9 g/l.",
+                "correct": false
+            },
+            {
+                "text": "1,1 g/l.",
+                "correct": false
+            },
+            {
+                "text": "1,2 g/l.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "\u00c9 considerado crime se o condutor apresentar uma taxa de \u00e1lcool, de:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4143.jpg",
+        "answers": [
+            {
+                "text": "0,8 g/l.",
+                "correct": false
+            },
+            {
+                "text": "0,9 g/l.",
+                "correct": false
+            },
+            {
+                "text": "1,2 g/l.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "\u00c9 proibido conduzir ve\u00edculos na via p\u00fablica com taxa de alcoolemia:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4144.jpg",
+        "answers": [
+            {
+                "text": "Igual ou superior a 0,5g/l sangue.",
+                "correct": true
+            },
+            {
+                "text": "Inferior a 0,5g/l no sangue.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Em auto-estrada, a condu\u00e7\u00e3o sob efeito de \u00e1lcool e/ou drogas pode ser particularmente perigosa devido ao facto de provocarem:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4145.jpg",
+        "answers": [
+            {
+                "text": "Aumento do tempo de reac\u00e7\u00e3o e da dist\u00e2ncia de paragem.",
+                "correct": true
+            },
+            {
+                "text": "Diminui\u00e7\u00e3o do tempo de reac\u00e7\u00e3o e aumento da dist\u00e2ncia de paragem.",
+                "correct": false
+            },
+            {
+                "text": "Diminui\u00e7\u00e3o do tempo de reac\u00e7\u00e3o e da dist\u00e2ncia de paragem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Em qual das fases da tarefa da condu\u00e7\u00e3o se revela fundamental o papel desempenhado pela audi\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4146.jpg",
+        "answers": [
+            {
+                "text": "Na execu\u00e7\u00e3o da resposta.",
+                "correct": false
+            },
+            {
+                "text": "Na recolha de informa\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "No tratamento da informa\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Em que se traduz a influ\u00eancia do \u00e1lcool no exerc\u00edcio da condu\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4147.jpg",
+        "answers": [
+            {
+                "text": "Na diminui\u00e7\u00e3o da capacidade de reac\u00e7\u00e3o do condutor.",
+                "correct": true
+            },
+            {
+                "text": "Na diminui\u00e7\u00e3o do tempo de fixa\u00e7\u00e3o dos olhos nos objectos.",
+                "correct": false
+            },
+            {
+                "text": "No aumento da capacidade de percep\u00e7\u00e3o das velocidades e dist\u00e2ncias.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Em viagens muito longas a fadiga pode manifestar-se a n\u00edvel muscular, nervoso e visual.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4148.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Enquanto condutores devemos evitar situa\u00e7\u00f5es que nos afastem da aten\u00e7\u00e3o que a tarefa da condu\u00e7\u00e3o exige.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4149.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal de obriga\u00e7\u00e3o indica:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4150.jpg",
+        "answers": [
+            {
+                "text": "Obriga\u00e7\u00e3o de contornar a placa pela direita.",
+                "correct": true
+            },
+            {
+                "text": "Sentido obrigat\u00f3rio.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito de sentido \u00fanico.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal determina que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4151.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 obrigat\u00f3rio voltar \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido voltar para a direita.",
+                "correct": false
+            },
+            {
+                "text": "O tr\u00e2nsito se faz num \u00fanico sentido.",
+                "correct": false
+            },
+            {
+                "text": "Tenho que contornar a placa dando-lhe a minha esquerda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4152.jpg",
+        "answers": [
+            {
+                "text": "A via \u00e9 de sentido \u00fanico.",
+                "correct": false
+            },
+            {
+                "text": "Posso passar em primeiro lugar.",
+                "correct": false
+            },
+            {
+                "text": "Tenho de ceder a passagem.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical indica-me:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4153.jpg",
+        "answers": [
+            {
+                "text": "Que s\u00f3 podem circular ve\u00edculos que tenham colocadas as correntes de neve.",
+                "correct": true
+            },
+            {
+                "text": "Que s\u00f3 podem transitar ve\u00edculos com pneus especiais para este tipo de via.",
+                "correct": false
+            },
+            {
+                "text": "Que sou aconselhado a utilizar correntes de neve.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical significa que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4154.jpg",
+        "answers": [
+            {
+                "text": "Deixo de estar obrigado a circular \u00e0 velocidade m\u00ednima de 30 Km/h.",
+                "correct": true
+            },
+            {
+                "text": "Estou obrigado a circular \u00e0 velocidade m\u00e1xima de 30 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "Estou obrigado a circular \u00e0 velocidade m\u00ednima de 30Km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical significa:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4155.jpg",
+        "answers": [
+            {
+                "text": "Fim da obriga\u00e7\u00e3o de utilizar correntes de neve.",
+                "correct": true
+            },
+            {
+                "text": "Fim da recomenda\u00e7\u00e3o da utiliza\u00e7\u00e3o de correntes de neve.",
+                "correct": false
+            },
+            {
+                "text": "Que estou obrigado a utilizar correntes de neve.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Estou correctamente posicionado nesta via de tr\u00e2nsito para mudar de direc\u00e7\u00e3o \u00e0 direita?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4156.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o. Estou correctamente posicionado somente para seguir em frente.",
+                "correct": false
+            },
+            {
+                "text": "Sim e a sinaliza\u00e7\u00e3o permite-me realizar a manobra.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Existem medicamentos capazes de prejudicar o desempenho do indiv\u00edduo ao volante?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4157.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, desde que tenham sido receitados por um m\u00e9dico.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas se forem ingeridos juntamente com bebidas alco\u00f3licas.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Existem medicamentos cuja ingest\u00e3o pode influenciar a condu\u00e7\u00e3o da mesma forma que o \u00e1lcool.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4158.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "H\u00e1 medicamentos cuja ingest\u00e3o \u00e9 incompat\u00edvel com o exerc\u00edcio da condu\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4159.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "H\u00e1 medicamentos que, ingeridos ao mesmo tempo que bebidas alco\u00f3licas, reduzem a aptid\u00e3o para a condu\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4160.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            },
+            {
+                "text": "Somente quando o condutor os tomar em estado de fraqueza.",
+                "correct": false
+            },
+            {
+                "text": "Somente se ingerir uma quantidade excessiva de bebida alco\u00f3lica.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Legalmente, considera-se condu\u00e7\u00e3o sob influ\u00eancia do \u00e1lcool, quando o condutor apresenta uma taxa:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4161.jpg",
+        "answers": [
+            {
+                "text": "De 0,3 g/l.",
+                "correct": false
+            },
+            {
+                "text": "Igual a 0,5 g/l.",
+                "correct": true
+            },
+            {
+                "text": "Inferior a 0,5 g/l.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na condu\u00e7\u00e3o autom\u00f3vel h\u00e1 situa\u00e7\u00f5es em que a audi\u00e7\u00e3o se pode sobrepor \u00e0 vis\u00e3o permitindo ao indiv\u00edduo evitar a ocorr\u00eancia de um acidente.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4162.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Na condu\u00e7\u00e3o, um estado emocional mais agressivo:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4163.jpg",
+        "answers": [
+            {
+                "text": "Aumenta a aten\u00e7\u00e3o do condutor.",
+                "correct": false
+            },
+            {
+                "text": "Pode aumentar o tempo de reac\u00e7\u00e3o do condutor.",
+                "correct": true
+            },
+            {
+                "text": "Pode diminuir o tempo de reac\u00e7\u00e3o do condutor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na via onde se encontra colocado o sinal vertical, pode circular um motociclo?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4164.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o pode.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 pode se o motociclo n\u00e3o tiver carro lateral.",
+                "correct": false
+            },
+            {
+                "text": "S\u00f3 pode se transitar a menos de 30 Km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Nesta situa\u00e7\u00e3o o condutor deve:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4165.jpg",
+        "answers": [
+            {
+                "text": "Parar de conduzir at\u00e9 acalmar.",
+                "correct": true
+            },
+            {
+                "text": "Reduzir a velocidade.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Nesta situa\u00e7\u00e3o, o condutor fica diminuido na sua:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4166.jpg",
+        "answers": [
+            {
+                "text": "Capacidade de reac\u00e7\u00e3o e aten\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Vis\u00e3o e aten\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Vis\u00e3o e capacidade de reac\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Nesta via p\u00fablica s\u00f3 podem circular ve\u00edculos com correntes de neve colocadas:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4167.jpg",
+        "answers": [
+            {
+                "text": "Em duas rodas motoras.",
+                "correct": true
+            },
+            {
+                "text": "Em todas as rodas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Num condutor, a taxa de \u00e1lcool no sangue \u00e9 0,4 g/l. Isto significa que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4168.jpg",
+        "answers": [
+            {
+                "text": "Num litro de bebida alco\u00f3lica existem 0,4 gramas de \u00e1lcool.",
+                "correct": false
+            },
+            {
+                "text": "Num litro de sangue do condutor existem 0,4 gramas de \u00e1lcool puro.",
+                "correct": true
+            },
+            {
+                "text": "Um litro de bebida alco\u00f3lica origina 0,4 gramas de \u00e1lcool puro no sangue.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Numa viagem longa \u00e9 aconselh\u00e1vel o condutor descansar:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4169.jpg",
+        "answers": [
+            {
+                "text": "Apenas de 4 em 4 horas.",
+                "correct": false
+            },
+            {
+                "text": "De 2 em 2 horas.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 depois de ter percorrido os primeiros 400 km.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Numa viagem longa, para evitar a fadiga, o melhor \u00e9:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4170.jpg",
+        "answers": [
+            {
+                "text": "Aumentar a velocidade.",
+                "correct": false
+            },
+            {
+                "text": "Fumar e ouvir m\u00fasica muito alto.",
+                "correct": false
+            },
+            {
+                "text": "Parar, sair do ve\u00edculo e descansar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O \u00e1lcool influencia, de forma negativa, o desempenho da tarefa da condu\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4171.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque o \u00e1lcool \u00e9 um estimulante para a condu\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas quando a taxa de \u00e1lcool no sangue \u00e9 muito elevada.",
+                "correct": false
+            },
+            {
+                "text": "Sim, sempre.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O \u00e1lcool ingerido pelo condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4172.jpg",
+        "answers": [
+            {
+                "text": "Aumenta a sua percep\u00e7\u00e3o visual.",
+                "correct": false
+            },
+            {
+                "text": "Diminui a percep\u00e7\u00e3o visual.",
+                "correct": true
+            },
+            {
+                "text": "Diminui o risco de acidente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O campo visual de um condutor \u00e9 prejudicado pela:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4173.jpg",
+        "answers": [
+            {
+                "text": "Diminui\u00e7\u00e3o dos reflexos.",
+                "correct": false
+            },
+            {
+                "text": "Ingest\u00e3o de bebidas alco\u00f3licas.",
+                "correct": true
+            },
+            {
+                "text": "Redu\u00e7\u00e3o do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O condutor bebendo a mesma quantidade de uma bebida alco\u00f3lica apresenta maior taxa de \u00e1lcool no sangue:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4174.jpg",
+        "answers": [
+            {
+                "text": "Quando a bebida \u00e9 ingerida durante uma refei\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Quando a bebida \u00e9 ingerida em jejum.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O condutor detectado a conduzir sob a influ\u00eancia do \u00e1lcool e n\u00e3o tendo sido submetido a novos exames, s\u00f3 poder\u00e1 retomar a condu\u00e7\u00e3o ao fim de:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4175.jpg",
+        "answers": [
+            {
+                "text": "12 horas.",
+                "correct": true
+            },
+            {
+                "text": "6 horas.",
+                "correct": false
+            },
+            {
+                "text": "8 horas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O condutor pode ser inibido de conduzir:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4176.jpg",
+        "answers": [
+            {
+                "text": "Se cometer qualquer infrac\u00e7\u00e3o ao C\u00f3digo da Estrada.",
+                "correct": false
+            },
+            {
+                "text": "Se estacionar o seu autom\u00f3vel em cima do passeio.",
+                "correct": false
+            },
+            {
+                "text": "Se for detectado com uma taxa de \u00e1lcool igual ou superior a 0,5g/l",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O condutor que ao ser fiscalizado, apresente uma taxa de \u00e1lcool igual ou superior a 0,5 g/l e n\u00e3o for submetido a novos exames, fica impedido de conduzir:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4177.jpg",
+        "answers": [
+            {
+                "text": "Nas 12 horas seguintes.",
+                "correct": true
+            },
+            {
+                "text": "Nas 18 horas seguintes.",
+                "correct": false
+            },
+            {
+                "text": "Nas 24 horas seguintes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O condutor que ingeriu bebidas alco\u00f3licas:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4178.jpg",
+        "answers": [
+            {
+                "text": "Reage mais lentamente, aumentando o tempo de paragem.",
+                "correct": true
+            },
+            {
+                "text": "Reage rapidamente por aumento dos reflexos.",
+                "correct": false
+            },
+            {
+                "text": "Se bebeu em pouca quantidade, n\u00e3o se verificam altera\u00e7\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O condutor sob o efeito de \u00e1lcool tem tend\u00eancia para:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4179.jpg",
+        "answers": [
+            {
+                "text": "Conduzir com velocidade excessiva e inst\u00e1vel.",
+                "correct": true
+            },
+            {
+                "text": "Reagir rapidamente por aumento de reflexos.",
+                "correct": false
+            },
+            {
+                "text": "Ser mais respeitador das regras de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O consumo de uma pequena quantidade de bebida alco\u00f3lica pode influenciar a condu\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4180.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, ap\u00f3s um passeio o efeito da bebida alco\u00f3lica desaparece.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, o efeito da bebida alco\u00f3lica desaparece se o condutor tomar um caf\u00e9.",
+                "correct": false
+            },
+            {
+                "text": "Sim, pode.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O estado emocional deste condutor pode:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4181.jpg",
+        "answers": [
+            {
+                "text": "Aumentar o tempo de reac\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Diminuir o tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O estado emocional do condutor influencia a forma como desempenha a tarefa da condu\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4182.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O estado emocional do condutor influencia o seu desempenho na tarefa da condu\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4183.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O estado emocional do condutor pode influenciar a sua aten\u00e7\u00e3o na condu\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4184.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O estado emocional do condutor pode influenciar, de forma negativa, o desempenho da tarefa da condu\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4185.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque o estado emocional apenas influencia a dist\u00e2ncia de travagem.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas se o condutor circular fora de localidades.",
+                "correct": false
+            },
+            {
+                "text": "Sim, pode.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O estado emocional \u00e9 um factor de ordem interna que influencia:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4186.jpg",
+        "answers": [
+            {
+                "text": "A dist\u00e2ncia de travagem.",
+                "correct": false
+            },
+            {
+                "text": "O tempo de reac\u00e7\u00e3o e a dist\u00e2ncia de travagem.",
+                "correct": false
+            },
+            {
+                "text": "O tempo de reac\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O estado f\u00edsico do condutor \u00e9 um factor muito importante para a condu\u00e7\u00e3o. A ingest\u00e3o de bebidas alco\u00f3licas:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4187.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 muito negativa para o desempenho da tarefa de condu\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o influencia a tarefa de condu\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "S\u00f3 \u00e9 negativa, se as bebidas forem ingeridas em grandes quantidades.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O estado f\u00edsico do condutor influencia a forma como desempenha a tarefa da condu\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4188.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o estado f\u00edsico n\u00e3o tem influ\u00eancia. A condu\u00e7\u00e3o \u00e9 influenciada apenas, pelo estado psicol\u00f3gico.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas unicamente se estiver sob a influ\u00eancia do \u00e1lcool com taxa superior a 0,8 g/l.",
+                "correct": false
+            },
+            {
+                "text": "Sim, sempre.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O impedimento de conduzir ap\u00f3s o teste de \u00e1lcool, quando o condutor apresentar uma taxa superior a 0,5 g/l, deve manter-se por:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4189.jpg",
+        "answers": [
+            {
+                "text": "12 horas.",
+                "correct": true
+            },
+            {
+                "text": "24 horas.",
+                "correct": false
+            },
+            {
+                "text": "48 horas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que caracteriza o desempenho de um condutor que se encontra em bom estado f\u00edsico e psicol\u00f3gico?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4190.jpg",
+        "answers": [
+            {
+                "text": "Maior n\u00edvel de aten\u00e7\u00e3o e reflexos mais lentos.",
+                "correct": false
+            },
+            {
+                "text": "Maior n\u00edvel de aten\u00e7\u00e3o e reflexos mais r\u00e1pidos.",
+                "correct": true
+            },
+            {
+                "text": "Menor n\u00edvel de aten\u00e7\u00e3o e reflexos mais lentos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que deve fazer o condutor quando se sente sonolento?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4191.jpg",
+        "answers": [
+            {
+                "text": "Continuar a viagem. \u00c9 importante n\u00e3o perder tempo.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade, evitando parar o ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Parar e descansar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que \u00e9 a vis\u00e3o crom\u00e1tica?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4192.jpg",
+        "answers": [
+            {
+                "text": "Capacidade de distinguir as cores.",
+                "correct": true
+            },
+            {
+                "text": "Capacidade de ver durante a noite.",
+                "correct": false
+            },
+            {
+                "text": "Capacidade de ver lateralmente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que \u00e9 o campo visual?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4193.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 a \u00e1rea total que o indiv\u00edduo v\u00ea olhando em frente, sem mover a cabe\u00e7a.",
+                "correct": true
+            },
+            {
+                "text": "\u00c9 a capacidade do indiv\u00edduo para distinguir os objectos ao longe.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 a capacidade do indiv\u00edduo para ver os objectos a tr\u00eas dimens\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que \u00e9 que pode levar ao aumento da dist\u00e2ncia de paragem?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4194.jpg",
+        "answers": [
+            {
+                "text": "A fadiga do condutor.",
+                "correct": true
+            },
+            {
+                "text": "A largura da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "A subida de inclina\u00e7\u00e3o acentuada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa uma taxa de \u00e1lcool de 0,5 gramas por litro de sangue?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4195.jpg",
+        "answers": [
+            {
+                "text": "Cada litro da bebida alco\u00f3lica conduz \u00e0 presen\u00e7a de 0,5 gramas de \u00e1lcool no sangue.",
+                "correct": false
+            },
+            {
+                "text": "Num litro da bebida alco\u00f3lica existem 0,5 gramas de \u00e1lcool.",
+                "correct": false
+            },
+            {
+                "text": "Num litro de sangue existem 0,5 gramas de \u00e1lcool.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal circular de fundo azul indica-me a velocidade:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4196.jpg",
+        "answers": [
+            {
+                "text": "M\u00e1xima permitida.",
+                "correct": false
+            },
+            {
+                "text": "M\u00e1xima recomendada.",
+                "correct": false
+            },
+            {
+                "text": "M\u00ednima obrigat\u00f3ria.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de fundo azul \u00e0 minha direita indica-me:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4197.jpg",
+        "answers": [
+            {
+                "text": "Os sentidos obrigat\u00f3rios poss\u00edveis.",
+                "correct": true
+            },
+            {
+                "text": "Que apenas estou autorizado a mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Que apenas estou autorizado a seguir em frente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de fundo azul indica-me:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4198.jpg",
+        "answers": [
+            {
+                "text": "Os sentidos obrigat\u00f3rios poss\u00edveis.",
+                "correct": true
+            },
+            {
+                "text": "Que nas vias da direita e da esquerda o tr\u00e2nsito se faz nos dois sentidos.",
+                "correct": false
+            },
+            {
+                "text": "Que tenho prioridade de passagem no pr\u00f3ximo entroncamento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de obriga\u00e7\u00e3o de contornar placa ou obst\u00e1culo permite-me contornar a placa:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4199.jpg",
+        "answers": [
+            {
+                "text": "Apenas pelo lado direito.",
+                "correct": false
+            },
+            {
+                "text": "Apenas pelo lado esquerdo.",
+                "correct": true
+            },
+            {
+                "text": "Por qualquer um dos lados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de obriga\u00e7\u00e3o de contornar placa ou obst\u00e1culo:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4200.jpg",
+        "answers": [
+            {
+                "text": "Aconselha-me a contornar a placa ou obst\u00e1culo pelo lado indicado pela seta.",
+                "correct": false
+            },
+            {
+                "text": "Obriga-me a contornar a placa ou obst\u00e1culo pelo lado indicado pela seta.",
+                "correct": true
+            },
+            {
+                "text": "Permite-me contornar a placa por qualquer dos lados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de obriga\u00e7\u00e3o indica-me que a velocidade nele mencionada n\u00e3o pode ser excedida.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4201.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de obriga\u00e7\u00e3o indica-me que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4202.jpg",
+        "answers": [
+            {
+                "text": "A mudan\u00e7a de direc\u00e7\u00e3o \u00e0 esquerda ou \u00e0 direita n\u00e3o me \u00e9 permitida.",
+                "correct": false
+            },
+            {
+                "text": "Posso tomar um de dois sentidos obrigat\u00f3rios poss\u00edveis.",
+                "correct": true
+            },
+            {
+                "text": "Vou entrar numa via com dupla faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de obriga\u00e7\u00e3o indica-me que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4203.jpg",
+        "answers": [
+            {
+                "text": "Sou obrigado a reduzir a velocidade, mudando de direc\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sou obrigado a seguir em frente.",
+                "correct": true
+            },
+            {
+                "text": "Vou entrar numa via de sentido \u00fanico.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de obriga\u00e7\u00e3o indica-me:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4204.jpg",
+        "answers": [
+            {
+                "text": "Curva perigosa \u00e0 esquerda e \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Que o tr\u00e2nsito passa de uma para duas vias.",
+                "correct": false
+            },
+            {
+                "text": "Sentidos obrigat\u00f3rios poss\u00edveis.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4205.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de local frequentado por cavaleiros.",
+                "correct": false
+            },
+            {
+                "text": "Circula\u00e7\u00e3o proibida a cavaleiros.",
+                "correct": false
+            },
+            {
+                "text": "Pista obrigat\u00f3ria para cavaleiros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal informa-me que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4206.jpg",
+        "answers": [
+            {
+                "text": "A via \u00e0 direita \u00e9 destinada \u00e0 circula\u00e7\u00e3o de pe\u00f5es e motociclos.",
+                "correct": false
+            },
+            {
+                "text": "A via \u00e0 direita \u00e9 destinada \u00e0 circula\u00e7\u00e3o de pe\u00f5es e veloc\u00edpedes.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o devem circular pe\u00f5es nem motociclos na via \u00e0 direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de fundo azul indica-me que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4207.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o posso mudar de direc\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o tenho que ceder a passagem.",
+                "correct": false
+            },
+            {
+                "text": "Vou encontrar uma subida acentuada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de fundo azul indica-me que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4208.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o posso seguir em frente.",
+                "correct": false
+            },
+            {
+                "text": "Sou obrigado a seguir em frente.",
+                "correct": true
+            },
+            {
+                "text": "Vou entrar numa via de sentido \u00fanico.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de fundo azul indica:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4209.jpg",
+        "answers": [
+            {
+                "text": "Obriga\u00e7\u00e3o de seguir em frente.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito de sentido \u00fanico.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de fundo azul indica:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4210.jpg",
+        "answers": [
+            {
+                "text": "Sentido obrigat\u00f3rio.",
+                "correct": true
+            },
+            {
+                "text": "Subida perigosa.",
+                "correct": false
+            },
+            {
+                "text": "Via de sentido \u00fanico.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de fundo azul:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4211.jpg",
+        "answers": [
+            {
+                "text": "Indica a aproxima\u00e7\u00e3o de tro\u00e7o de via com neve.",
+                "correct": false
+            },
+            {
+                "text": "Obriga a utilizar correntes de neve.",
+                "correct": true
+            },
+            {
+                "text": "Recomenda a utiliza\u00e7\u00e3o de correntes de neve.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me a proximidade de uma pista obrigat\u00f3ria para pe\u00f5es. Concorda com esta afirma\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4212.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o. O sinal indica obriga\u00e7\u00e3o de seguir pelo sentido indicado pela seta.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o. O sinal indica que circulo ao lado de uma pista obrigat\u00f3ria para veloc\u00edpedes.",
+                "correct": false
+            },
+            {
+                "text": "Sim e devo moderar a velocidade.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical pro\u00edbe-me de realizar a manobra de mudan\u00e7a de direc\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4213.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical que se encontra nesta via p\u00fablica indica-me:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4214.jpg",
+        "answers": [
+            {
+                "text": "Que devo utilizar os m\u00e1ximos apenas no cruzamento com outros ve\u00edculos.",
+                "correct": false
+            },
+            {
+                "text": "Que estou obrigado a transitar com as luzes de cruzamento acesas.",
+                "correct": false
+            },
+            {
+                "text": "Que j\u00e1 n\u00e3o estou obrigado a transitar com as luzes de cruzamento acesas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os condutores devem sempre informar-se acerca da poss\u00edvel influ\u00eancia de alguns medicamentos na condu\u00e7\u00e3o.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4215.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os condutores podem recusar submeter-se \u00e0s provas para detec\u00e7\u00e3o do estado de influenciado pelo \u00e1lcool?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4216.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, porque apenas s\u00e3o submetidos ao teste, os condutores intervenientes em acidente.",
+                "correct": false
+            },
+            {
+                "text": "Sim, se n\u00e3o tiverem ingerido bebidas alco\u00f3licas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os condutores tem obriga\u00e7\u00e3o de sujeitar-se \u00e0s provas estabelecidas para a detec\u00e7\u00e3o de \u00e1lcool.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4217.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os efeitos do \u00e1lcool na condu\u00e7\u00e3o podem ser aumentados pela ingest\u00e3o simult\u00e2nea de certos medicamentos?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4218.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, os efeitos do \u00e1lcool n\u00e3o interferem com os dos medicamentos.",
+                "correct": false
+            },
+            {
+                "text": "Sim, embora os efeitos dos medicamentos n\u00e3o possam ser aumentados pelo \u00e1lcool.",
+                "correct": false
+            },
+            {
+                "text": "Sim, os efeitos do \u00e1lcool podem ser aumentados pelos medicamentos e vice-versa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os medicamentos, ingeridos com bebidas alco\u00f3licas, podem prejudicar o desempenho do condutor ao volante?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4219.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, salvo se os medicamentos forem tomados em jejum.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, tal s\u00f3 acontece com os anti-depressivos.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas se a quantidade de \u00e1lcool ingerida for significativa.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os pe\u00f5es devem ser submetidos a exame de pesquisa de \u00e1lcool no ar expirado?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4220.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, nunca.",
+                "correct": false
+            },
+            {
+                "text": "Sim, quando intervenham em acidente.",
+                "correct": true
+            },
+            {
+                "text": "Sim, sempre.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os tranquilizantes e os estimulantes podem afectar as capacidades do indiv\u00edduo para o exerc\u00edcio da condu\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4221.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, desde que sejam receitados pelo m\u00e9dico.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas ingeridos com bebidas alco\u00f3licas.",
+                "correct": false
+            },
+            {
+                "text": "Sim, podem afectar as suas capacidades.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os tranquilizantes e os estimulantes s\u00e3o as \u00fanicas categorias de medicamentos que podem exercer efeitos negativos a n\u00edvel do comportamento do indiv\u00edduo ao volante.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4222.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o existente nesta via de tr\u00e2nsito devo:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4223.jpg",
+        "answers": [
+            {
+                "text": "Respeitar apenas o sinal de obriga\u00e7\u00e3o e mudar de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Respeitar o sinal de STOP e mudar de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": true
+            },
+            {
+                "text": "Respeitar o sinal de STOP mas apenas se pretender virar \u00e0 direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o existente, no pr\u00f3ximo cruzamento, devo:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4224.jpg",
+        "answers": [
+            {
+                "text": "Mudar de direc\u00e7\u00e3o, visto n\u00e3o poder seguir em frente.",
+                "correct": false
+            },
+            {
+                "text": "Seguir em frente, logo que a sinaliza\u00e7\u00e3o luminosa mo permita.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante esta situa\u00e7\u00e3o, devo:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4225.jpg",
+        "answers": [
+            {
+                "text": "Ceder a passagem.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o devo ceder a passagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal vertical sei que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4226.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 proibido o transporte de pneus.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido usar correntes de neve.",
+                "correct": false
+            },
+            {
+                "text": "Terminou a obriga\u00e7\u00e3o de circular com correntes de neve.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal, sou obrigado:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4227.jpg",
+        "answers": [
+            {
+                "text": "A seguir em frente ou virar \u00e0 direita.",
+                "correct": true
+            },
+            {
+                "text": "A virar \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Sempre a seguir em frente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4228.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o posso circular no sentido das setas.",
+                "correct": false
+            },
+            {
+                "text": "Sou obrigado a circular no sentido das setas.",
+                "correct": true
+            },
+            {
+                "text": "Tenho prioridade, se circular no sentido das setas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de obriga\u00e7\u00e3o devo:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4229.jpg",
+        "answers": [
+            {
+                "text": "Ceder passagem aos ve\u00edculos que venham da direita.",
+                "correct": false
+            },
+            {
+                "text": "Contornar a placa ou obst\u00e1culo.",
+                "correct": true
+            },
+            {
+                "text": "Mudar de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de obriga\u00e7\u00e3o devo:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4230.jpg",
+        "answers": [
+            {
+                "text": "Contornar a placa ou obst\u00e1culo pela esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Virar \u00e0 esquerda ou fazer invers\u00e3o de sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "Virar \u00e0 esquerda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de obriga\u00e7\u00e3o devo:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4231.jpg",
+        "answers": [
+            {
+                "text": "Seguir em frente ou virar \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Virar \u00e0 esquerda ou inverter o sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "Virar \u00e0 esquerda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal vertical de fundo azul fico a saber que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4232.jpg",
+        "answers": [
+            {
+                "text": "Se aproxima um tro\u00e7o de via em que o pavimento se encontra escorregadio devido \u00e0 possibilidade de neve.",
+                "correct": false
+            },
+            {
+                "text": "Sou obrigado a transitar com correntes de neve em duas rodas motoras do meu ve\u00edculo.",
+                "correct": true
+            },
+            {
+                "text": "Sou obrigado a transitar com correntes de neve em todas as rodas do meu ve\u00edculo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal vertical devo saber que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4233.jpg",
+        "answers": [
+            {
+                "text": "Circulo numa pista obrigat\u00f3ria para autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Circulo numa via de tr\u00e2nsito de sentido \u00fanico.",
+                "correct": false
+            },
+            {
+                "text": "Estou obrigado a seguir pelo sentido indicado no sinal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Posso transitar na via onde se encontra colocado o sinal vertical.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4234.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que este sinal vertical d\u00e1 aos condutores?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4235.jpg",
+        "answers": [
+            {
+                "text": "Fim da obriga\u00e7\u00e3o de transitar com as luzes de cruzamento acesas.",
+                "correct": true
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o de transitar com as luzes de estrada acesas.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de transitar com as luzes de cruzamento acesas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a influ\u00eancia da ingest\u00e3o de bebidas alco\u00f3licas na condu\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4236.jpg",
+        "answers": [
+            {
+                "text": "Aumenta a capacidade de reac\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Aumenta os reflexos e acalma o condutor.",
+                "correct": false
+            },
+            {
+                "text": "Diminui a resist\u00eancia f\u00edsica do condutor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual a principal consequ\u00eancia da vis\u00e3o em t\u00fanel, resultante da ingest\u00e3o de bebidas alco\u00f3licas?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4237.jpg",
+        "answers": [
+            {
+                "text": "Diminui\u00e7\u00e3o da capacidade de distinguir as cores.",
+                "correct": false
+            },
+            {
+                "text": "Diminui\u00e7\u00e3o da capacidade de ver lateralmente.",
+                "correct": true
+            },
+            {
+                "text": "Redu\u00e7\u00e3o da capacidade de ver ao longe.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual dos seguintes factores pode afectar mais o campo visual do condutor?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4238.jpg",
+        "answers": [
+            {
+                "text": "A ingest\u00e3o de bebidas alco\u00f3licas.",
+                "correct": true
+            },
+            {
+                "text": "A largura da via.",
+                "correct": false
+            },
+            {
+                "text": "O estado emocional.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o principal efeito da fadiga no exerc\u00edcio da condu\u00e7\u00e3o autom\u00f3vel?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4239.jpg",
+        "answers": [
+            {
+                "text": "Aumento do grau de vigil\u00e2ncia e aten\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Diminui\u00e7\u00e3o do n\u00famero de erros ao volante.",
+                "correct": false
+            },
+            {
+                "text": "Rapidez e precis\u00e3o na execu\u00e7\u00e3o de manobras.",
+                "correct": false
+            },
+            {
+                "text": "Tens\u00e3o muscular, rigidez e falta de flexibilidade nos membros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual o principal efeito do sono na condu\u00e7\u00e3o autom\u00f3vel?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4240.jpg",
+        "answers": [
+            {
+                "text": "Aumenta a capacidade de an\u00e1lise das situa\u00e7\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Aumenta a capacidade receptiva dos \u00f3rg\u00e3os dos sentidos.",
+                "correct": false
+            },
+            {
+                "text": "Diminui a capacidade de reac\u00e7\u00e3o, a exactid\u00e3o e rapidez dos movimentos.",
+                "correct": true
+            },
+            {
+                "text": "Diminui o tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o tipo de vis\u00e3o mais importante para a realiza\u00e7\u00e3o de uma ultrapassagem em condi\u00e7\u00f5es de seguran\u00e7a?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4241.jpg",
+        "answers": [
+            {
+                "text": "Vis\u00e3o crom\u00e1tica.",
+                "correct": false
+            },
+            {
+                "text": "Vis\u00e3o em profundidade.",
+                "correct": true
+            },
+            {
+                "text": "Vis\u00e3o perif\u00e9rica.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o tipo de vis\u00e3o mais prejudicada pela pr\u00e1tica de velocidades elevadas?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4242.jpg",
+        "answers": [
+            {
+                "text": "Vis\u00e3o crom\u00e1tica.",
+                "correct": false
+            },
+            {
+                "text": "Vis\u00e3o frontal.",
+                "correct": false
+            },
+            {
+                "text": "Vis\u00e3o perif\u00e9rica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Que efeitos exerce a fadiga no desempenho do indiv\u00edduo ao volante?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4243.jpg",
+        "answers": [
+            {
+                "text": "Aumenta a sua capacidade para avaliar as dist\u00e2ncias.",
+                "correct": false
+            },
+            {
+                "text": "Aumenta a sua capacidade para avaliar as velocidades.",
+                "correct": false
+            },
+            {
+                "text": "Reduz a sua capacidade de reac\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Que efeitos exerce o \u00e1lcool no condutor?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4244.jpg",
+        "answers": [
+            {
+                "text": "Aumenta a concentra\u00e7\u00e3o do condutor e o sentimento de bem estar.",
+                "correct": false
+            },
+            {
+                "text": "Aumenta o tempo de recupera\u00e7\u00e3o da vis\u00e3o ap\u00f3s encandeamento.",
+                "correct": true
+            },
+            {
+                "text": "Diminui o tempo e a dist\u00e2ncia de reac\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Que indica\u00e7\u00e3o me \u00e9 dada pelo sinal vertical?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4245.jpg",
+        "answers": [
+            {
+                "text": "Obriga\u00e7\u00e3o de parar nas passagens estreitas.",
+                "correct": false
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o de seguir em frente.",
+                "correct": true
+            },
+            {
+                "text": "Via com tr\u00e2nsito num s\u00f3 sentido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Quem conduzir com uma taxa de \u00e1lcool no sangue igual a 0,7 g/l, ser\u00e1 punido:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4246.jpg",
+        "answers": [
+            {
+                "text": "Com coima de 250\u20ac a 1250\u20ac e inibi\u00e7\u00e3o de conduzir de 1 m\u00eas a 1 ano .",
+                "correct": true
+            },
+            {
+                "text": "Com coima de 360\u20ac a 1800\u20ac e inibi\u00e7\u00e3o de conduzir de 2 m\u00eas a 2 ano.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Quem conduzir com uma taxa de \u00e1lcool no sangue igual ou superior a 1,1 g/l comete uma contraordena\u00e7\u00e3o:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4247.jpg",
+        "answers": [
+            {
+                "text": "Grave.",
+                "correct": false
+            },
+            {
+                "text": "Muito grave.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Regra geral, um condutor distra\u00eddo tem:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4248.jpg",
+        "answers": [
+            {
+                "text": "O mesmo tempo de reac\u00e7\u00e3o que qualquer outro condutor.",
+                "correct": false
+            },
+            {
+                "text": "Um tempo de reac\u00e7\u00e3o mais longo.",
+                "correct": true
+            },
+            {
+                "text": "Um tempo de reac\u00e7\u00e3o mais reduzido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Se ao condutor fiscalizado for detectada presen\u00e7a de \u00e1lcool no sangue, \u00e9 considerado:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4249.jpg",
+        "answers": [
+            {
+                "text": "Contra-ordena\u00e7\u00e3o muito grave se a taxa de \u00e1lcool no sangue for inferior a 0,8g/l.",
+                "correct": false
+            },
+            {
+                "text": "Contra-ordena\u00e7\u00e3o, independentemente da TAS.",
+                "correct": false
+            },
+            {
+                "text": "Crime, se a taxa de \u00e1lcool no sangue for igual a 1,2g/l.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Se na pr\u00f3xima intersec\u00e7\u00e3o pretender mudar de direc\u00e7\u00e3o para a esquerda, devo:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4250.jpg",
+        "answers": [
+            {
+                "text": "Ceder passagem apenas aos ve\u00edculos que se apresentem pela direita.",
+                "correct": false
+            },
+            {
+                "text": "Contornar a placa pela direita.",
+                "correct": false
+            },
+            {
+                "text": "Parar e ceder passagem a todos os ve\u00edculos.",
+                "correct": true
+            },
+            {
+                "text": "Parar e ceder passagem apenas aos ve\u00edculos que se apresentem pela direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Sendo dif\u00edcil saber qual a taxa de alcoolemia que resulta da ingest\u00e3o de bebidas alco\u00f3licas, os condutores devem:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4251.jpg",
+        "answers": [
+            {
+                "text": "Evitar ingerir mais de 33 cl, de qualquer bebida alco\u00f3lica.",
+                "correct": false
+            },
+            {
+                "text": "Evitar ingerir qualquer quantidade de \u00e1lcool.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 iniciar a condu\u00e7\u00e3o 30 minutos ap\u00f3s a ingest\u00e3o de bebidas alco\u00f3licas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Sob a influ\u00eancia do \u00e1lcool, o condutor:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4252.jpg",
+        "answers": [
+            {
+                "text": "Reage mais lentamente ao meio envolvente.",
+                "correct": true
+            },
+            {
+                "text": "Reage mais rapidamente ao meio envolvente.",
+                "correct": false
+            },
+            {
+                "text": "Reage normalmente ao meio envolvente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "TAS \u00e9 uma sigla referente:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4253.jpg",
+        "answers": [
+            {
+                "text": "\u00c0 taxa de \u00e1lcool no sangue.",
+                "correct": true
+            },
+            {
+                "text": "\u00c0 taxa de \u00e1lcool superior a 0,8 g/l.",
+                "correct": false
+            },
+            {
+                "text": "\u00c0 taxa de \u00e1lcool unicamente quando for superior a 0,5 g/l.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um condutor \u00e9 obrigado a efectuar um exame de pesquisa de \u00e1lcool, mesmo sem estar implicado num acidente?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4254.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, esse teste s\u00f3 \u00e9 efectuado a condutores implicados em acidentes.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas s\u00f3 se o condutor tiver sintomas de ter ingerido bebidas alco\u00f3licas.",
+                "correct": false
+            },
+            {
+                "text": "Sim, se for solicitado pelo agente da autoridade.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Um condutor fiscalizado a conduzir com uma taxa de \u00e1lcool, superior a 0,5 g/l, fica impedido de conduzir?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4255.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, se o valor n\u00e3o for superior a 0,8 g/l.",
+                "correct": false
+            },
+            {
+                "text": "Sim, nas 24 horas seguintes.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Um condutor ingeriu em excesso bebidas alco\u00f3licas. Pode conduzir sem problemas?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4256.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o. N\u00e3o \u00e9 poss\u00edvel restabelecer-se rapidamente para fazer uma condu\u00e7\u00e3o segura.",
+                "correct": true
+            },
+            {
+                "text": "Sim, ap\u00f3s dormir uma hora, desaparece o efeito da bebida alco\u00f3lica.",
+                "correct": false
+            },
+            {
+                "text": "Sim, bebendo caf\u00e9 forte passa o efeito da bebida alco\u00f3lica.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um condutor perturbado emocionalmente reage:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4257.jpg",
+        "answers": [
+            {
+                "text": "Mais lentamente.",
+                "correct": true
+            },
+            {
+                "text": "Mais rapidamente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um condutor pode ser solicitado pelo agente da autoridade a submeter-se a um exame de pesquisa de \u00e1lcool?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4258.jpg",
+        "answers": [
+            {
+                "text": "Apenas quando for implicado num acidente.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas s\u00f3 quando apresentar sintomas evidentes de ter ingerido \u00e1lcool.",
+                "correct": false
+            },
+            {
+                "text": "Sim, pode.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Um condutor que apresente uma taxa de \u00e1lcool no sangue igual ou superior a 0,5 g/l, fica impedido de conduzir durante:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4259.jpg",
+        "answers": [
+            {
+                "text": "10 horas.",
+                "correct": false
+            },
+            {
+                "text": "12 horas.",
+                "correct": true
+            },
+            {
+                "text": "8 horas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um condutor, detectado a conduzir com uma taxa de alcool\u00e9mia igual ou superior a 0,9 g/l incorre numa contra-ordena\u00e7\u00e3o?",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4260.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, grave.",
+                "correct": false
+            },
+            {
+                "text": "Sim, muito grave.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Um dos efeitos da fadiga na condu\u00e7\u00e3o \u00e9:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4261.jpg",
+        "answers": [
+            {
+                "text": "A redu\u00e7\u00e3o do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "O aumento da capacidade de aten\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "O aumento do tempo de reac\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Um dos efeitos da fadiga na condu\u00e7\u00e3o traduz-se na diminui\u00e7\u00e3o:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4262.jpg",
+        "answers": [
+            {
+                "text": "Da dist\u00e2ncia de paragem.",
+                "correct": false
+            },
+            {
+                "text": "Da rapidez dos reflexos.",
+                "correct": true
+            },
+            {
+                "text": "Do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um dos efeitos da ingest\u00e3o de bebidas alco\u00f3licas \u00e9 a redu\u00e7\u00e3o:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4263.jpg",
+        "answers": [
+            {
+                "text": "Da capacidade de avalia\u00e7\u00e3o das dist\u00e2ncias.",
+                "correct": true
+            },
+            {
+                "text": "Da fadiga.",
+                "correct": false
+            },
+            {
+                "text": "Do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um dos efeitos do \u00e1lcool na condu\u00e7\u00e3o \u00e9:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4264.jpg",
+        "answers": [
+            {
+                "text": "O aumento da capacidade de previs\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Uma capacidade de decis\u00e3o mais eficaz.",
+                "correct": false
+            },
+            {
+                "text": "Uma menor recolha de informa\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Um dos efeitos do cansa\u00e7o na condu\u00e7\u00e3o, \u00e9:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4265.jpg",
+        "answers": [
+            {
+                "text": "A diminui\u00e7\u00e3o do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "O aumento da capacidade de reac\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "O aumento do tempo de reac\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Um dos factores que influencia a TAS \u00e9 a quantidade de \u00e1lcool ingerido.",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4266.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um dos primeiros efeitos ap\u00f3s a ingest\u00e3o de \u00e1lcool traduz-se num estado:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4267.jpg",
+        "answers": [
+            {
+                "text": "Adaptado a todas as necessidades de condu\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Euf\u00f3rico.",
+                "correct": true
+            },
+            {
+                "text": "Fatigado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Uma das consequ\u00eancias da condu\u00e7\u00e3o sob influ\u00eancia de \u00e1lcool \u00e9:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4268.jpg",
+        "answers": [
+            {
+                "text": "O aumento do campo visual.",
+                "correct": false
+            },
+            {
+                "text": "O estreitamento do campo visual.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Uma das consequ\u00eancias da fadiga \u00e9:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4269.jpg",
+        "answers": [
+            {
+                "text": "A diminui\u00e7\u00e3o do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "A sonol\u00eancia.",
+                "correct": true
+            },
+            {
+                "text": "O aumento da aten\u00e7\u00e3o do condutor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Uma das consequ\u00eancias na condu\u00e7\u00e3o autom\u00f3vel motivada pela ingest\u00e3o de medicamentos poder\u00e1 ser a significativa redu\u00e7\u00e3o:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4270.jpg",
+        "answers": [
+            {
+                "text": "Da capacidade de vigil\u00e2ncia.",
+                "correct": true
+            },
+            {
+                "text": "Da dist\u00e2ncia de paragem.",
+                "correct": false
+            },
+            {
+                "text": "Do tempo de reac\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Uma taxa de 0,3 g/l de \u00e1lcool no sangue quer dizer que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4271.jpg",
+        "answers": [
+            {
+                "text": "H\u00e1 uma percentagem de 0,3 gramas de \u00e1lcool por cada 10 litros de sangue.",
+                "correct": false
+            },
+            {
+                "text": "Num litro de sangue existem 0,3 gramas de \u00e1lcool puro.",
+                "correct": true
+            },
+            {
+                "text": "Um litro de bebida alco\u00f3lica origina 0,3 gramas de \u00e1lcool no sangue.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Uma taxa de \u00e1lcool de 0,5 g/l de sangue significa que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4272.jpg",
+        "answers": [
+            {
+                "text": "Num litro de bebida alco\u00f3lica existem 0,5 gramas de \u00e1lcool.",
+                "correct": false
+            },
+            {
+                "text": "Num litro de sangue existem 0,5 gramas de \u00e1lcool puro.",
+                "correct": true
+            },
+            {
+                "text": "Um litro de bebida alco\u00f3lica origina 0,5 gramas de \u00e1lcool no sangue.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Uma taxa de \u00e1lcool de 0,8 g/l de sangue, significa que:",
+        "image": "images/estado-fisico-condutor-alcool-drogas-medicamentos-sinais-obrigacao_4273.jpg",
+        "answers": [
+            {
+                "text": "Existem 0,8 gramas de bebida alco\u00f3lica em cada litro de sangue.",
+                "correct": false
+            },
+            {
+                "text": "Num litro de sangue existem 0,8 gramas de \u00e1lcool puro.",
+                "correct": true
+            },
+            {
+                "text": "Um litro de bebida alco\u00f3lica cont\u00e9m 0,8 gramas de \u00e1lcool puro.",
+                "correct": false
+            }
+        ]
+    }
+]

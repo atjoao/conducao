@@ -1,0 +1,6370 @@
+[
+  {
+    "question": "'TRAVE COM MOTOR' significa:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4404.jpg",
+    "answers": [
+      {
+        "text": "Desligar o motor, mantendo uma mudan\u00e7a engrenada.",
+        "correct": false
+      },
+      {
+        "text": "Engrenar uma mudan\u00e7a de for\u00e7a em andamento.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar o motor de arranque como auxiliar de travagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devemos estar atentos ao comportamento dos pe\u00f5es?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4405.jpg",
+    "answers": [
+      {
+        "text": "Sim, em todas as situa\u00e7\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas em circula\u00e7\u00e3o urbana.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas nos locais destinados \u00e0 sua travessia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A capacidade do condutor prever e antecipar, aumenta:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4406.jpg",
+    "answers": [
+      {
+        "text": "Com a categoria do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Com a experi\u00eancia.",
+        "correct": true
+      },
+      {
+        "text": "Com o n\u00famero de ocupantes do ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A carga de um ve\u00edculo pode ultrapassar, na largura, os contornos envolventes do ve\u00edculo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4407.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o exceda 10 cm.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que n\u00e3o exceda 20 cm.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A carga e descarga de um ve\u00edculo na via p\u00fablica deve fazer-se:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4408.jpg",
+    "answers": [
+      {
+        "text": "Pela retaguarda ou pelo lado permitido para a paragem do ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "Sempre pela direita.",
+        "correct": false
+      },
+      {
+        "text": "Sempre pela retaguarda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A carga e descarga de ve\u00edculos deve ser efectuada:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4409.jpg",
+    "answers": [
+      {
+        "text": "Pelo lado permitido para a paragem do ve\u00edculo ou pela retaguarda.",
+        "correct": true
+      },
+      {
+        "text": "Sempre pela direita ou pela retaguarda.",
+        "correct": false
+      },
+      {
+        "text": "Sempre pela esquerda ou pela retaguarda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A carga e descarga de ve\u00edculos na via p\u00fablica dever\u00e1 fazer-se:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4410.jpg",
+    "answers": [
+      {
+        "text": "Dentro das localidades durante o dia.",
+        "correct": false
+      },
+      {
+        "text": "Por per\u00edodos m\u00e1ximos de meia hora.",
+        "correct": false
+      },
+      {
+        "text": "T\u00e3o r\u00e1pido quanto poss\u00edvel e sem embara\u00e7o para a circula\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A carga e descarga do ve\u00edculo deve ser feita:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4411.jpg",
+    "answers": [
+      {
+        "text": "Sempre pela direita.",
+        "correct": false
+      },
+      {
+        "text": "Sempre pela retaguarda ou pelo lado permitido para a paragem.",
+        "correct": true
+      },
+      {
+        "text": "Sempre pela retaguarda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A carga mal acondicionada pode contribuir para :",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4412.jpg",
+    "answers": [
+      {
+        "text": "Aumentar o equil\u00edbrio do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a visibilidade do condutor.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir o tempo de reac\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A condu\u00e7\u00e3o defensiva implica:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4413.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o surpreender nem se deixar surpreender.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o ultrapassar os limites de velocidade impostos por lei e transitar com as luzes de presen\u00e7a sempre ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Parar em todas as intersec\u00e7\u00f5es, para ceder a passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A condu\u00e7\u00e3o defensiva manifesta-se por:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4414.jpg",
+    "answers": [
+      {
+        "text": "O condutor abdicar dos seus direitos em benef\u00edcio da seguran\u00e7a rodovi\u00e1ria.",
+        "correct": true
+      },
+      {
+        "text": "O condutor ser sempre o primeiro a avan\u00e7ar em todas as intersec\u00e7\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "O condutor ter em conta apenas os seus direitos e nunca os seus deveres.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A condu\u00e7\u00e3o defensiva tem como principal objectivo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4415.jpg",
+    "answers": [
+      {
+        "text": "A seguran\u00e7a rodovi\u00e1ria.",
+        "correct": true
+      },
+      {
+        "text": "Cumprir apenas o C\u00f3digo da Estrada.",
+        "correct": false
+      },
+      {
+        "text": "Ser sempre o primeiro a avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A condu\u00e7\u00e3o em auto-estrada \u00e9 regra geral:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4416.jpg",
+    "answers": [
+      {
+        "text": "Uma condu\u00e7\u00e3o c\u00f3moda e r\u00e1pida se todas as regras de seguran\u00e7a forem cumpridas.",
+        "correct": true
+      },
+      {
+        "text": "Uma condu\u00e7\u00e3o perigosa.",
+        "correct": false
+      },
+      {
+        "text": "Uma condu\u00e7\u00e3o r\u00e1pida e perigosa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A condu\u00e7\u00e3o nocturna deve influenciar a velocidade a que circulo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4417.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque quando a visibilidade \u00e9 menor devo ligar as luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque eu nunca devo ligar as luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque influencia a recolha de informa\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A condu\u00e7\u00e3o nocturna influencia a recolha de informa\u00e7\u00e3o. Assim, de noite devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4418.jpg",
+    "answers": [
+      {
+        "text": "Aumentar um pouco a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Manter a mesma velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A correcta distribui\u00e7\u00e3o da carga \u00e9 uma das formas de garantir o equil\u00edbrio do ve\u00edculo.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4419.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A curta dist\u00e2ncia existente entre os ve\u00edculos que circulam \u00e0 minha frente, \u00e9 indicadora que:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4420.jpg",
+    "answers": [
+      {
+        "text": "Devo moderar a velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Vou entrar numa auto-estrada.",
+        "correct": false
+      },
+      {
+        "text": "Vou entrar numa localidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A distribui\u00e7\u00e3o da carga num ve\u00edculo deve ser feita:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4421.jpg",
+    "answers": [
+      {
+        "text": "Da forma mais f\u00e1cil para a descarga.",
+        "correct": false
+      },
+      {
+        "text": "De forma a garantir o equil\u00edbrio do ve\u00edculo, parado e em marcha.",
+        "correct": true
+      },
+      {
+        "text": "Sem cuidados especiais.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A distribui\u00e7\u00e3o da mercadoria \u00e9 um factor essencial para manter o equil\u00edbrio do ve\u00edculo.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4422.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A entrada e sa\u00edda de passageiros deve fazer-se:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4423.jpg",
+    "answers": [
+      {
+        "text": "Pelo lado direito ou esquerdo indistintamente.",
+        "correct": false
+      },
+      {
+        "text": "Pelo lado permitido para a paragem.",
+        "correct": true
+      },
+      {
+        "text": "Sempre pelo lado direito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A entrada e sa\u00edda de passageiros deve ser feita:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4424.jpg",
+    "answers": [
+      {
+        "text": "Pelo lado esquerdo, se a paragem do ve\u00edculo for permitida desse lado.",
+        "correct": true
+      },
+      {
+        "text": "Sempre pelo lado direito.",
+        "correct": false
+      },
+      {
+        "text": "Sempre pelo lado esquerdo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A luz branca, vis\u00edvel \u00e0 retaguarda do ve\u00edculo vermelho, indica que:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4425.jpg",
+    "answers": [
+      {
+        "text": "O condutor est\u00e1 a efectuar a manobra de marcha-atr\u00e1s.",
+        "correct": true
+      },
+      {
+        "text": "O condutor est\u00e1 a travar.",
+        "correct": false
+      },
+      {
+        "text": "O condutor vai mudar de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "O ve\u00edculo pode constituir perigo para os outros utentes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A luz que ilumina a chapa de matricula deve tornar leg\u00edvel os seus d\u00edgitos a uma dist\u00e2ncia de:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4426.jpg",
+    "answers": [
+      {
+        "text": "20 metros.",
+        "correct": true
+      },
+      {
+        "text": "30 metros.",
+        "correct": false
+      },
+      {
+        "text": "40 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de invers\u00e3o do sentido de marcha \u00e9 sempre proibida nesta via p\u00fablica. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4427.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 permitida mas apenas nas aberturas existentes dos separadores de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, a manobra \u00e9 permitida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a manobra \u00e9 sempre proibida.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria colocada no centro da intersec\u00e7\u00e3o:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4428.jpg",
+    "answers": [
+      {
+        "text": "Obriga todos os condutores a parar antes do cruzamento.",
+        "correct": false
+      },
+      {
+        "text": "Pro\u00edbe todos os condutores de parar antes do cruzamento.",
+        "correct": false
+      },
+      {
+        "text": "Refor\u00e7a uma regra que impede a imobiliza\u00e7\u00e3o de qualquer ve\u00edculo no centro da intersec\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A pr\u00e1tica de uma condu\u00e7\u00e3o defensiva implica em muitas situa\u00e7\u00f5es:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4429.jpg",
+    "answers": [
+      {
+        "text": "Que o condutor abdique dos seus direitos a fim de evitar o acidente.",
+        "correct": true
+      },
+      {
+        "text": "Que o condutor aumente a velocidade para ser o primeiro a avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Que o condutor n\u00e3o ceda a passagem, porque tem sempre o direito de avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A previs\u00e3o e a antecipa\u00e7\u00e3o que cada condutor faz deve depender principalmente:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4430.jpg",
+    "answers": [
+      {
+        "text": "Da sua atitude.",
+        "correct": true
+      },
+      {
+        "text": "Da sua pressa.",
+        "correct": false
+      },
+      {
+        "text": "Do seu estado emocional.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A previs\u00e3o que fa\u00e7o de cada situa\u00e7\u00e3o deve depender apenas da minha experi\u00eancia enquanto condutor.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4431.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A recolha de informa\u00e7\u00e3o influencia todo o processo decisional.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4432.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A responsabilidade pelo n\u00e3o uso do cinto de seguran\u00e7a por um menor recai sobre:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4433.jpg",
+    "answers": [
+      {
+        "text": "O condutor.",
+        "correct": true
+      },
+      {
+        "text": "O menor.",
+        "correct": false
+      },
+      {
+        "text": "O tutor ou pais do menor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A tarefa da condu\u00e7\u00e3o \u00e9 influenciada pela recolha de informa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4434.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a decis\u00e3o \u00e9 tomada sem ter em conta a informa\u00e7\u00e3o recolhida.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, esta \u00e9 uma das etapas mais importantes.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A via p\u00fablica \u00e9 um espa\u00e7o destinado ao tr\u00e2nsito de pe\u00f5es?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4435.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, na via p\u00fablica s\u00f3 podem transitar ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Sim, de pe\u00f5es, ve\u00edculos e animais.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas s\u00f3 de dia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Adaptar a velocidade \u00e0s situa\u00e7\u00f5es de tr\u00e2nsito com que o condutor se depara, \u00e9 uma forma de:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4436.jpg",
+    "answers": [
+      {
+        "text": "Abdicar dos seus direitos embara\u00e7ando o tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Aplicar t\u00e9cnicas de condu\u00e7\u00e3o defensiva, evitando o acidente.",
+        "correct": true
+      },
+      {
+        "text": "Embara\u00e7ar o tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Alguns utentes da via p\u00fablica requerem uma aten\u00e7\u00e3o especial.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4437.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Antes de iniciar a marcha, o condutor deste ve\u00edculo deve:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4438.jpg",
+    "answers": [
+      {
+        "text": "Alertar as crian\u00e7as para o seu comportamento durante a viagem, j\u00e1 que n\u00e3o lhes ser\u00e1 colocado cinto de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Colocar o seu cinto de seguran\u00e7a, j\u00e1 que as crian\u00e7as se encontram no banco de tr\u00e1s, n\u00e3o necessitando dele.",
+        "correct": false
+      },
+      {
+        "text": "Garantir a seguran\u00e7a no transporte destas crian\u00e7as, obrigando-as a colocar o sistema de reten\u00e7\u00e3o adequado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Antes de iniciar qualquer manobra, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4439.jpg",
+    "answers": [
+      {
+        "text": "Certificar-me que posso iniciar a marcha sem risco de acidente.",
+        "correct": true
+      },
+      {
+        "text": "Ligar as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular \u00e0 noite e com boas condi\u00e7\u00f5es meteorol\u00f3gicas, como devo proceder sempre que um ve\u00edculo transite em sentido contr\u00e1rio com os m\u00e1ximos ligados de modo a provocar encandeamento:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4440.jpg",
+    "answers": [
+      {
+        "text": "Circular com as luzes de cruzamento ligadas.",
+        "correct": true
+      },
+      {
+        "text": "Ligar as luzes de estrada do meu ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Ligar os m\u00e1ximos do meu ve\u00edculo e, alternadamente, os sinais sonoros at\u00e9 que o condutor se aperceba que tem de desligar os m\u00e1ximos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular \u00e0 noite e com boas condi\u00e7\u00f5es meteorol\u00f3gicas, no cruzamento com outros ve\u00edculos devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4441.jpg",
+    "answers": [
+      {
+        "text": "Utilizar as luzes de cruzamento e as luzes de estrada nos restantes casos.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar as luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar as luzes de presen\u00e7a para n\u00e3o provocar encandeamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular \u00e0 noite, devo saber que:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4442.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 permitido o uso das luzes de nevoeiro mesmo que as condi\u00e7\u00f5es meteorol\u00f3gicas ou ambientais n\u00e3o o justifiquem.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido o uso das luzes de nevoeiro sempre que as condi\u00e7\u00f5es meteorol\u00f3gicas ou ambientais n\u00e3o o justifiquem.",
+        "correct": true
+      },
+      {
+        "text": "\u00c9 proibido utilizar os m\u00e1ximos de modo a provocar encandeamento, podendo utilizar em sua substitui\u00e7\u00e3o as luzes de nevoeiro ainda que as condi\u00e7\u00f5es ambientais n\u00e3o o justifiquem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4443.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a dist\u00e2ncia de paragem.",
+        "correct": false
+      },
+      {
+        "text": "Fazer uso das luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Guardar uma dist\u00e2ncia de seguran\u00e7a m\u00ednima de 5 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local durante o dia, se tiver de parar para aguardar a abertura da passagem de n\u00edvel, devo utilizar algum dispositivo de ilumina\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4444.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas devo utilizar as luzes de nevoeiro se a visibilidade for insuficiente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se existirem condi\u00e7\u00f5es meteorol\u00f3gicas que tornem a visibilidade insuficiente devo ligar as luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se existirem condi\u00e7\u00f5es meteorol\u00f3gicas que tornem a visibilidade insuficiente devo ligar as luzes de presen\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local posso utilizar as luzes de estrada no cruzamento com um ve\u00edculo que circule em sentido contr\u00e1rio?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4445.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, o C\u00f3digo da Estrada pro\u00edbe.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas sem provocar encandeamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim, o C\u00f3digo da Estrada n\u00e3o pro\u00edbe.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao entrar neste t\u00fanel devo utilizar:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4446.jpg",
+    "answers": [
+      {
+        "text": "As luzes de cruzamento porque o sinal obriga e vou entrar num t\u00fanel.",
+        "correct": true
+      },
+      {
+        "text": "As luzes de estrada porque o C\u00f3digo da Estrada me obriga.",
+        "correct": false
+      },
+      {
+        "text": "As luzes de presen\u00e7a porque o sinal vertical obriga \u00e0 sua utiliza\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao entrar no t\u00fanel sou obrigado a fazer uso das luzes de cruzamento?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4447.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, as luzes obrigat\u00f3rias s\u00e3o as de estrada.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas s\u00f3 durante a noite.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao mudar de direc\u00e7\u00e3o devo sempre ceder a passagem aos pe\u00f5es que tenham iniciado a travessia.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4448.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao mudar de direc\u00e7\u00e3o para a direita devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4449.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar por n\u00e3o existir passagem assinalada para pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade ou mesmo parar para ceder a passagem ao pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros, para advertir o pe\u00e3o da minha presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao mudar de direc\u00e7\u00e3o para a direita devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4450.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar, pois tenho espa\u00e7o para passar antes de cruzar a traject\u00f3ria do pe\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e parar para ceder a passagem ao pe\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao prever o comportamento do pe\u00e3o:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4451.jpg",
+    "answers": [
+      {
+        "text": "Embara\u00e7o o tr\u00e2nsito, porque posso ter a necessidade de reduzir a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Pratico uma condu\u00e7\u00e3o defensiva.",
+        "correct": true
+      },
+      {
+        "text": "Sou um condutor precipitado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao ultrapassar o veloc\u00edpede, devo ter especial aten\u00e7\u00e3o \u00e0 dist\u00e2ncia lateral devido:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4452.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 instabilidade caracter\u00edstica deste ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "Ao facto de circular numa via com tr\u00e2nsito num s\u00f3 sentido.",
+        "correct": false
+      },
+      {
+        "text": "Ao tipo de pavimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao verificar a distrac\u00e7\u00e3o dos pe\u00f5es, o comportamento mais seguro ser\u00e1:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4453.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha, evitando contornar os pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Parar e utilizar os sinais sonoros como forma de protesto.",
+        "correct": false
+      },
+      {
+        "text": "Parar, alertar com os sinais sonoros e aguardar que os pe\u00f5es abandonem a faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As cargas e descargas devem ser feitas:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4454.jpg",
+    "answers": [
+      {
+        "text": "Pela retaguarda ou pelo lado da faixa de rodagem permitido para a paragem.",
+        "correct": true
+      },
+      {
+        "text": "Sempre pelo lado direito.",
+        "correct": false
+      },
+      {
+        "text": "Sempre pelo lado esquerdo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As crian\u00e7as com menos de 12 anos de idade podem viajar no banco da frente dos autom\u00f3veis?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4455.jpg",
+    "answers": [
+      {
+        "text": "Sim, desde que o banco na retaguarda esteja ocupado com a carga.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se o autom\u00f3vel n\u00e3o dispuser de cintos de seguran\u00e7a no banco da retaguarda.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se os bancos da retaguarda forem longitudinais.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As crian\u00e7as continuam a ser v\u00edtimas de acidentes. Esta situa\u00e7\u00e3o poderia ser evitada se fossem correctamente transportadas.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4456.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As crian\u00e7as est\u00e3o a brincar na faixa de rodagem, devo utilizar os sinais sonoros?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4457.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque nesta situa\u00e7\u00e3o devo fazer sinais de luzes.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque s\u00f3 \u00e9 permitida a utiliza\u00e7\u00e3o de sinais sonoros fora das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se considerar que \u00e9 necess\u00e1rio para evitar uma situa\u00e7\u00e3o de perigo.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As crian\u00e7as s\u00e3o pe\u00f5es que, pelas suas caracter\u00edsticas, requerem uma aten\u00e7\u00e3o especial.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4458.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As luzes de cruzamento destinam-se a iluminar a via numa dist\u00e2ncia:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4459.jpg",
+    "answers": [
+      {
+        "text": "At\u00e9 30 metros.",
+        "correct": true
+      },
+      {
+        "text": "De, pelo menos, 100 metros.",
+        "correct": false
+      },
+      {
+        "text": "Superior a 50 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As luzes de cruzamento devem iluminar a faixa de rodagem a uma dist\u00e2ncia de:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4460.jpg",
+    "answers": [
+      {
+        "text": "100 metros.",
+        "correct": false
+      },
+      {
+        "text": "150 metros.",
+        "correct": false
+      },
+      {
+        "text": "30 metros.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As luzes de cruzamento devem iluminar a uma dist\u00e2ncia de 30 metros e s\u00e3o de cor:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4461.jpg",
+    "answers": [
+      {
+        "text": "Amarela \u00e0 retaguarda.",
+        "correct": false
+      },
+      {
+        "text": "Branca ou amarela.",
+        "correct": true
+      },
+      {
+        "text": "Laranja.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As luzes de cruzamento servem:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4462.jpg",
+    "answers": [
+      {
+        "text": "Para iluminar a via sem causar encandeamento.",
+        "correct": true
+      },
+      {
+        "text": "Para iluminar o solo, simultaneamente com os m\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "Para indicar a manobra de ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As luzes de estrada devem iluminar a uma dist\u00e2ncia:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4463.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o inferior a 100 metros.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o superior a 100 metros.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o superior a 30 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As luzes de marcha atr\u00e1s devem:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4464.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o provocar encandeamento nem ter um alcance superior a 10 metros.",
+        "correct": true
+      },
+      {
+        "text": "Ter um alcance m\u00e1ximo de 20 metros.",
+        "correct": false
+      },
+      {
+        "text": "Ter um alcance n\u00e3o superior a 5 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As luzes de travagem destinam-se a indicar aos outros utentes o accionamento do trav\u00e3o de estacionamento.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4465.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": true
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As luzes de travagem num autom\u00f3vel s\u00e3o de cor:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4466.jpg",
+    "answers": [
+      {
+        "text": "Amarela ou alaranjada.",
+        "correct": false
+      },
+      {
+        "text": "Branca ou amarela.",
+        "correct": false
+      },
+      {
+        "text": "Vermelha ou alaranjada.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As luzes que me indicam que o ve\u00edculo \u00e0 minha frente reduziu a velocidade e/ou parou s\u00e3o as de:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4467.jpg",
+    "answers": [
+      {
+        "text": "Marcha-atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Nevoeiro.",
+        "correct": false
+      },
+      {
+        "text": "Presen\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Travagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As situa\u00e7\u00f5es de tr\u00e2nsito que envolvem pe\u00f5es idosos devem ser consideradas de forma especial.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4468.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "At\u00e9 que dist\u00e2ncia devem ser vis\u00edveis, de noite, os m\u00ednimos nos autom\u00f3veis?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4469.jpg",
+    "answers": [
+      {
+        "text": "100 metros.",
+        "correct": false
+      },
+      {
+        "text": "150 metros.",
+        "correct": true
+      },
+      {
+        "text": "200 metros.",
+        "correct": false
+      },
+      {
+        "text": "50 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como deve ser feita a carga e descarga de um ve\u00edculo na via p\u00fablica?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4470.jpg",
+    "answers": [
+      {
+        "text": "Pela direita ou pela esquerda, o mais rapidamente poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Pela direita, t\u00e3o r\u00e1pido quanto poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Rapidamente, pelo lado permitido para a paragem do ve\u00edculo ou pela retaguarda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder em rela\u00e7\u00e3o ao comportamento do condutor do ve\u00edculo de duas rodas?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4471.jpg",
+    "answers": [
+      {
+        "text": "Devo circular com muita aten\u00e7\u00e3o, porque a qualquer momento este condutor pode passar para a faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Devo manifestar o meu desagrado, utilizando os sinais sonoros.",
+        "correct": false
+      },
+      {
+        "text": "Devo parar, utilizar as luzes de perigo, sair do ve\u00edculo e lembrar ao outro condutor, que o passeio \u00e9 destinado ao tr\u00e2nsito de pe\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder se, devido ao nevoeiro intenso, me vir obrigado a reduzir subitamente a velocidade?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4472.jpg",
+    "answers": [
+      {
+        "text": "Encostar-me o mais poss\u00edvel ao eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Fazer o sinal gestual indicativo da inten\u00e7\u00e3o de parar.",
+        "correct": false
+      },
+      {
+        "text": "Ligar as luzes avisadoras de perigo.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Compete ao Homem enquanto elemento que faz parte do sistema de circula\u00e7\u00e3o rodovi\u00e1rio:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4473.jpg",
+    "answers": [
+      {
+        "text": "Adaptar o seu comportamento apenas \u00e0s suas necessidades.",
+        "correct": false
+      },
+      {
+        "text": "Agir em conformidade com os outros utentes, evitando o acidente.",
+        "correct": true
+      },
+      {
+        "text": "Ter em conta apenas o seu comportamento, ignorando os restantes utentes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Compete aos educadores alertarem as crian\u00e7as para a seguran\u00e7a rodovi\u00e1ria?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4474.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, essa quest\u00e3o apenas se ir\u00e1 colocar quando estes forem candidatos a condutores.",
+        "correct": false
+      },
+      {
+        "text": "Sim, enquanto utentes da via p\u00fablica.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas no seu comportamento enquanto pe\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Considera correcto o comportamento do pe\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4475.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, considerando que os pe\u00f5es n\u00e3o t\u00eam deveres enquanto utentes da via p\u00fablica.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque est\u00e1 muito pr\u00f3ximo do local assinalado para a sua travessia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Considera que o ve\u00edculo branco re\u00fane todas as condi\u00e7\u00f5es de seguran\u00e7a para iniciar a marcha?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4476.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, mas apenas se a porta se mantiver aberta.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque a mercadoria que transporta n\u00e3o est\u00e1 correctamente acondicionada.",
+        "correct": true
+      },
+      {
+        "text": "Sim, basta que a porta esteja fechada, para que a mercadoria n\u00e3o caia sobre o pavimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De noite a visibilidade \u00e9 menor. Logo, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4477.jpg",
+    "answers": [
+      {
+        "text": "Adaptar a velocidade e aumentar a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Diminuir a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Parar e ligar as luzes de perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De noite devo circular:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4478.jpg",
+    "answers": [
+      {
+        "text": "Apenas com luzes de presen\u00e7a, se o local for bem iluminado.",
+        "correct": false
+      },
+      {
+        "text": "Sempre com as luzes de cruzamento ligadas.",
+        "correct": true
+      },
+      {
+        "text": "Sempre com as luzes de estrada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De que cor devem ser as luzes de presen\u00e7a colocadas \u00e0 retaguarda dos autom\u00f3veis?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4479.jpg",
+    "answers": [
+      {
+        "text": "Alaranjada.",
+        "correct": false
+      },
+      {
+        "text": "Vermelha ou amarela.",
+        "correct": false
+      },
+      {
+        "text": "Vermelha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "De que cor devem ser os 'm\u00ednimos' nos autom\u00f3veis?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4480.jpg",
+    "answers": [
+      {
+        "text": "Amarelos.",
+        "correct": false
+      },
+      {
+        "text": "Brancos ou amarelos.",
+        "correct": false
+      },
+      {
+        "text": "Brancos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "De que cor \u00e9 a luz de travagem dos autom\u00f3veis?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4481.jpg",
+    "answers": [
+      {
+        "text": "Branca ou amarela.",
+        "correct": false
+      },
+      {
+        "text": "Vermelha ou alaranjada.",
+        "correct": true
+      },
+      {
+        "text": "Vermelha ou branca.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De que cor podem ser os m\u00e1ximos de um autom\u00f3vel?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4482.jpg",
+    "answers": [
+      {
+        "text": "S\u00f3 podem ser de cor amarela.",
+        "correct": false
+      },
+      {
+        "text": "S\u00f3 podem ser de cor branca ou amarela.",
+        "correct": true
+      },
+      {
+        "text": "S\u00f3 podem ser de cor branca.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "De que lado este passageiro deve entrar no ve\u00edculo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4483.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 indiferente.",
+        "correct": false
+      },
+      {
+        "text": "Pelo lado direito.",
+        "correct": true
+      },
+      {
+        "text": "Pelo lado esquerdo, tal como est\u00e1 a fazer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo ceder passagem ao pe\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4484.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque n\u00e3o existe passagem assinalada na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas n\u00e3o devo parar.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Devo fazer uso das luzes avisadoras de perigo sempre que:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4485.jpg",
+    "answers": [
+      {
+        "text": "Exista grande intensidade de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Me aproxime de uma curva de visibilidade reduzida.",
+        "correct": false
+      },
+      {
+        "text": "O ve\u00edculo represente perigo para os outros utentes.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Devo saber que a luz de cruzamento se destina a iluminar a via para a frente do ve\u00edculo numa dist\u00e2ncia at\u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4486.jpg",
+    "answers": [
+      {
+        "text": "100 metros.",
+        "correct": false
+      },
+      {
+        "text": "30 metros.",
+        "correct": true
+      },
+      {
+        "text": "50 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo saber que as luzes de estrada se destinam a iluminar a via para a frente do ve\u00edculo numa dist\u00e2ncia m\u00ednima de:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4487.jpg",
+    "answers": [
+      {
+        "text": "100 metros.",
+        "correct": true
+      },
+      {
+        "text": "30 metros.",
+        "correct": false
+      },
+      {
+        "text": "50 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo utilizar algum sistema de ilumina\u00e7\u00e3o neste local?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4488.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas estou obrigado a ligar as luzes durante a noite.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas por precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque vou entrar num t\u00fanel sinalizado como tal.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Durante a noite posso circular em auto-estrada com as luzes de cruzamento apagadas?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4489.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, excepto no caso de avaria.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas se a visibilidade for boa e com as luzes de presen\u00e7a ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, visto tratar-se de uma via com boas condi\u00e7\u00f5es de ilumina\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 permitida a utiliza\u00e7\u00e3o das luzes de nevoeiro ainda que as condi\u00e7\u00f5es meteorol\u00f3gicas n\u00e3o justifiquem. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4490.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a sua utiliza\u00e7\u00e3o apenas \u00e9 permitida se as condi\u00e7\u00f5es meteorol\u00f3gicas justificarem.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o provoque encandeamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque estas luzes n\u00e3o causam encandeamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 permitido o tr\u00e2nsito de ve\u00edculos carregados de forma que possam estragar o pavimento da via p\u00fablica?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4491.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, o C\u00f3digo da Estrada n\u00e3o permite.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o causem perigo aos outros utentes da via.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 proibida a utiliza\u00e7\u00e3o das luzes de estrada?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4492.jpg",
+    "answers": [
+      {
+        "text": "Sim, de noite.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se provocarem encandeamento.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em auto-estrada posso circular:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4493.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 velocidade m\u00ednima de 40 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Com as luzes de estrada ligadas durante o dia ou noite porque se trata de uma via onde se praticam velocidades elevadas.",
+        "correct": false
+      },
+      {
+        "text": "Com as luzes de m\u00e9dios ou de m\u00e1ximos conforme as situa\u00e7\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Guardando uma dist\u00e2ncia de seguran\u00e7a m\u00ednima de 5 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em caso de acidente \u00e9 sempre obrigat\u00f3rio:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4494.jpg",
+    "answers": [
+      {
+        "text": "Ligar as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Retirar o ve\u00edculo da faixa de rodagem, independentemente da gravidade do acidente.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar correctamente o local.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Em caso de acidente, a identifica\u00e7\u00e3o do condutor \u00e9 obrigat\u00f3ria?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4495.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas \u00e9 obrigat\u00f3ria a identifica\u00e7\u00e3o do propriet\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, bem como a do propriet\u00e1rio.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Em caso de acidente, de que resultem feridos, \u00e9 obrigat\u00f3ria a presen\u00e7a de agente de autoridade?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4496.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas \u00e9 obrigat\u00f3ria se os intervenientes a considerarem necess\u00e1ria.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Em caso de avaria nas luzes posso circular neste local apenas com as luzes avisadoras de perigo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4497.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo parar o ve\u00edculo de imediato.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas pelo tempo estritamente necess\u00e1rio at\u00e9 um local de paragem ou estacionamento.",
+        "correct": true
+      },
+      {
+        "text": "Sim, o local \u00e9 bem iluminado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em caso de avaria nas luzes posso circular neste local?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4498.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a utiliza\u00e7\u00e3o de dispositivos de ilumina\u00e7\u00e3o \u00e9 obrigat\u00f3ria.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque circulo dentro de uma localidade.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque se trata de um local bem iluminado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em caso de imobiliza\u00e7\u00e3o for\u00e7ada do ve\u00edculo, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4499.jpg",
+    "answers": [
+      {
+        "text": "Chamar imediatamente um reboque independentemente do motivo.",
+        "correct": false
+      },
+      {
+        "text": "Ligar as luzes de perigo e aguardar a chegada de um reboque.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar o local devidamente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Em circula\u00e7\u00e3o, este ve\u00edculo longo deve utilizar sempre as luzes de cruzamento.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4500.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em locais pouco iluminados, regra geral \u00e9 necess\u00e1rio:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4501.jpg",
+    "answers": [
+      {
+        "text": "Ligar as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Transitar com as luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em qualquer autom\u00f3vel de mercadorias, a carga deve ser disposta de modo a que:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4502.jpg",
+    "answers": [
+      {
+        "text": "Fique livre o maior espa\u00e7o poss\u00edvel \u00e0 retaguarda da caixa de carga.",
+        "correct": false
+      },
+      {
+        "text": "O principal peso fique sobre o eixo da retaguarda.",
+        "correct": false
+      },
+      {
+        "text": "Seja assegurado o equil\u00edbrio do ve\u00edculo, parado ou em marcha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Enquanto aguardo a abertura de uma passagem de n\u00edvel e sempre que existam condi\u00e7\u00f5es ambientais que tornem a visibilidade insuficiente estou obrigado a utilizar as luzes de presen\u00e7a?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4503.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, o C\u00f3digo da Estrada n\u00e3o estabelece qualquer obriga\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, apenas desde o anoitecer ao amanhecer.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mesmo durante o dia e desde o anoitecer ao amanhecer.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Enquanto condutor devo considerar as crian\u00e7as como utentes vulner\u00e1veis?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4504.jpg",
+    "answers": [
+      {
+        "text": "Sim, mas apenas dentro das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas quando est\u00e3o sozinhas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Entre outros, que cuidados deve ter o condutor ao colocar carga num ve\u00edculo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4505.jpg",
+    "answers": [
+      {
+        "text": "Deve coloc\u00e1-la somente na mala do porta-bagagem.",
+        "correct": false
+      },
+      {
+        "text": "Deve colocar a carga mais pesada na parte superior do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Deve evitar que a carga possa vir a cair sobre a via.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Esta crian\u00e7a pode ser transportada no banco da frente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4506.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que tenha idade superior a 12 anos.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que tenha idade superior a 7 anos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Esta passageira est\u00e1 a entrar correctamente no ve\u00edculo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4507.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Esta situa\u00e7\u00e3o \u00e9 bastante perigosa. Compete ao condutor, antes de iniciar a manobra:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4508.jpg",
+    "answers": [
+      {
+        "text": "Ligar as luzes de marcha atr\u00e1s, sendo o suficiente para que todos se apercebam da sua inten\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Ligar as luzes de perigo e todos os utentes t\u00eam assim o dever de sair do seu caminho.",
+        "correct": false
+      },
+      {
+        "text": "Verificar se o pode fazer em seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estarei a aplicar uma t\u00e9cnica de condu\u00e7\u00e3o defensiva, se em condu\u00e7\u00e3o urbana, moderar a velocidade:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4509.jpg",
+    "answers": [
+      {
+        "text": "Para que n\u00e3o me seja aplicada uma san\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Por saber que partilho a via p\u00fablica com todo o tipo de utentes.",
+        "correct": true
+      },
+      {
+        "text": "Por ser apenas uma regra imposta por lei.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este condutor pratica uma infrac\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4510.jpg",
+    "answers": [
+      {
+        "text": "Sim, ao estar a ocupar o passeio, independentemente de estar parado ou a circular.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas se estiver a circular.",
+        "correct": false
+      },
+      {
+        "text": "Sim, unicamente se pretender estacionar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este pe\u00e3o requer uma aten\u00e7\u00e3o especial?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4511.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque todos os pe\u00f5es requerem a mesma aten\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, apenas porque est\u00e1 de costas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque para al\u00e9m de evidenciar uma incapacidade f\u00edsica, circula na faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este sinal luminoso d\u00e1-me indica\u00e7\u00e3o da:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4512.jpg",
+    "answers": [
+      {
+        "text": "Necessidade de avan\u00e7ar com precau\u00e7\u00e3o, cedendo a passagem aos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Necessidade de cumprir a regra de ced\u00eancia de passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este ve\u00edculo pode transitar com as luzes desligadas?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4513.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que por motivo de avaria.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o local \u00e9 bem iluminado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Este ve\u00edculo re\u00fane todas as condi\u00e7\u00f5es de seguran\u00e7a para iniciar a marcha?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4514.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que os passageiros da frente coloquem o cinto de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a crian\u00e7a vai no banco de tr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Estou obrigado a utilizar as luzes avisadoras de perigo sempre que o meu ve\u00edculo represente um perigo para os outros utentes da via?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4515.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo apenas utilizar o sinal de pr\u00e9-sinaliza\u00e7\u00e3o de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas durante a noite.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Existem manobras perigosas?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4516.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, desde que executadas com alguma per\u00edcia e rapidez.",
+        "correct": false
+      },
+      {
+        "text": "Sim, qualquer manobra se for executada de forma imprudente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, todas as manobras executadas em auto-estrada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Indique uma das fun\u00e7\u00f5es das luzes de presen\u00e7a existentes no ve\u00edculo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4517.jpg",
+    "answers": [
+      {
+        "text": "Assinalar a presen\u00e7a e a largura do ve\u00edculo durante a paragem ou o estacionamento.",
+        "correct": true
+      },
+      {
+        "text": "Iluminar a via para a frente do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Melhorar a ilumina\u00e7\u00e3o da via quando a visibilidade \u00e9 reduzida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Justifica-se a entrada, deste passageiro pela esquerda?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4518.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nenhum dos passageiros, nem o pr\u00f3prio condutor podem entrar pelo lado esquerdo.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, nesta situa\u00e7\u00e3o apenas o condutor deve entrar pelo lado esquerdo.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a entrada de passageiros se pode fazer por qualquer um dos lados.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na circula\u00e7\u00e3o nocturna, para praticar uma condu\u00e7\u00e3o defensiva devo moderar a velocidade?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4519.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque os limites de velocidade m\u00e1xima n\u00e3o se alteram.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas quando n\u00e3o h\u00e1 ilumina\u00e7\u00e3o no local.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Na coloca\u00e7\u00e3o e disposi\u00e7\u00e3o da carga dever\u00e1 atender-se a que:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4520.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o seja excedida a altura m\u00e1xima de 3,5 metros.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o seja excedida a altura m\u00e1xima de 4 metros.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o seja excedida a altura m\u00e1xima de 4,5 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na condu\u00e7\u00e3o com chuva, a possibilidade de comportamentos desatentos dos pe\u00f5es \u00e9, sempre, um aspecto a considerar.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4521.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na condu\u00e7\u00e3o nocturna h\u00e1 maior risco de encandeamento?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4522.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Na disposi\u00e7\u00e3o da carga devo ter em aten\u00e7\u00e3o que o equil\u00edbrio do ve\u00edculo fique assegurado:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4523.jpg",
+    "answers": [
+      {
+        "text": "Apenas nos casos em que circule a velocidade superior a 50 Km/h.",
+        "correct": false
+      },
+      {
+        "text": "Apenas quando o ve\u00edculo se encontra parado.",
+        "correct": false
+      },
+      {
+        "text": "Quando o ve\u00edculo se encontra parado e em marcha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Na distribui\u00e7\u00e3o da mercadoria a transportar \u00e9 necess\u00e1rio garantir:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4524.jpg",
+    "answers": [
+      {
+        "text": "O equil\u00edbrio do ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "Que o peso da tara n\u00e3o seja ultrapassado.",
+        "correct": false
+      },
+      {
+        "text": "Que tudo seja transportado independentemente de quaisquer regras de seguran\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na entrada e sa\u00edda de passageiros, um dos cuidados a ter, deve ser a completa imobiliza\u00e7\u00e3o do ve\u00edculo.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4525.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na recolha e no tratamento da informa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4526.jpg",
+    "answers": [
+      {
+        "text": "Aplicar t\u00e9cnicas de condu\u00e7\u00e3o defensiva, por exemplo, na previs\u00e3o que fa\u00e7o dos acontecimentos.",
+        "correct": true
+      },
+      {
+        "text": "Ignorar o comportamento dos outros utentes e concentrar-me unicamente na minha condu\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Julgar apenas os meus direitos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na retaguarda dos autom\u00f3veis, que cor devem ter as luzes indicadoras de mudan\u00e7a de direc\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4527.jpg",
+    "answers": [
+      {
+        "text": "Alaranjada ou amarela.",
+        "correct": false
+      },
+      {
+        "text": "Branca ou vermelha.",
+        "correct": false
+      },
+      {
+        "text": "Vermelha ou alaranjada.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Na tarefa de condu\u00e7\u00e3o, uma etapa fundamental, para uma condu\u00e7\u00e3o segura \u00e9 a recolha de informa\u00e7\u00e3o.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4528.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "N\u00e3o devo entrar numa passagem de n\u00edvel:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4529.jpg",
+    "answers": [
+      {
+        "text": "Quando as instru\u00e7\u00f5es dos agentes ferrovi\u00e1rios o proibirem.",
+        "correct": true
+      },
+      {
+        "text": "Que n\u00e3o seja sinalizada.",
+        "correct": false
+      },
+      {
+        "text": "Se n\u00e3o existir guarda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nas auto-estradas devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4530.jpg",
+    "answers": [
+      {
+        "text": "Nunca ocupar outra via que n\u00e3o a da direita, independentemente do meu objectivo.",
+        "correct": false
+      },
+      {
+        "text": "Praticar uma condu\u00e7\u00e3o adequada, ao tipo e condi\u00e7\u00f5es da via.",
+        "correct": true
+      },
+      {
+        "text": "Transitar na via da esquerda deixando livre a via da direita para os pesados.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta faixa de rodagem, posso contornar o ve\u00edculo branco?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4531.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque existem ve\u00edculos a transitar na via de tr\u00e2nsito da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que inicie a manobra rapidamente, pelo que n\u00e3o \u00e9 necess\u00e1rio sinaliz\u00e1-la.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que tome todas as precau\u00e7\u00f5es necess\u00e1rias.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o a carga do ve\u00edculo que circula \u00e0 minha frente pode constituir perigo ou embara\u00e7o para os outros utentes da via?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4532.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o como devo proceder?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4533.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com precau\u00e7\u00e3o ainda que os pe\u00f5es n\u00e3o possam atravessar a via.",
+        "correct": true
+      },
+      {
+        "text": "Ceder passagem aos pe\u00f5es que n\u00e3o tenham iniciado a travessia apesar da luz verde.",
+        "correct": false
+      },
+      {
+        "text": "Parar, pois, neste local existe uma passagem de pe\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo circular com as luzes de:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4534.jpg",
+    "answers": [
+      {
+        "text": "Cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Estrada.",
+        "correct": false
+      },
+      {
+        "text": "Nevoeiro.",
+        "correct": false
+      },
+      {
+        "text": "Presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo estar especialmente atento:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4535.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 passagem estreita.",
+        "correct": false
+      },
+      {
+        "text": "Ao comportamento dos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "\u00c0s irregularidades do pavimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo estar especialmente atento:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4536.jpg",
+    "answers": [
+      {
+        "text": "Ao comportamento dos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Ao estado do piso.",
+        "correct": false
+      },
+      {
+        "text": "Ao limite de velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo estar particularmente atento:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4537.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 velocidade a que circula o ve\u00edculo da frente.",
+        "correct": false
+      },
+      {
+        "text": "Ao acondicionamento da carga no ve\u00edculo da frente.",
+        "correct": true
+      },
+      {
+        "text": "Ao ve\u00edculo que circula em sentido contr\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo imobilizar-me:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4538.jpg",
+    "answers": [
+      {
+        "text": "A dist\u00e2ncia n\u00e3o superior a dois metros do ve\u00edculo da frente.",
+        "correct": false
+      },
+      {
+        "text": "A pelo menos dois metros do ve\u00edculo da frente.",
+        "correct": false
+      },
+      {
+        "text": "Pr\u00f3ximo do ve\u00edculo da frente, em situa\u00e7\u00e3o de seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4539.jpg",
+    "answers": [
+      {
+        "text": "Mudar para a via da esquerda e parar junto do sinal.",
+        "correct": false
+      },
+      {
+        "text": "Mudar para a via da esquerda, para ultrapassar o pesado de mercadorias.",
+        "correct": false
+      },
+      {
+        "text": "Permanecer na mesma via de tr\u00e2nsito e parar em seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4540.jpg",
+    "answers": [
+      {
+        "text": "Estar atento a toda a informa\u00e7\u00e3o que classifico como pertinente.",
+        "correct": true
+      },
+      {
+        "text": "Estar especialmente atento \u00e0 inexist\u00eancia de marcas rodovi\u00e1rias.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4541.jpg",
+    "answers": [
+      {
+        "text": "Alertar o pe\u00e3o para o facto de transitar em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Transitar com precau\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4542.jpg",
+    "answers": [
+      {
+        "text": "Fazer marcha atr\u00e1s, evitando assim os pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Prever o comportamento dos pe\u00f5es e decidir em conformidade.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros, alertando assim os pe\u00f5es para o meu direito de avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4543.jpg",
+    "answers": [
+      {
+        "text": "Contornar os pe\u00f5es, protestando pelo facto de se encontrarem na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Estar especialmente atento ao comportamento dos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Imobilizar o ve\u00edculo e lembrar aos pe\u00f5es que enquanto condutor, tenho o direito de avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4544.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem porque o outro ve\u00edculo apresenta-se pela direita.",
+        "correct": false
+      },
+      {
+        "text": "Estar especialmente atento ao comportamento do outro condutor .",
+        "correct": true
+      },
+      {
+        "text": "Prosseguir a marcha independentemente do comportamento do outro condutor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o \u00e9 obrigat\u00f3rio circular com as luzes de cruzamento.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4545.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o em que as condi\u00e7\u00f5es atmosf\u00e9ricas tornam a visibilidade bastante reduzida, que luzes devo utilizar?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4546.jpg",
+    "answers": [
+      {
+        "text": "As luzes de nevoeiro.",
+        "correct": true
+      },
+      {
+        "text": "As luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "As luzes de presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o em que o acidente constitui um obst\u00e1culo \u00e0 circula\u00e7\u00e3o o primeiro cuidado a ter deve ser:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4547.jpg",
+    "answers": [
+      {
+        "text": "Chamar as autoridades fiscalizadoras de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Fazer sinais de luzes aos outros condutores.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar o acidente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o o passageiro deveria ter sa\u00eddo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4548.jpg",
+    "answers": [
+      {
+        "text": "Indistintamente pelo lado esquerdo ou direito do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Pelo lado direito do ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "Pelo lado esquerdo do ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, ao ultrapassar o veloc\u00edpede, devo estar atento \u00e0 sua instabilidade.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4549.jpg",
+    "answers": [
+      {
+        "text": "Certo, porque o condutor pode ter necessidade de alterar a traject\u00f3ria.",
+        "correct": true
+      },
+      {
+        "text": "Errado, porque o condutor do veloc\u00edpede, n\u00e3o pode alterar a traject\u00f3ria.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, aplicarei t\u00e9cnicas de condu\u00e7\u00e3o defensiva, se:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4550.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a velocidade e utilizar os sinais sonoros.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o modificar a minha velocidade e utilizar os sinais sonoros.",
+        "correct": false
+      },
+      {
+        "text": "Prever e antecipar o comportamento dos pe\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, como condutor defensivo devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4551.jpg",
+    "answers": [
+      {
+        "text": "Alertar os pe\u00f5es para o meu direito de avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Estar atento ao comportamento dos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Parar, ligar as luzes de perigo e aguardar que se apercebam da minha presen\u00e7a, com a utiliza\u00e7\u00e3o de sinais luminosos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo circular com as luzes de:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4552.jpg",
+    "answers": [
+      {
+        "text": "Cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Estrada, porque o local \u00e9 mal iluminado.",
+        "correct": false
+      },
+      {
+        "text": "Presen\u00e7a, para n\u00e3o provocar encandeamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo circular com especial prud\u00eancia, porque:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4553.jpg",
+    "answers": [
+      {
+        "text": "As crian\u00e7as podem inesperadamente atravessar a via.",
+        "correct": true
+      },
+      {
+        "text": "Circulo numa zona residencial.",
+        "correct": false
+      },
+      {
+        "text": "Vou descrever uma curva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo circular utilizando as luzes:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4554.jpg",
+    "answers": [
+      {
+        "text": "Da estrada.",
+        "correct": false
+      },
+      {
+        "text": "De cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "De perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo estar especialmente atento:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4555.jpg",
+    "answers": [
+      {
+        "text": "Ao limite m\u00ednimo de velocidade, nesta faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0s caracter\u00edsticas do ve\u00edculo que circula \u00e0 minha frente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo estar especialmente atento:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4556.jpg",
+    "answers": [
+      {
+        "text": "Ao comportamento dos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Ao limite m\u00e1ximo de velocidade imposto para a circula\u00e7\u00e3o nas localidades.",
+        "correct": false
+      },
+      {
+        "text": "Ao tipo de pavimento em que circulo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo estar especialmente atento:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4557.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 exist\u00eancia de ve\u00edculos imobilizados na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0 presen\u00e7a do pe\u00e3o na faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Ao tipo de pavimento em que circulo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo utilizar as luzes de estrada?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4558.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque dentro das localidades n\u00e3o \u00e9 permitido utilizar essas luzes.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque existem ve\u00edculos estacionados fora da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4559.jpg",
+    "answers": [
+      {
+        "text": "Circular com precau\u00e7\u00e3o, devido ao perigo existente.",
+        "correct": true
+      },
+      {
+        "text": "Contornar a bola pelo lado direito.",
+        "correct": false
+      },
+      {
+        "text": "Contornar a bola pelo lado esquerdo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4560.jpg",
+    "answers": [
+      {
+        "text": "Contornar a bola pelo lado esquerdo.",
+        "correct": false
+      },
+      {
+        "text": "Manter a velocidade, buzinando constantemente.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e estar especialmente atento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4561.jpg",
+    "answers": [
+      {
+        "text": "Acelerar para contornar rapidamente os pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Estar atento ao comportamento dos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros como forma de protesto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4562.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar rapidamente, porque o pe\u00e3o est\u00e1 parado.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade e prever o comportamento do pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Protestar utilizando os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4563.jpg",
+    "answers": [
+      {
+        "text": "Passar rapidamente ignorando o pe\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Protestar utilizando os sinais sonoros, para que o pe\u00e3o atravesse.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e estar atento ao comportamento do pe\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4564.jpg",
+    "answers": [
+      {
+        "text": "Parar atr\u00e1s dos ve\u00edculos imobilizados.",
+        "correct": false
+      },
+      {
+        "text": "Preparar-me para contornar os ve\u00edculos imobilizados.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros e aguardar que os ve\u00edculos retomem a marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4565.jpg",
+    "answers": [
+      {
+        "text": "Moderar a velocidade e utilizar sinais sonoros.",
+        "correct": true
+      },
+      {
+        "text": "Transitar com especial prud\u00eancia e com as luzes de perigo ligadas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4566.jpg",
+    "answers": [
+      {
+        "text": "Guardar uma dist\u00e2ncia segura em rela\u00e7\u00e3o ao veloc\u00edpede.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar de imediato.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros, para que o condutor do veloc\u00edpede aumente a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4567.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem aos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Evitar ceder a passagem aos pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4568.jpg",
+    "answers": [
+      {
+        "text": "Estar especialmente atento ao comportamento dos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais luminosos.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros, at\u00e9 que os pe\u00f5es saiam da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, fico obrigado:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4569.jpg",
+    "answers": [
+      {
+        "text": "A agir em conformidade com o comportamento dos outros utentes.",
+        "correct": true
+      },
+      {
+        "text": "A ligar as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "A ultrapassar, utilizando para isso os sinais luminosos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, n\u00e3o sabendo qual \u00e9 a decis\u00e3o que a crian\u00e7a vai tomar, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4570.jpg",
+    "answers": [
+      {
+        "text": "Circular lentamente e estar atento ao comportamento da crian\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Parar, sair do ve\u00edculo e desviar a crian\u00e7a para fora da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros, para que a crian\u00e7a se aperceba que est\u00e1 em transgress\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, o mais seguro ser\u00e1:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4571.jpg",
+    "answers": [
+      {
+        "text": "Continuar a marcha de maneira a contornar as crian\u00e7as.",
+        "correct": false
+      },
+      {
+        "text": "Fazer marcha atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Parar e utilizar os sinais sonoros.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, o painel adicional:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4572.jpg",
+    "answers": [
+      {
+        "text": "Indica uma actua\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Obriga a um procedimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, se a passagem de n\u00edvel se encontrar fechada, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4573.jpg",
+    "answers": [
+      {
+        "text": "Parar e ligar as luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "Parar e ligar as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Parar e ligar as luzes de presen\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, se decidir contornar o ve\u00edculo imobilizado, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4574.jpg",
+    "answers": [
+      {
+        "text": "Alertar o condutor do ve\u00edculo imobilizado para o facto de estar a praticar uma infrac\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Certificar-me que o posso fazer em seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Ligar as luzes de perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4575.jpg",
+    "answers": [
+      {
+        "text": "Eu tenho o dever de ceder a passagem.",
+        "correct": true
+      },
+      {
+        "text": "Eu tenho o direito de avan\u00e7ar logo que exista espa\u00e7o para o meu ve\u00edculo circular.",
+        "correct": false
+      },
+      {
+        "text": "Eu tenho o direito de avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4576.jpg",
+    "answers": [
+      {
+        "text": "Devo estar atento ao comportamento do pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Devo utilizar os sinais sonoros, ao passar ao lado do pe\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o me devo preocupar com o comportamento do pe\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4577.jpg",
+    "answers": [
+      {
+        "text": "Devo estar atento ao comportamento do outro condutor.",
+        "correct": true
+      },
+      {
+        "text": "Sou obrigado a parar.",
+        "correct": false
+      },
+      {
+        "text": "Tenho prioridade, como tal devo utilizar sinais sonoros com o objectivo de avan\u00e7ar em primeiro lugar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nestas circunst\u00e2ncias para praticar uma condu\u00e7\u00e3o defensiva \u00e9 fundamental, considerar a recolha de informa\u00e7\u00e3o, porque:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4578.jpg",
+    "answers": [
+      {
+        "text": "A visibilidade \u00e9 menor.",
+        "correct": true
+      },
+      {
+        "text": "Estou mais cansado.",
+        "correct": false
+      },
+      {
+        "text": "Estou menos atento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nestas circunst\u00e2ncias:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4579.jpg",
+    "answers": [
+      {
+        "text": "Os condutores devem ceder a passagem aos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Os condutores s\u00e3o obrigados a parar.",
+        "correct": false
+      },
+      {
+        "text": "Os pe\u00f5es est\u00e3o proibidos de avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste acidente de que resultam feridos devem ser submetidos a teste de \u00e1lcool.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4580.jpg",
+    "answers": [
+      {
+        "text": "Todos os intervenientes no acidente.",
+        "correct": true
+      },
+      {
+        "text": "Todos os ocupantes dos ve\u00edculos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local a visibilidade n\u00e3o \u00e9 suficiente. Como tal devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4581.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar, adaptando a velocidade \u00e0s condi\u00e7\u00f5es do local.",
+        "correct": true
+      },
+      {
+        "text": "Ligar as luzes de perigo para assim ser visto por todos os utentes.",
+        "correct": false
+      },
+      {
+        "text": "Parar e aguardar que n\u00e3o transite ningu\u00e9m na via p\u00fablica antes de avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local devo reduzir a velocidade?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4582.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, s\u00f3 se os ve\u00edculos da frente assinalarem travagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, aproximo-me de uma zona onde circulam ve\u00edculos a velocidade moderada.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque vou entrar numa localidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local os pe\u00f5es devem transitar:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4583.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 indiferente o local onde transitam porque a intensidade de tr\u00e2nsito \u00e9 reduzida.",
+        "correct": false
+      },
+      {
+        "text": "Na berma.",
+        "correct": true
+      },
+      {
+        "text": "Na faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, conduzo com seguran\u00e7a se:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4584.jpg",
+    "answers": [
+      {
+        "text": "Adaptar a velocidade e atender \u00e0s marcas no pavimento.",
+        "correct": true
+      },
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, devo estar especialmente atento:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4585.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 visibilidade do local.",
+        "correct": true
+      },
+      {
+        "text": "Ao tipo de pavimento em que circulo.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0s marcas no pavimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, \u00e9 sempre proibido ultrapassar?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4586.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, posso ultrapassar?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4587.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, pratico uma condu\u00e7\u00e3o defensiva, se:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4588.jpg",
+    "answers": [
+      {
+        "text": "Adaptar a minha condu\u00e7\u00e3o \u00e0s caracter\u00edsticas do local.",
+        "correct": true
+      },
+      {
+        "text": "Circular com as luzes de perigo ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Transitar no eixo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4589.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso ultrapassar, devido \u00e0 exist\u00eancia da passagem de pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Posso ultrapassar, porque existem 2 vias de tr\u00e2nsito neste sentido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4590.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso ultrapassar.",
+        "correct": true
+      },
+      {
+        "text": "Posso ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No carregamento deste ve\u00edculo o condutor deve assegurar-se que o peso da carga:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4591.jpg",
+    "answers": [
+      {
+        "text": "Mais o peso da tara, n\u00e3o \u00e9 superior ao peso bruto.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o \u00e9 superior ao peso da tara.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o influencia a normal velocidade do ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No transporte de mercadorias, deve ficar assegurado o equil\u00edbrio do ve\u00edculo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4592.jpg",
+    "answers": [
+      {
+        "text": "Sim, mas apenas em marcha.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas quando estiver parado.",
+        "correct": false
+      },
+      {
+        "text": "Sim, parado e em marcha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No transporte de qualquer mercadoria, \u00e9 necess\u00e1rio garantir a seguran\u00e7a:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4593.jpg",
+    "answers": [
+      {
+        "text": "Apenas do condutor do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Apenas dos passageiros do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "De todos os utentes da via p\u00fablica.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nos autom\u00f3veis, as luzes de presen\u00e7a devem ser colocadas:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4594.jpg",
+    "answers": [
+      {
+        "text": "Duas \u00e0 frente e duas atr\u00e1s.",
+        "correct": true
+      },
+      {
+        "text": "Duas \u00e0 frente e uma atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Somente duas \u00e0 frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos autom\u00f3veis, quais s\u00e3o as luzes obrigat\u00f3rias destinadas a iluminar a via para a frente do ve\u00edculo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4595.jpg",
+    "answers": [
+      {
+        "text": "Os m\u00e9dios e as luzes de nevoeiro.",
+        "correct": false
+      },
+      {
+        "text": "Os m\u00e9dios e os m\u00e1ximos.",
+        "correct": true
+      },
+      {
+        "text": "Os m\u00ednimos e os m\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "Os m\u00ednimos e os m\u00e9dios.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos locais de visibilidade reduzida, o condutor deve:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4596.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos t\u00faneis devo transitar com as luzes:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4597.jpg",
+    "answers": [
+      {
+        "text": "De cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "De estrada.",
+        "correct": false
+      },
+      {
+        "text": "De presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nos t\u00faneis \u00e9 obrigat\u00f3rio transitar com as luzes de cruzamento?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4598.jpg",
+    "answers": [
+      {
+        "text": "Sim, desde que em t\u00faneis com pouca ilumina\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que exista sinaliza\u00e7\u00e3o para o efeito.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nos t\u00faneis \u00e9 obrigat\u00f3rio:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4599.jpg",
+    "answers": [
+      {
+        "text": "Transitar com as luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Transitar com as luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "Transitar com as luzes de perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O cinto de seguran\u00e7a deve ser considerado um elemento de:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4600.jpg",
+    "answers": [
+      {
+        "text": "Seguran\u00e7a activa.",
+        "correct": false
+      },
+      {
+        "text": "Seguran\u00e7a passiva.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O cinto de seguran\u00e7a deve ser utilizado pelas crian\u00e7as?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4601.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque apenas utiliza o cinto de seguran\u00e7a quem tiver mais de 18 anos.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O C\u00f3digo da Estrada permite o transporte de carga desde que, nomeadamente, n\u00e3o danifique pavimentos, instala\u00e7\u00f5es, obras de arte e im\u00f3veis marginais.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4602.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o est\u00e1 correcta.",
+        "correct": true
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o est\u00e1 incorrecta.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O comportamento do condutor do ve\u00edculo de duas rodas:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4603.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 correcto, desde que transite lentamente.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 correcto, porque o condutor ligou as luzes do seu ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 perigoso e coloca em risco n\u00e3o s\u00f3 o pr\u00f3prio condutor, como outros utentes que dividem o mesmo espa\u00e7o com ele.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor deve ter uma aten\u00e7\u00e3o especial ao comportamento do pe\u00e3o idoso?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4604.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo branco deve retir\u00e1-lo da faixa de rodagem?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4605.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca se deve retirar o ve\u00edculo da faixa de rodagem em caso de avaria.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque se o ve\u00edculo estiver avariado a repara\u00e7\u00e3o deve ser feita na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se for poss\u00edvel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo de duas rodas circula legalmente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4606.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque circula em cima do passeio.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que circule a uma velocidade lenta.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o seu ve\u00edculo tem dimens\u00f5es reduzidas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo que circula em sentido contr\u00e1rio est\u00e1 obrigado a circular com as luzes de cruzamento ligadas?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4607.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas porque se trata de um ve\u00edculo ligeiro de mercadorias.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque se trata de um ve\u00edculo afecto ao transporte de mercadorias perigosas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo que est\u00e1 parado \u00e0 minha direita procede correctamente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4608.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque est\u00e1 a descarregar o seu ve\u00edculo pela retaguarda.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque n\u00e3o escolheu um local adequado para o efeito.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que retire a mercadoria do seu ve\u00edculo rapidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O cumprimento das regras e sinais de tr\u00e2nsito \u00e9 um contributo para a seguran\u00e7a rodovi\u00e1ria.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4609.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O Homem enquanto condutor dever\u00e1 ser:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4610.jpg",
+    "answers": [
+      {
+        "text": "Previs\u00edvel de modo a n\u00e3o surpreender os outros utentes.",
+        "correct": true
+      },
+      {
+        "text": "Sempre muito r\u00e1pido para n\u00e3o provocar embara\u00e7o no tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "T\u00e3o prudente que p\u00e1ra em todas as intersec\u00e7\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O meu comportamento ser\u00e1 correcto e defensivo, se:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4611.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem ao pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Contornar o pe\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros para que o pe\u00e3o termine rapidamente a travessia da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O n\u00famero de matr\u00edcula na retaguarda dos ve\u00edculos deve ser iluminado:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4612.jpg",
+    "answers": [
+      {
+        "text": "Com uma luz branca que permita a leitura \u00e0 dist\u00e2ncia de 20 metros.",
+        "correct": true
+      },
+      {
+        "text": "Pelas luzes de m\u00e9dios.",
+        "correct": false
+      },
+      {
+        "text": "Pelas luzes de presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O passageiro est\u00e1 a ter um comportamento correcto?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4613.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque o ve\u00edculo est\u00e1 parado do lado direito.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a intensidade de tr\u00e2nsito neste local \u00e9 bastante reduzida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o lado da sua sa\u00edda n\u00e3o interfere na sua seguran\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O pe\u00e3o circula correctamente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4614.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nesta situa\u00e7\u00e3o deveria circular na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque deveria circular em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque est\u00e1 a caminhar no passeio.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O pe\u00e3o idoso requer da minha parte enquanto condutor defensivo, uma aten\u00e7\u00e3o especial?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4615.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque ser um condutor defensivo, nada tem a ver com o meu comportamento perante os pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se eu n\u00e3o estiver com muita pressa.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O pe\u00e3o idoso requer da minha parte uma aten\u00e7\u00e3o especial?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4616.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o. Todos os pe\u00f5es devem ser considerados da mesma forma.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas quando se encontra na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, o idoso pode n\u00e3o se ter apercebido da nossa presen\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O pe\u00e3o idoso requer da minha parte, enquanto condutor defensivo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4617.jpg",
+    "answers": [
+      {
+        "text": "A utiliza\u00e7\u00e3o dos sinais sonoros para assinalar a minha presen\u00e7a, por ser regra geral um pe\u00e3o menos atento.",
+        "correct": false
+      },
+      {
+        "text": "O mesmo cuidado que qualquer outro pe\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Uma aten\u00e7\u00e3o especial.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O pe\u00e3o idoso requer da parte do condutor uma aten\u00e7\u00e3o especial?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4618.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque \u00e9 um pe\u00e3o igual a todos os outros.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que se encontre nos locais assinalados, para a travessia da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mesmo que n\u00e3o esteja no local indicado para a travessia da faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O pe\u00e3o idoso:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4619.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 um pe\u00e3o como qualquer outro, requerendo a mesma aten\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Por ser mais lento, regra geral, n\u00e3o lhe devo ceder a passagem.",
+        "correct": false
+      },
+      {
+        "text": "Requer da minha parte, uma aten\u00e7\u00e3o especial.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O pe\u00e3o transita correctamente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4620.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O preenchimento da' declara\u00e7\u00e3o amig\u00e1vel de acidente autom\u00f3vel '\u00e9 um procedimento que deve ser efectuado sempre que poss\u00edvel.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4621.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que deve fazer o condutor que transita em sentido contr\u00e1rio?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4622.jpg",
+    "answers": [
+      {
+        "text": "Aproximar mais o seu ve\u00edculo do lado direito da via de tr\u00e2nsito em que circula.",
+        "correct": false
+      },
+      {
+        "text": "Estar especialmente atento ao comportamento do pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Parar, para que eu avance.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer em caso de acidente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4623.jpg",
+    "answers": [
+      {
+        "text": "Ligar as luzes de perigo e nunca retirar o ve\u00edculo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Retirar o ve\u00edculo da faixa de rodagem e, no seu interior, colocar o tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Se poss\u00edvel, remover o ve\u00edculo da faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer em caso de avaria?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4624.jpg",
+    "answers": [
+      {
+        "text": "Colocar o tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o e proceder \u00e0 repara\u00e7\u00e3o do ve\u00edculo na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o remover o ve\u00edculo sem a chegada do reboque.",
+        "correct": false
+      },
+      {
+        "text": "Se poss\u00edvel, retirar o ve\u00edculo da faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer em rela\u00e7\u00e3o aos pe\u00f5es?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4625.jpg",
+    "answers": [
+      {
+        "text": "Considerar que s\u00e3o utentes que requerem uma aten\u00e7\u00e3o especial.",
+        "correct": true
+      },
+      {
+        "text": "Ignorar a sua presen\u00e7a. Eu tenho prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Parar e aguardar que j\u00e1 n\u00e3o transitem pe\u00f5es, para que eu possa seguir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4626.jpg",
+    "answers": [
+      {
+        "text": "Aumentar um pouco a velocidade, utilizando os sinais sonoros, porque estou perante um perigo.",
+        "correct": false
+      },
+      {
+        "text": "Parar e utilizar os sinais sonoros.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e ter em aten\u00e7\u00e3o o comportamento dos pe\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4627.jpg",
+    "answers": [
+      {
+        "text": "Estar atento ao comportamento do pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Parar imediatamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4628.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem ao pe\u00e3o, porque esse \u00e9 o meu dever.",
+        "correct": true
+      },
+      {
+        "text": "Contornar o pe\u00e3o, porque este j\u00e1 est\u00e1 quase a terminar a travessia.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros, para que o pe\u00e3o se aperceba da minha presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4629.jpg",
+    "answers": [
+      {
+        "text": "Contornar o pe\u00e3o, mesmo que ele pretenda fazer a travessia da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade e utilizar os sinais sonoros para alertar da minha presen\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4630.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com precau\u00e7\u00e3o, apenas porque o piso \u00e9 irregular.",
+        "correct": false
+      },
+      {
+        "text": "Fazer sinais de luzes, comunicando assim com os pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Transitar com muita precau\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4631.jpg",
+    "answers": [
+      {
+        "text": "Ligar as luzes de perigo, aumentar um pouco a velocidade para que os pe\u00f5es se desviem.",
+        "correct": false
+      },
+      {
+        "text": "Parar e utilizar os sinais sonoros.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir a velocidade, contornar os pe\u00f5es e utilizar os sinais sonoros, como sinal de protesto.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4632.jpg",
+    "answers": [
+      {
+        "text": "Aguardar a passagem do outro ve\u00edculo e ter aten\u00e7\u00e3o ao pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Fazer sinais de luzes e avan\u00e7ar, porque o pe\u00e3o n\u00e3o transita na minha via de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4633.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Parar se necess\u00e1rio, permitindo que o outro condutor avance.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros para que o outro condutor se aproxime mais do lado direito da sua via de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4634.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar, contornando o pe\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar, utilizando os sinais sonoros para lembrar ao pe\u00e3o que na faixa de rodagem, transitam ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Parar, cedendo a passagem ao pe\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4635.jpg",
+    "answers": [
+      {
+        "text": "Aguardar, caso a descarga do ve\u00edculo seja r\u00e1pida.",
+        "correct": true
+      },
+      {
+        "text": "Contornar imediatamente o ve\u00edculo imobilizado.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros e contornar o ve\u00edculo imobilizado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4636.jpg",
+    "answers": [
+      {
+        "text": "Circular com precau\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros e parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4637.jpg",
+    "answers": [
+      {
+        "text": "Contornar o outro ve\u00edculo, porque eu tenho prioridade.",
+        "correct": false
+      },
+      {
+        "text": "Transitar com precau\u00e7\u00e3o, permitindo que o outro condutor termine a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros, para que o outro condutor pare.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4638.jpg",
+    "answers": [
+      {
+        "text": "Parar e aguardar que n\u00e3o existam pe\u00f5es na via p\u00fablica para que eu possa seguir a marcha.",
+        "correct": false
+      },
+      {
+        "text": "Ter em conta que estou a dividir o mesmo espa\u00e7o com utentes bastante vulner\u00e1veis.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros, lembrando aos pe\u00f5es que os ve\u00edculos t\u00eam prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4639.jpg",
+    "answers": [
+      {
+        "text": "Buzinar e parar se necess\u00e1rio.",
+        "correct": true
+      },
+      {
+        "text": "Estar atento e, se necess\u00e1rio, aumentar a velocidade, mas nunca parar.",
+        "correct": false
+      },
+      {
+        "text": "Manter a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4640.jpg",
+    "answers": [
+      {
+        "text": "Contornar o pe\u00e3o, utilizando as luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros para que o pe\u00e3o se desvie.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4641.jpg",
+    "answers": [
+      {
+        "text": "Manter uma dist\u00e2ncia segura em rela\u00e7\u00e3o ao ciclomotor.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      },
+      {
+        "text": "Ultrapassar de imediato o ciclomotor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4642.jpg",
+    "answers": [
+      {
+        "text": "Agir de acordo com a situa\u00e7\u00e3o, contornando o ve\u00edculo se assim considerar seguro.",
+        "correct": true
+      },
+      {
+        "text": "Parar atr\u00e1s do ve\u00edculo branco e aguardar que o seu condutor inicie a marcha.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros, alertando assim o condutor do ve\u00edculo branco para a infrac\u00e7\u00e3o que est\u00e1 a cometer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4643.jpg",
+    "answers": [
+      {
+        "text": "Iniciar a marcha, obrigando assim os pe\u00f5es a terminarem rapidamente a travessia.",
+        "correct": false
+      },
+      {
+        "text": "Manter o ve\u00edculo imobilizado, mas utilizando os sinais sonoros de maneira a que os pe\u00f5es n\u00e3o demorem muito tempo a terminar a travessia.",
+        "correct": false
+      },
+      {
+        "text": "Manter o ve\u00edculo imobilizado, permitindo assim que os pe\u00f5es terminem a travessia.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4644.jpg",
+    "answers": [
+      {
+        "text": "Ligar as luzes de cruzamento e estar atento \u00e0 presen\u00e7a do pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Ligar as luzes de estrada e estar atento \u00e0 presen\u00e7a do pe\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Ligar as luzes de presen\u00e7a e estar atento \u00e0 presen\u00e7a do pe\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4645.jpg",
+    "answers": [
+      {
+        "text": "Moderar a velocidade e estar atento ao comportamento dos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Parar obrigatoriamente.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar as luzes de perigo e estar atento ao comportamento dos pe\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4646.jpg",
+    "answers": [
+      {
+        "text": "Contornar o pe\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros para que o pe\u00e3o saia rapidamente da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4647.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar rapidamente, desde que desligue as luzes de cruzamento.",
+        "correct": false
+      },
+      {
+        "text": "Parar, porque estou na proximidade de uma passagem de n\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Transitar com precau\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer se o pe\u00e3o iniciar a travessia da faixa de rodagem?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4648.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem ao pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Contornar o pe\u00e3o, porque se parar vou causar um aumento da intensidade de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros para alertar o pe\u00e3o para o meu direito de avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O transporte de carga deve fazer-se de modo a que:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4649.jpg",
+    "answers": [
+      {
+        "text": "A carga possa oscilar para compensar o movimento em curva do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Fique devidamente assegurado o equil\u00edbrio do ve\u00edculo parado ou em marcha.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o seja excedida a altura de 4 metros a contar do tejadilho do ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O transporte de mat\u00e9rias perigosas requer cuidados especiais?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4650.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, todas as mercadorias devem ser transportadas da mesma forma.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas o transporte efectuado por ve\u00edculos de grandes dimens\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O transporte de mercadorias nunca poder\u00e1 constituir embara\u00e7o para os outros utentes.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4651.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o deve ser vis\u00edvel, a pelo menos:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4652.jpg",
+    "answers": [
+      {
+        "text": "30 metros.",
+        "correct": false
+      },
+      {
+        "text": "100 metros.",
+        "correct": true
+      },
+      {
+        "text": "50 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o, sinaliza:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4653.jpg",
+    "answers": [
+      {
+        "text": "A imobiliza\u00e7\u00e3o de um ve\u00edculo na faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Apenas acidentes.",
+        "correct": false
+      },
+      {
+        "text": "Apenas ve\u00edculos avariados na faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo \u00e0 minha frente circula com a carga bem acondicionada?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4654.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo branco est\u00e1 a fazer uma descarga. Como devo proceder nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4655.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que o condutor termine a descarga do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Sinalizar, verificar se est\u00e3o reunidas todas as condi\u00e7\u00f5es de seguran\u00e7a e s\u00f3 depois contornar o ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros, antes de contornar o ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo imobilizado na faixa de rodagem procede correctamente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4656.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que o seu condutor esteja pr\u00f3ximo do local.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o ve\u00edculo \u00e9 de mercadorias.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo longo que segue \u00e0 minha frente \u00e9 obrigado a circular sempre com as luzes de cruzamento acesas?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4657.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o. S\u00f3 no caso em que a visibilidade seja manifestamente reduzida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque n\u00e3o pode circular a mais de 70 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque transporta mercadorias perigosas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo que se encontra \u00e0 minha frente tem ligada a luz de:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4658.jpg",
+    "answers": [
+      {
+        "text": "Marcha-atr\u00e1s.",
+        "correct": true
+      },
+      {
+        "text": "Nevoeiro.",
+        "correct": false
+      },
+      {
+        "text": "Presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Observando o banco traseiro deste ve\u00edculo, considera que est\u00e1 pronto a iniciar a marcha?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4659.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desta forma todas as crian\u00e7as ser\u00e3o devidamente transportadas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, o importante \u00e9 n\u00e3o colocar as crian\u00e7as no banco da frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os autom\u00f3veis devem possuir obrigatoriamente reflectores vermelhos \u00e0 retaguarda?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4660.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 aconselh\u00e1vel t\u00ea-los, mas n\u00e3o obrigat\u00f3rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas s\u00f3 nos autom\u00f3veis pesados.",
+        "correct": false
+      },
+      {
+        "text": "Sim, para assinalarem de noite a sua presen\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os condutores devem colocar a carga nos ve\u00edculos de modo a:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4661.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o reduzir a visibilidade do condutor.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o ultrapassar a tara do ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os condutores devem evitar qualquer manobra que possa causar embara\u00e7o no tr\u00e2nsito.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4662.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os condutores devem ter especial aten\u00e7\u00e3o \u00e0s crian\u00e7as enquanto pe\u00f5es devido:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4663.jpg",
+    "answers": [
+      {
+        "text": "A sua estatura e comportamento imprevis\u00edveis.",
+        "correct": true
+      },
+      {
+        "text": "A sua estatura e o facto de n\u00e3o serem ainda condutores.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os m\u00e9dios devem iluminar a faixa de rodagem numa dist\u00e2ncia de:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4664.jpg",
+    "answers": [
+      {
+        "text": "100 metros.",
+        "correct": false
+      },
+      {
+        "text": "20 metros.",
+        "correct": false
+      },
+      {
+        "text": "30 metros.",
+        "correct": true
+      },
+      {
+        "text": "50 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os m\u00e9dios devem projectar-se no solo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4665.jpg",
+    "answers": [
+      {
+        "text": "E ilumin\u00e1-lo eficazmente numa dist\u00e2ncia de 30 metros.",
+        "correct": true
+      },
+      {
+        "text": "E ilumin\u00e1-lo eficazmente numa dist\u00e2ncia de 50 metros.",
+        "correct": false
+      },
+      {
+        "text": "E no m\u00ednimo, ilumin\u00e1-lo a 100 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os passageiros devem entrar no ve\u00edculo, sempre:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4666.jpg",
+    "answers": [
+      {
+        "text": "Pela direita.",
+        "correct": false
+      },
+      {
+        "text": "Pela esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Pelo lado permitido para a paragem do ve\u00edculo.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os pe\u00f5es podem transitar na faixa de rodagem?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4667.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se n\u00e3o existir berma ou passeio.",
+        "correct": true
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os pe\u00f5es procedem correctamente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4668.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque deviam fazer a travessia da faixa de rodagem noutro local.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque n\u00e3o deviam circular entre as duas marcas rodovi\u00e1rias.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque est\u00e3o a fazer a travessia no local indicado para o efeito.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os pe\u00f5es requerem da parte do condutor uma aten\u00e7\u00e3o especial?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4669.jpg",
+    "answers": [
+      {
+        "text": "Sim, mas apenas quando atravessam a faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas quando transitam nos locais a eles destinados.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os pe\u00f5es requerem da parte do condutor, uma aten\u00e7\u00e3o especial enquanto utentes da via p\u00fablica?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4670.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque o espa\u00e7o que devem ocupar na via p\u00fablica n\u00e3o \u00e9 a faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que ocupem os locais a eles destinados.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque podem ter comportamentos imprevis\u00edveis e s\u00e3o vulner\u00e1veis.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os pe\u00f5es s\u00e3o obrigados a respeitar a indica\u00e7\u00e3o do sinal:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4671.jpg",
+    "answers": [
+      {
+        "text": "Sempre.",
+        "correct": true
+      },
+      {
+        "text": "S\u00f3 quando se aproximarem ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "S\u00f3 quando o tr\u00e2nsito de ve\u00edculos for intenso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os pe\u00f5es s\u00e3o utentes da via p\u00fablica que requerem da minha parte, enquanto condutor, uma aten\u00e7\u00e3o especial?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4672.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque os condutores n\u00e3o t\u00eam que se preocupar com esse tipo de utente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas nos locais destinados \u00e0 sua circula\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque s\u00e3o utentes bastante vulner\u00e1veis.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os pe\u00f5es t\u00eam sempre o direito de avan\u00e7ar e os condutores o dever de ceder a passagem.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4673.jpg",
+    "answers": [
+      {
+        "text": "Certo. Os pe\u00f5es n\u00e3o t\u00eam deveres.",
+        "correct": false
+      },
+      {
+        "text": "Errado. Os condutores t\u00eam sempre o direito de avan\u00e7ar primeiro.",
+        "correct": false
+      },
+      {
+        "text": "Errado. Todos os utentes da via p\u00fablica t\u00eam deveres.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os pe\u00f5es transitam correctamente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4674.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a faixa de rodagem se destina tamb\u00e9m ao tr\u00e2nsito de pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque no local existe pouca intensidade de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os pe\u00f5es:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4675.jpg",
+    "answers": [
+      {
+        "text": "Nunca t\u00eam o dever de ceder a passagem, porque s\u00e3o utentes vulner\u00e1veis.",
+        "correct": false
+      },
+      {
+        "text": "T\u00eam direitos, mas n\u00e3o devem esquecer os seus deveres.",
+        "correct": true
+      },
+      {
+        "text": "T\u00eam sempre o direito de passar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os pe\u00f5es:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4676.jpg",
+    "answers": [
+      {
+        "text": "Como utentes da via p\u00fablica t\u00eam direitos e regras a respeitar.",
+        "correct": true
+      },
+      {
+        "text": "S\u00e3o utentes da via p\u00fablica que n\u00e3o t\u00eam regras a cumprir.",
+        "correct": false
+      },
+      {
+        "text": "S\u00e3o vulner\u00e1veis, como tal t\u00eam sempre prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os sinais luminosos obrigam-me a:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4677.jpg",
+    "answers": [
+      {
+        "text": "Cumprir a regra geral de ced\u00eancia de passagem.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      },
+      {
+        "text": "Prosseguir a marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os sistemas de reten\u00e7\u00e3o devem ser adaptados ao peso e idade da crian\u00e7a.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4678.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os sistemas de reten\u00e7\u00e3o devem ser adequados ao tamanho e \u00e0 idade da crian\u00e7a.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4679.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os sistemas de reten\u00e7\u00e3o para o transporte de crian\u00e7as s\u00e3o obrigat\u00f3rios?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4680.jpg",
+    "answers": [
+      {
+        "text": "Sim, mas apenas em crian\u00e7as at\u00e9 6 anos de idade.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas para a condu\u00e7\u00e3o em auto-estrada.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os sistemas de reten\u00e7\u00e3o s\u00f3 devem ser utilizados em viagens longas?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4681.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, os sistemas de reten\u00e7\u00e3o s\u00e3o sempre obrigat\u00f3rios.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque os sistemas de reten\u00e7\u00e3o nem s\u00e3o obrigat\u00f3rios.",
+        "correct": false
+      },
+      {
+        "text": "Sim, em viagens com mais de 50 km.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos de duas rodas podem, tal como este ve\u00edculo, transitar em cima do passeio?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4682.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas para estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque ocupam pouco espa\u00e7o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos de duas rodas requerem uma aten\u00e7\u00e3o especial, devido:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4683.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 idade dos seus condutores.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0 inexperi\u00eancia dos seus condutores.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0 sua instabilidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos de duas rodas requerem uma aten\u00e7\u00e3o especial.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4684.jpg",
+    "answers": [
+      {
+        "text": "Certo, mas apenas em zonas urbanas.",
+        "correct": false
+      },
+      {
+        "text": "Certo, porque podem mudar facilmente de traject\u00f3ria.",
+        "correct": true
+      },
+      {
+        "text": "Errado, porque n\u00e3o podem utilizar a via p\u00fablica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos de duas rodas:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4685.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o podem transitar dentro das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Requerem uma aten\u00e7\u00e3o especial e n\u00e3o podem transitar na auto-estrada.",
+        "correct": false
+      },
+      {
+        "text": "Requerem uma aten\u00e7\u00e3o especial.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos que se destinam ao transporte de mercadorias perigosas devem circular com as luzes de cruzamento acesas?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4686.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, salvo em caso de nevoeiro, chuva intensa, queda de neve, nuvens de fumo ou p\u00f3.",
+        "correct": false
+      },
+      {
+        "text": "Sim, estes ve\u00edculos devem circular sempre com as luzes de cruzamento acesas.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas quando se verifiquem condi\u00e7\u00f5es meteorol\u00f3gicas que tornem a visibilidade insuficiente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os veloc\u00edpedes s\u00e3o ve\u00edculos bastante inst\u00e1veis. Assim um dos cuidados especiais a ter quando o ultrapasso, \u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4687.jpg",
+    "answers": [
+      {
+        "text": "A utiliza\u00e7\u00e3o dos sinais sonoros em simult\u00e2neo com os sinais luminosos.",
+        "correct": false
+      },
+      {
+        "text": "A velocidade a que o mesmo transita.",
+        "correct": false
+      },
+      {
+        "text": "O aumento da dist\u00e2ncia lateral.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para al\u00e9m dos pe\u00f5es que j\u00e1 transitam na via p\u00fablica, devo estar atento \u00e0s casas que marginam este local. Assim:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4688.jpg",
+    "answers": [
+      {
+        "text": "Devo parar.",
+        "correct": false
+      },
+      {
+        "text": "Devo transitar com velocidade bastante moderada.",
+        "correct": true
+      },
+      {
+        "text": "O mais seguro \u00e9 inverter o sentido de marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para conduzir com seguran\u00e7a, \u00e9 necess\u00e1ria a utiliza\u00e7\u00e3o dos espelhos, pelo condutor:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4689.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para contornar os ve\u00edculos imobilizados devo estar especialmente atento:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4690.jpg",
+    "answers": [
+      {
+        "text": "Ao comportamento dos outros utentes.",
+        "correct": true
+      },
+      {
+        "text": "Ao limite de velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Apenas aos ve\u00edculos que me ultrapassam.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para ilumina\u00e7\u00e3o os autom\u00f3veis devem ter:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4691.jpg",
+    "answers": [
+      {
+        "text": "M\u00e9dios e m\u00e1ximos.",
+        "correct": true
+      },
+      {
+        "text": "M\u00ednimos e m\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "M\u00ednimos e m\u00e9dios.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para iniciar o atravessamento da passagem de n\u00edvel, \u00e9 suficiente respeitar a sinaliza\u00e7\u00e3o existente no local?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4692.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o. \u00c9 necess\u00e1rio, para al\u00e9m da sinaliza\u00e7\u00e3o, um cuidado especial neste local.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o. Porque n\u00e3o existe sinaliza\u00e7\u00e3o relativa \u00e0 passagem de n\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para uma condu\u00e7\u00e3o segura, devo considerar que uma das caracter\u00edsticas da condu\u00e7\u00e3o urbana \u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4693.jpg",
+    "answers": [
+      {
+        "text": "A diminui\u00e7\u00e3o do n\u00famero de intersec\u00e7\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "A maior variedade de utentes num espa\u00e7o comum.",
+        "correct": true
+      },
+      {
+        "text": "Um menor n\u00famero de informa\u00e7\u00e3o a recolher.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante este acidente, que n\u00e3o sei como ocorreu e do qual n\u00e3o h\u00e1 v\u00edtimas, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4694.jpg",
+    "answers": [
+      {
+        "text": "Dar a minha opini\u00e3o face ao posicionamento dos ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Parar para ser solid\u00e1rios com os intervenientes.",
+        "correct": false
+      },
+      {
+        "text": "Prosseguir a marcha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante o comportamento do pe\u00e3o, como devo proceder?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4695.jpg",
+    "answers": [
+      {
+        "text": "Contornar o pe\u00e3o, utilizando os sinais sonoros.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e se necess\u00e1rio parar.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros e parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal, um pe\u00e3o pode atravessar:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4696.jpg",
+    "answers": [
+      {
+        "text": "Depois de verificar que o pode fazer em seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Se houver pouco tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sem se certificar que o pode fazer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Por seguran\u00e7a, o condutor que transita em sentido contr\u00e1rio, para ser visto, deveria:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4697.jpg",
+    "answers": [
+      {
+        "text": "Ligar as luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Ligar as luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Porque o pavimento oferece m\u00e1s condi\u00e7\u00f5es de ader\u00eancia, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4698.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Circular a velocidade n\u00e3o superior a 60 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso circular de noite s\u00f3 com as luzes de presen\u00e7a acesas?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4699.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca posso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, quando a via for suficientemente iluminada.",
+        "correct": false
+      },
+      {
+        "text": "Sim, quando as luzes de cruzamento estiverem avariadas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre que n\u00e3o haja tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso contornar o ve\u00edculo imobilizado?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4700.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque no eixo da faixa de rodagem existe uma marca rodovi\u00e1ria.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque o outro condutor est\u00e1 muito perto do seu ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que re\u00fana todas as condi\u00e7\u00f5es de seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso parar o meu ve\u00edculo na passagem de pe\u00f5es assinalada?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4701.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em nenhuma circunst\u00e2ncia.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas para largar ou receber passageiros.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se ligar as luzes de perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar o ve\u00edculo que circula \u00e0 minha frente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4702.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a ultrapassagem \u00e9 proibida das 8 \u00e0s 20 h.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque estou pr\u00f3ximo da passagem de pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que deixe passar o pe\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Praticar uma condu\u00e7\u00e3o defensiva, \u00e9 uma atitude que:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4703.jpg",
+    "answers": [
+      {
+        "text": "Ajuda a diminuir a sinistralidade rodovi\u00e1ria.",
+        "correct": true
+      },
+      {
+        "text": "Em nada influencia os n\u00fameros da sinistralidade.",
+        "correct": false
+      },
+      {
+        "text": "Embara\u00e7a o tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pratico uma condu\u00e7\u00e3o defensiva se:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4704.jpg",
+    "answers": [
+      {
+        "text": "Adaptar a minha condu\u00e7\u00e3o \u00e0s condi\u00e7\u00f5es do tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Circular apenas na via de tr\u00e2nsito da direita.",
+        "correct": false
+      },
+      {
+        "text": "Nunca ultrapassar outro ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pratico uma condu\u00e7\u00e3o defensiva, quando:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4705.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7o sempre em primeiro lugar.",
+        "correct": false
+      },
+      {
+        "text": "O meu comportamento \u00e9 adequado, considerando o comportamento dos outros utentes.",
+        "correct": true
+      },
+      {
+        "text": "Paro em todas as intersec\u00e7\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pratico uma condu\u00e7\u00e3o defensiva, se neste local:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4706.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pratico uma t\u00e9cnica de condu\u00e7\u00e3o defensiva, se:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4707.jpg",
+    "answers": [
+      {
+        "text": "Abrandar e permitir que o outro ve\u00edculo termine a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Contornar o outro ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Parar independentemente do comportamento do outro condutor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pratico uma t\u00e9cnica de condu\u00e7\u00e3o defensiva:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4708.jpg",
+    "answers": [
+      {
+        "text": "Ao adaptar o meu comportamento aos outros utentes da via p\u00fablica.",
+        "correct": true
+      },
+      {
+        "text": "Ao utilizar os sinais sonoros, com o objectivo de mostrar o meu desagrado perante determinado comportamento.",
+        "correct": false
+      },
+      {
+        "text": "Sempre que utilizar os sinais sonoros ao descrever uma curva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o para a direita. Devo ceder a passagem ao pe\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4709.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, visto n\u00e3o existir sinaliza\u00e7\u00e3o luminosa a regular a travessia de pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o pe\u00e3o j\u00e1 iniciou a travessia.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Quais as luzes que devo utilizar dentro do t\u00fanel?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4710.jpg",
+    "answers": [
+      {
+        "text": "Luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "Luzes de nevoeiro.",
+        "correct": false
+      },
+      {
+        "text": "Luzes de presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais as luzes que devo utilizar na situa\u00e7\u00e3o em que me encontro?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4711.jpg",
+    "answers": [
+      {
+        "text": "As luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "As luzes de estrada porque a via n\u00e3o tem ilumina\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "As luzes de nevoeiro.",
+        "correct": false
+      },
+      {
+        "text": "As luzes de presen\u00e7a para evitar o encandeamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais as luzes que se destinam a iluminar a via para a frente do ve\u00edculo numa dist\u00e2ncia at\u00e9 30 metros?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4712.jpg",
+    "answers": [
+      {
+        "text": "As luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "As luzes de nevoeiro da frente.",
+        "correct": false
+      },
+      {
+        "text": "As luzes de presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quais as luzes que sou obrigado a utilizar se, mesmo durante o dia, devido \u00e0s condi\u00e7\u00f5es atmosf\u00e9ricas a visibilidade diminuir?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4713.jpg",
+    "answers": [
+      {
+        "text": "Luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "Luzes de presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual a fun\u00e7\u00e3o dos \u00abm\u00ednimos\u00bb no ve\u00edculo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4714.jpg",
+    "answers": [
+      {
+        "text": "Assinalar a presen\u00e7a do ve\u00edculo e iluminar a faixa de rodagem a uma dist\u00e2ncia de 150 metros.",
+        "correct": false
+      },
+      {
+        "text": "Assinalar a presen\u00e7a do ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "Iluminar a faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual deve ser o meu comportamento nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4715.jpg",
+    "answers": [
+      {
+        "text": "Parar e utilizar os sinais luminosos.",
+        "correct": false
+      },
+      {
+        "text": "Parar, evitando assim qualquer risco para a seguran\u00e7a do pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Seguir a marcha, porque tenho prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual o alcance m\u00e1ximo da luz de marcha atr\u00e1s?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4716.jpg",
+    "answers": [
+      {
+        "text": "10 metros.",
+        "correct": true
+      },
+      {
+        "text": "30 metros.",
+        "correct": false
+      },
+      {
+        "text": "40 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quando a visibilidade \u00e9 reduzida, devo moderar a velocidade, para que assim:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4717.jpg",
+    "answers": [
+      {
+        "text": "O meu comportamento seja adequado a qualquer situa\u00e7\u00e3o que possa surgir.",
+        "correct": true
+      },
+      {
+        "text": "Os outros utentes me cedam sempre a passagem.",
+        "correct": false
+      },
+      {
+        "text": "Possa avan\u00e7ar em primeiro lugar, sem perder muito tempo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quando as crian\u00e7as s\u00e3o transportadas em cadeiras pr\u00f3prias, \u00e9 obrigat\u00f3ria a coloca\u00e7\u00e3o do cinto de seguran\u00e7a?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4718.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas quando s\u00e3o transportadas no banco da frente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, o cinto de seguran\u00e7a \u00e9 sempre obrigat\u00f3rio.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Quando devem ser utilizadas as luzes avisadoras de perigo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4719.jpg",
+    "answers": [
+      {
+        "text": "Quando o ve\u00edculo represente um perigo para os outros utentes.",
+        "correct": true
+      },
+      {
+        "text": "Sempre que o condutor esteja indeciso acerca da direc\u00e7\u00e3o a seguir.",
+        "correct": false
+      },
+      {
+        "text": "Sempre que o condutor pretenda assinalar a sua inten\u00e7\u00e3o de realizar uma manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quando podem ser utilizadas as luzes de nevoeiro?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4720.jpg",
+    "answers": [
+      {
+        "text": "Sempre que as condi\u00e7\u00f5es atmosf\u00e9ricas o justifiquem.",
+        "correct": true
+      },
+      {
+        "text": "Sempre que eu n\u00e3o consiga avistar nenhum ve\u00edculo a uma dist\u00e2ncia de 30 metros.",
+        "correct": false
+      },
+      {
+        "text": "Sempre, desde que seja durante a noite.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quando, de noite, me aproximo de uma passagem de n\u00edvel fechada, posso ligar as luzes de estrada?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4721.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que nenhum ve\u00edculo esteja parado \u00e0 minha frente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que cor devem ter os reflectores instalados \u00e0 retaguarda dos autom\u00f3veis?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4722.jpg",
+    "answers": [
+      {
+        "text": "Amarela.",
+        "correct": false
+      },
+      {
+        "text": "Branca.",
+        "correct": false
+      },
+      {
+        "text": "Vermelha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Que cor podem ter os m\u00e9dios de um autom\u00f3vel?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4723.jpg",
+    "answers": [
+      {
+        "text": "Amarela ou vermelha.",
+        "correct": false
+      },
+      {
+        "text": "Branca ou amarela.",
+        "correct": true
+      },
+      {
+        "text": "Branca ou vermelha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que cuidados deve ter o condutor ao acondicionar a carga ?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4724.jpg",
+    "answers": [
+      {
+        "text": "A carga deve ser colocada entre os eixos, da frente para a retaguarda.",
+        "correct": true
+      },
+      {
+        "text": "A carga deve ser colocada junto ao taipal traseiro do ve\u00edculo, para facilitar a descarga.",
+        "correct": false
+      },
+      {
+        "text": "A carga deve ser colocada sobre o eixo traseiro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que dist\u00e2ncia devem atingir os m\u00e1ximos, de noite, em condi\u00e7\u00f5es climat\u00e9ricas normais?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4725.jpg",
+    "answers": [
+      {
+        "text": "Pelo menos 100 metros.",
+        "correct": true
+      },
+      {
+        "text": "Pelo menos 120 metros.",
+        "correct": false
+      },
+      {
+        "text": "Pelo menos 130 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que luzes brancas s\u00e3o permitidas \u00e0 retaguarda dos ve\u00edculos?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4726.jpg",
+    "answers": [
+      {
+        "text": "As luzes de marcha-atr\u00e1s e da chapa de matr\u00edcula.",
+        "correct": true
+      },
+      {
+        "text": "As luzes de nevoeiro e de presen\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Nenhumas, todas t\u00eam que ter a cor vermelha ou alaranjada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que luzes devo ligar quando tenho necessidade de reduzir subitamente a velocidade?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4727.jpg",
+    "answers": [
+      {
+        "text": "As luzes avisadoras de perigo.",
+        "correct": true
+      },
+      {
+        "text": "As luzes de marcha-atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "As luzes de presen\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Um dos indicadores de mudan\u00e7a de direc\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que manobra o condutor n\u00e3o pode efectuar nesta situa\u00e7\u00e3o?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4728.jpg",
+    "answers": [
+      {
+        "text": "A manobra de invers\u00e3o do sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "A manobra de marcha atr\u00e1s.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Que manobra pretende realizar o condutor que circula \u00e0 minha frente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4729.jpg",
+    "answers": [
+      {
+        "text": "Invers\u00e3o do sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Mudan\u00e7a de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "Mudan\u00e7a de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Regra geral, as crian\u00e7as podem ser transportadas no banco da frente?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4730.jpg",
+    "answers": [
+      {
+        "text": "Sim, desde que tenham 13 anos de idade.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que tenham 7 anos de idade.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que tenham idade inferior a 12 anos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Regra geral, as crian\u00e7as podem ser transportadas no lugar da frente, desde que tenham idade superior a:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4731.jpg",
+    "answers": [
+      {
+        "text": "12 anos.",
+        "correct": true
+      },
+      {
+        "text": "3 anos.",
+        "correct": false
+      },
+      {
+        "text": "7 anos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Regra geral, o aumento da sinistralidade rodovi\u00e1ria \u00e9 motivado:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4732.jpg",
+    "answers": [
+      {
+        "text": "Pela atitude e comportamento de alguns condutores.",
+        "correct": true
+      },
+      {
+        "text": "Sempre pela velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Sempre pelo comportamento dos pe\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Regra geral, que cor devem ter as luzes dirigidas para a retaguarda do ve\u00edculo?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4733.jpg",
+    "answers": [
+      {
+        "text": "Amarela ou \u00e2mbar.",
+        "correct": false
+      },
+      {
+        "text": "Branca ou amarela.",
+        "correct": false
+      },
+      {
+        "text": "Vermelha ou alaranjada.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se a intensidade de tr\u00e2nsito o justificar, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4734.jpg",
+    "answers": [
+      {
+        "text": "Parar antes da intersec\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Parar ao centro da intersec\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Recorrer \u00e0 manobra de marcha atr\u00e1s.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se decidir ultrapassar o ciclomotor, um dos cuidados a ter \u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4735.jpg",
+    "answers": [
+      {
+        "text": "A dist\u00e2ncia lateral a manter.",
+        "correct": true
+      },
+      {
+        "text": "A idade do condutor.",
+        "correct": false
+      },
+      {
+        "text": "A matr\u00edcula do ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se mudar de direc\u00e7\u00e3o para a direita, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4736.jpg",
+    "answers": [
+      {
+        "text": "Buzinar e passar.",
+        "correct": false
+      },
+      {
+        "text": "Ceder a passagem ao pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Passar, porque n\u00e3o h\u00e1 travessia de pe\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se o condutor que circula \u00e0 minha frente ligar as luzes de estrada:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4737.jpg",
+    "answers": [
+      {
+        "text": "Estar\u00e1 a praticar uma infrac\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Ter\u00e1 uma maior visibilidade da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Ter\u00e1 uma menor visibilidade da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se o pe\u00e3o n\u00e3o sair da faixa de rodagem, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4738.jpg",
+    "answers": [
+      {
+        "text": "Aumentar um pouco a velocidade e contornar o pe\u00e3o antes de chegar ao ve\u00edculo que circula em sentido oposto.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros at\u00e9 que se aperceba da minha presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se o ve\u00edculo que circula \u00e0 minha frente parar devido \u00e0 intensidade do tr\u00e2nsito, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4739.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que inicie a marcha, para poder avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Recorrer \u00e0 manobra de ultrapassagem, para n\u00e3o perder muito tempo.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros at\u00e9 que inicie a marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se o volante estiver colocado \u00e0 esquerda, o condutor deve sair do ve\u00edculo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4740.jpg",
+    "answers": [
+      {
+        "text": "Pela direita.",
+        "correct": false
+      },
+      {
+        "text": "Pela esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Sempre pelo lado permitido para a paragem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sempre que a ilumina\u00e7\u00e3o de um local n\u00e3o \u00e9 suficiente, posso utilizar as luzes de estrada.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4741.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sempre que as condi\u00e7\u00f5es ambientais exijam os ve\u00edculos devem utilizar as luzes de nevoeiro.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4742.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sempre que seja obrigado a reduzir de forma s\u00fabita a minha velocidade devo utilizar as luzes de perigo. Esta afirma\u00e7\u00e3o \u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4743.jpg",
+    "answers": [
+      {
+        "text": "Falsa.",
+        "correct": false
+      },
+      {
+        "text": "Verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "S\u00f3 posso iniciar o atravessamento de uma passagem de n\u00edvel:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4744.jpg",
+    "answers": [
+      {
+        "text": "Depois de me certificar que, pela intensidade de tr\u00e2nsito, n\u00e3o vou ficar imobilizado sobre ela.",
+        "correct": true
+      },
+      {
+        "text": "Se existir sinaliza\u00e7\u00e3o luminosa.",
+        "correct": false
+      },
+      {
+        "text": "Se existir um guarda que me d\u00ea essa indica\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tendo em conta a pr\u00e1tica de uma condu\u00e7\u00e3o defensiva:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4745.jpg",
+    "answers": [
+      {
+        "text": "Devo estar particularmente atento ao comportamento dos pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Devo evitar ceder a passagem aos pe\u00f5es, para n\u00e3o provocar embara\u00e7o no tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Todos n\u00f3s, enquanto utentes da via p\u00fablica, devemos evitar qualquer comportamento que possa provocar embara\u00e7o no tr\u00e2nsito.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4746.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Todos os pe\u00f5es:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4747.jpg",
+    "answers": [
+      {
+        "text": "Tal como todos os condutores devem prever os riscos e os comportamentos dos outros utentes.",
+        "correct": true
+      },
+      {
+        "text": "T\u00eam o dever de ceder a passagem, porque os condutores t\u00eam o direito de passar por serem mais r\u00e1pidos.",
+        "correct": false
+      },
+      {
+        "text": "T\u00eam prioridade, porque t\u00eam sempre o direito de avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Transita um ve\u00edculo em sentido contr\u00e1rio, devo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4748.jpg",
+    "answers": [
+      {
+        "text": "Aguardar.",
+        "correct": true
+      },
+      {
+        "text": "Avan\u00e7ar, porque o outro ve\u00edculo deve recuar.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Um condutor defensivo:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4749.jpg",
+    "answers": [
+      {
+        "text": "Age sempre em conformidade com o comportamento dos outros condutores.",
+        "correct": true
+      },
+      {
+        "text": "Avan\u00e7a sempre em ultimo lugar.",
+        "correct": false
+      },
+      {
+        "text": "Tem sempre em aten\u00e7\u00e3o o comportamento dos outros condutores.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Um condutor est\u00e1 obrigado a sinalizar todas as manobras que pretenda efectuar?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4750.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, excepto se n\u00e3o circular nenhum ve\u00edculo \u00e0 retaguarda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Um dos cuidados a considerar no transporte de qualquer mercadoria, \u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4751.jpg",
+    "answers": [
+      {
+        "text": "A autoriza\u00e7\u00e3o especial para o transporte de mercadorias.",
+        "correct": false
+      },
+      {
+        "text": "A seguran\u00e7a de todos os utentes.",
+        "correct": true
+      },
+      {
+        "text": "Que a carga n\u00e3o ultrapasse a altura do ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Um dos cuidados a considerar, quando circulo pr\u00f3ximo de um veloc\u00edpede, \u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4752.jpg",
+    "answers": [
+      {
+        "text": "A idade do condutor.",
+        "correct": false
+      },
+      {
+        "text": "A instabilidade do ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "A sua velocidade m\u00e1xima.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Um dos cuidados a ter na condu\u00e7\u00e3o nocturna \u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4753.jpg",
+    "answers": [
+      {
+        "text": "Evitar olhar directamente para as luzes dos ve\u00edculos que circulam em sentido contr\u00e1rio.",
+        "correct": true
+      },
+      {
+        "text": "Fazer sempre sinais de luzes aos ve\u00edculos que circulam em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Olhar directamente para as luzes dos ve\u00edculos que circulam em sentido contr\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Um dos cuidados a ter na disposi\u00e7\u00e3o da carga, \u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4754.jpg",
+    "answers": [
+      {
+        "text": "A altura da carga n\u00e3o ultrapassar os 3 metros.",
+        "correct": false
+      },
+      {
+        "text": "O equil\u00edbrio do ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "O peso total do ve\u00edculo, tendo em conta que este n\u00e3o pode ultrapassar a tara.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Um dos cuidados a ter no transporte de mercadorias, \u00e9 que:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4755.jpg",
+    "answers": [
+      {
+        "text": "O peso bruto seja sempre inferior ao peso total.",
+        "correct": false
+      },
+      {
+        "text": "O peso total do ve\u00edculo n\u00e3o seja igual ao peso bruto.",
+        "correct": false
+      },
+      {
+        "text": "O peso total do ve\u00edculo nunca ultrapasse o peso bruto.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Um dos factores que caracteriza o condutor defensivo \u00e9 ter:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4756.jpg",
+    "answers": [
+      {
+        "text": "Sempre as luzes avisadoras de perigo ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Um comportamento na maioria das vezes desajustado da realidade.",
+        "correct": false
+      },
+      {
+        "text": "Uma atitude de respeito para com os outros utentes da via.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Um factor a considerar no transporte de mercadorias, \u00e9 que o peso total:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4757.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o seja igual ao peso bruto.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o seja inferior ao peso bruto.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o seja superior ao peso bruto.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Um incorrecto acondicionamento da carga no ve\u00edculo que vai \u00e0 minha frente pode facilitar a ocorr\u00eancia de situa\u00e7\u00f5es de inseguran\u00e7a.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4758.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Um pe\u00e3o que tenha algum tipo de defici\u00eancia merece, da parte do condutor, uma considera\u00e7\u00e3o especial?",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4759.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se estiver na faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, tal como as crian\u00e7as e os idosos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Uma das caracter\u00edsticas da condu\u00e7\u00e3o urbana \u00e9 o aumento da intensidade de tr\u00e2nsito, e:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4760.jpg",
+    "answers": [
+      {
+        "text": "A diminui\u00e7\u00e3o da aten\u00e7\u00e3o, porque circulo a uma velocidade inferior.",
+        "correct": false
+      },
+      {
+        "text": "O aumento da aten\u00e7\u00e3o, porque existe maior diversidade de utentes.",
+        "correct": true
+      },
+      {
+        "text": "O aumento da velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uma das caracter\u00edsticas das crian\u00e7as, enquanto pe\u00f5es, \u00e9 a sua imprevisibilidade.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4761.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uma das caracter\u00edsticas do pe\u00e3o crian\u00e7a \u00e9 a sua imprevisibilidade.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4762.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uma das caracter\u00edsticas dos ve\u00edculos de duas rodas \u00e9 a sua instabilidade.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4763.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uma das precau\u00e7\u00f5es a tomar na distribui\u00e7\u00e3o de qualquer mercadoria a transportar, \u00e9 o facto de esta n\u00e3o reduzir a visibilidade do condutor.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4764.jpg",
+    "answers": [
+      {
+        "text": "Certo, mas este cuidado apenas se aplica aos autom\u00f3veis ligeiros.",
+        "correct": false
+      },
+      {
+        "text": "Certo, mas este cuidado apenas se aplica aos autom\u00f3veis pesados.",
+        "correct": false
+      },
+      {
+        "text": "Certo.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Uma das precau\u00e7\u00f5es a tomar para descarregar um ve\u00edculo, \u00e9 a escolha do local para o fazer.",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4765.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uma das t\u00e9cnicas de condu\u00e7\u00e3o defensiva \u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4766.jpg",
+    "answers": [
+      {
+        "text": "Adaptar a condu\u00e7\u00e3o \u00e0s caracter\u00edsticas do local.",
+        "correct": true
+      },
+      {
+        "text": "Conduzir sempre da mesma forma, independentemente das condi\u00e7\u00f5es da via.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o circular de noite.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uma das t\u00e9cnicas de condu\u00e7\u00e3o defensiva, a aplicar em condu\u00e7\u00e3o urbana, \u00e9:",
+    "image": "images/iluminacao-passageiros-carga-conducao-defensiva-peoes_4767.jpg",
+    "answers": [
+      {
+        "text": "Agir em conformidade com toda a informa\u00e7\u00e3o que vou recolhendo.",
+        "correct": true
+      },
+      {
+        "text": "Nunca ultrapassar os 40 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Parar em todas as intersec\u00e7\u00f5es, para me certificar que posso avan\u00e7ar em seguran\u00e7a.",
+        "correct": false
+      }
+    ]
+  }
+]

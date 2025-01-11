@@ -1,0 +1,5650 @@
+[
+  {
+    "question": "\u00c0 dist\u00e2ncia a que me encontro do sinal, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2304.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a velocidade, para continuar a marcha sem imobilizar o ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade, com o objectivo de imobilizar o ve\u00edculo perto do sinal.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A fun\u00e7\u00e3o das guias \u00e9 tornar os limites da faixa de rodagem mais vis\u00edveis. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2305.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A indica\u00e7\u00e3o dada pelo agente regulador de tr\u00e2nsito destina-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2306.jpg",
+    "answers": [
+      {
+        "text": "A fazer parar o tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "A mandar avan\u00e7ar o tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "A obrigar todos os condutores a abrandar marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A indica\u00e7\u00e3o dada pelo agente regulador de tr\u00e2nsito obriga o tr\u00e2nsito que vem da sua frente e da sua retaguarda a:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2307.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A indica\u00e7\u00e3o dada pelo agente regulador de tr\u00e2nsito significa que devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2308.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Parar, unicamente se a minha inten\u00e7\u00e3o for seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A indica\u00e7\u00e3o dada pelo agente regulador de tr\u00e2nsito, destina-se ao tr\u00e2nsito:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2309.jpg",
+    "answers": [
+      {
+        "text": "Da direita.",
+        "correct": false
+      },
+      {
+        "text": "Em sentido contr\u00e1rio ao meu.",
+        "correct": true
+      },
+      {
+        "text": "Que circula \u00e0 minha retaguarda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A indica\u00e7\u00e3o dada pelo agente regulador de tr\u00e2nsito, destina-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2310.jpg",
+    "answers": [
+      {
+        "text": "Aos condutores \u00e0 minha direita.",
+        "correct": false
+      },
+      {
+        "text": "Aos condutores \u00e0 minha esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Aos condutores que transitam na minha via de tr\u00e2nsito.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A indica\u00e7\u00e3o dada pelo agente regulador de tr\u00e2nsito, destina-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2311.jpg",
+    "answers": [
+      {
+        "text": "Ao tr\u00e2nsito \u00e0 sua direita.",
+        "correct": false
+      },
+      {
+        "text": "Ao tr\u00e2nsito \u00e0 sua retaguarda.",
+        "correct": false
+      },
+      {
+        "text": "Ao tr\u00e2nsito da frente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A indica\u00e7\u00e3o dada pelo sinal luminoso destina-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2312.jpg",
+    "answers": [
+      {
+        "text": "Ao tr\u00e2nsito das duas vias de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Aos dois sentidos de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Apenas ao tr\u00e2nsito da via de tr\u00e2nsito da direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A linha amarela do lado direito da faixa de rodagem significa que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2313.jpg",
+    "answers": [
+      {
+        "text": "A via de tr\u00e2nsito vai estar sujeita a obras e n\u00e3o posso parar neste local, salvo para a entrada ou sa\u00edda de passageiros e desde que esteja pronto a retomar a marcha se dificultar o tr\u00e2nsito ou as obras.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido parar ou estacionar em toda a extens\u00e3o da linha, excepto para efectuar cargas ou descargas.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido parar ou estacionar em toda a extens\u00e3o da linha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A linha branca no lado direito da faixa de rodagem designa-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2314.jpg",
+    "answers": [
+      {
+        "text": "Guia.",
+        "correct": true
+      },
+      {
+        "text": "Linha cont\u00ednua de aviso.",
+        "correct": false
+      },
+      {
+        "text": "Linha cont\u00ednua.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A linha cont\u00ednua amarela junto ao limite direito da faixa de rodagem indica-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2315.jpg",
+    "answers": [
+      {
+        "text": "Que \u00e9 proibido parar ou estacionar.",
+        "correct": true
+      },
+      {
+        "text": "Que posso parar apenas pelo tempo estritamente necess\u00e1rio para a entrada ou sa\u00edda de passageiros.",
+        "correct": false
+      },
+      {
+        "text": "Que posso parar mas n\u00e3o estacionar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A linha cont\u00ednua que separa os dois sentidos de tr\u00e2nsito indica-me que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2316.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso pisar nem transpor a linha.",
+        "correct": true
+      },
+      {
+        "text": "Posso pisar desde que n\u00e3o transponha a linha.",
+        "correct": false
+      },
+      {
+        "text": "Posso transpor a linha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A linha cont\u00ednua separadora dos dois sentidos de tr\u00e2nsito:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2317.jpg",
+    "answers": [
+      {
+        "text": "Obriga-me sempre a transitar \u00e0 sua direita.",
+        "correct": true
+      },
+      {
+        "text": "Permite-me pisar ou transpor apenas para realizar manobras.",
+        "correct": false
+      },
+      {
+        "text": "Permite-me pisar ou transpor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A linha de paragem transversal indica:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2318.jpg",
+    "answers": [
+      {
+        "text": "A obriga\u00e7\u00e3o de imobilizar o meu ve\u00edculo sobre a marca rodovi\u00e1ria.",
+        "correct": false
+      },
+      {
+        "text": "O local de paragem, imposta pela sinaliza\u00e7\u00e3o luminosa.",
+        "correct": true
+      },
+      {
+        "text": "Que n\u00e3o pode ser transposta independentemente da sinaliza\u00e7\u00e3o luminosa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A linha descont\u00ednua amarela que se encontra \u00e0 minha direita permite-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2319.jpg",
+    "answers": [
+      {
+        "text": "Estacionar para cargas e descargas.",
+        "correct": false
+      },
+      {
+        "text": "Parar e estacionar durante o dia.",
+        "correct": false
+      },
+      {
+        "text": "Parar para largar um passageiro.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A linha descont\u00ednua de aviso que se encontra no pavimento, indica-me a proximidade de uma:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2320.jpg",
+    "answers": [
+      {
+        "text": "Linha cont\u00ednua.",
+        "correct": true
+      },
+      {
+        "text": "Linha descont\u00ednua de abrandamento.",
+        "correct": false
+      },
+      {
+        "text": "Linha descont\u00ednua.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A linha descont\u00ednua de cor amarela indica-me que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2321.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso parar nem estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Posso estacionar mas n\u00e3o parar.",
+        "correct": false
+      },
+      {
+        "text": "Posso parar mas n\u00e3o estacionar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A linha longitudinal cont\u00ednua aposta no eixo da faixa de rodagem indica:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2322.jpg",
+    "answers": [
+      {
+        "text": "O dever de circular \u00e0 sua esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Proibi\u00e7\u00e3o de a pisar ou transpor.",
+        "correct": true
+      },
+      {
+        "text": "Que pode ser pisada ou transposta para efectuar manobras.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A linha longitudinal cont\u00ednua pode ser pisada ou transposta.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2323.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A linha longitudinal cont\u00ednua que se encontra \u00e0 minha direita pode ser pisada ou transposta?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2324.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nem mesmo para mudar de direc\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas se o meu destino for o Lumiar ou Pa\u00e7o do Lumiar.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se pretender mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A linha longitudinal descont\u00ednua inscrita no pavimento delimita uma via de tr\u00e2nsito em que o condutor deve:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2325.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Engrenar uma mudan\u00e7a de for\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Fazer uso dos sinais luminosos.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A linha mista marcada no pavimento permite-me ultrapassar o tractor agr\u00edcola?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2326.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a linha mista pro\u00edbe a ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, caso n\u00e3o haja tr\u00e2nsito em sentido contr\u00e1rio.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas s\u00f3 se houver espa\u00e7o de modo a n\u00e3o pisar a linha cont\u00ednua.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A luz amarela constante do sinal luminoso antecede a luz:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2327.jpg",
+    "answers": [
+      {
+        "text": "Amarela intermitente.",
+        "correct": false
+      },
+      {
+        "text": "Verde.",
+        "correct": false
+      },
+      {
+        "text": "Vermelha.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A luz amarela intermitente do sem\u00e1foro da esquerda pode condicionar a minha circula\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2328.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque sigo em frente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque sigo em frente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A luz amarela rotativa, deve ser colocada :",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2329.jpg",
+    "answers": [
+      {
+        "text": "Atr\u00e1s do condutor, do lado direito do ve\u00edculo e vis\u00edvel a pelo menos 100 m",
+        "correct": false
+      },
+      {
+        "text": "Atr\u00e1s do condutor, do lado esquerdo do ve\u00edculo e vis\u00edvel a pelo menos 100 m.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A luz de cor amarela n\u00e3o intermitente indica-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2330.jpg",
+    "answers": [
+      {
+        "text": "Transi\u00e7\u00e3o do verde para o vermelho.",
+        "correct": true
+      },
+      {
+        "text": "Transi\u00e7\u00e3o do vermelho para o verde.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A luz verde de regula\u00e7\u00e3o do tr\u00e2nsito destina-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2331.jpg",
+    "answers": [
+      {
+        "text": "Aos condutores que pretendem mudar de direc\u00e7\u00e3o \u00e0 esquerda ou seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Apenas aos condutores que pretendem inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Apenas aos condutores que pretendem mudar de direc\u00e7\u00e3o para a esquerda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A luz verde do sem\u00e1foro regula o sentido de tr\u00e2nsito para o condutor que pretenda:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2332.jpg",
+    "answers": [
+      {
+        "text": "Seguir em frente ou virar para a esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Seguir em frente.",
+        "correct": true
+      },
+      {
+        "text": "Seguir para a direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra que o condutor da frente realiza est\u00e1 correcta?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2333.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque transp\u00f5e uma raia delimitada por uma linha cont\u00ednua.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que a esteja a realizar como manobra de recurso.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que a sua realiza\u00e7\u00e3o n\u00e3o ponha em perigo a restante circula\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A marca longitudinal que separa os dois sentidos de tr\u00e2nsito indica-me que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2334.jpg",
+    "answers": [
+      {
+        "text": "Estou proibido de pisar ou transpor a marca rodovi\u00e1ria.",
+        "correct": true
+      },
+      {
+        "text": "O condutor que circula em sentido contr\u00e1rio est\u00e1 proibido de a pisar ou transpor.",
+        "correct": false
+      },
+      {
+        "text": "S\u00f3 posso pisar ou transpor a marca rodovi\u00e1ria para efectuar manobras.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria \u00e0 minha direita destina-se a identificar a via de tr\u00e2nsito que delimita como:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2335.jpg",
+    "answers": [
+      {
+        "text": "Corredor de circula\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Via de abrandamento.",
+        "correct": false
+      },
+      {
+        "text": "Via de acelera\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria colocada no eixo da faixa de rodagem \u00e0 minha esquerda:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2336.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 uma linha mista.",
+        "correct": true
+      },
+      {
+        "text": "Obriga \u00e0 manobra de ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "Pro\u00edbe-me a manobra de ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria de cor amarela colocada no eixo da faixa de rodagem:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2337.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o pode ser transposta.",
+        "correct": true
+      },
+      {
+        "text": "Pode ser transposta, porque tem car\u00e1cter tempor\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Regula a paragem e o estacionamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria de cor amarela existente nesta via p\u00fablica:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2338.jpg",
+    "answers": [
+      {
+        "text": "Pro\u00edbe a paragem e o estacionamento de ve\u00edculos.",
+        "correct": true
+      },
+      {
+        "text": "Pro\u00edbe a paragem e permite o estacionamento de ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Pro\u00edbe o estacionamento e permite a paragem de ve\u00edculos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria de cor amarela pro\u00edbe o estacionamento?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2339.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se o estacionamento n\u00e3o se destinar a cargas e descargas.",
+        "correct": true
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria inscrita sobre o bordo do passeio pro\u00edbe-me de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2340.jpg",
+    "answers": [
+      {
+        "text": "Estacionar.",
+        "correct": true
+      },
+      {
+        "text": "Parar e estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria pro\u00edbe a paragem?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2341.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, se a paragem se destinar a cargas e descargas.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, se a paragem se destinar \u00e0 entrada ou sa\u00edda de passageiros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria que divide os sentidos de tr\u00e2nsito, \u00e9 uma linha:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2342.jpg",
+    "answers": [
+      {
+        "text": "Cont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Descont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Mista.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A marca rodovi\u00e1ria sobre a qual est\u00e1 parado o ve\u00edculo designa-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2343.jpg",
+    "answers": [
+      {
+        "text": "Guia.",
+        "correct": true
+      },
+      {
+        "text": "Linha cont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Linha delimitadora de sentido de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A ordem dada pelo agente regulador de tr\u00e2nsito destina-se aos ve\u00edculos, que est\u00e3o:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2344.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 sua frente.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0 sua retaguarda.",
+        "correct": true
+      },
+      {
+        "text": "Do seu lado esquerdo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A ordem dada pelo agente regulador de tr\u00e2nsito destina-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2345.jpg",
+    "answers": [
+      {
+        "text": "Ao tr\u00e2nsito que est\u00e1 \u00e0 sua direita.",
+        "correct": false
+      },
+      {
+        "text": "Ao tr\u00e2nsito que vem de frente e da retaguarda.",
+        "correct": true
+      },
+      {
+        "text": "Unicamente ao tr\u00e2nsito \u00e0 sua direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A ordem dada pelo agente regulador de tr\u00e2nsito prevalece, sobre todas as outras regras e sinais de tr\u00e2nsito.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2346.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A paragem nesta faixa de rodagem \u00e9 imposta:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2347.jpg",
+    "answers": [
+      {
+        "text": "A todos os ve\u00edculos que transitam em qualquer das vias de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Apenas aos ve\u00edculos que pretendam seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Apenas aos ve\u00edculos que transitam na via de tr\u00e2nsito da direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A partir deste momento devo utilizar as luzes de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2348.jpg",
+    "answers": [
+      {
+        "text": "M\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "M\u00e9dios.",
+        "correct": true
+      },
+      {
+        "text": "M\u00ednimos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A partir do local onde est\u00e1 colocado o sinal:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2349.jpg",
+    "answers": [
+      {
+        "text": "Devo acender as luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o posso utilizar sinais sonoros.",
+        "correct": false
+      },
+      {
+        "text": "Posso utilizar sinais sonoros em caso de perigo iminente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A que tipo de sinaliza\u00e7\u00e3o pertence este sinal vertical?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2350.jpg",
+    "answers": [
+      {
+        "text": "Sinaliza\u00e7\u00e3o de car\u00e1cter tempor\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sinaliza\u00e7\u00e3o de mensagem vari\u00e1vel.",
+        "correct": false
+      },
+      {
+        "text": "Sinaliza\u00e7\u00e3o de zona.",
+        "correct": false
+      },
+      {
+        "text": "Sinaliza\u00e7\u00e3o tur\u00edstico-cultural.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A sequ\u00eancia de pares de linhas transversais de cor branca que se encontram no pavimento, servem para indicar aos condutores:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2351.jpg",
+    "answers": [
+      {
+        "text": "A largura da via p\u00fablica.",
+        "correct": false
+      },
+      {
+        "text": "O n\u00famero de vias de tr\u00e2nsito no mesmo sentido.",
+        "correct": false
+      },
+      {
+        "text": "Que devem reduzir a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A seta marcada na faixa de rodagem \u00e9:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2352.jpg",
+    "answers": [
+      {
+        "text": "Uma raia obl\u00edqua.",
+        "correct": false
+      },
+      {
+        "text": "Uma seta de desvio.",
+        "correct": true
+      },
+      {
+        "text": "Uma seta de selec\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o complementar de cor amarela e preta que se encontra nesta via p\u00fablica indica-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2353.jpg",
+    "answers": [
+      {
+        "text": "A posi\u00e7\u00e3o e limites de obst\u00e1culos existentes na via.",
+        "correct": true
+      },
+      {
+        "text": "Fim de localidade.",
+        "correct": false
+      },
+      {
+        "text": "Que posso parar mas n\u00e3o estacionar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o de mensagem vari\u00e1vel pode informar sobre a afecta\u00e7\u00e3o de vias de tr\u00e2nsito?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2354.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca pode.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas nas auto-estradas ou vias equiparadas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, pode.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o de mensagem vari\u00e1vel pode ser colocada:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2355.jpg",
+    "answers": [
+      {
+        "text": "Do lado direito da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Do lado direito ou sobre a faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Unicamente sobre a via.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o de mensagem vari\u00e1vel pode servir para condicionar a circula\u00e7\u00e3o em determinadas vias de tr\u00e2nsito?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2356.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o de mensagem vari\u00e1vel tem por finalidade:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2357.jpg",
+    "answers": [
+      {
+        "text": "Melhorar a fluidez da circula\u00e7\u00e3o, transmitindo uma obriga\u00e7\u00e3o, proibi\u00e7\u00e3o ou indica\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Transmitir apenas obriga\u00e7\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Transmitir apenas proibi\u00e7\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o de mensagem vari\u00e1vel:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2358.jpg",
+    "answers": [
+      {
+        "text": "Apenas pode indicar perigo.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o tem qualquer valor, para al\u00e9m do informativo.",
+        "correct": false
+      },
+      {
+        "text": "Pode indicar uma proibi\u00e7\u00e3o ou uma obriga\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o de posi\u00e7\u00e3o tem como principal fun\u00e7\u00e3o:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2359.jpg",
+    "answers": [
+      {
+        "text": "Delimitar obst\u00e1culos ou zona e imedia\u00e7\u00f5es",
+        "correct": true
+      },
+      {
+        "text": "Sinalizar a aproxima\u00e7\u00e3o de obst\u00e1culos ou zona de obras.",
+        "correct": false
+      },
+      {
+        "text": "Substituir os agentes fiscalizadores do tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o desta via p\u00fablica obriga-me a:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2360.jpg",
+    "answers": [
+      {
+        "text": "Ceder a passagem aos ve\u00edculos que saiam do parque de estacionamento.",
+        "correct": false
+      },
+      {
+        "text": "Moderar especialmente a velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o luminosa desta via p\u00fablica indica-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2361.jpg",
+    "answers": [
+      {
+        "text": "Passagem autorizada.",
+        "correct": true
+      },
+      {
+        "text": "Que apenas estou autorizado a mudar de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Que devo parar antes de atingir a zona regulada pelo sinal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o luminosa permite avan\u00e7ar os ve\u00edculos que circulam na via de tr\u00e2nsito \u00e0 minha esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2362.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a sinaliza\u00e7\u00e3o luminosa n\u00e3o permite avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Sim, a sinaliza\u00e7\u00e3o luminosa permite avan\u00e7ar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o luminosa permite-me mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2363.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas com precau\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, tenho prioridade de passagem e o ve\u00edculo que circula em sentido contr\u00e1rio deve suspender a sua marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o que encontro neste local:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2364.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 de car\u00e1cter tempor\u00e1rio.",
+        "correct": true
+      },
+      {
+        "text": "Obriga-me a transitar a 50 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Regula a paragem e o estacionamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o tempor\u00e1ria prevalece sobre as regras de tr\u00e2nsito e sinais luminosos, verticais e marcas rodovi\u00e1rias. Concorda com a afirma\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2365.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A via de abrandamento destina-se a permitir que os ve\u00edculos:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2366.jpg",
+    "answers": [
+      {
+        "text": "Continuem a transitar nesta via p\u00fablica.",
+        "correct": false
+      },
+      {
+        "text": "Que pretendam sair desta via p\u00fablica diminuam a velocidade j\u00e1 fora da corrente de tr\u00e2nsito principal.",
+        "correct": true
+      },
+      {
+        "text": "Reduzam a velocidade para entrarem numa escapat\u00f3ria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A via de abrandamento \u00e9 a via de tr\u00e2nsito mais \u00e0 direita e destinada aos ve\u00edculos que pretendam sair da auto-estrada.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2367.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A via de acelera\u00e7\u00e3o destina-se a:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2368.jpg",
+    "answers": [
+      {
+        "text": "Permitir a redu\u00e7\u00e3o de velocidade para sair da via de tr\u00e2nsito principal.",
+        "correct": false
+      },
+      {
+        "text": "Permitir que os ve\u00edculos atinjam a velocidade adequada para entrarem na via de tr\u00e2nsito principal.",
+        "correct": true
+      },
+      {
+        "text": "Tr\u00e2nsito mais r\u00e1pido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A via de acelera\u00e7\u00e3o \u00e9 a via de tr\u00e2nsito mais \u00e0 esquerda e destinada ao tr\u00e2nsito mais r\u00e1pido. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2369.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A via de tr\u00e2nsito onde circulo destina-se a permitir que os ve\u00edculos:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2370.jpg",
+    "answers": [
+      {
+        "text": "Atinjam a velocidade adequada para se incorporarem convenientemente na corrente do tr\u00e2nsito principal.",
+        "correct": true
+      },
+      {
+        "text": "Diminuam a velocidade para sa\u00edrem da corrente de tr\u00e2nsito principal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao aproximar-me da sinaliza\u00e7\u00e3o luminosa devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2371.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar desde que passe de imediato para a via da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar o mais rapidamente poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Parar, caso o possa fazer em seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta via de tr\u00e2nsito devo utilizar as luzes de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2372.jpg",
+    "answers": [
+      {
+        "text": "Cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Estrada.",
+        "correct": false
+      },
+      {
+        "text": "Presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta via de tr\u00e2nsito estou correctamente posicionado para mudar de direc\u00e7\u00e3o \u00e0 esquerda no pr\u00f3ximo entroncamento. Concorda com a afirma\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2373.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta via e perante o sinal de luz amarela intermitente:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2374.jpg",
+    "answers": [
+      {
+        "text": "Estou autorizado a passar desde que o fa\u00e7a com especial prud\u00eancia.",
+        "correct": true
+      },
+      {
+        "text": "Estou proibido de entrar na zona regulada pelo sinal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta via p\u00fablica devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2375.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a velocidade at\u00e9 50 Km/h, porque \u00e9 a velocidade recomendada.",
+        "correct": false
+      },
+      {
+        "text": "Manter ou aumentar a velocidade porque a via de tr\u00e2nsito encontra-se desimpedida.",
+        "correct": false
+      },
+      {
+        "text": "Moderar especialmente a velocidade porque me aproximo de uma passagem para pe\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local estou obrigado a moderar especialmente a velocidade do meu ve\u00edculo?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2376.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, embora por precau\u00e7\u00e3o deva reduzir a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mantendo sempre a velocidade m\u00e9dia de 50 Km/h.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local, se algum pe\u00e3o j\u00e1 tiver iniciado a travessia da faixa de rodagem devo parar?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2377.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, devo.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local, se pretendesse entrar na \u00e1rea de servi\u00e7o deveria ter-me aproximado o mais poss\u00edvel, e com a necess\u00e1ria anteced\u00eancia, do limite direito da faixa de rodagem. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2378.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao parar junto desta passagem de n\u00edvel, devo utilizar as luzes de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2379.jpg",
+    "answers": [
+      {
+        "text": "Cruzamento.",
+        "correct": false
+      },
+      {
+        "text": "Estrada.",
+        "correct": false
+      },
+      {
+        "text": "Presen\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao transitar numa via com sinaliza\u00e7\u00e3o luminosa, como devo proceder se o sinal estiver vermelho e um agente me mandar avan\u00e7ar?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2380.jpg",
+    "answers": [
+      {
+        "text": "Devo obedecer \u00e0 ordem do agente regulador do tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Devo respeitar a luz vermelha e parar imediatamente o ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Devo respeitar a luz vermelha, pois as ordens do agente s\u00f3 prevalecem perante as regras de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ap\u00f3s o sinal de mensagem vari\u00e1vel, a velocidade indicada no sinal \u00e9:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2381.jpg",
+    "answers": [
+      {
+        "text": "A m\u00e1xima.",
+        "correct": true
+      },
+      {
+        "text": "A m\u00ednima.",
+        "correct": false
+      },
+      {
+        "text": "A recomendada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As luzes amarelas alternadas existentes neste local servem para:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2382.jpg",
+    "answers": [
+      {
+        "text": "Advertir-me da aproxima\u00e7\u00e3o de uma passagem de n\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Advertir-me de uma situa\u00e7\u00e3o de perigo.",
+        "correct": true
+      },
+      {
+        "text": "Impor a paragem dos ve\u00edculos que circulem a mais de 60 Km/h.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As luzes amarelas alternadas servem para:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2383.jpg",
+    "answers": [
+      {
+        "text": "Advertir-me para uma situa\u00e7\u00e3o de perigo.",
+        "correct": true
+      },
+      {
+        "text": "Me indicar a obriga\u00e7\u00e3o de parar, desde que tenha espa\u00e7o suficiente.",
+        "correct": false
+      },
+      {
+        "text": "Passarem a vermelho, caso circule a mais de 60 Km/h.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As marcas no pavimento recomendam-me a dist\u00e2ncia de seguran\u00e7a que devo manter em rela\u00e7\u00e3o ao ve\u00edculo que circula \u00e0 minha frente.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2384.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As marcas rodovi\u00e1rias de cor amarela podem regular a paragem e o estacionamento?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2385.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": false
+      },
+      {
+        "text": "Sim, em algumas situa\u00e7\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As marcas rodovi\u00e1rias de cor amarela que se encontram no pavimento designam-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2386.jpg",
+    "answers": [
+      {
+        "text": "Bandas crom\u00e1ticas.",
+        "correct": false
+      },
+      {
+        "text": "Guias de velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Marcas de seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As marcas rodovi\u00e1rias que orientam os sentidos de tr\u00e2nsito na proximidade do entroncamento designam-se por setas de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2387.jpg",
+    "answers": [
+      {
+        "text": "Desvio.",
+        "correct": false
+      },
+      {
+        "text": "Selec\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As marcas rodovi\u00e1rias que se encontram na minha via de tr\u00e2nsito indicam-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2388.jpg",
+    "answers": [
+      {
+        "text": "A dist\u00e2ncia de seguran\u00e7a que devo manter em rela\u00e7\u00e3o aos ve\u00edculos da frente.",
+        "correct": false
+      },
+      {
+        "text": "Que devo reduzir a velocidade do meu ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "Que n\u00e3o devo entrar na zona abrangida pela sinaliza\u00e7\u00e3o se for previs\u00edvel que a intensidade do tr\u00e2nsito me obrigue a parar dentro daquela \u00e1rea.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As marcas rodovi\u00e1rias que se encontram no eixo da faixa de rodagem chamam-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2389.jpg",
+    "answers": [
+      {
+        "text": "Linha descont\u00ednua de aviso.",
+        "correct": false
+      },
+      {
+        "text": "Linha mista.",
+        "correct": true
+      },
+      {
+        "text": "Linhas cont\u00ednuas adjacentes.",
+        "correct": false
+      },
+      {
+        "text": "Linhas de sentido revers\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As marcas rodovi\u00e1rias sobre as quais se encontra o robot, tem a designa\u00e7\u00e3o de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2390.jpg",
+    "answers": [
+      {
+        "text": "Bandas sonoras.",
+        "correct": false
+      },
+      {
+        "text": "Marcas de desvio.",
+        "correct": false
+      },
+      {
+        "text": "Raias.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As marcas rodovi\u00e1rias transversais que se encontram no pavimento chamam-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2391.jpg",
+    "answers": [
+      {
+        "text": "Bandas crom\u00e1ticas.",
+        "correct": true
+      },
+      {
+        "text": "Guias.",
+        "correct": false
+      },
+      {
+        "text": "Marcas de seguran\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As marcas transversais que encontro no pavimento, s\u00e3o:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2392.jpg",
+    "answers": [
+      {
+        "text": "Bandas crom\u00e1ticas.",
+        "correct": true
+      },
+      {
+        "text": "Guias.",
+        "correct": false
+      },
+      {
+        "text": "Raias obl\u00edquas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As marcas transversais que encontro no pavimento:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2393.jpg",
+    "answers": [
+      {
+        "text": "Alertam para a necessidade de moderar a velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Alertam para a obrigatoriedade de paragem do ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Alertam para obras no local.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As marcas transversais que se encontram no pavimento alertam os condutores:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2394.jpg",
+    "answers": [
+      {
+        "text": "Para a dist\u00e2ncia de seguran\u00e7a que devem manter em rela\u00e7\u00e3o ao ve\u00edculo da frente.",
+        "correct": false
+      },
+      {
+        "text": "Para a necessidade de praticarem velocidade mais reduzidas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As raias obl\u00edquas \u00e0 minha esquerda significam:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2395.jpg",
+    "answers": [
+      {
+        "text": "Permiss\u00e3o de parar ou estacionar na \u00e1rea por elas delimitadas.",
+        "correct": false
+      },
+      {
+        "text": "Proibi\u00e7\u00e3o de entrar na \u00e1rea por elas delimitadas.",
+        "correct": true
+      },
+      {
+        "text": "Proibi\u00e7\u00e3o de estacionar na \u00e1rea por elas delimitadas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As raias obl\u00edquas que se encontram do meu lado direito indicam-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2396.jpg",
+    "answers": [
+      {
+        "text": "Proibi\u00e7\u00e3o de entrar na \u00e1rea por elas abrangida.",
+        "correct": true
+      },
+      {
+        "text": "Um local destinado para paragem de ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Uma zona destinada a ve\u00edculos que circulam a velocidade reduzida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As setas de cor branca que se encontram no pavimento indicam-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2397.jpg",
+    "answers": [
+      {
+        "text": "Curva perigosa \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Que devo passar para a via de tr\u00e2nsito que elas indicam.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As setas de cor branca que se encontram no pavimento indicam-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2398.jpg",
+    "answers": [
+      {
+        "text": "Aproxima\u00e7\u00e3o de uma curva \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Aproxima\u00e7\u00e3o de uma linha cont\u00ednua.",
+        "correct": true
+      },
+      {
+        "text": "Aproxima\u00e7\u00e3o de uma linha descont\u00ednua.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As setas inscritas no pavimento s\u00e3o utilizadas para orientar os sentidos de tr\u00e2nsito na proximidade de cruzamentos ou entroncamentos.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2399.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": true
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As setas marcadas no pavimento indicam a conveni\u00eancia de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2400.jpg",
+    "answers": [
+      {
+        "text": "Passar para a via de tr\u00e2nsito para onde elas apontam.",
+        "correct": true
+      },
+      {
+        "text": "Virar \u00e0 esquerda no pr\u00f3ximo entroncamento ou cruzamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "As setas que existem no pavimento:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2401.jpg",
+    "answers": [
+      {
+        "text": "Obrigam o condutor a mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Permitem ao condutor mudar de direc\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Recomendam a mudan\u00e7a de direc\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Circulo em m\u00e9dios. Estas luzes devem iluminar o solo numa dist\u00e2ncia m\u00e1xima de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2402.jpg",
+    "answers": [
+      {
+        "text": "100 metros.",
+        "correct": false
+      },
+      {
+        "text": "150 metros.",
+        "correct": false
+      },
+      {
+        "text": "30 metros.",
+        "correct": true
+      },
+      {
+        "text": "80 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder nesta situa\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2403.jpg",
+    "answers": [
+      {
+        "text": "Adaptar a marcha e imobilizar o ve\u00edculo perante o sinal luminoso.",
+        "correct": true
+      },
+      {
+        "text": "Aumentar um pouco a velocidade e avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Parar no local exacto em que me encontro.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder perante a luz amarela n\u00e3o intermitente?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2404.jpg",
+    "answers": [
+      {
+        "text": "Autoriza-me a passar com especial prud\u00eancia.",
+        "correct": false
+      },
+      {
+        "text": "Devo acelerar para n\u00e3o embara\u00e7ar o tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Pro\u00edbe-me a entrada na zona regulada pelo sinal.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder perante a luz vermelha dos sinais luminosos?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2405.jpg",
+    "answers": [
+      {
+        "text": "Parar e avan\u00e7ar depois de ceder a passagem a outros ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir a velocidade e avan\u00e7ar com toda a precau\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder perante a sinaliza\u00e7\u00e3o vertical e horizontal existente no local em que me encontro?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2406.jpg",
+    "answers": [
+      {
+        "text": "Parar em toda e qualquer circunst\u00e2ncia.",
+        "correct": true
+      },
+      {
+        "text": "Parar, caso se aproximem ve\u00edculos vindos do lado direito.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e, se necess\u00e1rio, parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder perante este sinal luminoso?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2407.jpg",
+    "answers": [
+      {
+        "text": "Devo parar antes de atingir a zona regulada pelo sinal.",
+        "correct": true
+      },
+      {
+        "text": "Devo parar, salvo se j\u00e1 estiver muito perto do sinal quando a luz se acender e n\u00e3o puder parar em seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Posso avan\u00e7ar com prud\u00eancia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como se chamam as marcas rodovi\u00e1rias que delimitam a faixa de rodagem?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2408.jpg",
+    "answers": [
+      {
+        "text": "Bandas crom\u00e1ticas.",
+        "correct": false
+      },
+      {
+        "text": "Bermas.",
+        "correct": false
+      },
+      {
+        "text": "Guias.",
+        "correct": true
+      },
+      {
+        "text": "Linhas cont\u00ednuas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como se designa a linha \u00e0 minha esquerda que faz a separa\u00e7\u00e3o dos sentidos de tr\u00e2nsito?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2409.jpg",
+    "answers": [
+      {
+        "text": "Linha longitudinal cont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Linha longitudinal descont\u00ednua.",
+        "correct": true
+      },
+      {
+        "text": "Linha transversal descont\u00ednua de aviso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como se designa a marca rodovi\u00e1ria que se encontra \u00e0 minha esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2410.jpg",
+    "answers": [
+      {
+        "text": "Linha descont\u00ednua de abrandamento.",
+        "correct": true
+      },
+      {
+        "text": "Linha descont\u00ednua de acelera\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Linha descont\u00ednua de aviso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como se designa a marca rodovi\u00e1ria que se encontra do meu lado direito?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2411.jpg",
+    "answers": [
+      {
+        "text": "Guia.",
+        "correct": false
+      },
+      {
+        "text": "Linha de sentido revers\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Linha descont\u00ednua que identifica um corredor de circula\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Como se designa a via em que circulo?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2412.jpg",
+    "answers": [
+      {
+        "text": "Via de abrandamento.",
+        "correct": false
+      },
+      {
+        "text": "Via de acelera\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Via de sentido revers\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como se designam as marcas rodovi\u00e1rias \u00e0 minha esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2413.jpg",
+    "answers": [
+      {
+        "text": "Bandas crom\u00e1ticas",
+        "correct": false
+      },
+      {
+        "text": "Marcas de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Raias obl\u00edquas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Como se designam as marcas rodovi\u00e1rias que se encontram inscritas no pavimento?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2414.jpg",
+    "answers": [
+      {
+        "text": "Linhas cont\u00ednuas adjacentes.",
+        "correct": true
+      },
+      {
+        "text": "Linhas de sentido revers\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Linhas mistas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como se designam as marcas rodovi\u00e1rias situadas \u00e0 minha esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2415.jpg",
+    "answers": [
+      {
+        "text": "Bandas sonoras.",
+        "correct": false
+      },
+      {
+        "text": "Guias longitudinais.",
+        "correct": false
+      },
+      {
+        "text": "Marcas de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Raias obl\u00edquas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Devo buzinar, para advertir o pe\u00e3o da minha presen\u00e7a?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2416.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo reduzir a velocidade e aguardar a passagem do pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, \u00e9 sempre proibido buzinar dentro das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o pe\u00e3o n\u00e3o circula correctamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo parar?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2417.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Devo saber que as marcas rodovi\u00e1rias do eixo da faixa de rodagem mais pr\u00f3ximas de mim, designam-se por:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2418.jpg",
+    "answers": [
+      {
+        "text": "Linha descont\u00ednua de aviso intercalada com seta de desvio.",
+        "correct": true
+      },
+      {
+        "text": "Linha descont\u00ednua e seta de selec\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Linha descont\u00ednua e seta orientadora do sentido de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 sempre permitido avan\u00e7ar perante a luz verde dos sinais luminosos?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2419.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque por precau\u00e7\u00e3o devo parar sempre que encontro a luz verde.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque essa \u00e9 a indica\u00e7\u00e3o dada pelo sinal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 sempre proibido buzinar, quando o condutor circular:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2420.jpg",
+    "answers": [
+      {
+        "text": "Durante a noite, dentro das localidades.",
+        "correct": true
+      },
+      {
+        "text": "Durante a noite, fora das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Durante o dia, dentro das localidades.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 sempre proibido buzinar:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2421.jpg",
+    "answers": [
+      {
+        "text": "De dia ou de noite, fora das localidades.",
+        "correct": false
+      },
+      {
+        "text": "De dia, nas vias de boa visibilidade, dentro das localidades.",
+        "correct": false
+      },
+      {
+        "text": "De noite, dentro das localidades.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Em qual dos seguintes casos o condutor deve, durante a noite, apagar os m\u00e1ximos?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2422.jpg",
+    "answers": [
+      {
+        "text": "Ao cruzar-se com outros ve\u00edculos ou com animais.",
+        "correct": true
+      },
+      {
+        "text": "Ao entrar numa auto-estrada.",
+        "correct": false
+      },
+      {
+        "text": "Ao entrar numa localidade mal iluminada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em que caso se devem utilizar placas de amarelo reflector e vermelho fluorescente, na retaguarda de um ve\u00edculo?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2423.jpg",
+    "answers": [
+      {
+        "text": "Sempre que o ve\u00edculo for um pesado.",
+        "correct": true
+      },
+      {
+        "text": "S\u00f3 se o ve\u00edculo tiver mais de 12 metros de comprimento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em que direc\u00e7\u00e3o vai seguir o autom\u00f3vel vermelho?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2424.jpg",
+    "answers": [
+      {
+        "text": "Em frente.",
+        "correct": false
+      },
+      {
+        "text": "Para a direita.",
+        "correct": false
+      },
+      {
+        "text": "Para a esquerda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Em situa\u00e7\u00e3o de perigo iminente posso utilizar os sinais sonoros?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2425.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Encontrando-se acesa a luz vermelha do sistema principal de luzes, os pe\u00f5es est\u00e3o autorizados a proceder ao atravessamento da faixa de rodagem.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2426.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Encontrando-se o tr\u00e2nsito congestionado n\u00e3o devo entrar neste cruzamento se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2427.jpg",
+    "answers": [
+      {
+        "text": "As condi\u00e7\u00f5es de ader\u00eancia da via forem deficientes.",
+        "correct": false
+      },
+      {
+        "text": "For previs\u00edvel a necessidade de parar na \u00e1rea demarcada.",
+        "correct": true
+      },
+      {
+        "text": "Pretender mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Esta indica\u00e7\u00e3o de paragem, pela luz vermelha dos sinais luminosos, destina-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2428.jpg",
+    "answers": [
+      {
+        "text": "A todos os ve\u00edculos, desde que n\u00e3o transitem em miss\u00e3o urgente de socorro.",
+        "correct": false
+      },
+      {
+        "text": "A todos os ve\u00edculos.",
+        "correct": true
+      },
+      {
+        "text": "Apenas aos ve\u00edculos com motor.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Esta linha cont\u00ednua, marcada no pavimento, n\u00e3o pode ser pisada.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2429.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Estando j\u00e1 imobilizado, que luzes devo utilizar?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2430.jpg",
+    "answers": [
+      {
+        "text": "Os m\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "Os m\u00e9dios.",
+        "correct": false
+      },
+      {
+        "text": "Os m\u00ednimos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estas marcas rodovi\u00e1rias de cor amarela:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2431.jpg",
+    "answers": [
+      {
+        "text": "Apenas regulam a paragem e o estacionamento.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o t\u00eam qualquer valor.",
+        "correct": false
+      },
+      {
+        "text": "T\u00eam car\u00e1cter tempor\u00e1rio.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estas placas devem ser usadas nos ve\u00edculos ou conjunto de ve\u00edculos que tenham :",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2432.jpg",
+    "answers": [
+      {
+        "text": "At\u00e9 12 metros de comprimento.",
+        "correct": false
+      },
+      {
+        "text": "Mais de 12 metros de comprimento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este sinal indica que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2433.jpg",
+    "answers": [
+      {
+        "text": "Na auto-estrada onde circulo h\u00e1 um estreitamento da via a 150 metros.",
+        "correct": false
+      },
+      {
+        "text": "No itiner\u00e1rio complementar onde circulo h\u00e1 uma sa\u00edda a 150 metros.",
+        "correct": false
+      },
+      {
+        "text": "No itiner\u00e1rio principal onde circulo h\u00e1 uma sa\u00edda a 150 metros.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Este sinal informa os condutores da aproxima\u00e7\u00e3o de uma sa\u00edda:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2434.jpg",
+    "answers": [
+      {
+        "text": "Na auto-estrada onde circulo, a 150 metros.",
+        "correct": false
+      },
+      {
+        "text": "No itiner\u00e1rio principal onde circulo, a 150 metros.",
+        "correct": true
+      },
+      {
+        "text": "Para uma localidade, a 150 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Estou a menos de 100 metros do ve\u00edculo da frente. Posso circular em 'm\u00e1ximos'?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2435.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque posso encandear o condutor do ve\u00edculo da frente.",
+        "correct": true
+      },
+      {
+        "text": "Sempre, visto que n\u00e3o circulam ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se mantiver a mesma dist\u00e2ncia do ve\u00edculo da frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Existe uma via de tr\u00e2nsito em cada sentido. Se for necess\u00e1rio, posso efectuar a manobra de ultrapassagem a outro autom\u00f3vel neste local?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2436.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de ultrapassagem \u00e9 sempre proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que possa executar a manobra em condi\u00e7\u00f5es de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a via tamb\u00e9m se encontra sinalizada com uma linha descont\u00ednua.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Existem situa\u00e7\u00f5es em que perante a luz verde eu n\u00e3o devo avan\u00e7ar?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2437.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Fora das localidades, durante o dia, o condutor pode usar o sinal sonoro:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2438.jpg",
+    "answers": [
+      {
+        "text": "Em sinal de sauda\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "No in\u00edcio de uma ultrapassagem.",
+        "correct": true
+      },
+      {
+        "text": "Numa redu\u00e7\u00e3o de velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na imagem da direita, a barra horizontal do sinal indica ao condutor de ve\u00edculos de transporte colectivo que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2439.jpg",
+    "answers": [
+      {
+        "text": "Deve prosseguir a marcha, mas a velocidade moderada.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 obrigado a parar antes de entrar na zona regulada pelo sinal.",
+        "correct": true
+      },
+      {
+        "text": "Pode prosseguir a marcha, embora com aten\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na imagem da esquerda, a barra vertical do sinal indica aos condutores de ve\u00edculos de transporte colectivo que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2440.jpg",
+    "answers": [
+      {
+        "text": "Devem ceder passagem aos outros ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "Podem prosseguir a marcha.",
+        "correct": true
+      },
+      {
+        "text": "S\u00e3o obrigados a parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na via de tr\u00e2nsito onde circulo a sinaliza\u00e7\u00e3o luminosa permite-me mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2441.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, permite-me seguir em frente.",
+        "correct": true
+      },
+      {
+        "text": "Sim e posso avan\u00e7ar de imediato.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas tenho que aguardar que o sinal luminoso passe a verde.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na via de tr\u00e2nsito onde me encontro, a marca rodovi\u00e1ria:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2442.jpg",
+    "answers": [
+      {
+        "text": "Obriga-me sempre a seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Permite-me mudar de direc\u00e7\u00e3o \u00e0 esquerda ou seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Permite-me seguir em frente ou mudar de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o como devo comportar-me?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2443.jpg",
+    "answers": [
+      {
+        "text": "Devo aguardar que o pe\u00e3o termine a conversa.",
+        "correct": false
+      },
+      {
+        "text": "Devo buzinar, manter a velocidade e continuar a marcha.",
+        "correct": false
+      },
+      {
+        "text": "Devo reduzir a velocidade, buzinar e adequar a dist\u00e2ncia lateral.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo procurar evitar o uso de sinais sonoros.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2444.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo utilizar as luzes de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2445.jpg",
+    "answers": [
+      {
+        "text": "Cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Estrada.",
+        "correct": false
+      },
+      {
+        "text": "Presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo utilizar os sinais sonoros, para advertir o condutor que manobra da minha presen\u00e7a.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2446.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2447.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com prud\u00eancia, mantendo uma dist\u00e2ncia segura relativamente aos ve\u00edculos que seguem \u00e0 minha frente.",
+        "correct": true
+      },
+      {
+        "text": "Avan\u00e7ar rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2448.jpg",
+    "answers": [
+      {
+        "text": "Acender os m\u00ednimos a fim de assinalar a minha presen\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Buzinar a fim de assinalar a minha presen\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Manter a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2449.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar lentamente pois est\u00e1 acesa a luz verde no sem\u00e1foro.",
+        "correct": false
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda, obrigatoriamente.",
+        "correct": false
+      },
+      {
+        "text": "Parar e aguardar outra indica\u00e7\u00e3o do agente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2450.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2451.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar lentamente.",
+        "correct": false
+      },
+      {
+        "text": "Buzinar.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2452.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que o ve\u00edculo cinzento avance.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o o agente regulador de tr\u00e2nsito indica:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2453.jpg",
+    "answers": [
+      {
+        "text": "Aos condutores que na intersec\u00e7\u00e3o se apresentem \u00e0 minha direita, o dever de avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Aos condutores que transitam \u00e0 minha esquerda, o dever de parar.",
+        "correct": false
+      },
+      {
+        "text": "Aos condutores que transitam no meu sentido, o dever de avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso buzinar?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2454.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca posso.",
+        "correct": false
+      },
+      {
+        "text": "Sim, em quaisquer circunst\u00e2ncias",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas s\u00f3 em caso de perigo iminente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso buzinar?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2455.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, para informar o agente da minha presen\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque me aproximo de um entroncamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se tiver pressa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso utilizar as luzes de m\u00e1ximos.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2456.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o qual a sinaliza\u00e7\u00e3o que prevalece?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2457.jpg",
+    "answers": [
+      {
+        "text": "A do agente regulador de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "A sinaliza\u00e7\u00e3o luminosa.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o existe preval\u00eancia de sinaliza\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo circular com as luzes de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2458.jpg",
+    "answers": [
+      {
+        "text": "Cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Estrada.",
+        "correct": false
+      },
+      {
+        "text": "Presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo circular unicamente com as luzes de presen\u00e7a porque circulo num local com ilumina\u00e7\u00e3o.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2459.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo saber que a luz amarela intermitente significa que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2460.jpg",
+    "answers": [
+      {
+        "text": "Devo avan\u00e7ar com cuidado porque o tr\u00e2nsito \u00e0 minha esquerda est\u00e1 condicionado.",
+        "correct": false
+      },
+      {
+        "text": "Os ve\u00edculos que se encontram \u00e0 minha esquerda podem avan\u00e7ar com especial cuidado.",
+        "correct": true
+      },
+      {
+        "text": "Sou obrigado a virar \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo transitar com:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2461.jpg",
+    "answers": [
+      {
+        "text": "As luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "As luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "As luzes de presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2462.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com precau\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Avan\u00e7ar rapidamente, porque a luz do sinal luminoso est\u00e1 verde.",
+        "correct": false
+      },
+      {
+        "text": "Parar obrigatoriamente e aguardar que o ve\u00edculo branco inicie a marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2463.jpg",
+    "answers": [
+      {
+        "text": "Passar antes da luz vermelha.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e parar.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar o condutor do veloc\u00edpede.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, estou autorizado a prosseguir a marcha do ve\u00edculo?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2464.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque se encontra acesa a luz verde para os pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o. Devo parar.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se a sinaliza\u00e7\u00e3o luminosa n\u00e3o se alterar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, logo que exista espa\u00e7o \u00e0 retaguarda do ve\u00edculo pesado, o que devo fazer?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2465.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que o condutor do ve\u00edculo pesado conclua a manobra e s\u00f3 depois avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Alertar o condutor do ve\u00edculo pesado com o sinal sonoro e avan\u00e7ar rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Devo avan\u00e7ar a baixa velocidade e estar atento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, o condutor que circula \u00e0 minha retaguarda deve circular com as luzes acesas de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2466.jpg",
+    "answers": [
+      {
+        "text": "M\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "M\u00e9dios.",
+        "correct": true
+      },
+      {
+        "text": "M\u00ednimos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, o que \u00e9 que me obriga a imobilizar o ve\u00edculo?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2467.jpg",
+    "answers": [
+      {
+        "text": "A presen\u00e7a de outros ve\u00edculos.",
+        "correct": false
+      },
+      {
+        "text": "A sinaliza\u00e7\u00e3o existente.",
+        "correct": false
+      },
+      {
+        "text": "Nada me obriga a imobilizar o ve\u00edculo, desde que ceda a passagem aos outros ve\u00edculos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, o que me obriga a parar o ve\u00edculo?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2468.jpg",
+    "answers": [
+      {
+        "text": "Nada, desde que ceda a passagem aos outros condutores.",
+        "correct": false
+      },
+      {
+        "text": "O condutor do ve\u00edculo que se encontra \u00e0 minha esquerda.",
+        "correct": false
+      },
+      {
+        "text": "O sinal vertical e a marca no pavimento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, os pe\u00f5es devem:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2469.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar se estiver muito tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, para assinalar a presen\u00e7a do meu ve\u00edculo, devo utilizar:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2470.jpg",
+    "answers": [
+      {
+        "text": "Os m\u00e1ximos ou os m\u00ednimos.",
+        "correct": false
+      },
+      {
+        "text": "Os m\u00e9dios.",
+        "correct": true
+      },
+      {
+        "text": "Os m\u00ednimos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, perante a luz verde do sinal luminoso, posso prosseguir a marcha e mudar de direc\u00e7\u00e3o para a esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2471.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a sinaliza\u00e7\u00e3o luminosa s\u00f3 me autoriza a seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque o agente est\u00e1 a mandar parar o tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque o agente est\u00e1 a dar-me essa indica\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, perante a sinaliza\u00e7\u00e3o amarela, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2472.jpg",
+    "answers": [
+      {
+        "text": "Acelerar, caso consiga passar antes da luz vermelha.",
+        "correct": false
+      },
+      {
+        "text": "Prosseguir com especial precau\u00e7\u00e3o pois a luz adverte para um perigo.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e respeitar a cor da luz existente na sinaliza\u00e7\u00e3o luminosa.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, perante a sinaliza\u00e7\u00e3o luminosa amarela n\u00e3o intermitente:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2473.jpg",
+    "answers": [
+      {
+        "text": "Devo parar o meu ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "Posso avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Posso seguir desde que o fa\u00e7a com especial prud\u00eancia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso buzinar para alertar o agente de autoridade da minha presen\u00e7a?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2474.jpg",
+    "answers": [
+      {
+        "text": "Sim, como protesto contra a interrup\u00e7\u00e3o de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se conduzir um ve\u00edculo em miss\u00e3o urgente de socorro.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se conduzir uma ambul\u00e2ncia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso pisar a marca rodovi\u00e1ria desde que n\u00e3o a transponha.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2475.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso utilizar os sinais sonoros?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2476.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, quando a luz passar a verde, se necess\u00e1rio devo advertir o condutor da frente com o uso breve de sinais sonoros.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2477.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, que luzes devo utilizar?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2478.jpg",
+    "answers": [
+      {
+        "text": "'M\u00e1ximos'.",
+        "correct": false
+      },
+      {
+        "text": "'M\u00e9dios'.",
+        "correct": true
+      },
+      {
+        "text": "'M\u00ednimos'.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, sou obrigado a:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2479.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar, sem parar para ceder passagem a pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Estar especialmente atento ao comportamento de pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, tenho que mudar de via de tr\u00e2nsito. Devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2480.jpg",
+    "answers": [
+      {
+        "text": "Fazer 'pisca' para a esquerda e aguardar pelo momento oportuno.",
+        "correct": true
+      },
+      {
+        "text": "Prosseguir, pois venho da direita em rela\u00e7\u00e3o aos condutores da via da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros, para advertir os condutores da via da esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nestas condi\u00e7\u00f5es ambientais devo utilizar:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2481.jpg",
+    "answers": [
+      {
+        "text": "As luzes de estrada.",
+        "correct": false
+      },
+      {
+        "text": "As luzes de nevoeiro \u00e0 retaguarda e de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "As luzes de presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nestas condi\u00e7\u00f5es atmosf\u00e9ricas devo utilizar os m\u00e9dios para:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2482.jpg",
+    "answers": [
+      {
+        "text": "Assinalar a inten\u00e7\u00e3o de ultrapassar.",
+        "correct": false
+      },
+      {
+        "text": "Avisar os outros condutores da aproxima\u00e7\u00e3o de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Cruzar com o autom\u00f3vel que transita em sentido oposto.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso utilizar os ' m\u00e1ximos' quando:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2483.jpg",
+    "answers": [
+      {
+        "text": "Dessa utiliza\u00e7\u00e3o n\u00e3o resulte perigo de encandeamento.",
+        "correct": true
+      },
+      {
+        "text": "Em qualquer situa\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Estiver a menos de 100 metros do ve\u00edculo que segue \u00e0 minha frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, as marcas inscritas no pavimento s\u00e3o:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2484.jpg",
+    "answers": [
+      {
+        "text": "Setas de desvio.",
+        "correct": false
+      },
+      {
+        "text": "Setas de pr\u00e9-sinaliza\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Setas de selec\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, caso tenha uma avaria nas luzes da retaguarda do ve\u00edculo, posso:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2485.jpg",
+    "answers": [
+      {
+        "text": "Circular com apenas um indicador de presen\u00e7a do lado direito e uma das luzes de travagem.",
+        "correct": false
+      },
+      {
+        "text": "Circular com apenas um indicador de presen\u00e7a do lado esquerdo e uma das luzes de travagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2486.jpg",
+    "answers": [
+      {
+        "text": "Parar, porque estou na presen\u00e7a de bandas crom\u00e1ticas.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, face \u00e0 sinaliza\u00e7\u00e3o posso:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2487.jpg",
+    "answers": [
+      {
+        "text": "Estacionar junto das linhas em ziguezague ou descont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Parar junto das linhas em ziguezague e descont\u00ednua.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, posso inverter o sentido de marcha?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2488.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o transponha a raia obl\u00edqua.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que ocupe a metade esquerda da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, posso mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2489.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a sinaliza\u00e7\u00e3o n\u00e3o me permite a realiza\u00e7\u00e3o da manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que sinalize correcta e antecipadamente a minha inten\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, posso transpor a linha marcada no pavimento.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2490.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, posso utilizar os sinais sonoros?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2491.jpg",
+    "answers": [
+      {
+        "text": "Sim, como sauda\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, em caso de perigo iminente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, para assinalar a minha presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2492.jpg",
+    "answers": [
+      {
+        "text": "Devo ultrapassar rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido transitar \u00e0 direita da linha descont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o devo iniciar a manobra de ultrapassagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste momento o agente manda avan\u00e7ar, o tr\u00e2nsito que vem:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2493.jpg",
+    "answers": [
+      {
+        "text": "Da direita.",
+        "correct": false
+      },
+      {
+        "text": "Da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Da frente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste momento, ao transitar na via da direita sou obrigado a:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2494.jpg",
+    "answers": [
+      {
+        "text": "Mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Parar e a mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2495.jpg",
+    "answers": [
+      {
+        "text": "Continuar a marcha e seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Parar e depois seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Parar para depois prosseguir a marcha e mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2496.jpg",
+    "answers": [
+      {
+        "text": "Posso prosseguir desde que mude de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Sou obrigado a parar e a mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Sou obrigado a parar se pretender seguir em frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local exacto em que me encontro, os sinais sonoros s\u00f3 podem ser utilizados em caso de perigo iminente.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2497.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No momento em que a luz deste sinal luminoso mudar ainda posso prosseguir a marcha?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2498.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a paragem \u00e9 obrigat\u00f3ria.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas s\u00f3 se n\u00e3o conseguir parar em condi\u00e7\u00f5es de seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se estiver a concluir uma ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No sistema principal de luzes, perante a luz amarela, o condutor deve:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2499.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Ceder a passagem e avan\u00e7ar com precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Parar, se o puder fazer em condi\u00e7\u00f5es de seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Num tractor agr\u00edcola a luz rotativa amarela serve para assinalar:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2500.jpg",
+    "answers": [
+      {
+        "text": "Veiculo com carga.",
+        "correct": false
+      },
+      {
+        "text": "Veiculo com reboque.",
+        "correct": false
+      },
+      {
+        "text": "Ve\u00edculo em marcha lenta.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O agente regulador de tr\u00e2nsito est\u00e1:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2501.jpg",
+    "answers": [
+      {
+        "text": "A indicar a todos os condutores na intersec\u00e7\u00e3o o dever de parar.",
+        "correct": false
+      },
+      {
+        "text": "A indicar ao tr\u00e2nsito \u00e0 sua retaguarda o dever de parar.",
+        "correct": true
+      },
+      {
+        "text": "A indicar que todos os condutores devem avan\u00e7ar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O agente regulador do tr\u00e2nsito, nesta situa\u00e7\u00e3o est\u00e1 a dar uma indica\u00e7\u00e3o que se destina:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2502.jpg",
+    "answers": [
+      {
+        "text": "Ao tr\u00e2nsito da frente e da retaguarda.",
+        "correct": true
+      },
+      {
+        "text": "Apenas ao tr\u00e2nsito da frente.",
+        "correct": false
+      },
+      {
+        "text": "Apenas ao tr\u00e2nsito da retaguarda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O autom\u00f3vel da direita sai de um caminho particular. Devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2503.jpg",
+    "answers": [
+      {
+        "text": "Prosseguir a marcha, buzinando continuadamente.",
+        "correct": false
+      },
+      {
+        "text": "Prosseguir a marcha, devendo observar o comportamento daquele condutor.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir a velocidade e ceder-lhe passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor com que me vou cruzar utiliza indevidamente os 'm\u00e1ximos'. Devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2504.jpg",
+    "answers": [
+      {
+        "text": "Buzinar continuamente.",
+        "correct": false
+      },
+      {
+        "text": "Passar a utilizar as luzes de 'm\u00e1ximos' para n\u00e3o ficar encandeado.",
+        "correct": false
+      },
+      {
+        "text": "Permanecer em 'm\u00e9dios', reduzir a velocidade e desviar o olhar para a direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor do autom\u00f3vel pesado est\u00e1 a cometer uma infrac\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2505.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, pois a linha mista pode ser transposta para efectuar manobras.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a linha mista n\u00e3o pode ser transposta.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a linha mista pro\u00edbe as ultrapassagens.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do autom\u00f3vel pesado est\u00e1 a cometer uma infrac\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2506.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a sinaliza\u00e7\u00e3o n\u00e3o o impede de efectuar a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a marca rodovi\u00e1ria n\u00e3o pode ser pisada.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque n\u00e3o pode ultrapassar com chuva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo cinzento, bem como todo o tr\u00e2nsito \u00e0 sua retaguarda, devem:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2507.jpg",
+    "answers": [
+      {
+        "text": "Abrandar.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor \u00e9 obrigado a passar de m\u00e1ximos para m\u00e9dios:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2508.jpg",
+    "answers": [
+      {
+        "text": "Ao atravessar uma passagem de n\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "No acesso a uma auto-estrada.",
+        "correct": false
+      },
+      {
+        "text": "No cruzamento com outros ve\u00edculos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor \u00e9 obrigado, durante a noite, a apagar os m\u00e1ximos:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2509.jpg",
+    "answers": [
+      {
+        "text": "No cruzamento com outros ve\u00edculos, pessoas ou animais.",
+        "correct": true
+      },
+      {
+        "text": "Somente no cruzamento com autom\u00f3veis.",
+        "correct": false
+      },
+      {
+        "text": "Somente no cruzamento com ve\u00edculos de trac\u00e7\u00e3o animal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor pode usar o sinal sonoro:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2510.jpg",
+    "answers": [
+      {
+        "text": "Como forma de protesto.",
+        "correct": false
+      },
+      {
+        "text": "De noite, fora das localidades.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O meu ve\u00edculo \u00e9 um ligeiro de passageiros e tem um reboque atrelado. Circulo correctamente nesta via de tr\u00e2nsito?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2511.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O painel colocado \u00e0 retaguarda do ve\u00edculo indica:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2512.jpg",
+    "answers": [
+      {
+        "text": "Que \u00e9 um ve\u00edculo de marcha lenta.",
+        "correct": true
+      },
+      {
+        "text": "Que transporta mercadorias perigosas.",
+        "correct": false
+      },
+      {
+        "text": "Que transporta produtos poluentes das \u00e1guas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que deve fazer o condutor que \u00e9 encandeado ao cruzar-se de noite com outro ve\u00edculo?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2513.jpg",
+    "answers": [
+      {
+        "text": "Ligar os m\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "Passar v\u00e1rias vezes e com rapidez dos m\u00e9dios a m\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade, mantendo os m\u00e9dios acesos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2514.jpg",
+    "answers": [
+      {
+        "text": "Aumentar um pouco a velocidade, porque ainda me encontro muito distante do sinal, devendo ultrapassar o veloc\u00edpede.",
+        "correct": false
+      },
+      {
+        "text": "Parar no local exacto em que me encontro.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e adequar a minha condu\u00e7\u00e3o \u00e0 paragem imposta pelo sinal.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2515.jpg",
+    "answers": [
+      {
+        "text": "Inverter o sentido de marcha se a intensidade de tr\u00e2nsito aumentar.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade e transitar \u00e0 direita da linha.",
+        "correct": true
+      },
+      {
+        "text": "Parar porque a sinaliza\u00e7\u00e3o me indica que o local est\u00e1 em obras.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer neste local?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2516.jpg",
+    "answers": [
+      {
+        "text": "Mudar obrigatoriamente de via de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Transitar na via de tr\u00e2nsito da direita.",
+        "correct": true
+      },
+      {
+        "text": "Transitar na via de tr\u00e2nsito da esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer perante a indica\u00e7\u00e3o dada pelo agente regulador de tr\u00e2nsito?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2517.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar porque a mesma se destina apenas ao tr\u00e2nsito que vem em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer perante a indica\u00e7\u00e3o dada pelo agente?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2518.jpg",
+    "answers": [
+      {
+        "text": "Abrandar.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer perante a luz amarela constante do sinal luminoso?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2519.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com muita precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar sempre, mas rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que me indicam as linhas transversais cont\u00ednuas?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2520.jpg",
+    "answers": [
+      {
+        "text": "Passagem para ciclistas.",
+        "correct": false
+      },
+      {
+        "text": "Passagem para pe\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O que significam as luzes amarelas acendendo alternadamente?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2521.jpg",
+    "answers": [
+      {
+        "text": "Obriga\u00e7\u00e3o de parar antes da zona regulada pelo sinal.",
+        "correct": false
+      },
+      {
+        "text": "Permiss\u00e3o para passar com especial prud\u00eancia.",
+        "correct": true
+      },
+      {
+        "text": "Proibi\u00e7\u00e3o de prosseguir a marcha se circular a velocidade superior a 50 km/h.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que significam as marcas rodovi\u00e1rias de cor amarela?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2522.jpg",
+    "answers": [
+      {
+        "text": "Que apenas posso parar para tomada ou largada de passageiros.",
+        "correct": false
+      },
+      {
+        "text": "Que nunca posso parar ou estacionar neste local.",
+        "correct": false
+      },
+      {
+        "text": "Que posso parar e estacionar apenas para cargas e descargas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal colocado sobre a via \u00e9:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2523.jpg",
+    "answers": [
+      {
+        "text": "De car\u00e1cter tempor\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "De indica\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "De mensagem vari\u00e1vel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal de luz vermelha destina-se a:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2524.jpg",
+    "answers": [
+      {
+        "text": "Condutores.",
+        "correct": false
+      },
+      {
+        "text": "Pe\u00f5es e condutores.",
+        "correct": false
+      },
+      {
+        "text": "Pe\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal do agente indica:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2525.jpg",
+    "answers": [
+      {
+        "text": "In\u00edcio de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Paragem obrigat\u00f3ria.",
+        "correct": true
+      },
+      {
+        "text": "Redu\u00e7\u00e3o de velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal luminoso de cor amarela intermitente indica-me que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2526.jpg",
+    "answers": [
+      {
+        "text": "A sinaliza\u00e7\u00e3o luminosa n\u00e3o est\u00e1 a funcionar.",
+        "correct": false
+      },
+      {
+        "text": "Devo ceder a passagem aos ve\u00edculos que se apresentem pela direita.",
+        "correct": false
+      },
+      {
+        "text": "Devo circular com velocidade especialmente moderada devido \u00e0 proximidade de sinaliza\u00e7\u00e3o luminosa.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal luminoso de cor verde indica-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2527.jpg",
+    "answers": [
+      {
+        "text": "Passagem autorizada.",
+        "correct": true
+      },
+      {
+        "text": "Passagem proibida.",
+        "correct": false
+      },
+      {
+        "text": "Transi\u00e7\u00e3o da luz verde para a luz vermelha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal luminoso de cor vermelha aplica-se:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2528.jpg",
+    "answers": [
+      {
+        "text": "A todos os ve\u00edculos que circulam na via em que estou colocado.",
+        "correct": true
+      },
+      {
+        "text": "Aos ve\u00edculos que pretendem entrar na via assinalada pelo sinal vertical.",
+        "correct": false
+      },
+      {
+        "text": "Apenas aos ve\u00edculos de transporte p\u00fablico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal luminoso destina-se principalmente:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2529.jpg",
+    "answers": [
+      {
+        "text": "Ao condutor.",
+        "correct": true
+      },
+      {
+        "text": "Ao pe\u00e3o e ao condutor.",
+        "correct": false
+      },
+      {
+        "text": "Ao pe\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal que o agente regulador de tr\u00e2nsito faz, indica:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2530.jpg",
+    "answers": [
+      {
+        "text": "Que o tr\u00e2nsito \u00e0 sua direita deve avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Que o tr\u00e2nsito \u00e0 sua direita deve parar.",
+        "correct": false
+      },
+      {
+        "text": "Que todos os condutores devem parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal rectangular de fundo amarelo indica-me:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2531.jpg",
+    "answers": [
+      {
+        "text": "Estreitamento da via de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Supress\u00e3o da berma.",
+        "correct": false
+      },
+      {
+        "text": "Supress\u00e3o de via de tr\u00e2nsito.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical \u00e0 minha direita transmite-me uma indica\u00e7\u00e3o \u00fatil sobre um local de especial relev\u00e2ncia:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2532.jpg",
+    "answers": [
+      {
+        "text": "Cultural.",
+        "correct": false
+      },
+      {
+        "text": "De patrim\u00f3nio natural.",
+        "correct": true
+      },
+      {
+        "text": "Hist\u00f3rico-patrimonial.",
+        "correct": false
+      },
+      {
+        "text": "Publicit\u00e1ria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical \u00e9:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2533.jpg",
+    "answers": [
+      {
+        "text": "De mensagem vari\u00e1vel.",
+        "correct": false
+      },
+      {
+        "text": "De proibi\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Tur\u00edstico-cultural.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical imediatamente \u00e0 minha direita \u00e9:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2534.jpg",
+    "answers": [
+      {
+        "text": "De informa\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "De zona.",
+        "correct": false
+      },
+      {
+        "text": "Tur\u00edstico-cultural.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical indica:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2535.jpg",
+    "answers": [
+      {
+        "text": "Fim de uma regi\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "In\u00edcio de uma localidade.",
+        "correct": false
+      },
+      {
+        "text": "Local com interesse cultural.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical indica:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2536.jpg",
+    "answers": [
+      {
+        "text": "In\u00edcio de rota.",
+        "correct": false
+      },
+      {
+        "text": "Local com interesse cultural.",
+        "correct": true
+      },
+      {
+        "text": "Regi\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os sinais luminosos devem ser repetidos do lado esquerdo ou por cima da faixa de rodagem:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2537.jpg",
+    "answers": [
+      {
+        "text": "Para poderem ser vistos \u00e0 dist\u00e2ncia conveniente.",
+        "correct": true
+      },
+      {
+        "text": "Sempre.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os marcadores retroreflectores s\u00e3o utilizados para dar indica\u00e7\u00e3o aos condutores de que as condi\u00e7\u00f5es do pavimento s\u00e3o deficientes.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2538.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": true
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os sinais luminosos t\u00eam o objectivo de regular o tr\u00e2nsito.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2539.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os ve\u00edculos que transitem na via da esquerda devem:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2540.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      },
+      {
+        "text": "Unicamente mudar de direc\u00e7\u00e3o, porque o sinal luminoso est\u00e1 colocado do lado direito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para circular em seguran\u00e7a, o automobilista que circula \u00e0 minha retaguarda, deve acender as luzes de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2541.jpg",
+    "answers": [
+      {
+        "text": "Cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Estrada.",
+        "correct": false
+      },
+      {
+        "text": "Presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para indicar aos outros utentes da via p\u00fablica a aproxima\u00e7\u00e3o do seu ve\u00edculo, o condutor deve utilizar:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2542.jpg",
+    "answers": [
+      {
+        "text": "O sinal de mudan\u00e7a de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Os sinais sonoros nas localidades, de dia, mas s\u00f3 em caso de perigo iminente.",
+        "correct": true
+      },
+      {
+        "text": "Os sinais sonoros, de noite, nas localidades.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para mudar de direc\u00e7\u00e3o \u00e0 esquerda posso pisar as raias obliquas que se encontram assinaladas no pavimento?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2543.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Para que servem os marcadores retroreflectores colocados no pavimento \u00e0 minha direita?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2544.jpg",
+    "answers": [
+      {
+        "text": "Para indicar que a velocidade deve ser especialmente reduzida.",
+        "correct": false
+      },
+      {
+        "text": "Para informar os condutores que as condi\u00e7\u00f5es do pavimento s\u00e3o m\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Para refor\u00e7ar a visibilidade das marcas rodovi\u00e1rias.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante a indica\u00e7\u00e3o dada pelo sinal devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2545.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar mas com muita precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Parar e aguardar por outra indica\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Parar e s\u00f3 avan\u00e7ar depois de ceder a passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a indica\u00e7\u00e3o do sinal luminoso, estou autorizado a avan\u00e7ar. No entanto, as condi\u00e7\u00f5es do tr\u00e2nsito:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2546.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o me permitem avan\u00e7ar de imediato.",
+        "correct": true
+      },
+      {
+        "text": "Obrigam-me a parar antes do sinal.",
+        "correct": false
+      },
+      {
+        "text": "Permitem a utiliza\u00e7\u00e3o dos sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a linha cont\u00ednua amarela junto ao limite direito da faixa de rodagem, fico a saber que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2547.jpg",
+    "answers": [
+      {
+        "text": "A paragem e o estacionamento devem fazer-se fora da faixa de rodagem, porque n\u00e3o circulo numa localidade.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido estacionar, podendo apenas parar na berma.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido parar ou estacionar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante a luz amarela da sinaliza\u00e7\u00e3o luminosa, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2548.jpg",
+    "answers": [
+      {
+        "text": "Ocupar a via da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Passar rapidamente antes de aparecer a luz vermelha.",
+        "correct": false
+      },
+      {
+        "text": "Preparar-me para parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante a luz amarela do sinal luminoso, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2549.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com muita precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante a luz amarela, que antecede a luz vermelha, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2550.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar rapidamente se a paragem n\u00e3o se mostrar segura.",
+        "correct": true
+      },
+      {
+        "text": "Travar bruscamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a luz do sinal luminoso devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2551.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar muito lentamente.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a luz verde dos sinais luminosos:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2552.jpg",
+    "answers": [
+      {
+        "text": "Regra geral, devo avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Regra geral, devo parar.",
+        "correct": false
+      },
+      {
+        "text": "Sou obrigado a avan\u00e7ar em qualquer circunst\u00e2ncia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a luz verde eu n\u00e3o devo avan\u00e7ar quando:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2553.jpg",
+    "answers": [
+      {
+        "text": "No passeio existam pe\u00f5es que pretendam iniciar a travessia da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Pela intensidade de tr\u00e2nsito, seja previs\u00edvel a imobiliza\u00e7\u00e3o no centro da intersec\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Um agente regulador de tr\u00e2nsito esteja no local.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a marca rodovi\u00e1ria de cor amarela que se encontra no pavimento, devo saber que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2554.jpg",
+    "answers": [
+      {
+        "text": "Apenas posso parar na \u00e1rea demarcada se a sinaliza\u00e7\u00e3o luminosa permitir.",
+        "correct": false
+      },
+      {
+        "text": "Apenas posso parar na \u00e1rea demarcada se tiver prioridade de passagem.",
+        "correct": false
+      },
+      {
+        "text": "Nunca posso parar na \u00e1rea demarcada.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante a mudan\u00e7a de cor na sinaliza\u00e7\u00e3o luminosa, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2555.jpg",
+    "answers": [
+      {
+        "text": "Acelerar para passar rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e avan\u00e7ar com prud\u00eancia.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante a seta marcada no pavimento devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2556.jpg",
+    "answers": [
+      {
+        "text": "Manter-me na via de tr\u00e2nsito em que circulo.",
+        "correct": true
+      },
+      {
+        "text": "Mudar de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o desta via p\u00fablica fico a saber que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2557.jpg",
+    "answers": [
+      {
+        "text": "As marcas rodovi\u00e1rias permitem-me seguir em frente ou mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": true
+      },
+      {
+        "text": "Posso mudar de direc\u00e7\u00e3o \u00e0 esquerda e tenho prioridade de passagem sobre os ve\u00edculos que circulam em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Se pretender mudar de direc\u00e7\u00e3o \u00e0 esquerda devo ocupar as raias obliquas para reduzir a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o devo estar especialmente atento:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2558.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 travessia de pe\u00f5es.",
+        "correct": true
+      },
+      {
+        "text": "Aos outros ve\u00edculos porque os pe\u00f5es s\u00e3o obrigados a parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o existente nesta via p\u00fablica posso mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2559.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas com precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o existente nesta via p\u00fablica, estou sempre obrigado a seguir em frente. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2560.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o existente nesta via p\u00fablica, posso mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2561.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, estou proibido de realizar a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, as marcas rodovi\u00e1rias permitem a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que passe para a via de tr\u00e2nsito mais \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o existente no local, como devo proceder?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2562.jpg",
+    "answers": [
+      {
+        "text": "Acelerar, de modo a passar o mais rapidamente poss\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "Circular com especial precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Parar, porque tenho espa\u00e7o suficiente para o fazer em seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o luminosa:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2563.jpg",
+    "answers": [
+      {
+        "text": "Devo mudar de direc\u00e7\u00e3o para a esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Devo parar e avan\u00e7ar quando o sinal ficar verde.",
+        "correct": true
+      },
+      {
+        "text": "Posso avan\u00e7ar e virar para a esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o posso avan\u00e7ar em qualquer circunst\u00e2ncia?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2564.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, caso seja previs\u00edvel a imobiliza\u00e7\u00e3o no cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Sim, visto estar acesa a luz verde.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o que se encontra no pavimento devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2565.jpg",
+    "answers": [
+      {
+        "text": "Passar para a via de tr\u00e2nsito da esquerda em seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Virar obrigatoriamente \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante as marcas rodovi\u00e1rias \u00e0 minha esquerda, fico a saber que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2566.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 proibido estacionar na \u00e1rea por elas abrangida a n\u00e3o ser para a realiza\u00e7\u00e3o de manobras que manifestamente n\u00e3o apresentem perigo.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido parar ou estacionar na \u00e1rea por elas abrangida a n\u00e3o ser para a realiza\u00e7\u00e3o de manobras que manifestamente n\u00e3o apresentem perigo.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 proibido parar ou estacionar na \u00e1rea por elas abrangida.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante as marcas rodovi\u00e1rias existentes no pavimento, fico a saber que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2567.jpg",
+    "answers": [
+      {
+        "text": "A linha mista existente no eixo da faixa de rodagem permite-me a sua transposi\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o posso transpor a linha descont\u00ednua que se encontra no eixo a faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o posso transpor as duas linhas, cont\u00ednua e descont\u00ednua, que se encontram no eixo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante as marcas rodovi\u00e1rias que se encontram no pavimento posso mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2568.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo seguir em frente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, devo ocupar de imediato as raias obliquas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, na pr\u00f3xima intersec\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante esta situa\u00e7\u00e3o posso transpor a linha existente no eixo da via?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2569.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca posso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, para mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, para ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante esta situa\u00e7\u00e3o reduzi subitamente a velocidade. Devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2570.jpg",
+    "answers": [
+      {
+        "text": "Buzinar, para advertir os utentes dessa situa\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Fazer sinal de paragem com o bra\u00e7o esquerdo.",
+        "correct": false
+      },
+      {
+        "text": "Ligar os quatro 'piscas' em simult\u00e2neo, como sinaliza\u00e7\u00e3o de perigo.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal do agente, os condutores que se apresentam na intersec\u00e7\u00e3o, \u00e0 minha direita, devem:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2571.jpg",
+    "answers": [
+      {
+        "text": "Abrandar.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Porque circulo num local bem iluminado devo utilizar as luzes de:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2572.jpg",
+    "answers": [
+      {
+        "text": "Cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Estrada.",
+        "correct": false
+      },
+      {
+        "text": "Presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso avan\u00e7ar perante a luz amarela constante do sinal luminoso?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2573.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se n\u00e3o conseguir parar em seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Sim, sempre.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso circular apenas com as luzes de presen\u00e7a?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2574.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso efectuar a manobra de ultrapassagem neste local?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2575.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a linha mista pro\u00edbe a realiza\u00e7\u00e3o da manobra de ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que efectue a manobra em seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas de ve\u00edculos autom\u00f3veis ligeiros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar na \u00e1rea demarcada de cor amarela?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2576.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca, porque esta marca apenas permite a paragem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se for carregar ou descarregar mercadorias.",
+        "correct": true
+      },
+      {
+        "text": "Sim, sempre, porque \u00e9 esse o seu objectivo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso estacionar o meu ve\u00edculo no preciso local onde me encontro?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2577.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas posso parar.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha neste local?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2578.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a marca rodovi\u00e1ria existente n\u00e3o me permite realizar a manobra.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque estou a menos de 50 metros de uma curva.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas s\u00f3 quando houver pouca intensidade de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso inverter o sentido de marcha?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2579.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a sinaliza\u00e7\u00e3o n\u00e3o mo permite.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque a luz verde me autoriza a efectuar a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a sinaliza\u00e7\u00e3o luminosa prevalece sobre a sinaliza\u00e7\u00e3o vertical.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso mudar de direc\u00e7\u00e3o \u00e0 esquerda na pr\u00f3xima bifurca\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2580.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso mudar de direc\u00e7\u00e3o \u00e0 esquerda na pr\u00f3xima intersec\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2581.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque as marcas rodovi\u00e1rias n\u00e3o permitem a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim. Devo aproximar-me do eixo da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Sim. Devo aproximar-me do lado esquerdo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso mudar de direc\u00e7\u00e3o \u00e0 esquerda no pr\u00f3ximo entroncamento?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2582.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, as marcas rodovi\u00e1rias n\u00e3o permitem.",
+        "correct": true
+      },
+      {
+        "text": "Sim, e j\u00e1 me encontro correctamente posicionado nesta via de tr\u00e2nsito para efectuar a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, n\u00e3o existe sinaliza\u00e7\u00e3o que pro\u00edba a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar em cima da raia obl\u00edqua?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2583.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, em caso de avaria.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar no local onde me encontro?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2584.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Posso parar mas n\u00e3o posso estacionar.",
+        "correct": true
+      },
+      {
+        "text": "Sim, posso parar e estacionar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso parar o meu ve\u00edculo do lado direito da faixa de rodagem?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2585.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, excepto para cargas ou descargas.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o. \u00c9 proibido parar.",
+        "correct": true
+      },
+      {
+        "text": "Sim, sendo apenas proibido estacionar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso pisar ou transpor a linha descont\u00ednua?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2586.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, posso pisar sem transpor a linha.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas para efectuar manobras.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso pisar ou transpor a linha longitudinal cont\u00ednua \u00e0 minha direita?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2587.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas para entrar na \u00e1rea de servi\u00e7o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, para efectuar a manobra de ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso pisar ou transpor a linha mista que se encontra \u00e0 minha esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2588.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, estou autorizado a pisar mas nunca a transpor a linha.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas para efectuar manobras.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso pisar ou transpor as raias obl\u00edquas que se encontram \u00e0 minha esquerda?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2589.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas se pretender mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre que pretenda parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso pisar ou transpor esta marca rodovi\u00e1ria?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2590.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca.",
+        "correct": false
+      },
+      {
+        "text": "Sim, em caso de necessidade.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas s\u00f3 com piso seco.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso transpor a marca longitudinal cont\u00ednua existente nesta via p\u00fablica?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2591.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a marca n\u00e3o pode ser transposta nem pisada.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas para mudar de direc\u00e7\u00e3o \u00e0 esquerda no entroncamento.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas para ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso transpor as marcas rodovi\u00e1rias separadoras dos sentidos de tr\u00e2nsito?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2592.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, estou proibido de transpor as linhas cont\u00ednuas adjacentes que separam os sentidos de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Sim, posso transpor a linha mista que separa os sentidos de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, posso transpor as linhas de sentido revers\u00edvel que separam os sentidos de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso transpor ou pisar a marca rodovi\u00e1ria que divide os sentidos de tr\u00e2nsito?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2593.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se dessa situa\u00e7\u00e3o n\u00e3o resultar qualquer tipo de inseguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se necessitar de ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso utilizar as raias obl\u00edquas que se encontram do meu lado direito?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2594.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca posso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas para tomada ou largada de passageiros.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas se pretender passar para a via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso utilizar os m\u00e1ximos?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2595.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, caso exista perigo de encandeamento.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se durante o percurso encontrar nevoeiro.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se iniciar uma ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso utilizar os sinais sonoros:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2596.jpg",
+    "answers": [
+      {
+        "text": "Para assinalar a minha marcha urgente de socorro.",
+        "correct": true
+      },
+      {
+        "text": "Para assinalar a realiza\u00e7\u00e3o de qualquer manobra.",
+        "correct": false
+      },
+      {
+        "text": "Para ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso utilizar os sinais sonoros?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2597.jpg",
+    "answers": [
+      {
+        "text": "Sim, em caso de perigo iminente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, pois circulo dentro de uma localidade.",
+        "correct": false
+      },
+      {
+        "text": "Sim, pois existe um sinal a indicar-me passagem estreita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo mudar de direc\u00e7\u00e3o \u00e0 direita. Devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2598.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com precau\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Avan\u00e7ar rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo parar neste local, para largar um passageiro. Posso faz\u00ea-lo sobre a linha em ziguezague?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2599.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, esta marca s\u00f3 me permite estacionar.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, s\u00f3 me \u00e9 poss\u00edvel realizar a manobra sobre a linha amarela descont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Sim, posso.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pretendo seguir em frente. Devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2600.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar com precau\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Avan\u00e7ar rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Qual das seguintes afirma\u00e7\u00f5es, sobre as marcas rodovi\u00e1rias amarelas, est\u00e1 correcta?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2601.jpg",
+    "answers": [
+      {
+        "text": "A linha em ziguezague pro\u00edbe a paragem, a linha descont\u00ednua pro\u00edbe o estacionamento.",
+        "correct": false
+      },
+      {
+        "text": "Ambas pro\u00edbem a paragem.",
+        "correct": false
+      },
+      {
+        "text": "Ambas pro\u00edbem o estacionamento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Qual das seguintes luzes, \u00e0 retaguarda, deve utilizar o ve\u00edculo que segue \u00e0 minha frente?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2602.jpg",
+    "answers": [
+      {
+        "text": "Indicador de mudan\u00e7a de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Luz de marcha atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "Luzes de presen\u00e7a e de nevoeiro.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Qual das seguintes marcas longitudinais tem sempre o mesmo significado que as marcas que se encontram inscritas no pavimento?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2603.jpg",
+    "answers": [
+      {
+        "text": "Linha cont\u00ednua.",
+        "correct": true
+      },
+      {
+        "text": "Linha descont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Linha mista.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual \u00e9 a marca rodovi\u00e1ria colocada no eixo da via?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2604.jpg",
+    "answers": [
+      {
+        "text": "Uma linha descont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Uma linha mista.",
+        "correct": false
+      },
+      {
+        "text": "Uma raia obl\u00edqua.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Qual o significado da linha amarela em ziguezague?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2605.jpg",
+    "answers": [
+      {
+        "text": "Proibi\u00e7\u00e3o de estacionar.",
+        "correct": true
+      },
+      {
+        "text": "Proibi\u00e7\u00e3o de parar ou estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Proibi\u00e7\u00e3o de parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual o significado da marca rodovi\u00e1ria de cor amarela?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2606.jpg",
+    "answers": [
+      {
+        "text": "Proibi\u00e7\u00e3o de estacionar em toda a sua extens\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Proibi\u00e7\u00e3o de parar em toda a sua extens\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quando a sinaliza\u00e7\u00e3o luminosa mudar para a cor verde, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2607.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Parar obrigatoriamente.",
+        "correct": false
+      },
+      {
+        "text": "Parar, desde que o consiga fazer em condi\u00e7\u00f5es de seguran\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que indica\u00e7\u00e3o a sinaliza\u00e7\u00e3o de cor amarela e preta d\u00e1 aos condutores?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2608.jpg",
+    "answers": [
+      {
+        "text": "A presen\u00e7a de obst\u00e1culos ou constru\u00e7\u00f5es que podem constituir perigo.",
+        "correct": true
+      },
+      {
+        "text": "Os ve\u00edculos que circulam em sentido contr\u00e1rio podem ultrapassar.",
+        "correct": false
+      },
+      {
+        "text": "Proximidade de obras na via p\u00fablica.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Regra geral, como devo proceder perante a luz amarela constante da sinaliza\u00e7\u00e3o luminosa?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2609.jpg",
+    "answers": [
+      {
+        "text": "Devo parar o ve\u00edculo antes da zona regulada pelo sinal.",
+        "correct": true
+      },
+      {
+        "text": "Posso passar, desde que o fa\u00e7a com especial prud\u00eancia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Regra geral, perante a luz verde dos sinais luminosos, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2610.jpg",
+    "answers": [
+      {
+        "text": "Avan\u00e7ar.",
+        "correct": true
+      },
+      {
+        "text": "Parar e ceder a passagem.",
+        "correct": false
+      },
+      {
+        "text": "Parar, embora tenha a prioridade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Relativamente \u00e0 ordem de preval\u00eancia entre v\u00e1rios tipos de sinaliza\u00e7\u00e3o, podemos afirmar que:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2611.jpg",
+    "answers": [
+      {
+        "text": "A sinaliza\u00e7\u00e3o tempor\u00e1ria prevalece sobre as marcas rodovi\u00e1rias.",
+        "correct": true
+      },
+      {
+        "text": "As marcas rodovi\u00e1rias prevalecem sobre a sinaliza\u00e7\u00e3o tempor\u00e1ria.",
+        "correct": false
+      },
+      {
+        "text": "Entre a sinaliza\u00e7\u00e3o tempor\u00e1ria e as marcas rodovi\u00e1rias n\u00e3o h\u00e1 princ\u00edpios de preval\u00eancia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "S\u00e3o proibidos os sinais sonoros, quando utilizados:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2612.jpg",
+    "answers": [
+      {
+        "text": "Como forma de protesto, contra interrup\u00e7\u00f5es de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "De noite, fora das localidades.",
+        "correct": false
+      },
+      {
+        "text": "Fora das localidades, para efectuar uma ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "S\u00e3o proibidos os sinais sonoros, quando utilizados:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2613.jpg",
+    "answers": [
+      {
+        "text": "De dia, dentro das localidades, em caso de manifesta necessidade.",
+        "correct": false
+      },
+      {
+        "text": "De noite, dentro das localidades.",
+        "correct": true
+      },
+      {
+        "text": "De noite, fora das localidades.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se me encontrar em situa\u00e7\u00e3o em que as condi\u00e7\u00f5es atmosf\u00e9ricas n\u00e3o me permitam circular em boas condi\u00e7\u00f5es de visibilidade, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2614.jpg",
+    "answers": [
+      {
+        "text": "Suspender a marcha.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar as luzes de cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar as luzes de perigo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se necess\u00e1rio posso transpor a guia da direita.",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2615.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se pretender efectuar cargas e descargas posso parar no local sinalizado com a marca rodovi\u00e1ria de cor amarela?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2616.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se pretender seguir a direc\u00e7\u00e3o do Lumiar, posso pisar ou transpor a linha longitudinal cont\u00ednua que se encontra \u00e0 minha direita?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2617.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca posso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, o C\u00f3digo da Estrada permite.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque devo utilizar a via mais conveniente ao meu destino.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se pretender seguir em frente, estou correctamente posicionado nesta via de tr\u00e2nsito?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2618.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo passar para a via de tr\u00e2nsito mais \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, estou correctamente posicionado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se um agente regulador do tr\u00e2nsito me mandar avan\u00e7ar perante o sinal vermelho, como devo proceder?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2619.jpg",
+    "answers": [
+      {
+        "text": "Devo obedecer \u00e0 ordem do agente regulador do tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "Devo obedecer ao sinal luminoso vermelho que me obriga a parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sempre que o agente regulador de tr\u00e2nsito me d\u00e1 uma indica\u00e7\u00e3o de parar, devo:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2620.jpg",
+    "answers": [
+      {
+        "text": "Estar atento, mas apenas devo respeitar a sinaliza\u00e7\u00e3o vertical.",
+        "correct": false
+      },
+      {
+        "text": "Respeit\u00e1-la.",
+        "correct": true
+      },
+      {
+        "text": "Verificar primeiro se n\u00e3o h\u00e1 sinaliza\u00e7\u00e3o contr\u00e1ria.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sempre que pretender mudar de via de tr\u00e2nsito estou obrigado a assinalar a manobra?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2621.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas estou obrigado a sinalizar as manobras de mudan\u00e7a de direc\u00e7\u00e3o, ultrapassagem ou invers\u00e3o do sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Sim, estou obrigado a sinalizar a manobra, excepto se a faixa de rodagem tiver mais de duas vias de tr\u00e2nsito no mesmo sentido.",
+        "correct": false
+      },
+      {
+        "text": "Sim, estou sempre obrigado a sinalizar a manobra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Sou obrigado a parar:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2622.jpg",
+    "answers": [
+      {
+        "text": "Antes da linha transversal de paragem.",
+        "correct": true
+      },
+      {
+        "text": "Depois da linha transversal de paragem.",
+        "correct": false
+      },
+      {
+        "text": "Sobre a linha transversal de paragem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tendo em aten\u00e7\u00e3o a sinaliza\u00e7\u00e3o desta via p\u00fablica, posso mudar de direc\u00e7\u00e3o \u00e0 esquerda no pr\u00f3ximo cruzamento?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2623.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a linha cont\u00ednua n\u00e3o permite a manobra.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Tendo em conta as marcas rodovi\u00e1rias inscritas no pavimento, se mudar para a via de tr\u00e2nsito \u00e0 minha direita devo seguir a direc\u00e7\u00e3o:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2624.jpg",
+    "answers": [
+      {
+        "text": "Aveiro/Porto ou Vouzela/Tondela.",
+        "correct": false
+      },
+      {
+        "text": "Aveiro/Porto.",
+        "correct": false
+      },
+      {
+        "text": "Vouzela/Tondela.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Todos os condutores s\u00e3o obrigados a parar perante o sinal luminoso de cor vermelha?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2625.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, embora os condutores de ve\u00edculos que circulam em miss\u00e3o de socorro possam avan\u00e7ar, depois de tomadas as devidas precau\u00e7\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Transito a menos de 100 metros do ve\u00edculo da frente. Devo circular com:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2626.jpg",
+    "answers": [
+      {
+        "text": "'M\u00e1ximos'.",
+        "correct": false
+      },
+      {
+        "text": "'M\u00e9dios' ou os 'm\u00e1ximos'.",
+        "correct": false
+      },
+      {
+        "text": "'M\u00e9dios'.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Um condutor de um ve\u00edculo em miss\u00e3o urgente de socorro, estar\u00e1 obrigado a parar nesta situa\u00e7\u00e3o?",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2627.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, se a sua inten\u00e7\u00e3o for mudar de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, independentemente do trajecto a seguir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Um ve\u00edculo com estas placas na retaguarda \u00e9:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2628.jpg",
+    "answers": [
+      {
+        "text": "Um autom\u00f3vel com 10 metros de comprimento.",
+        "correct": false
+      },
+      {
+        "text": "Um autom\u00f3vel com mais de 12 metros de comprimento.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Uma luz amarela, rotativa ou intermitente, \u00e9 obrigat\u00f3ria:",
+    "image": "images/sinalizacao-luminosa-marcas-pavimento-outra-sinalizacao_2629.jpg",
+    "answers": [
+      {
+        "text": "Em todos os ve\u00edculos que n\u00e3o excedam a velocidade de 40 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Nos motociclos com carro.",
+        "correct": false
+      },
+      {
+        "text": "Nos tractores agr\u00edcolas e m\u00e1quinas agr\u00edcolas e industriais automotrizes.",
+        "correct": true
+      }
+    ]
+  }
+]

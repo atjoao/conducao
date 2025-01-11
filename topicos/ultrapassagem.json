@@ -1,0 +1,1926 @@
+[
+  {
+    "question": "A faixa de rodagem est\u00e1 dividida por uma linha descont\u00ednua. Estou correctamente posicionado se estiver a efectuar uma ultrapassagem.",
+    "image": "images/ultrapassagem_2630.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A faixa de rodagem est\u00e1 dividida por uma linha descont\u00ednua. Estou correctamente posicionado se:",
+    "image": "images/ultrapassagem_2631.jpg",
+    "answers": [
+      {
+        "text": "Estiver a efectuar uma ultrapassagem.",
+        "correct": true
+      },
+      {
+        "text": "Pretender estacionar do lado esquerdo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Pretender ultrapassar o ve\u00edculo da frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de ultrapassagem \u00e9 permitida no local em que me encontro?",
+    "image": "images/ultrapassagem_2632.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o seja pisada nem transposta a linha longitudinal cont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que seja executada o mais rapidamente poss\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A manobra de ultrapassagem \u00e9 proibida nesta curva de visibilidade reduzida. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/ultrapassagem_2633.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A manobra de ultrapassagem \u00e9 sempre proibida em todos os locais de visibilidade insuficiente. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/ultrapassagem_2634.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A manobra de ultrapassagem \u00e9 sempre proibida na proximidade de uma passagem de n\u00edvel?",
+    "image": "images/ultrapassagem_2635.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas \u00e9 proibida na passagem de n\u00edvel.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, apenas \u00e9 proibida se houver tr\u00e2nsito em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim, \u00e9 proibida imediatamente antes e na passagem de n\u00edvel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A ultrapassagem ao veloc\u00edpede:",
+    "image": "images/ultrapassagem_2636.jpg",
+    "answers": [
+      {
+        "text": "Deve ser acompanhada de uso continuado dos sinais sonoros.",
+        "correct": false
+      },
+      {
+        "text": "Deve ser efectuada rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o deve ser efectuada.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Antes de iniciar uma ultrapassagem, devo certificar-me que:",
+    "image": "images/ultrapassagem_2637.jpg",
+    "answers": [
+      {
+        "text": "Posso efectuar a manobra no espa\u00e7o de 50 metros \u00e0 minha frente.",
+        "correct": false
+      },
+      {
+        "text": "Posso efectuar a manobra sem perigo.",
+        "correct": true
+      },
+      {
+        "text": "Posso fazer a manobra \u00e0 velocidade m\u00ednima de 40 Km/h.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao realizar a manobra de ultrapassagem o condutor deve retomar a direita logo que:",
+    "image": "images/ultrapassagem_2638.jpg",
+    "answers": [
+      {
+        "text": "A manobra possa ser conclu\u00edda em seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "O condutor ultrapassado se aperceba da sua inten\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Se encontre a mais de 50 metros do ve\u00edculo ultrapassado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao ser ultrapassado, devo:",
+    "image": "images/ultrapassagem_2639.jpg",
+    "answers": [
+      {
+        "text": "Manter a velocidade e chegar-me o mais \u00e0 direita poss\u00edvel.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao ser ultrapassado, devo:",
+    "image": "images/ultrapassagem_2640.jpg",
+    "answers": [
+      {
+        "text": "Circular a velocidade n\u00e3o superior a 60 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Circular a velocidade n\u00e3o superior a 90 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Desviar-me o mais poss\u00edvel para a direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao ultrapassar o autom\u00f3vel pesado, que comportamento devo esperar do seu condutor?",
+    "image": "images/ultrapassagem_2641.jpg",
+    "answers": [
+      {
+        "text": "Que aumente a sua velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Que mantenha a velocidade e se desvie o mais poss\u00edvel para a direita.",
+        "correct": true
+      },
+      {
+        "text": "Que reduza a sua velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ap\u00f3s o sinal vertical posso ultrapassar?",
+    "image": "images/ultrapassagem_2642.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque na via em que circulo s\u00f3 h\u00e1 uma via de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque tenho que pisar a linha descont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sinalize a manobra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Assim que o condutor da frente termine a manobra de ultrapassagem deve:",
+    "image": "images/ultrapassagem_2643.jpg",
+    "answers": [
+      {
+        "text": "Aumentar significativamente a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Ligar os m\u00e9dios para iluminar a faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Retomar o lado direito da faixa de rodagem em seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Cada via de tr\u00e2nsito \u00e9 destinada \u00e0 circula\u00e7\u00e3o:",
+    "image": "images/ultrapassagem_2644.jpg",
+    "answers": [
+      {
+        "text": "De duas filas de tr\u00e2nsito, se a faixa de rodagem admitir dois sentidos.",
+        "correct": false
+      },
+      {
+        "text": "De uma fila de tr\u00e2nsito.",
+        "correct": true
+      },
+      {
+        "text": "De v\u00e1rias filas de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Circulo correctamente se conduzir um autom\u00f3vel pesado de passageiros e estiver a ultrapassar?",
+    "image": "images/ultrapassagem_2645.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder quando verifico que o condutor do ve\u00edculo que circula \u00e0 minha retaguarda me pretende ultrapassar?",
+    "image": "images/ultrapassagem_2646.jpg",
+    "answers": [
+      {
+        "text": "Desviar-me o mais poss\u00edvel para a esquerda.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o aumentar a velocidade e desviar-me o mais poss\u00edvel para a direita.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Conduzo um autom\u00f3vel ligeiro de mercadorias. O sinal pro\u00edbe-me a ultrapassagem?",
+    "image": "images/ultrapassagem_2647.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo iniciar a manobra de ultrapassagem?",
+    "image": "images/ultrapassagem_2648.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a marca rodovi\u00e1ria n\u00e3o me permite executar a manobra.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque transitam ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que o fa\u00e7a rapidamente, utilizando para isso os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo ultrapassar pela direita um ve\u00edculo, cujo condutor, tenha assinalado a sua inten\u00e7\u00e3o de mudar de direc\u00e7\u00e3o para a esquerda. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/ultrapassagem_2649.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a ultrapassagem deve ser sempre efectuada pela esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que tenha deixado livre a parte mais \u00e0 direita da faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estou a ser correctamente ultrapassado?",
+    "image": "images/ultrapassagem_2650.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a realiza\u00e7\u00e3o da manobra pode provocar embara\u00e7o para o tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque \u00e9 proibido ultrapassar nas pontes.",
+        "correct": false
+      },
+      {
+        "text": "Sim, estou.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Estou obrigado a facilitar a manobra de ultrapassagem deste ve\u00edculo?",
+    "image": "images/ultrapassagem_2651.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, excepto em rela\u00e7\u00e3o aos ve\u00edculos pesados.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, excepto nos casos de perigo de acidente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, n\u00e3o devendo aumentar a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Na via em que me encontro \u00e9 permitido realizar a manobra de ultrapassagem pela direita?",
+    "image": "images/ultrapassagem_2652.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, caso o condutor da frente mude de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, visto tratar-se de uma auto-estrada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nas curvas \u00e9 proibido ultrapassar?",
+    "image": "images/ultrapassagem_2653.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a ultrapassagem nunca \u00e9 proibida nas curvas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, em todas as curvas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se a visibilidade for reduzida e existir apenas uma fila de tr\u00e2nsito para cada sentido.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso ultrapassar o ve\u00edculo da frente em seguran\u00e7a?",
+    "image": "images/ultrapassagem_2654.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque posso p\u00f4r em perigo os pe\u00f5es que circulam no local.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque n\u00e3o h\u00e1 no local sinaliza\u00e7\u00e3o que pro\u00edba a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque n\u00e3o se aproximam ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo estar especialmente atento:",
+    "image": "images/ultrapassagem_2655.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 manobra que o ve\u00edculo \u00e0 retaguarda est\u00e1 a iniciar.",
+        "correct": true
+      },
+      {
+        "text": "\u00c0 velocidade do ve\u00edculo que me ultrapassa.",
+        "correct": false
+      },
+      {
+        "text": "Ao espelho reflector interior.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/ultrapassagem_2656.jpg",
+    "answers": [
+      {
+        "text": "Buzinar para advertir o condutor que \u00e9 proibido ultrapassar em pontes.",
+        "correct": false
+      },
+      {
+        "text": "Desviar-me o mais poss\u00edvel para a direita e manter a velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Travar bruscamente para facilitar a ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o o condutor do ve\u00edculo ultrapassado:",
+    "image": "images/ultrapassagem_2657.jpg",
+    "answers": [
+      {
+        "text": "Deve reduzir a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Deve utilizar os sinais sonoros.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o deve aumentar a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso ultrapassar o autom\u00f3vel de cor preta?",
+    "image": "images/ultrapassagem_2658.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso, porque a ultrapassagem faz-se pelo lado esquerdo.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o posso.",
+        "correct": false
+      },
+      {
+        "text": "Posso pela direita porque a via est\u00e1 livre.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso ultrapassar?",
+    "image": "images/ultrapassagem_2659.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso ultrapassar?",
+    "image": "images/ultrapassagem_2660.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso ultrapassar?",
+    "image": "images/ultrapassagem_2661.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o transponha a guia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o se pretender ultrapassar com seguran\u00e7a, devo:",
+    "image": "images/ultrapassagem_2662.jpg",
+    "answers": [
+      {
+        "text": "Fazer sinais de luzes e iniciar de imediato a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Iniciar de imediato a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Verificar pelos espelhos retrovisores se outro condutor j\u00e1 iniciou a manobra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o se pretender ultrapassar o ve\u00edculo da frente devo ter especial aten\u00e7\u00e3o:",
+    "image": "images/ultrapassagem_2663.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 largura da via.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0 presen\u00e7a de pe\u00f5es na berma esquerda e esperar por melhor local para efectuar a manobra.",
+        "correct": true
+      },
+      {
+        "text": "\u00c0 velocidade a que circula o ve\u00edculo da frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, a ultrapassagem pela direita \u00e9 permitida?",
+    "image": "images/ultrapassagem_2664.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca \u00e9 permitido ultrapassar nas intersec\u00e7\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Sim, independentemente do trajecto a seguir pelo condutor de trac\u00e7\u00e3o animal.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se o condutor do ve\u00edculo de trac\u00e7\u00e3o animal mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, circulo na via de tr\u00e2nsito correcta se for a ultrapassar.",
+    "image": "images/ultrapassagem_2665.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo aumentar a velocidade?",
+    "image": "images/ultrapassagem_2666.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo ultrapassar o condutor do veloc\u00edpede.",
+    "image": "images/ultrapassagem_2667.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/ultrapassagem_2668.jpg",
+    "answers": [
+      {
+        "text": "Buzinar e passar perto do veloc\u00edpede.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e descrever a curva sem ultrapassar.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar o veloc\u00edpede com grande dist\u00e2ncia lateral.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo:",
+    "image": "images/ultrapassagem_2669.jpg",
+    "answers": [
+      {
+        "text": "Reduzir a velocidade e parar.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar o condutor do veloc\u00edpede.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso ultrapassar em seguran\u00e7a?",
+    "image": "images/ultrapassagem_2670.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso ultrapassar em seguran\u00e7a?",
+    "image": "images/ultrapassagem_2671.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, posso ultrapassar?",
+    "image": "images/ultrapassagem_2672.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, pretendo seguir em frente. Posso ultrapassar o autocarro pela direita?",
+    "image": "images/ultrapassagem_2673.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, se pretender ultrapassar o ve\u00edculo da frente, devo efectuar a manobra pelo lado direito?",
+    "image": "images/ultrapassagem_2674.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se puder passar na parte mais \u00e0 direita da faixa de rodagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, se pretender ultrapassar o ve\u00edculo que circula \u00e0 minha frente devo:",
+    "image": "images/ultrapassagem_2675.jpg",
+    "answers": [
+      {
+        "text": "Certificar-me que posso retomar a direita sem perigo para aqueles que a\u00ed transitam.",
+        "correct": true
+      },
+      {
+        "text": "Efectuar a manobra pelo lado direito da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Manter uma dist\u00e2ncia de seguran\u00e7a em rela\u00e7\u00e3o ao ve\u00edculo da frente n\u00e3o inferior a 50 metros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local a ultrapassagem \u00e9 permitida?",
+    "image": "images/ultrapassagem_2676.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque me aproximo duma curva e a visibilidade \u00e9 reduzida.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque me aproximo duma curva.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque existem no mesmo sentido duas vias de tr\u00e2nsito.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 proibida a ultrapassagem.",
+    "image": "images/ultrapassagem_2677.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 proibido ultrapassar.",
+    "image": "images/ultrapassagem_2678.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local n\u00e3o \u00e9 permitido ultrapassar:",
+    "image": "images/ultrapassagem_2679.jpg",
+    "answers": [
+      {
+        "text": "Porque circulo fora de uma localidade.",
+        "correct": false
+      },
+      {
+        "text": "Porque \u00e9 proibido ultrapassar em todas as curvas.",
+        "correct": false
+      },
+      {
+        "text": "Porque tenho de transpor a linha cont\u00ednua.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local n\u00e3o posso ultrapassar um autom\u00f3vel.",
+    "image": "images/ultrapassagem_2680.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso ultrapassar?",
+    "image": "images/ultrapassagem_2681.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que avise o outro condutor.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que realize a manobra com precau\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso ultrapassar?",
+    "image": "images/ultrapassagem_2682.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso ultrapassar?",
+    "image": "images/ultrapassagem_2683.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque \u00e9 proibido ultrapassar em todas as curvas.",
+        "correct": false
+      },
+      {
+        "text": "Sim, caso possa realizar a manobra em seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local, \u00e9 proibido ultrapassar?",
+    "image": "images/ultrapassagem_2684.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apesar de nesta situa\u00e7\u00e3o n\u00e3o o dever fazer.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a marca rodovi\u00e1ria pro\u00edbe-me de efectuar a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a visibilidade n\u00e3o \u00e9 suficiente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, estou proibido de ultrapassar o veloc\u00edpede.",
+    "image": "images/ultrapassagem_2685.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local, posso ultrapassar o ve\u00edculo que circula \u00e0 minha frente?",
+    "image": "images/ultrapassagem_2686.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, uma vez que a via se encontra sinalizada com duas linhas cont\u00ednuas adjacentes.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a sinaliza\u00e7\u00e3o vertical permite-me efectuar a manobra de ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, uma vez que n\u00e3o circula nenhum ve\u00edculo em sentido contr\u00e1rio e a via se encontra sinalizada com linhas de sentido revers\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste momento posso iniciar a manobra de ultrapassagem?",
+    "image": "images/ultrapassagem_2687.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque o ve\u00edculo vermelho est\u00e1 a ultrapassar.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque para ultrapassar n\u00e3o posso utilizar a metade da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que o fa\u00e7a de imediato e utilize os sinais sonoros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste momento pretendo ultrapassar o ve\u00edculo que circula \u00e0 minha frente. Devo:",
+    "image": "images/ultrapassagem_2688.jpg",
+    "answers": [
+      {
+        "text": "Aguardar por um momento adequado.",
+        "correct": true
+      },
+      {
+        "text": "Iniciar a manobra, desde que sinalize a minha inten\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros para que todos se apercebam da minha inten\u00e7\u00e3o e me cedam a passagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local em que me encontro devo iniciar a manobra de ultrapassagem?",
+    "image": "images/ultrapassagem_2689.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra de ultrapassagem \u00e9 proibida nos locais de visibilidade reduzida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que avise o condutor da minha inten\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sinalize convenientemente a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No local exacto em que me encontro posso iniciar a ultrapassagem?",
+    "image": "images/ultrapassagem_2690.jpg",
+    "answers": [
+      {
+        "text": "Sim.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o pise ou transponha a linha cont\u00ednua.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "No t\u00fanel \u00e9 sempre proibido ultrapassar.",
+    "image": "images/ultrapassagem_2691.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O C\u00f3digo da Estrada obriga-me a desviar o mais poss\u00edvel para a direita enquanto estou a ser ultrapassado?",
+    "image": "images/ultrapassagem_2692.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, desde que mantenha a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, salvo se a faixa de rodagem for estreita.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas quando estou a ser ultrapassado por um ve\u00edculo pesado.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo de trac\u00e7\u00e3o animal muda de direc\u00e7\u00e3o \u00e0 esquerda. Posso ultrapassar?",
+    "image": "images/ultrapassagem_2693.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o posso ultrapassar, porque me encontro num entroncamento.",
+        "correct": false
+      },
+      {
+        "text": "Posso ultrapassar pela direita, se pretender seguir em frente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, posso ultrapassar pelo lado esquerdo, porque conduzo um ve\u00edculo mais r\u00e1pido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo que circula \u00e0 minha frente pode realizar a manobra de ultrapassagem neste local?",
+    "image": "images/ultrapassagem_2694.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque neste local a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque n\u00e3o existe qualquer sinaliza\u00e7\u00e3o que pro\u00edba a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque tomou as precau\u00e7\u00f5es necess\u00e1rias \u00e0 realiza\u00e7\u00e3o da manobra em seguran\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo que circula \u00e0 minha frente pode realizar a manobra de ultrapassagem?",
+    "image": "images/ultrapassagem_2695.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a ultrapassagem \u00e9 proibida no local em que se encontra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, dado que sinaliza correctamente a sua inten\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, uma vez que n\u00e3o h\u00e1 tr\u00e2nsito em sentido contr\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo que circula na via esquerda comete uma infrac\u00e7\u00e3o?",
+    "image": "images/ultrapassagem_2696.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque iniciou a manobra antes da linha cont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, porque iniciou a manobra antes do sinal vertical.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo vermelho, procede correctamente?",
+    "image": "images/ultrapassagem_2697.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque est\u00e1 outro ve\u00edculo a ultrapassar o ve\u00edculo pesado.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque transita atr\u00e1s de um ve\u00edculo pesado.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque a sua inten\u00e7\u00e3o \u00e9 ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor que est\u00e1 a ultrapassar, executa correctamente os procedimentos necess\u00e1rios para efectuar a manobra em seguran\u00e7a?",
+    "image": "images/ultrapassagem_2698.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que deve fazer o condutor do ve\u00edculo que circula imediatamente \u00e0 minha frente?",
+    "image": "images/ultrapassagem_2699.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Aumentar a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Parar para permitir que o condutor do ve\u00edculo branco termine a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/ultrapassagem_2700.jpg",
+    "answers": [
+      {
+        "text": "Manter uma dist\u00e2ncia de seguran\u00e7a do ve\u00edculo da frente que me permita executar qualquer manobra em seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Ultrapassar, independentemente da velocidade do ve\u00edculo branco.",
+        "correct": false
+      },
+      {
+        "text": "Ultrapassar, independentemente da visibilidade do local.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/ultrapassagem_2701.jpg",
+    "answers": [
+      {
+        "text": "Iniciar de imediato a manobra de ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade para aumentar a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros, alertando assim o condutor do ve\u00edculo vermelho para a manobra que executa.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/ultrapassagem_2702.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que n\u00e3o transitem ve\u00edculos em sentido contr\u00e1rio, para efectuar a ultrapassagem.",
+        "correct": true
+      },
+      {
+        "text": "Iniciar rapidamente a manobra de ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais luminosos, para que o condutor que transita em sentido contr\u00e1rio, se aperceba da minha presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+    "image": "images/ultrapassagem_2703.jpg",
+    "answers": [
+      {
+        "text": "Ligar o indicador de mudan\u00e7a de direc\u00e7\u00e3o e iniciar a manobra de ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade para aumentar a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar o sinal sonoro, alertando o condutor do ve\u00edculo branco para o facto de estar a cometer uma infrac\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal de mudan\u00e7a de direc\u00e7\u00e3o para a esquerda, do ve\u00edculo que segue \u00e0 frente, pode indicar-me:",
+    "image": "images/ultrapassagem_2704.jpg",
+    "answers": [
+      {
+        "text": "Diminui\u00e7\u00e3o de velocidade.",
+        "correct": false
+      },
+      {
+        "text": "In\u00edcio de manobra de marcha atr\u00e1s.",
+        "correct": false
+      },
+      {
+        "text": "In\u00edcio de uma ultrapassagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical, n\u00e3o pro\u00edbe a ultrapassagem aos condutores de:",
+    "image": "images/ultrapassagem_2705.jpg",
+    "answers": [
+      {
+        "text": "Autom\u00f3veis ligeiros de mercadorias.",
+        "correct": true
+      },
+      {
+        "text": "Autom\u00f3veis pesados de mercadorias.",
+        "correct": false
+      },
+      {
+        "text": "Autom\u00f3veis pesados de passageiros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo de mercadorias que segue \u00e0 minha frente pode ser ultrapassado pela direita?",
+    "image": "images/ultrapassagem_2706.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o pode, mesmo existindo espa\u00e7o lateral.",
+        "correct": false
+      },
+      {
+        "text": "Sim pode, pois existe espa\u00e7o lateral.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O ve\u00edculo que segue \u00e0 frente leva o 'pisca' ligado para:",
+    "image": "images/ultrapassagem_2707.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Iniciar uma ultrapassagem.",
+        "correct": true
+      },
+      {
+        "text": "Passar um cruzamento.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Onde estou proibido de realizar a manobra de ultrapassagem?",
+    "image": "images/ultrapassagem_2708.jpg",
+    "answers": [
+      {
+        "text": "Apenas antes da passagem assinalada para a travessia de pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Apenas na passagem assinalada para a travessia de pe\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Imediatamente antes e na passagem assinalada para a travessia de pe\u00f5es.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para contornar o ve\u00edculo e o pe\u00e3o em seguran\u00e7a, o que devo fazer?",
+    "image": "images/ultrapassagem_2709.jpg",
+    "answers": [
+      {
+        "text": "Devo aumentar a velocidade mantendo uma pequena dist\u00e2ncia lateral.",
+        "correct": false
+      },
+      {
+        "text": "Devo buzinar, manter a velocidade e continuar a marcha.",
+        "correct": false
+      },
+      {
+        "text": "Devo estar especialmente atento a qualquer reac\u00e7\u00e3o imprevis\u00edvel por parte do pe\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante este sinal posso ultrapassar?",
+    "image": "images/ultrapassagem_2710.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante este sinal, podem realizar a manobra de ultrapassagem:",
+    "image": "images/ultrapassagem_2711.jpg",
+    "answers": [
+      {
+        "text": "Os motociclos.",
+        "correct": false
+      },
+      {
+        "text": "S\u00f3 os autom\u00f3veis pesados.",
+        "correct": false
+      },
+      {
+        "text": "Todos os ve\u00edculos, excepto os motociclos e ciclomotores.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal de informa\u00e7\u00e3o fico a saber que:",
+    "image": "images/ultrapassagem_2712.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 permitida a paragem, mas n\u00e3o o estacionamento de autom\u00f3veis.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 permitido o estacionamento a todos os ve\u00edculos.",
+        "correct": true
+      },
+      {
+        "text": "S\u00f3 \u00e9 permitido o estacionamento de autocarros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal vertical s\u00f3 os autom\u00f3veis pesados de mercadorias est\u00e3o proibidos de ultrapassar.",
+    "image": "images/ultrapassagem_2713.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal, n\u00e3o posso:",
+    "image": "images/ultrapassagem_2714.jpg",
+    "answers": [
+      {
+        "text": "Estacionar.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      },
+      {
+        "text": "Transitar.",
+        "correct": false
+      },
+      {
+        "text": "Ultrapassar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso iniciar a manobra de ultrapassagem do ve\u00edculo que circula \u00e0 minha frente?",
+    "image": "images/ultrapassagem_2715.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo aguardar que o ve\u00edculo que est\u00e1 a ultrapassar termine a manobra para que eu possa realizar a manobra em seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso iniciar a manobra de ultrapassagem se o condutor do ve\u00edculo que circula \u00e0 minha frente assinalar a sua inten\u00e7\u00e3o de ultrapassar um terceiro ve\u00edculo?",
+    "image": "images/ultrapassagem_2716.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, estou proibido de iniciar a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que ainda n\u00e3o tenha dado in\u00edcio \u00e0 manobra de ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, posso iniciar mas n\u00e3o concluir a manobra de ultrapassagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso realizar a manobra de ultrapassagem neste local?",
+    "image": "images/ultrapassagem_2717.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a manobra \u00e9 proibida.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas para ve\u00edculos ligeiros.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso seguir sempre nesta via de tr\u00e2nsito?",
+    "image": "images/ultrapassagem_2718.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas pelo tempo necess\u00e1rio para ultrapassar.",
+        "correct": true
+      },
+      {
+        "text": "Sim, se for a velocidade elevada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ser ultrapassado no local em que me encontro?",
+    "image": "images/ultrapassagem_2719.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o haja pe\u00f5es que pretendam atravessar a faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sejam tomadas as devidas precau\u00e7\u00f5es.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso transitar na via de tr\u00e2nsito em que me encontro?",
+    "image": "images/ultrapassagem_2720.jpg",
+    "answers": [
+      {
+        "text": "Sim, para inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque existem duas vias em cada sentido, podendo transitar em qualquer uma.",
+        "correct": false
+      },
+      {
+        "text": "Sim, se estiver a ultrapassar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar neste local, utilizando a via de tr\u00e2nsito de sentido contr\u00e1rio?",
+    "image": "images/ultrapassagem_2721.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, pois a sinaliza\u00e7\u00e3o n\u00e3o mo permite.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o circulem ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o sinal vertical n\u00e3o proibe a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar neste local?",
+    "image": "images/ultrapassagem_2722.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que n\u00e3o aumente a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que ocupe apenas uma faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar o condutor da frente?",
+    "image": "images/ultrapassagem_2723.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, uma vez que circulam ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "Sim posso, devendo sinalizar correctamente a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que realize a manobra pela direita.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar o ve\u00edculo da frente?",
+    "image": "images/ultrapassagem_2724.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, \u00e9 proibido ultrapassar neste local.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, pois o ve\u00edculo da frente manifesta a mesma inten\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que sinalize correctamente a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar o ve\u00edculo que circula \u00e0 minha frente?",
+    "image": "images/ultrapassagem_2725.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo aguardar que termine a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Sim, a manobra \u00e9 permitida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar o ve\u00edculo que circula \u00e0 minha frente?",
+    "image": "images/ultrapassagem_2726.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a ultrapassagem efectua-se sempre pela esquerda e o ve\u00edculo vai mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, devo sinalizar a manobra e efectuar a ultrapassagem pelo lado direito, desde que tenha espa\u00e7o dentro da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Sim, nesta situa\u00e7\u00e3o posso efectuar a manobra pelo lado direito ou esquerdo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar pela direita o ve\u00edculo de mercadorias?",
+    "image": "images/ultrapassagem_2727.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a ultrapassagem pela direita \u00e9 proibida.",
+        "correct": false
+      },
+      {
+        "text": "Sim, posso.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar um ve\u00edculo que esteja a ultrapassar um terceiro?",
+    "image": "images/ultrapassagem_2728.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar, nesta situa\u00e7\u00e3o?",
+    "image": "images/ultrapassagem_2729.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a visibilidade \u00e9 insuficiente e me aproximo de uma curva.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o, porque circulo fora duma localidade.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que o outro condutor pare, para me facilitar a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar, pela direita, o motociclo que circula a 60 Km/h?",
+    "image": "images/ultrapassagem_2730.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque \u00e9 proibido.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que sinalize devidamente a manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque existem duas filas de tr\u00e2nsito no mesmo sentido.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar?",
+    "image": "images/ultrapassagem_2731.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, n\u00e3o posso.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que o ve\u00edculo da frente n\u00e3o pretenda mudar de direc\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que sinalize a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso ultrapassar?",
+    "image": "images/ultrapassagem_2732.jpg",
+    "answers": [
+      {
+        "text": "Sim, porque existem duas vias de tr\u00e2nsito no mesmo sentido.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque o local tem dois sentidos de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Sim, porque o local tem pouca intensidade de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo seguir em frente e o condutor do ve\u00edculo de trac\u00e7\u00e3o animal vai mudar de direc\u00e7\u00e3o \u00e0 esquerda. O que devo fazer?",
+    "image": "images/ultrapassagem_2733.jpg",
+    "answers": [
+      {
+        "text": "Devo aguardar que o outro condutor termine a manobra, porque n\u00e3o posso ultrapassar pela direita.",
+        "correct": false
+      },
+      {
+        "text": "Devo ultrapassar o outro condutor pela direita, porque tenho espa\u00e7o livre.",
+        "correct": true
+      },
+      {
+        "text": "Devo utilizar os sinais sonoros, para que o outro condutor se aperceba da minha presen\u00e7a e aumente a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo ultrapassar o ve\u00edculo que segue \u00e0 minha frente. Devo:",
+    "image": "images/ultrapassagem_2734.jpg",
+    "answers": [
+      {
+        "text": "Aguardar que o condutor da frente realize a manobra.",
+        "correct": true
+      },
+      {
+        "text": "Aumentar a velocidade e realizar a manobra de imediato.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os sinais sonoros, para advertir o condutor da frente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pretendo ultrapassar. Posso faz\u00ea-lo?",
+    "image": "images/ultrapassagem_2735.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque a sinaliza\u00e7\u00e3o existente no local pro\u00edbe-me.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que o fa\u00e7a pela direita.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que o fa\u00e7a pela esquerda e n\u00e3o circulem ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qual deve ser o comportamento do ve\u00edculo que est\u00e1 a ser ultrapassado?",
+    "image": "images/ultrapassagem_2736.jpg",
+    "answers": [
+      {
+        "text": "Diminuir a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Manter a velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Parar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que sinal devo fazer ao iniciar a ultrapassagem do ve\u00edculo pesado que circula \u00e0 minha frente?",
+    "image": "images/ultrapassagem_2737.jpg",
+    "answers": [
+      {
+        "text": "Sinal de luzes.",
+        "correct": false
+      },
+      {
+        "text": "Sinal de mudan\u00e7a de direc\u00e7\u00e3o \u00e0 direita.",
+        "correct": false
+      },
+      {
+        "text": "Sinal de mudan\u00e7a de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Regra geral a ultrapassagem deve efectuar-se pelo lado esquerdo. Concorda?",
+    "image": "images/ultrapassagem_2738.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, salvo se existir mais de uma via de tr\u00e2nsito no mesmo sentido.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se a minha inten\u00e7\u00e3o for ultrapassar, o que devo fazer?",
+    "image": "images/ultrapassagem_2739.jpg",
+    "answers": [
+      {
+        "text": "Aguardar por momento adequado.",
+        "correct": true
+      },
+      {
+        "text": "Fazer uso do sinal sonoro para apressar o condutor.",
+        "correct": false
+      },
+      {
+        "text": "Iniciar a manobra rapidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se pretender ultrapassar este ve\u00edculo, devo certificar-me se posso realizar a manobra sem perigo de embater nos ve\u00edculos que circulam no mesmo sentido?",
+    "image": "images/ultrapassagem_2740.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo apenas certificar-me da possibilidade de realizar a manobra sem perigo de colis\u00e3o com os ve\u00edculos que circulam em sentido contr\u00e1rio.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, o C\u00f3digo da Estrada n\u00e3o estabelece qualquer obriga\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, \u00e9 uma das regras que devo cumprir antes de iniciar a manobra, mas devo tamb\u00e9m assegurar-me que n\u00e3o existe perigo de colidir com os ve\u00edculos que circulam em sentido contr\u00e1rio.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se pretender ultrapassar o ve\u00edculo que circula \u00e0 minha frente, como devo efectuar a manobra?",
+    "image": "images/ultrapassagem_2741.jpg",
+    "answers": [
+      {
+        "text": "Pelo lado direito.",
+        "correct": false
+      },
+      {
+        "text": "Pelo lado esquerdo.",
+        "correct": true
+      },
+      {
+        "text": "Posso ultrapassar pelo lado direito ou esquerdo, desde que sinalize a manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Se pretender ultrapassar o ve\u00edculo que circula \u00e0 minha frente, estou obrigado a certificar-me que posso realizar a manobra sem perigo de embater nos ve\u00edculos que circulam em sentido contr\u00e1rio?",
+    "image": "images/ultrapassagem_2742.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, mas devo certificar-me de que n\u00e3o h\u00e1 perigo na realiza\u00e7\u00e3o da manobra.",
+        "correct": false
+      },
+      {
+        "text": "Sim, \u00e9 uma das regras que devo cumprir antes de iniciar a manobra de ultrapassagem.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas quando efectuo a manobra de ultrapassagem pelo lado direito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sempre que \u00e0 minha frente circula um ve\u00edculo de marcha lenta, a manobra de ultrapassagem \u00e9 permitida.",
+    "image": "images/ultrapassagem_2743.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  }
+]

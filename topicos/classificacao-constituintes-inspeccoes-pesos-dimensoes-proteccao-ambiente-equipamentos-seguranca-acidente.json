@@ -1,0 +1,2246 @@
+[
+    {
+        "question": "A almofada de ar (airbag) \u00e9 obrigat\u00f3ria em todos os autom\u00f3veis ligeiros.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4274.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A almofada de ar frontal (airbag) \u00e9 um elemento de seguran\u00e7a?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4275.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, seguran\u00e7a activa.",
+                "correct": false
+            },
+            {
+                "text": "Sim, seguran\u00e7a passiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A forma como se utiliza o ve\u00edculo, influencia a sua manuten\u00e7\u00e3o?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4276.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, a forma como eu conduzo nada tem a ver com a manuten\u00e7\u00e3o do ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas em grandes viagens.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A inspec\u00e7\u00e3o peri\u00f3dica obrigat\u00f3ria \u00e9 efectuada:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4277.jpg",
+        "answers": [
+            {
+                "text": "Em qualquer centro de inspec\u00e7\u00f5es devidamente acreditado.",
+                "correct": true
+            },
+            {
+                "text": "Num centro de inspec\u00e7\u00f5es localizado no concelho da \u00e1rea de resid\u00eancia do condutor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A parte mec\u00e2nica do ve\u00edculo tem influ\u00eancia na condu\u00e7\u00e3o?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4278.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque a forma como se conduz um ve\u00edculo, nada tem a ver com seu funcionamento.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas se eu pretender atingir \u00abgrandes velocidades\u00bb.",
+                "correct": false
+            },
+            {
+                "text": "Sim, porque um funcionamento incorrecto do ve\u00edculo pode influenciar de forma negativa a minha condu\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A placa serve para sinalizar os autom\u00f3veis ou conjunto de ve\u00edculos:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4279.jpg",
+        "answers": [
+            {
+                "text": "Cuja tara exceda 3500 Kg.",
+                "correct": false
+            },
+            {
+                "text": "Cujo peso bruto exceda 3500 Kg.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A press\u00e3o do ar dos pneus deve ser verificada quando est\u00e3o:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4280.jpg",
+        "answers": [
+            {
+                "text": "Frios.",
+                "correct": true
+            },
+            {
+                "text": "Quentes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A press\u00e3o dos pneus deve ser verificada:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4281.jpg",
+        "answers": [
+            {
+                "text": "Apenas quando o condutor pretende fazer uma grande viagem.",
+                "correct": false
+            },
+            {
+                "text": "Apenas quando o ve\u00edculo \u00e9 sujeito \u00e0 inspec\u00e7\u00e3o peri\u00f3dica.",
+                "correct": false
+            },
+            {
+                "text": "Regularmente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A press\u00e3o dos pneus deve ser verificada:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4282.jpg",
+        "answers": [
+            {
+                "text": "Depois de uma viagem, imediatamente ap\u00f3s a imobiliza\u00e7\u00e3o do ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Durante a viagem.",
+                "correct": false
+            },
+            {
+                "text": "Regularmente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A press\u00e3o dos pneus deve ser:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4283.jpg",
+        "answers": [
+            {
+                "text": "Aquela que o condutor achar mais adequada.",
+                "correct": false
+            },
+            {
+                "text": "Aquela que o fabricante indicar.",
+                "correct": true
+            },
+            {
+                "text": "Igual para todos os ve\u00edculos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A que dist\u00e2ncia deve ser bem vis\u00edvel este sinal?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4284.jpg",
+        "answers": [
+            {
+                "text": "A pelo menos 100 metros.",
+                "correct": true
+            },
+            {
+                "text": "A pelo menos 150 metros.",
+                "correct": false
+            },
+            {
+                "text": "A pelo menos 200 metros.",
+                "correct": false
+            },
+            {
+                "text": "A pelo menos 30 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A que dist\u00e2ncia deve ser vis\u00edvel este sinal?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4285.jpg",
+        "answers": [
+            {
+                "text": "A pelo menos 100 metros.",
+                "correct": true
+            },
+            {
+                "text": "A pelo menos 150 metros.",
+                "correct": false
+            },
+            {
+                "text": "A pelo menos 200 metros.",
+                "correct": false
+            },
+            {
+                "text": "A pelo menos 50 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A que dist\u00e2ncia deve ser vis\u00edvel o tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o de perigo?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4286.jpg",
+        "answers": [
+            {
+                "text": "A pelo menos 100 metros.",
+                "correct": true
+            },
+            {
+                "text": "A pelo menos 120 metros.",
+                "correct": false
+            },
+            {
+                "text": "A pelo menos 30 metros.",
+                "correct": false
+            },
+            {
+                "text": "A pelo menos 80 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A utiliza\u00e7\u00e3o de pneum\u00e1ticos com press\u00e3o superior \u00e0 recomendada pelo construtor provoca o desgaste prematuro:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4287.jpg",
+        "answers": [
+            {
+                "text": "Da zona central do piso e diminui a ader\u00eancia.",
+                "correct": true
+            },
+            {
+                "text": "Das zonas laterais do piso e diminui a ader\u00eancia.",
+                "correct": false
+            },
+            {
+                "text": "Das zonas laterais do pneu, mas aumenta a ader\u00eancia.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A verifica\u00e7\u00e3o do l\u00edquido refrigerante deve ser feita:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4288.jpg",
+        "answers": [
+            {
+                "text": "Com o motor desligado e frio.",
+                "correct": true
+            },
+            {
+                "text": "Com o motor desligado, imediatamente depois de ter parado.",
+                "correct": false
+            },
+            {
+                "text": "Sempre com o motor a trabalhar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A verifica\u00e7\u00e3o do n\u00edvel do \u00f3leo deve ser feita:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4289.jpg",
+        "answers": [
+            {
+                "text": "Apenas quando pretendo fazer uma viagem grande.",
+                "correct": false
+            },
+            {
+                "text": "Regularmente com o motor a frio.",
+                "correct": true
+            },
+            {
+                "text": "Regularmente com o motor a quente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A verifica\u00e7\u00e3o do n\u00edvel do \u00f3leo pode ser feita pelo condutor?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4290.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque esta verifica\u00e7\u00e3o s\u00f3 pode ser feita por t\u00e9cnicos especializados.",
+                "correct": false
+            },
+            {
+                "text": "Sim, desde que mantenha o motor do ve\u00edculo a trabalhar.",
+                "correct": false
+            },
+            {
+                "text": "Sim, desde que saiba a forma correcta de o verificar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A verifica\u00e7\u00e3o dos n\u00edveis do \u00f3leo e do l\u00edquido de refrigera\u00e7\u00e3o deve ser feita:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4291.jpg",
+        "answers": [
+            {
+                "text": "Apenas quando no painel de instrumentos for dada essa indica\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Regularmente, pelo condutor.",
+                "correct": true
+            },
+            {
+                "text": "Sempre nas oficinas especializadas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Actualmente, os autom\u00f3veis ligeiros devem estar providos de cintos de seguran\u00e7a em todos os lugares?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4292.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, apenas no lugar do condutor.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, s\u00f3 nos lugares da frente.",
+                "correct": false
+            },
+            {
+                "text": "Sim, em todos os lugares.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Amortecedores com fugas de \u00f3leo causam:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4293.jpg",
+        "answers": [
+            {
+                "text": "Aumento de comodidade dos passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Desequil\u00edbrio do ve\u00edculo.",
+                "correct": true
+            },
+            {
+                "text": "Maior efic\u00e1cia na travagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Amortecedores em mau estado de conserva\u00e7\u00e3o originam:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4294.jpg",
+        "answers": [
+            {
+                "text": "Aumento da velocidade.",
+                "correct": false
+            },
+            {
+                "text": "Diminui\u00e7\u00e3o da dist\u00e2ncia de paragem.",
+                "correct": false
+            },
+            {
+                "text": "Perda de ader\u00eancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ao iniciar a marcha, o que deve fazer o condutor caso verifique que o sistema de escape est\u00e1 defeituoso e causa demasiado ru\u00eddo?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4295.jpg",
+        "answers": [
+            {
+                "text": "Desmontar o sistema de escape.",
+                "correct": false
+            },
+            {
+                "text": "Mand\u00e1-lo reparar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ao parar um autom\u00f3vel um condutor deve ter em considera\u00e7\u00e3o os seguintes factores:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4296.jpg",
+        "answers": [
+            {
+                "text": "A carga do ve\u00edculo e a velocidade a que circula.",
+                "correct": true
+            },
+            {
+                "text": "Apenas a carga do ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Unicamente o local escolhido para a paragem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ao prestar aux\u00edlio em caso de acidente e se houver suspeita de fractura nas costas da v\u00edtima devo evitar mov\u00ea-la para outro local. Concorda com a afirma\u00e7\u00e3o?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4297.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, salvo se houver suspeita de fractura no pesco\u00e7o.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ao transitar na via p\u00fablica o ve\u00edculo de trac\u00e7\u00e3o animal est\u00e1 sujeito a matr\u00edcula?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4298.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "As m\u00e1quinas industriais:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4299.jpg",
+        "answers": [
+            {
+                "text": "Eventualmente podem transitar na via p\u00fablica.",
+                "correct": true
+            },
+            {
+                "text": "Nunca podem transitar na via p\u00fablica.",
+                "correct": false
+            },
+            {
+                "text": "Podem transitar na via p\u00fablica, sem quaisquer limita\u00e7\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Autom\u00f3veis com lota\u00e7\u00e3o de 10 lugares, denominam-se:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4300.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis ligeiros mistos.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados de passageiros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Como devo classificar o ve\u00edculo que transita \u00e0 minha frente?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4301.jpg",
+        "answers": [
+            {
+                "text": "Ciclomotor, se a sua cilindrada n\u00e3o for superior a 125 cm3.",
+                "correct": false
+            },
+            {
+                "text": "Motociclo, se a sua tara n\u00e3o exceder 750 Kg.",
+                "correct": false
+            },
+            {
+                "text": "Tratocarro, se o seu peso bruto n\u00e3o ultrapassar 3500 Kg.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Considera-se que existem condi\u00e7\u00f5es de m\u00e1 visibilidade para a condu\u00e7\u00e3o:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4302.jpg",
+        "answers": [
+            {
+                "text": "Sempre que haja um elevado n\u00famero de ve\u00edculos em circula\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sempre que o condutor n\u00e3o aviste a via de tr\u00e2nsito numa extens\u00e3o e largura de, pelo menos, 50 metros.",
+                "correct": false
+            },
+            {
+                "text": "Sempre que o ve\u00edculo n\u00e3o tenha realizado a inspec\u00e7\u00e3o peri\u00f3dica.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Consideram-se autom\u00f3veis ligeiros:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4303.jpg",
+        "answers": [
+            {
+                "text": "Os autom\u00f3veis com lota\u00e7\u00e3o at\u00e9 9 lugares e cujo peso bruto n\u00e3o exceda 3.500 kg.",
+                "correct": true
+            },
+            {
+                "text": "Os autom\u00f3veis cuja lota\u00e7\u00e3o n\u00e3o exceda 10 lugares.",
+                "correct": false
+            },
+            {
+                "text": "Todos os autom\u00f3veis at\u00e9 4500 kg.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "De dia este sinal \u00e9 obrigat\u00f3rio para avisar da exist\u00eancia de:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4304.jpg",
+        "answers": [
+            {
+                "text": "Perigos v\u00e1rios.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos estacionados fora da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos parados ou estacionados parcial ou totalmente na faixa de rodagem.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Depois de lavar o ve\u00edculo, \u00e9 necess\u00e1rio o condutor testar principalmente:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4305.jpg",
+        "answers": [
+            {
+                "text": "A bateria.",
+                "correct": false
+            },
+            {
+                "text": "As luzes.",
+                "correct": false
+            },
+            {
+                "text": "Os trav\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Devem obrigatoriamente estar apetrechados com este sinal:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4306.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros e pesados em circula\u00e7\u00e3o .",
+                "correct": true
+            },
+            {
+                "text": "Todos os ve\u00edculos a motor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Devem ser submetidos a inspec\u00e7\u00e3o peri\u00f3dica obrigat\u00f3ria:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4307.jpg",
+        "answers": [
+            {
+                "text": "Apenas os conjuntos de ve\u00edculos compostos por autom\u00f3vel ligeiro e reboque de peso bruto at\u00e9 750 Kg.",
+                "correct": false
+            },
+            {
+                "text": "Apenas os motociclos de cilindrada superior a 50 cm3, com ou sem carro lateral.",
+                "correct": false
+            },
+            {
+                "text": "Os autom\u00f3veis ligeiros e pesados com reboque.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Dos factores integrantes da circula\u00e7\u00e3o rodovi\u00e1ria o mais importante \u00e9:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4308.jpg",
+        "answers": [
+            {
+                "text": "A via p\u00fablica.",
+                "correct": false
+            },
+            {
+                "text": "O Homem.",
+                "correct": true
+            },
+            {
+                "text": "O ve\u00edculo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Dos seguintes combust\u00edveis qual \u00e9 o menos poluente?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4309.jpg",
+        "answers": [
+            {
+                "text": "G\u00e1s",
+                "correct": true
+            },
+            {
+                "text": "Gasolina com chumbo.",
+                "correct": false
+            },
+            {
+                "text": "Gasolina sem chumbo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "\u00c9 o veloc\u00edmetro que me d\u00e1 indica\u00e7\u00e3o:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4310.jpg",
+        "answers": [
+            {
+                "text": "Da velocidade a que circulo.",
+                "correct": true
+            },
+            {
+                "text": "Do n\u00famero de quil\u00f3metros percorridos.",
+                "correct": false
+            },
+            {
+                "text": "Do n\u00famero de rota\u00e7\u00f5es do motor por minuto.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "\u00c9 obrigat\u00f3ria a utiliza\u00e7\u00e3o do cinto de seguran\u00e7a:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4311.jpg",
+        "answers": [
+            {
+                "text": "Dentro e fora das localidades.",
+                "correct": true
+            },
+            {
+                "text": "Somente dentro das localidades.",
+                "correct": false
+            },
+            {
+                "text": "Somente fora das localidades.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "\u00c9 obrigat\u00f3ria a utiliza\u00e7\u00e3o do tri\u00e2ngulo, quando:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4312.jpg",
+        "answers": [
+            {
+                "text": "O sistema de luzes do ve\u00edculo imobilizado estiver avariado.",
+                "correct": false
+            },
+            {
+                "text": "O ve\u00edculo imobilizado n\u00e3o for vis\u00edvel a 200 metros.",
+                "correct": false
+            },
+            {
+                "text": "O ve\u00edculo ou carga imobilizados na faixa de rodagem, n\u00e3o forem vis\u00edveis a 100 metros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "\u00c9 respons\u00e1vel pela manuten\u00e7\u00e3o do ve\u00edculo:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4313.jpg",
+        "answers": [
+            {
+                "text": "A oficina que o repara.",
+                "correct": false
+            },
+            {
+                "text": "O seu construtor.",
+                "correct": false
+            },
+            {
+                "text": "O seu utilizador.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Entende-se por corredor de circula\u00e7\u00e3o:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4314.jpg",
+        "answers": [
+            {
+                "text": "A via de tr\u00e2nsito destinada \u00e0 circula\u00e7\u00e3o de ve\u00edculos.",
+                "correct": false
+            },
+            {
+                "text": "A via de tr\u00e2nsito reservada a ve\u00edculos de determinada esp\u00e9cie ou afectos a determinados transportes.",
+                "correct": true
+            },
+            {
+                "text": "Toda a faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Entende-se por via p\u00fablica a que:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4315.jpg",
+        "answers": [
+            {
+                "text": "Permite a livre circula\u00e7\u00e3o de ciclomotores e de autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Permite a livre circula\u00e7\u00e3o de todos os ve\u00edculos.",
+                "correct": false
+            },
+            {
+                "text": "Permite a livre circula\u00e7\u00e3o de ve\u00edculos, pe\u00f5es e animais com as restri\u00e7\u00f5es impostas pelo C\u00f3digo da Estrada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal avisa-me da exist\u00eancia:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4316.jpg",
+        "answers": [
+            {
+                "text": "De trabalhos na via.",
+                "correct": false
+            },
+            {
+                "text": "De um ve\u00edculo imobilizado na faixa de rodagem.",
+                "correct": true
+            },
+            {
+                "text": "De um ve\u00edculo que circula em marcha lenta.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal deve ser colocado a 20 metros de um ve\u00edculo imobilizado.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4317.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica que:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4318.jpg",
+        "answers": [
+            {
+                "text": "Irei encontrar um obst\u00e1culo, pelo menos, a 100 metros.",
+                "correct": false
+            },
+            {
+                "text": "Irei encontrar um obst\u00e1culo, pelo menos, a 30 metros.",
+                "correct": true
+            },
+            {
+                "text": "Irei encontrar uma curva perigosa a 30 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal pode indicar a aproxima\u00e7\u00e3o de:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4319.jpg",
+        "answers": [
+            {
+                "text": "Trabalhos na estrada.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos estacionados fora da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos imobilizados por avaria, na faixa de rodagem.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este ve\u00edculo \u00e9:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4320.jpg",
+        "answers": [
+            {
+                "text": "Um tractor agr\u00edcola.",
+                "correct": false
+            },
+            {
+                "text": "Uma m\u00e1quina agr\u00edcola.",
+                "correct": false
+            },
+            {
+                "text": "Uma m\u00e1quina industrial.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este ve\u00edculo pesado pode ter 4,2 m de altura?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4321.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Estou obrigado a prestar aux\u00edlio em caso de acidente?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4322.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, excepto nos casos em que n\u00e3o tenha sido interveniente no acidente.",
+                "correct": false
+            },
+            {
+                "text": "Sim, sempre.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Na circula\u00e7\u00e3o rodovi\u00e1ria deve ser utilizada uma condu\u00e7\u00e3o econ\u00f3mica.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4323.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local \u00e9 obrigat\u00f3rio o uso do tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o, quando:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4324.jpg",
+        "answers": [
+            {
+                "text": "H\u00e1 fraca intensidade de tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "O ve\u00edculo parado na faixa de rodagem n\u00e3o \u00e9 vis\u00edvel a 100 metros.",
+                "correct": true
+            },
+            {
+                "text": "O veiculo parado n\u00e3o \u00e9 vis\u00edvel a 150 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "No habit\u00e1culo do ve\u00edculo, existe um painel de instrumentos que:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4325.jpg",
+        "answers": [
+            {
+                "text": "Deve ser conhecido pelo seu condutor.",
+                "correct": true
+            },
+            {
+                "text": "\u00c9 igual em todos os ve\u00edculos.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o tem grande interesse para a condu\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Nos autom\u00f3veis ligeiros, quem deve utilizar obrigatoriamente o cinto de seguran\u00e7a?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4326.jpg",
+        "answers": [
+            {
+                "text": "O condutor e o passageiro do banco da frente.",
+                "correct": false
+            },
+            {
+                "text": "O condutor e os passageiros do banco de tr\u00e1s, se forem crian\u00e7as.",
+                "correct": false
+            },
+            {
+                "text": "Todos os passageiros e o condutor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Num acidente entre dois autom\u00f3veis em que um dos condutores apresenta uma taxa de \u00e1lcool no sangue de 0,9 g/l:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4327.jpg",
+        "answers": [
+            {
+                "text": "O condutor deve saber que a seguradora pode n\u00e3o se responsabilizar pelos danos causados, mesmo que o seguro do ve\u00edculo seja v\u00e1lido.",
+                "correct": true
+            },
+            {
+                "text": "O condutor fica detido.",
+                "correct": false
+            },
+            {
+                "text": "O condutor incorre numa contra-ordena\u00e7\u00e3o leve.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Num autom\u00f3vel ligeiro de passageiros, a lota\u00e7\u00e3o m\u00e1xima, incluindo o lugar do condutor, \u00e9 de:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4328.jpg",
+        "answers": [
+            {
+                "text": "7 lugares.",
+                "correct": false
+            },
+            {
+                "text": "8 lugares.",
+                "correct": false
+            },
+            {
+                "text": "9 lugares.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Num autom\u00f3vel, os amortecedores:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4329.jpg",
+        "answers": [
+            {
+                "text": "Auxiliam a travagem.",
+                "correct": false
+            },
+            {
+                "text": "Contrariam as oscila\u00e7\u00f5es das molas.",
+                "correct": true
+            },
+            {
+                "text": "Suportam o excesso de carga.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O airbag \u00e9 um elemento de seguran\u00e7a:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4330.jpg",
+        "answers": [
+            {
+                "text": "Activa.",
+                "correct": false
+            },
+            {
+                "text": "Passiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O autom\u00f3vel imediatamente \u00e0 minha frente est\u00e1 imobilizado. Est\u00e1 correctamente sinalizado?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4331.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O bom funcionamento do ve\u00edculo \u00e9 um factor que tem influ\u00eancia no desempenho da tarefa da condu\u00e7\u00e3o.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4332.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O combust\u00edvel a utilizar em cada ve\u00edculo:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4333.jpg",
+        "answers": [
+            {
+                "text": "Deve ser escolhido pelo condutor.",
+                "correct": false
+            },
+            {
+                "text": "Deve ser o indicado pelo fabricante.",
+                "correct": true
+            },
+            {
+                "text": "Pode ser um qualquer.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O condutor contribui para uma maior protec\u00e7\u00e3o do ambiente:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4334.jpg",
+        "answers": [
+            {
+                "text": "Fazendo acelera\u00e7\u00f5es bruscas.",
+                "correct": false
+            },
+            {
+                "text": "Praticando uma condu\u00e7\u00e3o econ\u00f3mica.",
+                "correct": true
+            },
+            {
+                "text": "Utilizando exageradamente os trav\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O condutor do ve\u00edculo que emita ru\u00eddo superior ao determinado por lei:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4335.jpg",
+        "answers": [
+            {
+                "text": "Deve primeiro mandar reparar o ve\u00edculo para poder transitar.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 pode transitar a menos de 60 km/h.",
+                "correct": false
+            },
+            {
+                "text": "S\u00f3 pode transitar fora das localidades.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O condutor tem um papel fundamental na preserva\u00e7\u00e3o do meio ambiente?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4336.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, s\u00e3o atribui\u00e7\u00f5es que competem a outras entidades.",
+                "correct": false
+            },
+            {
+                "text": "Sim, porque deve contribuir para evitar a sua degrada\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O conjunto de ve\u00edculos que segue \u00e0 minha frente tem:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4337.jpg",
+        "answers": [
+            {
+                "text": "Mais de 10 metros de comprimento.",
+                "correct": false
+            },
+            {
+                "text": "Mais de 12 metros de comprimento.",
+                "correct": true
+            },
+            {
+                "text": "Mais de 8 metros de comprimento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O conta rota\u00e7\u00f5es \u00e9 um elemento que faz parte do painel de instrumentos?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4338.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque o conta rota\u00e7\u00f5es faz parte do motor do ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Sim, d\u00e1 indica\u00e7\u00e3o da temperatura do l\u00edquido de refrigera\u00e7\u00e3o do motor.",
+                "correct": false
+            },
+            {
+                "text": "Sim, d\u00e1 indica\u00e7\u00e3o do n\u00famero de rota\u00e7\u00f5es do motor por minuto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O conta-rota\u00e7\u00f5es indica:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4339.jpg",
+        "answers": [
+            {
+                "text": "O n\u00famero de rota\u00e7\u00f5es do motor por metro percorrido.",
+                "correct": false
+            },
+            {
+                "text": "O n\u00famero de rota\u00e7\u00f5es do motor por minuto.",
+                "correct": true
+            },
+            {
+                "text": "O n\u00famero de rota\u00e7\u00f5es do motor por quil\u00f3metro percorrido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O contacto dos pneum\u00e1ticos com o solo pode diminuir devido:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4340.jpg",
+        "answers": [
+            {
+                "text": "\u00c0 altura da suspens\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "\u00c0 velocidade a que o autom\u00f3vel circula.",
+                "correct": true
+            },
+            {
+                "text": "Ao di\u00e2metro do eixo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O estado de limpeza dos far\u00f3is pode influenciar a efic\u00e1cia das luzes.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4341.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O extintor \u00e9 um equipamento obrigat\u00f3rio nos autom\u00f3veis:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4342.jpg",
+        "answers": [
+            {
+                "text": "Pesados de mercadorias e passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Pesados de passageiros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O painel de instrumentos tem a fun\u00e7\u00e3o de:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4343.jpg",
+        "answers": [
+            {
+                "text": "Dar apenas informa\u00e7\u00f5es relativas a uma eventual avaria durante a viagem.",
+                "correct": false
+            },
+            {
+                "text": "Indicar apenas a velocidade m\u00e9dia a que o ve\u00edculo circula.",
+                "correct": false
+            },
+            {
+                "text": "Informar sobre o funcionamento do ve\u00edculo e auxiliar no cumprimento das normas legais.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que acontece se os trav\u00f5es actuarem de modo desigual sobre as rodas do mesmo eixo?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4344.jpg",
+        "answers": [
+            {
+                "text": "A dist\u00e2ncia de paragem diminui.",
+                "correct": false
+            },
+            {
+                "text": "O ve\u00edculo altera a traject\u00f3ria.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que deve fazer o condutor caso verifique que o sistema de escape do ve\u00edculo est\u00e1 defeituoso ou causa um ru\u00eddo anormal?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4345.jpg",
+        "answers": [
+            {
+                "text": "Desmontar o sistema de escape.",
+                "correct": false
+            },
+            {
+                "text": "Mandar reparar o sistema de escape.",
+                "correct": true
+            },
+            {
+                "text": "Nada, n\u00e3o \u00e9 obrigat\u00f3rio o correcto funcionamento do escape.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que pode acontecer se os trav\u00f5es actuarem de modo desigual sobre as rodas do mesmo eixo?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4346.jpg",
+        "answers": [
+            {
+                "text": "A dist\u00e2ncia de paragem diminui.",
+                "correct": false
+            },
+            {
+                "text": "A estabilidade do ve\u00edculo \u00e9 afectada.",
+                "correct": true
+            },
+            {
+                "text": "O ve\u00edculo n\u00e3o altera a traject\u00f3ria.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que pode provocar sobreaquecimento nos pneus?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4347.jpg",
+        "answers": [
+            {
+                "text": "Circular muito tempo a velocidade lenta.",
+                "correct": false
+            },
+            {
+                "text": "Press\u00e3o exagerada de ar no interior dos pneus.",
+                "correct": false
+            },
+            {
+                "text": "Press\u00e3o insuficiente de ar no interior dos pneus.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal colocado no pavimento, faz parte obrigat\u00f3ria do equipamento de todos os autom\u00f3veis.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4348.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sistema de direc\u00e7\u00e3o assistida aplicado aos autom\u00f3veis tem como fun\u00e7\u00e3o:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4349.jpg",
+        "answers": [
+            {
+                "text": "Aumentar a seguran\u00e7a na viragem.",
+                "correct": false
+            },
+            {
+                "text": "Aumentar o conforto do condutor.",
+                "correct": true
+            },
+            {
+                "text": "Permitir que o ve\u00edculo oscile menos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O tipo de combust\u00edvel a utilizar no ve\u00edculo, deve ser o referido pelo seu construtor?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4350.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, quem decide qual o combust\u00edvel a utilizar \u00e9 o condutor.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, quem decide qual o combust\u00edvel a utilizar \u00e9 sempre o propriet\u00e1rio.",
+                "correct": false
+            },
+            {
+                "text": "Sim, \u00e9 ele quem indica qual o combust\u00edvel a utilizar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O tr\u00e2nsito de ve\u00edculos de trac\u00e7\u00e3o animal \u00e9 equiparado ao tr\u00e2nsito de pe\u00f5es.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4351.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o de perigo est\u00e1 correctamente colocado?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4352.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque est\u00e1 dentro do ve\u00edculo.",
+                "correct": true
+            },
+            {
+                "text": "Sim, porque \u00e9 vis\u00edvel a 100 metros.",
+                "correct": false
+            },
+            {
+                "text": "Sim, porque \u00e9 vis\u00edvel a 30 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o de perigo est\u00e1 correctamente colocado?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4353.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque n\u00e3o se encontra colocado no pavimento a, pelo menos, 30 m da retaguarda do ve\u00edculo.",
+                "correct": true
+            },
+            {
+                "text": "Sim, porque assinala claramente o obst\u00e1culo.",
+                "correct": false
+            },
+            {
+                "text": "Sim, porque o autom\u00f3vel est\u00e1 imobilizado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o de perigo est\u00e1 correctamente colocado?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4354.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque deve estar colocado sobre a viatura imobilizada.",
+                "correct": false
+            },
+            {
+                "text": "Sim, desde que esteja no pavimento em qualquer posi\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, porque deve estar colocado verticalmente em rela\u00e7\u00e3o ao pavimento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o deve ser bem vis\u00edvel a uma dist\u00e2ncia de, pelo menos:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4355.jpg",
+        "answers": [
+            {
+                "text": "100 metros.",
+                "correct": true
+            },
+            {
+                "text": "150 metros.",
+                "correct": false
+            },
+            {
+                "text": "200 metros.",
+                "correct": false
+            },
+            {
+                "text": "50 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O tri\u00e2ngulo de pr\u00e9-sinaliza\u00e7\u00e3o pode ser colocado deste modo?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4356.jpg",
+        "answers": [
+            {
+                "text": "Nunca, pois deve ser colocado a, pelo menos, 30 metros do ve\u00edculo.",
+                "correct": true
+            },
+            {
+                "text": "Sim, quando o ve\u00edculo \u00e9 vis\u00edvel a 100 metros.",
+                "correct": false
+            },
+            {
+                "text": "Sim, sempre que existe perigo de furto do tri\u00e2ngulo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O uso pelo condutor do colete retroreflector, \u00e9 obrigat\u00f3rio:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4357.jpg",
+        "answers": [
+            {
+                "text": "Depois do condutor colocar o sinal de pr\u00e9-sinaliza\u00e7\u00e3o de perigo.",
+                "correct": false
+            },
+            {
+                "text": "Em caso de avaria ou acidente, salvo se o ve\u00edculo se encontrar imobilizado na faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Sempre que o condutor proceda \u00e0 coloca\u00e7\u00e3o do sinal de pr\u00e9-sinaliza\u00e7\u00e3o de perigo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O ve\u00edculo \u00e0 minha frente \u00e9 um veloc\u00edpede?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4358.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque \u00e9 equiparado a um pe\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, porque \u00e9 um ve\u00edculo de duas rodas e pode ser accionado s\u00f3 pelo esfor\u00e7o do condutor",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O ve\u00edculo de trac\u00e7\u00e3o animal \u00e9 considerado um autom\u00f3vel, se tiver quatro rodas?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4359.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, se o seu peso n\u00e3o ultrapassar os 550 Kg.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O ve\u00edculo que circula \u00e0 minha frente:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4360.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 destinado ao transporte de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 um ve\u00edculo de marcha lenta.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o pode transitar na via p\u00fablica.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O ve\u00edculo que transita \u00e0 minha frente \u00e9:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4361.jpg",
+        "answers": [
+            {
+                "text": "Um tractor agr\u00edcola.",
+                "correct": true
+            },
+            {
+                "text": "Uma m\u00e1quina agr\u00edcola.",
+                "correct": false
+            },
+            {
+                "text": "Uma m\u00e1quina industrial.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O ve\u00edculo que transita \u00e0 minha frente, est\u00e1 obrigado a ter matr\u00edcula?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4362.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, mas apenas pode transitar em caminhos particulares.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O veloc\u00edmetro indica:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4363.jpg",
+        "answers": [
+            {
+                "text": "A velocidade instant\u00e2nea.",
+                "correct": true
+            },
+            {
+                "text": "A velocidade m\u00e1xima a transitar no local.",
+                "correct": false
+            },
+            {
+                "text": "A velocidade m\u00e9dia.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O veloc\u00edmetro indica:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4364.jpg",
+        "answers": [
+            {
+                "text": "A velocidade instant\u00e2nea.",
+                "correct": true
+            },
+            {
+                "text": "O n\u00famero de quil\u00f3metros a percorrer.",
+                "correct": false
+            },
+            {
+                "text": "O n\u00famero de quil\u00f3metros percorridos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os autom\u00f3veis destinados ao transporte de mercadorias, cujo peso bruto n\u00e3o exceda 3500 Kg, designam-se por:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4365.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros de mercadorias.",
+                "correct": true
+            },
+            {
+                "text": "Autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os autom\u00f3veis ligeiros devem estar equipados com um sinal de pr\u00e9-sinaliza\u00e7\u00e3o?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4366.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os autom\u00f3veis podem circular sem dispositivo destinado a tornar silencioso o motor?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4367.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, n\u00e3o podem.",
+                "correct": true
+            },
+            {
+                "text": "Sim, se estiverem equipados com motor diesel.",
+                "correct": false
+            },
+            {
+                "text": "Sim, se forem ligeiros e n\u00e3o transitarem dentro das localidades.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os autom\u00f3veis s\u00e3o obrigados a ter pelo menos um colete retroreflector que tem como fun\u00e7\u00e3o:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4368.jpg",
+        "answers": [
+            {
+                "text": "Permitir diferenciar os condutores dos agentes de autoridade e de quem presta assist\u00eancia.",
+                "correct": false
+            },
+            {
+                "text": "Permitir diferenciar um dos ocupantes do ve\u00edculo dos agentes de autoridade que se encontram no local, em caso de acidente.",
+                "correct": false
+            },
+            {
+                "text": "Permitir que, em caso de avaria ou acidente, o condutor possa ser visto pelos outros condutores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os catalisadores, s\u00e3o dispositivos que t\u00eam como fun\u00e7\u00e3o:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4369.jpg",
+        "answers": [
+            {
+                "text": "Diminuir a emiss\u00e3o de poluentes atmosf\u00e9ricos.",
+                "correct": true
+            },
+            {
+                "text": "Diminuir o consumo de combust\u00edvel.",
+                "correct": false
+            },
+            {
+                "text": "Diminuir os ru\u00eddos de escape.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os factores integrantes da circula\u00e7\u00e3o rodovi\u00e1ria s\u00e3o:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4370.jpg",
+        "answers": [
+            {
+                "text": "O Homem como condutor e pe\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "O Homem, o ve\u00edculo e a via.",
+                "correct": true
+            },
+            {
+                "text": "O ve\u00edculo e o condutor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os pain\u00e9is retroreflectores servem para sinalizar os autom\u00f3veis ou conjunto de ve\u00edculos:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4371.jpg",
+        "answers": [
+            {
+                "text": "Com peso bruto superior a 3,5 toneladas.",
+                "correct": true
+            },
+            {
+                "text": "Com tara superior a 3,5 toneladas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os pneus dos autom\u00f3veis ligeiros devem apresentar um relevo de, pelo menos:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4372.jpg",
+        "answers": [
+            {
+                "text": "1 mm.",
+                "correct": false
+            },
+            {
+                "text": "1,5 mm.",
+                "correct": false
+            },
+            {
+                "text": "1,6 mm.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os pneus dos autom\u00f3veis pesados de mercadorias devem apresentar um relevo de, pelo menos:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4373.jpg",
+        "answers": [
+            {
+                "text": "1 mm.",
+                "correct": true
+            },
+            {
+                "text": "1,5 mm.",
+                "correct": false
+            },
+            {
+                "text": "1,6 mm.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os ve\u00edculos agr\u00edcolas destinam-se:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4374.jpg",
+        "answers": [
+            {
+                "text": "A trabalhos agr\u00edcolas.",
+                "correct": true
+            },
+            {
+                "text": "Ao transporte de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Ao transporte de passageiros ou a trabalhos agr\u00edcolas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Para a lota\u00e7\u00e3o de um autom\u00f3vel ligeiro contam:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4375.jpg",
+        "answers": [
+            {
+                "text": "As pessoas que nele forem sentadas ou de p\u00e9 se forem crian\u00e7as.",
+                "correct": false
+            },
+            {
+                "text": "As pessoas que o ve\u00edculo pode transportar, incluindo o condutor.",
+                "correct": true
+            },
+            {
+                "text": "Todas as pessoas que nele forem, excepto as crian\u00e7as de colo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Para engrenar as mudan\u00e7as deve-se:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4376.jpg",
+        "answers": [
+            {
+                "text": "Adequar a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Aumentar a velocidade do motor.",
+                "correct": false
+            },
+            {
+                "text": "Utilizar o trav\u00e3o de servi\u00e7o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Para o c\u00e1lculo do peso bruto dos autom\u00f3veis \u00e9 atribu\u00eddo ao condutor:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4377.jpg",
+        "answers": [
+            {
+                "text": "Um peso de 65 kg.",
+                "correct": false
+            },
+            {
+                "text": "Um peso de 75 kg.",
+                "correct": true
+            },
+            {
+                "text": "Um peso de zero kg.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Para se dar a combust\u00e3o no motor \u00e9 essencial a presen\u00e7a de:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4378.jpg",
+        "answers": [
+            {
+                "text": "Chumbo.",
+                "correct": false
+            },
+            {
+                "text": "Di\u00f3xido de carbono.",
+                "correct": false
+            },
+            {
+                "text": "Oxig\u00e9nio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Para uma condu\u00e7\u00e3o segura, \u00e9 necess\u00e1rio que o ve\u00edculo tenha um bom funcionamento.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4379.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Posso parar ou estacionar do lado direito?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4380.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a categoria que \u00e9 necess\u00e1ria para conduzir um autom\u00f3vel com lota\u00e7\u00e3o de 10 lugares?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4381.jpg",
+        "answers": [
+            {
+                "text": "Categoria A.",
+                "correct": false
+            },
+            {
+                "text": "Categoria B.",
+                "correct": false
+            },
+            {
+                "text": "Categoria C.",
+                "correct": false
+            },
+            {
+                "text": "Categoria D.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual \u00e9 a habilita\u00e7\u00e3o necess\u00e1ria para conduzir um autom\u00f3vel de passageiros com lota\u00e7\u00e3o de 11 lugares?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4382.jpg",
+        "answers": [
+            {
+                "text": "Carta de condu\u00e7\u00e3o de autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Carta de condu\u00e7\u00e3o de autom\u00f3veis pesados de passageiros.",
+                "correct": true
+            },
+            {
+                "text": "Carta de condu\u00e7\u00e3o de tractores agr\u00edcolas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Quando eu piso o pedal da embraiagem:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4383.jpg",
+        "answers": [
+            {
+                "text": "Desligo o movimento das rodas do movimento do motor.",
+                "correct": true
+            },
+            {
+                "text": "Ligo o movimento das rodas ao movimento do motor.",
+                "correct": false
+            },
+            {
+                "text": "Travo o motor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Quando o condutor pisa o pedal da embraiagem:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4384.jpg",
+        "answers": [
+            {
+                "text": "Faz-se a liga\u00e7\u00e3o do movimento entre o motor e as rodas.",
+                "correct": false
+            },
+            {
+                "text": "Interrompe-se a liga\u00e7\u00e3o do movimento entre o motor e as rodas.",
+                "correct": true
+            },
+            {
+                "text": "Interrompe-se o movimento do motor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Quando um condutor fixa o seu olhar em determinado pormenor distante:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4385.jpg",
+        "answers": [
+            {
+                "text": "A vis\u00e3o \u00e9 mais n\u00edtida nas zonas laterais do que no pormenor.",
+                "correct": false
+            },
+            {
+                "text": "A vis\u00e3o \u00e9 mais n\u00edtida no centro desse pormenor mas mais difusa nas zonas laterais.",
+                "correct": true
+            },
+            {
+                "text": "A vis\u00e3o \u00e9 t\u00e3o n\u00edtida no centro como nas zonas laterais.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Quando um condutor verificar que o seu ve\u00edculo produz demasiado fumo, deve reparar a anomalia:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4386.jpg",
+        "answers": [
+            {
+                "text": "O mais rapidamente poss\u00edvel.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 no caso dos fumos serem negros.",
+                "correct": false
+            },
+            {
+                "text": "Somente antes de se apresentar \u00e0 pr\u00f3xima inspec\u00e7\u00e3o peri\u00f3dica obrigat\u00f3ria.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Que ve\u00edculos devem estar apetrechados com este sinal?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4387.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros e pesados .",
+                "correct": true
+            },
+            {
+                "text": "Autom\u00f3veis ligeiros, autom\u00f3veis pesados e motociclos.",
+                "correct": false
+            },
+            {
+                "text": "S\u00f3 os autom\u00f3veis ligeiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Quem deve fazer a verifica\u00e7\u00e3o do n\u00edvel do l\u00edquido refrigerante no motor do ve\u00edculo?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4388.jpg",
+        "answers": [
+            {
+                "text": "Esta verifica\u00e7\u00e3o s\u00f3 pode ser feita numa oficina especializada.",
+                "correct": false
+            },
+            {
+                "text": "O seu normal utilizador.",
+                "correct": true
+            },
+            {
+                "text": "O seu utilizador no final de cada desloca\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Regra geral, a verifica\u00e7\u00e3o do n\u00edvel de \u00f3leo deve ser feita:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4389.jpg",
+        "answers": [
+            {
+                "text": "Antes de iniciar a marcha, com o motor a frio.",
+                "correct": true
+            },
+            {
+                "text": "Antes de iniciar a marcha, com o motor a trabalhar.",
+                "correct": false
+            },
+            {
+                "text": "No final de cada viagem, com o motor ainda quente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Se a press\u00e3o dos pneum\u00e1ticos de um autom\u00f3vel n\u00e3o estiver correcta este fica:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4390.jpg",
+        "answers": [
+            {
+                "text": "Com mais seguran\u00e7a activa.",
+                "correct": false
+            },
+            {
+                "text": "Com menos seguran\u00e7a activa.",
+                "correct": true
+            },
+            {
+                "text": "Mais c\u00f3modo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Se o passageiro transportado no banco da frente n\u00e3o utilizar o cinto de seguran\u00e7a, a responsabilidade \u00e9, por regra:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4391.jpg",
+        "answers": [
+            {
+                "text": "Do condutor do ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Do propriet\u00e1rio do ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Do pr\u00f3prio passageiro.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Se tiver necessidade de substituir uma roda, devo em primeiro lugar:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4392.jpg",
+        "answers": [
+            {
+                "text": "Colocar o \u00abmacaco\u00bb.",
+                "correct": false
+            },
+            {
+                "text": "Desapertar as porcas totalmente.",
+                "correct": false
+            },
+            {
+                "text": "Imobilizar o ve\u00edculo num local seguro.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Se, em consequ\u00eancia de um acidente de via\u00e7\u00e3o, come\u00e7ar um inc\u00eandio no ve\u00edculo o condutor deve desligar o motor e a bateria. Concorda com a afirma\u00e7\u00e3o?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4393.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Sendo titular de carta de condu\u00e7\u00e3o da categoria B, posso atrelar ao meu ve\u00edculo algum reboque?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4394.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, desde que o peso bruto do reboque n\u00e3o exceda 6000 Kg.",
+                "correct": false
+            },
+            {
+                "text": "Sim, um reboque de peso bruto at\u00e9 750 Kg.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Todos os componentes do ve\u00edculo devem ser cuidados pelo seu utilizador, com o objectivo de se manterem em perfeitas condi\u00e7\u00f5es de funcionamento.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4395.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um amortecedor a derramar \u00f3leo:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4396.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o prejudica a estabilidade do autom\u00f3vel a velocidade moderada.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o prejudica a estabilidade do ve\u00edculo desde que circule junto \u00e0 berma.",
+                "correct": false
+            },
+            {
+                "text": "Prejudica a seguran\u00e7a da circula\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Um autom\u00f3vel cujo peso bruto seja 4500 Kg pode ser considerado um autom\u00f3vel ligeiro?",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4397.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um condutor, ao conduzir um autom\u00f3vel, deve:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4398.jpg",
+        "answers": [
+            {
+                "text": "Concentrar toda a sua vis\u00e3o no que se pode desenrolar na frente do ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Olhar de modo a explorar visualmente, e em pouco tempo, o maior n\u00famero de pormenores que o rodeiam.",
+                "correct": true
+            },
+            {
+                "text": "Olhar s\u00f3 para os espelhos retrovisores pois pode estar a ser ultrapassado por algum ve\u00edculo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um dos cuidados a ter em certas baterias \u00e9 o de adicionar:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4399.jpg",
+        "answers": [
+            {
+                "text": "\u00c1gua destilada at\u00e9 cobrir as placas.",
+                "correct": true
+            },
+            {
+                "text": "L\u00edquido de arrefecimento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um ve\u00edculo que emita fumos em quantidade superior \u00e0 fixada por lei:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4400.jpg",
+        "answers": [
+            {
+                "text": "Deve ser reparado para poder transitar.",
+                "correct": true
+            },
+            {
+                "text": "Pode transitar at\u00e9 \u00e0 data da pr\u00f3xima inspec\u00e7\u00e3o peri\u00f3dica.",
+                "correct": false
+            },
+            {
+                "text": "S\u00f3 pode transitar fora das localidades.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um ve\u00edculo reprovado em inspec\u00e7\u00e3o deve apresentar-se a reinspec\u00e7\u00e3o:",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4401.jpg",
+        "answers": [
+            {
+                "text": "No per\u00edodo m\u00e1ximo de 24h.",
+                "correct": false
+            },
+            {
+                "text": "No per\u00edodo m\u00e1ximo de 30 dias.",
+                "correct": true
+            },
+            {
+                "text": "Pelo per\u00edodo determinado pelo centro de inspec\u00e7\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Uma correcta manuten\u00e7\u00e3o do ve\u00edculo ajuda a garantir a protec\u00e7\u00e3o ambiental.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4402.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Uma correcta manuten\u00e7\u00e3o do ve\u00edculo, \u00e9 um factor que tem grande influ\u00eancia na seguran\u00e7a rodovi\u00e1ria.",
+        "image": "images/classificacao-constituintes-inspeccoes-pesos-dimensoes-proteccao-ambiente-equipamentos-seguranca-acidente_4403.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado",
+                "correct": false
+            }
+        ]
+    }
+]

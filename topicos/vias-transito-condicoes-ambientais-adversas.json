@@ -1,0 +1,1998 @@
+[
+  {
+    "question": "A aquaplanagem pode ocorrer:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4768.jpg",
+    "answers": [
+      {
+        "text": "Apenas com pneus lisos.",
+        "correct": false
+      },
+      {
+        "text": "Se eu n\u00e3o adaptar a velocidade \u00e0s condi\u00e7\u00f5es do piso.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A aquaplanagem, regra geral, \u00e9 provocada por:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4769.jpg",
+    "answers": [
+      {
+        "text": "\u00c1gua.",
+        "correct": true
+      },
+      {
+        "text": "\u00d3leo na estrada.",
+        "correct": false
+      },
+      {
+        "text": "Qualquer subst\u00e2ncia que se encontre entre o pneu e o piso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A condu\u00e7\u00e3o nestas condi\u00e7\u00f5es afecta:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4770.jpg",
+    "answers": [
+      {
+        "text": "A dist\u00e2ncia de reac\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "A dist\u00e2ncia de travagem.",
+        "correct": true
+      },
+      {
+        "text": "O tempo de reac\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A dist\u00e2ncia de paragem aumenta quando a ader\u00eancia ao piso \u00e9:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4771.jpg",
+    "answers": [
+      {
+        "text": "Maior.",
+        "correct": false
+      },
+      {
+        "text": "Menor.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A perda de informa\u00e7\u00e3o visual que se verifica durante a noite dificulta os processos de percep\u00e7\u00e3o e de tomada de decis\u00e3o ao volante.",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4772.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A sinaliza\u00e7\u00e3o adverte-me para a poss\u00edvel diminui\u00e7\u00e3o de ader\u00eancia. Devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4773.jpg",
+    "answers": [
+      {
+        "text": "Diminuir a dist\u00e2ncia de paragem e aumentar a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Diminuir a dist\u00e2ncia de seguran\u00e7a e aumentar a dist\u00e2ncia de paragem.",
+        "correct": false
+      },
+      {
+        "text": "Diminuir a velocidade e aumentar a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A velocidade deve ser especialmente moderada quando as condi\u00e7\u00f5es atmosf\u00e9ricas s\u00e3o desfavor\u00e1veis.",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4774.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A via de tr\u00e2nsito destina-se \u00e0 circula\u00e7\u00e3o de quantas filas de ve\u00edculos?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4775.jpg",
+    "answers": [
+      {
+        "text": "Duas.",
+        "correct": false
+      },
+      {
+        "text": "Tr\u00eas ou mais.",
+        "correct": false
+      },
+      {
+        "text": "Uma.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A visibilidade \u00e9 reduzida ou insuficiente sempre que o condutor n\u00e3o possa avistar a faixa de rodagem em toda a sua largura numa extens\u00e3o de, pelo menos, 50 metros.",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4776.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular em auto-estrada estou obrigado a circular:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4777.jpg",
+    "answers": [
+      {
+        "text": "Pela via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "Pela via de tr\u00e2nsito mais \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Pela via de tr\u00e2nsito mais conveniente ao meu destino.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular fora de uma localidade em marcha lenta, o condutor de um autom\u00f3vel pesado deve manter em rela\u00e7\u00e3o ao ve\u00edculo que circula \u00e0 sua frente uma dist\u00e2ncia m\u00ednima de 50 metros.",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4778.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o est\u00e1 correcta.",
+        "correct": true
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o est\u00e1 incorrecta.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta via p\u00fablica, o condutor de um autom\u00f3vel pesado deve manter uma dist\u00e2ncia m\u00ednima que permita a sua ultrapassagem com seguran\u00e7a. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4779.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, a afirma\u00e7\u00e3o est\u00e1 incorrecta.",
+        "correct": false
+      },
+      {
+        "text": "Sim, deve manter uma dist\u00e2ncia m\u00e1xima de 50 metros.",
+        "correct": false
+      },
+      {
+        "text": "Sim, deve manter uma dist\u00e2ncia m\u00ednima de 50 metros.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular nesta via, devo moderar especialmente a velocidade?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4780.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, apenas estou obrigado a regular a velocidade em fun\u00e7\u00e3o do limite m\u00e1ximo para esta via.",
+        "correct": false
+      },
+      {
+        "text": "Sim, devo adequar a velocidade atendendo \u00e0s condi\u00e7\u00f5es meteorol\u00f3gicas.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular neste local devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4781.jpg",
+    "answers": [
+      {
+        "text": "Circular sempre \u00e0 velocidade m\u00e1xima de 120 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Circular sempre com as luzes de presen\u00e7a ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Manter sempre uma dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ao circular numa auto-estrada e sempre que a visibilidade seja insuficiente, como devo proceder em caso de avaria da luz de cruzamento do lado direito?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4782.jpg",
+    "answers": [
+      {
+        "text": "A circula\u00e7\u00e3o apenas \u00e9 permitida at\u00e9 \u00e0 pr\u00f3xima \u00e1rea de servi\u00e7o ou sa\u00edda mais pr\u00f3xima.",
+        "correct": true
+      },
+      {
+        "text": "A circula\u00e7\u00e3o \u00e9 permitida at\u00e9 ao local de destino.",
+        "correct": false
+      },
+      {
+        "text": "Devo imobilizar imediatamente o ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ao circular numa auto-estrada e sempre que a visibilidade seja insuficiente, como devo proceder em caso de avaria da luz de cruzamento do lado esquerdo?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4783.jpg",
+    "answers": [
+      {
+        "text": "A circula\u00e7\u00e3o apenas \u00e9 permitida at\u00e9 \u00e0 pr\u00f3xima \u00e1rea de servi\u00e7o ou sa\u00edda mais pr\u00f3xima.",
+        "correct": false
+      },
+      {
+        "text": "A circula\u00e7\u00e3o \u00e9 permitida at\u00e9 ao local de destino.",
+        "correct": false
+      },
+      {
+        "text": "Devo imobilizar o ve\u00edculo em seguran\u00e7a, o mais rapidamente poss\u00edvel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "As condi\u00e7\u00f5es meteorol\u00f3gicas ou ambientais podem obrigar-me a moderar especialmente a velocidade?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4784.jpg",
+    "answers": [
+      {
+        "text": "Sim, mas apenas quando chove ou est\u00e1 nevoeiro.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas quando chove, neva, est\u00e1 nevoeiro, h\u00e1 gelo ou \u00e9 de noite.",
+        "correct": false
+      },
+      {
+        "text": "Sim, sempre que a visibilidade \u00e9 afectada.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Circulo numa auto-estrada. Posso inverter o sentido da marcha?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4785.jpg",
+    "answers": [
+      {
+        "text": "\u00c9 permitido com baixo volume de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "\u00c9 permitido junto \u00e0s portagens.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, \u00e9 proibido.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Circulo numa via reservada a autom\u00f3veis e motociclos. Logo na via de tr\u00e2nsito em que me encontro podem circular, para ultrapassar:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4786.jpg",
+    "answers": [
+      {
+        "text": "Todos os autom\u00f3veis, menos os pesados de mercadorias ou conjunto de ve\u00edculos cujo comprimento exceda 7 metros.",
+        "correct": true
+      },
+      {
+        "text": "Todos os autom\u00f3veis, menos os pesados de passageiros.",
+        "correct": false
+      },
+      {
+        "text": "Todos os ve\u00edculos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Com estas condi\u00e7\u00f5es atmosf\u00e9ricas posso ultrapassar?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4787.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, porque n\u00e3o tenho visibilidade suficiente.",
+        "correct": true
+      },
+      {
+        "text": "Sim, porque n\u00e3o v\u00eam ve\u00edculos em sentido contr\u00e1rio.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Com o piso escorregadio, devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4788.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Diminuir a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Manter a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder na situa\u00e7\u00e3o em que me encontro?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4789.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Circular junto ao eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Ligar os m\u00e1ximos e reduzir a velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder no local em que circulo?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4790.jpg",
+    "answers": [
+      {
+        "text": "Adaptar a velocidade \u00e0s condi\u00e7\u00f5es da via.",
+        "correct": true
+      },
+      {
+        "text": "Fazer uso das luzes de perigo para assinalar a minha presen\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a dist\u00e2ncia que me separa do ve\u00edculo da frente.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e circular com as luzes de estrada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder para circular em seguran\u00e7a no local em que me encontro?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4791.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a dist\u00e2ncia de paragem do ve\u00edculo que conduzo.",
+        "correct": false
+      },
+      {
+        "text": "Circular em marcha lenta fazendo uso das luzes de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Guardar dist\u00e2ncia de seguran\u00e7a em rela\u00e7\u00e3o ao ve\u00edculo da frente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder para circular em seguran\u00e7a no local em que me encontro?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4792.jpg",
+    "answers": [
+      {
+        "text": "Adaptar a velocidade \u00e0s caracter\u00edsticas da via e condi\u00e7\u00f5es atmosf\u00e9ricas.",
+        "correct": true
+      },
+      {
+        "text": "Aproximar o ve\u00edculo o mais poss\u00edvel do eixo da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Travar a fundo antes de entrar na curva.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como devo proceder quando a via se encontra em mau estado de conserva\u00e7\u00e3o?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4793.jpg",
+    "answers": [
+      {
+        "text": "Circular pela parte que estiver em melhores condi\u00e7\u00f5es.",
+        "correct": false
+      },
+      {
+        "text": "Devo circular pela direita da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "Devo circular pela esquerda da faixa de rodagem, se a via for de sentido \u00fanico.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como se chama a via de tr\u00e2nsito \u00e0 minha direita?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4794.jpg",
+    "answers": [
+      {
+        "text": "Berma.",
+        "correct": false
+      },
+      {
+        "text": "Via de abrandamento.",
+        "correct": false
+      },
+      {
+        "text": "Via de acelera\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Via r\u00e1pida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Como se designa a via de tr\u00e2nsito \u00e0 minha direita e que permite a entrada na auto-estrada?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4795.jpg",
+    "answers": [
+      {
+        "text": "Via de abrandamento.",
+        "correct": false
+      },
+      {
+        "text": "Via de acelera\u00e7\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Via revers\u00edvel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Conduzir com chuva provoca:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4796.jpg",
+    "answers": [
+      {
+        "text": "A diminui\u00e7\u00e3o da dist\u00e2ncia de paragem.",
+        "correct": false
+      },
+      {
+        "text": "A redu\u00e7\u00e3o da visibilidade.",
+        "correct": true
+      },
+      {
+        "text": "O aumento da ader\u00eancia ao piso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Conduzo um autom\u00f3vel ligeiro de mercadorias sem reboque. Qual \u00e9 a velocidade m\u00e1xima permitida neste local?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4797.jpg",
+    "answers": [
+      {
+        "text": "100 km/h.",
+        "correct": false
+      },
+      {
+        "text": "110 Km/h.",
+        "correct": true
+      },
+      {
+        "text": "90 Km/h.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Devo ligar as luzes de cruzamento, quando:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4798.jpg",
+    "answers": [
+      {
+        "text": "A intensidade do tr\u00e2nsito \u00e9 maior.",
+        "correct": false
+      },
+      {
+        "text": "A redu\u00e7\u00e3o de velocidade for s\u00fabita.",
+        "correct": false
+      },
+      {
+        "text": "A redu\u00e7\u00e3o de visibilidade o justificar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 permitido inverter o sentido de marcha neste local?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4799.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\u00c9 poss\u00edvel conduzir de forma segura com condi\u00e7\u00f5es atmosf\u00e9ricas desfavor\u00e1veis?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4800.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, \u00e9 imposs\u00edvel manter uma condu\u00e7\u00e3o segura.",
+        "correct": false
+      },
+      {
+        "text": "Sim, desde que adapte a minha condu\u00e7\u00e3o \u00e0s condi\u00e7\u00f5es atmosf\u00e9ricas adversas.",
+        "correct": true
+      },
+      {
+        "text": "Sim, desde que respeite os limites de velocidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Em auto-estrada devo adaptar a velocidade do meu ve\u00edculo em fun\u00e7\u00e3o das caracter\u00edsticas e estado da via?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4801.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, desde que n\u00e3o ultrapasse os 120 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Sim, de modo a que consiga fazer parar o ve\u00edculo no espa\u00e7o livre e vis\u00edvel \u00e0 minha frente.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Em caso de s\u00fabita redu\u00e7\u00e3o de velocidade, provocada por condi\u00e7\u00f5es meteorol\u00f3gicas adversas, devo utilizar as luzes avisadoras de perigo?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4802.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Em que consiste o fen\u00f3meno de encandeamento?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4803.jpg",
+    "answers": [
+      {
+        "text": "Na diminui\u00e7\u00e3o do tempo de fixa\u00e7\u00e3o dos olhos nos objectos.",
+        "correct": false
+      },
+      {
+        "text": "Na perda moment\u00e2nea da capacidade de vis\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "No aumento do tempo de fixa\u00e7\u00e3o dos olhos nos objectos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Encontro-me correctamente posicionado nesta via de tr\u00e2nsito para seguir para Vila Franca?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4804.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, devo circular na via de tr\u00e2nsito da esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, devo circular nesta via de tr\u00e2nsito mais \u00e0 direita.",
+        "correct": true
+      },
+      {
+        "text": "Sim, embora possa circular noutra via de tr\u00e2nsito independentemente do meu destino.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Encontro-me correctamente posicionado nesta via de tr\u00e2nsito se pretender seguir a direc\u00e7\u00e3o de Elvas?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4805.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, deveria estar j\u00e1 posicionado na via \u00e0 minha direita.",
+        "correct": false
+      },
+      {
+        "text": "N\u00e3o, deveria ocupar a via imediatamente \u00e0 minha esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Sim, \u00e9 esta a via que me permite seguir na direc\u00e7\u00e3o pretendida.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Menor ader\u00eancia deve implicar sempre:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4806.jpg",
+    "answers": [
+      {
+        "text": "Maior aten\u00e7\u00e3o e uma diminui\u00e7\u00e3o da dist\u00e2ncia de travagem.",
+        "correct": false
+      },
+      {
+        "text": "Modera\u00e7\u00e3o especial da velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Uma diminui\u00e7\u00e3o da visibilidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na condu\u00e7\u00e3o com chuva deve ter-se o seguinte comportamento:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4807.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Diminuir a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Diminuir a recolha de informa\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na condu\u00e7\u00e3o com chuva \u00e9 necess\u00e1rio ter em aten\u00e7\u00e3o:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4808.jpg",
+    "answers": [
+      {
+        "text": "A redu\u00e7\u00e3o da ader\u00eancia ao piso e a diminui\u00e7\u00e3o da visibilidade.",
+        "correct": true
+      },
+      {
+        "text": "A redu\u00e7\u00e3o de visibilidade e o aumento da ader\u00eancia ao piso.",
+        "correct": false
+      },
+      {
+        "text": "O aumento da ader\u00eancia ao piso.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Na condu\u00e7\u00e3o com condi\u00e7\u00f5es atmosf\u00e9ricas adversas, como \u00e9 o caso, devo ter especial aten\u00e7\u00e3o ao comportamento inesperado dos pe\u00f5es.",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4809.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": true
+      },
+      {
+        "text": "Errado.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nas auto-estradas com tr\u00eas ou mais vias de tr\u00e2nsito afectas ao mesmo sentido, que ve\u00edculos se encontram proibidos de utilizar a via de tr\u00e2nsito mais \u00e0 esquerda?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4810.jpg",
+    "answers": [
+      {
+        "text": "Os autom\u00f3veis ligeiros de mercadorias e os mistos.",
+        "correct": false
+      },
+      {
+        "text": "Os autom\u00f3veis pesados de mercadorias ou conjuntos de ve\u00edculos cujo comprimento exceda 7 m.",
+        "correct": true
+      },
+      {
+        "text": "Os autom\u00f3veis pesados de passageiros.",
+        "correct": false
+      },
+      {
+        "text": "Os motociclos.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nas auto-estradas s\u00f3 podem circular ve\u00edculos cujas caracter\u00edsticas lhes permitam atingir uma velocidade em patamar superior a:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4811.jpg",
+    "answers": [
+      {
+        "text": "40 km/h.",
+        "correct": false
+      },
+      {
+        "text": "50 km/h.",
+        "correct": false
+      },
+      {
+        "text": "60 km/h.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta auto-estrada podem circular:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4812.jpg",
+    "answers": [
+      {
+        "text": "Todos os autom\u00f3veis.",
+        "correct": true
+      },
+      {
+        "text": "Todos os motociclos e autom\u00f3veis.",
+        "correct": false
+      },
+      {
+        "text": "Todos os ve\u00edculos, excepto os veloc\u00edpedes.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o a velocidade deve ser moderada, porque:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4813.jpg",
+    "answers": [
+      {
+        "text": "As condi\u00e7\u00f5es ambientais e de circula\u00e7\u00e3o s\u00e3o desfavor\u00e1veis.",
+        "correct": true
+      },
+      {
+        "text": "Circulo em auto-estrada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o de chuva estou a ultrapassar. Devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4814.jpg",
+    "answers": [
+      {
+        "text": "Terminar a manobra rapidamente e travar assim que retomar a direita.",
+        "correct": false
+      },
+      {
+        "text": "Terminar a ultrapassagem evitando manobras bruscas.",
+        "correct": true
+      },
+      {
+        "text": "Travar e desistir da manobra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo acender os m\u00e9dios para:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4815.jpg",
+    "answers": [
+      {
+        "text": "Assinalar a presen\u00e7a do ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "Assinalar uma ultrapassagem.",
+        "correct": false
+      },
+      {
+        "text": "Estacionar na faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo evitar:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4816.jpg",
+    "answers": [
+      {
+        "text": "Fazer travagens bruscas.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar o motor como auxiliar de travagem.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar o trav\u00e3o de servi\u00e7o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo transitar com velocidade especialmente moderada, devido:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4817.jpg",
+    "answers": [
+      {
+        "text": "\u00c0s condi\u00e7\u00f5es de ader\u00eancia e \u00e0 exist\u00eancia de uma linha cont\u00ednua.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0s condi\u00e7\u00f5es de ader\u00eancia e visibilidade.",
+        "correct": true
+      },
+      {
+        "text": "\u00c0s condi\u00e7\u00f5es de visibilidade e \u00e0 exist\u00eancia de uma linha cont\u00ednua.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo utilizar as luzes de cruzamento?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4818.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, desde que n\u00e3o circule nenhum ve\u00edculo \u00e0 minha frente.",
+        "correct": false
+      },
+      {
+        "text": "Sim, \u00e9 obrigat\u00f3rio.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4819.jpg",
+    "answers": [
+      {
+        "text": "Buzinar para advertir o condutor que tem as luzes ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Procurar afastar-me dos len\u00e7\u00f3is de \u00e1gua a fim de evitar uma poss\u00edvel aquaplanagem.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade e colocar-me o mais \u00e0 direita poss\u00edvel.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4820.jpg",
+    "answers": [
+      {
+        "text": "Circular com as luzes avisadoras de perigo.",
+        "correct": false
+      },
+      {
+        "text": "Circular com as luzes de presen\u00e7a ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Circular com velocidade especialmente moderada.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4821.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Diminuir a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Ligar as luzes de cruzamento e adaptar a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4822.jpg",
+    "answers": [
+      {
+        "text": "Utilizar apenas o trav\u00e3o de servi\u00e7o.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar o motor como auxiliar do trav\u00e3o, de maneira a aumentar a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar o motor como auxiliar do trav\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4823.jpg",
+    "answers": [
+      {
+        "text": "Parar, porque as condi\u00e7\u00f5es atmosf\u00e9ricas n\u00e3o s\u00e3o favor\u00e1veis a uma condu\u00e7\u00e3o segura.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar o motor como auxiliar do trav\u00e3o e moderar a velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar o trav\u00e3o de servi\u00e7o e nunca o motor como auxiliar, porque a via n\u00e3o \u00e9 inclinada.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4824.jpg",
+    "answers": [
+      {
+        "text": "Estar especialmente atento \u00e0s condi\u00e7\u00f5es do piso.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar a berma ou a faixa de rodagem consoante o estado do piso.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar a berma se na faixa de rodagem, existirem po\u00e7as de \u00e1gua.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o em que as condi\u00e7\u00f5es atmosf\u00e9ricas s\u00e3o adversas, devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4825.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      },
+      {
+        "text": "Moderar a velocidade e diminuir a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o o que devo fazer?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4826.jpg",
+    "answers": [
+      {
+        "text": "Acender os m\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "Transitar a velocidade moderada.",
+        "correct": true
+      },
+      {
+        "text": "Travar a fundo imediatamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o posso circular com as luzes de estrada.",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4827.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o se precisar de travar posso faz\u00ea-lo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4828.jpg",
+    "answers": [
+      {
+        "text": "Bloqueando as rodas.",
+        "correct": false
+      },
+      {
+        "text": "Com o motor.",
+        "correct": true
+      },
+      {
+        "text": "Com o trav\u00e3o de m\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, a ac\u00e7\u00e3o de vento lateral influencia principalmente:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4829.jpg",
+    "answers": [
+      {
+        "text": "A estabilidade e traject\u00f3ria do ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "O aumento de velocidade.",
+        "correct": false
+      },
+      {
+        "text": "O sistema de ilumina\u00e7\u00e3o.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, a minha condu\u00e7\u00e3o pode ser especialmente condicionada pela:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4830.jpg",
+    "answers": [
+      {
+        "text": "Ader\u00eancia.",
+        "correct": true
+      },
+      {
+        "text": "Aus\u00eancia de sinaliza\u00e7\u00e3o vertical.",
+        "correct": false
+      },
+      {
+        "text": "Visibilidade.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, a presen\u00e7a de vento lateral pode afectar a minha condu\u00e7\u00e3o?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4831.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, a sinaliza\u00e7\u00e3o indica perigo de vento lateral intenso, que incide:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4832.jpg",
+    "answers": [
+      {
+        "text": "Da direita para a esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Da esquerda para a direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo dar especial aten\u00e7\u00e3o:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4833.jpg",
+    "answers": [
+      {
+        "text": "Ao comportamento do pe\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Ao ve\u00edculo que circula atr\u00e1s do meu ve\u00edculo.",
+        "correct": false
+      },
+      {
+        "text": "Ao ve\u00edculo, que j\u00e1 iniciou a marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, devo moderar especialmente a minha velocidade tendo em aten\u00e7\u00e3o qual dos seguintes factores?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4834.jpg",
+    "answers": [
+      {
+        "text": "A sinaliza\u00e7\u00e3o horizontal.",
+        "correct": false
+      },
+      {
+        "text": "A sinaliza\u00e7\u00e3o vertical.",
+        "correct": false
+      },
+      {
+        "text": "As condi\u00e7\u00f5es de ader\u00eancia da via.",
+        "correct": true
+      },
+      {
+        "text": "O ve\u00edculo que me precede.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, em que a visibilidade \u00e9 reduzida, devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4835.jpg",
+    "answers": [
+      {
+        "text": "Transitar com as luzes de cruzamento e utilizar com frequ\u00eancia o trav\u00e3o de servi\u00e7o para ser visto.",
+        "correct": false
+      },
+      {
+        "text": "Transitar com as luzes de cruzamento, de modo a ver e a ser visto.",
+        "correct": true
+      },
+      {
+        "text": "Transitar com as luzes de nevoeiro apenas se circularem ve\u00edculos atr\u00e1s de mim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, porque me encontro a menos de 250 metros da pr\u00f3xima sa\u00edda estou proibido de ultrapassar.",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4836.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta situa\u00e7\u00e3o, torna-se importante estar atento:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4837.jpg",
+    "answers": [
+      {
+        "text": "Apenas ao n\u00famero de vias de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "Apenas aos limites de velocidade impostos por sinaliza\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "E adaptar a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta via n\u00e3o podem transitar:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4838.jpg",
+    "answers": [
+      {
+        "text": "Autom\u00f3veis ligeiros.",
+        "correct": false
+      },
+      {
+        "text": "Autom\u00f3veis pesados.",
+        "correct": false
+      },
+      {
+        "text": "Motociclos com cilindrada igual ou inferior a 50 cm3.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Nesta via podem circular:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4839.jpg",
+    "answers": [
+      {
+        "text": "Autom\u00f3veis ligeiros e pesados.",
+        "correct": true
+      },
+      {
+        "text": "Pe\u00f5es, animais, carros de m\u00e3o e ciclomotores.",
+        "correct": false
+      },
+      {
+        "text": "Pe\u00f5es, animais, veloc\u00edpedes e ve\u00edculos de trac\u00e7\u00e3o animal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 proibido:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4840.jpg",
+    "answers": [
+      {
+        "text": "Acender os m\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "Parar e estacionar.",
+        "correct": true
+      },
+      {
+        "text": "Parar e ultrapassar.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 proibido:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4841.jpg",
+    "answers": [
+      {
+        "text": "Circular a mais de 90 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Circular a menos de 60 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Parar.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local \u00e9 proibido:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4842.jpg",
+    "answers": [
+      {
+        "text": "Circular a menos de 60 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Circular com os m\u00e1ximos.",
+        "correct": false
+      },
+      {
+        "text": "Fazer marcha atr\u00e1s.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso ultrapassar pela direita.",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4843.jpg",
+    "answers": [
+      {
+        "text": "Certo.",
+        "correct": false
+      },
+      {
+        "text": "Errado.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Neste local posso utilizar a via de tr\u00e2nsito mais \u00e0 esquerda:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4844.jpg",
+    "answers": [
+      {
+        "text": "Desde que n\u00e3o circule outro ve\u00edculo \u00e0 minha retaguarda.",
+        "correct": false
+      },
+      {
+        "text": "Durante o tempo necess\u00e1rio para efectuar uma ultrapassagem.",
+        "correct": true
+      },
+      {
+        "text": "Sempre que circule a mais de 60 Km/h.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neste momento chove e a intensidade do tr\u00e2nsito aumenta. Devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4845.jpg",
+    "answers": [
+      {
+        "text": "Adaptar a minha condu\u00e7\u00e3o \u00e0s condi\u00e7\u00f5es adversas.",
+        "correct": true
+      },
+      {
+        "text": "Ligar as luzes de cruzamento e aumentar a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Transitar com a m\u00e1xima prud\u00eancia, porque a dist\u00e2ncia de travagem diminui.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O condutor do ve\u00edculo, que me precede, pode circular na via de tr\u00e2nsito mais \u00e0 esquerda?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4846.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O que se entende por via de tr\u00e2nsito?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4847.jpg",
+    "answers": [
+      {
+        "text": "Via de comunica\u00e7\u00e3o terrestre do dom\u00ednio privado aberta ao tr\u00e2nsito p\u00fablico.",
+        "correct": false
+      },
+      {
+        "text": "Via de tr\u00e1fego resultante do alargamento da faixa de rodagem.",
+        "correct": false
+      },
+      {
+        "text": "Zona longitudinal da faixa de rodagem destinada \u00e0 circula\u00e7\u00e3o de uma \u00fanica fila de ve\u00edculos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O s\u00edmbolo do lado esquerdo da via indica que o vento sopra :",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4848.jpg",
+    "answers": [
+      {
+        "text": "Da direita para a esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Da esquerda para a direita.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal avisa-me que a minha velocidade deve ser especialmente adaptada:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4849.jpg",
+    "answers": [
+      {
+        "text": "\u00c0 inclina\u00e7\u00e3o da via.",
+        "correct": false
+      },
+      {
+        "text": "\u00c0s condi\u00e7\u00f5es de ader\u00eancia da faixa de rodagem.",
+        "correct": true
+      },
+      {
+        "text": "\u00c0s condi\u00e7\u00f5es de visibilidade do local.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O sinal de fundo azul determina a velocidade:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4850.jpg",
+    "answers": [
+      {
+        "text": "M\u00e1xima aconselh\u00e1vel.",
+        "correct": false
+      },
+      {
+        "text": "M\u00e1xima obrigat\u00f3ria.",
+        "correct": false
+      },
+      {
+        "text": "M\u00ednima aconselh\u00e1vel.",
+        "correct": false
+      },
+      {
+        "text": "M\u00ednima obrigat\u00f3ria.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal de fundo azul significa:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4851.jpg",
+    "answers": [
+      {
+        "text": "Velocidade m\u00e1xima permitida de 50 Km/h.",
+        "correct": false
+      },
+      {
+        "text": "Velocidade m\u00ednima aconselh\u00e1vel de 50 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Velocidade m\u00ednima obrigat\u00f3ria de 50 km/h.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "O sinal vertical do lado direito indica-me que me encontro a:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4852.jpg",
+    "answers": [
+      {
+        "text": "100 metros da pr\u00f3xima sa\u00edda.",
+        "correct": false
+      },
+      {
+        "text": "150 metros da pr\u00f3xima sa\u00edda.",
+        "correct": false
+      },
+      {
+        "text": "250 metros da pr\u00f3xima sa\u00edda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os ciclomotores podem transitar em auto-estrada?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4853.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o podem.",
+        "correct": true
+      },
+      {
+        "text": "Podem, dentro dos limites de velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Podem, em qualquer circunst\u00e2ncia.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Os condutores apenas devem utilizar as luzes de nevoeiro quando as condi\u00e7\u00f5es meteorol\u00f3gicas ou ambientais o justifiquem. Concorda com a afirma\u00e7\u00e3o?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4854.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os condutores de autom\u00f3veis pesados de mercadorias ou conjuntos de ve\u00edculos cujo comprimento exceda 7 m apenas podem circular nas duas vias de tr\u00e2nsito mais \u00e0 direita.",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4855.jpg",
+    "answers": [
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+        "correct": false
+      },
+      {
+        "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Os condutores est\u00e3o obrigados a regular a velocidade atendendo \u00e0s condi\u00e7\u00f5es meteorol\u00f3gicas ou ambientais. Concorda com esta afirma\u00e7\u00e3o?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4856.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para circular em seguran\u00e7a com vento lateral intenso, devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4857.jpg",
+    "answers": [
+      {
+        "text": "Aumentar a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Manter a velocidade.",
+        "correct": false
+      },
+      {
+        "text": "Reduzir a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Para transitar em seguran\u00e7a neste local, devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4858.jpg",
+    "answers": [
+      {
+        "text": "Diminuir a press\u00e3o dos pneus, para que a ader\u00eancia ao piso seja maior.",
+        "correct": false
+      },
+      {
+        "text": "Estar especialmente atento e adaptar a velocidade.",
+        "correct": true
+      },
+      {
+        "text": "Reduzir a velocidade e transitar no eixo da faixa de rodagem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a manga de vento do lado esquerdo da via, fico a saber que o vento:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4859.jpg",
+    "answers": [
+      {
+        "text": "Afecta o consumo do combust\u00edvel no ve\u00edculo.",
+        "correct": true
+      },
+      {
+        "text": "N\u00e3o afecta o consumo do combust\u00edvel no ve\u00edculo.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Perante a sinaliza\u00e7\u00e3o, que encontro neste local, devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4860.jpg",
+    "answers": [
+      {
+        "text": "Diminuir a dist\u00e2ncia de paragem.",
+        "correct": false
+      },
+      {
+        "text": "Diminuir a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Moderar a velocidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Perante o sinal de obriga\u00e7\u00e3o devo:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4861.jpg",
+    "answers": [
+      {
+        "text": "Circular \u00e0 dist\u00e2ncia m\u00ednima de 50 km/h do ve\u00edculo que segue \u00e0 frente.",
+        "correct": false
+      },
+      {
+        "text": "Circular \u00e0 velocidade m\u00e1xima de 50 km/h.",
+        "correct": false
+      },
+      {
+        "text": "Circular a velocidade n\u00e3o inferior a 50 km/h.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Posso fazer marcha atr\u00e1s nesta via?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4862.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, nunca posso.",
+        "correct": true
+      },
+      {
+        "text": "Posso, se fizer a manobra muito rapidamente.",
+        "correct": false
+      },
+      {
+        "text": "Posso, se houver pouca intensidade de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso transpor as aberturas existentes nos separadores de tr\u00e2nsito?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4863.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+        "correct": true
+      },
+      {
+        "text": "Sim, mas apenas para inverter o sentido de marcha.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas para mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso transpor os separadores de tr\u00e2nsito existentes nesta via p\u00fablica?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4864.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": true
+      },
+      {
+        "text": "Sim, excepto nas auto-estradas.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Posso utilizar a via da esquerda:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4865.jpg",
+    "answers": [
+      {
+        "text": "Em qualquer circunst\u00e2ncia, porque circulo numa auto-estrada.",
+        "correct": false
+      },
+      {
+        "text": "Para efectuar uma ultrapassagem.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Qual das seguintes afirma\u00e7\u00f5es est\u00e1 correcta?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4866.jpg",
+    "answers": [
+      {
+        "text": "Em meio urbano a dist\u00e2ncia de seguran\u00e7a deve ser maior que em meio n\u00e3o urbano.",
+        "correct": false
+      },
+      {
+        "text": "Enquanto que em estrada a condu\u00e7\u00e3o provoca sono, em meio urbano provoca fadiga.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Quando a via se encontra molhada, como devo proceder para evitar a hidroplanagem?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4867.jpg",
+    "answers": [
+      {
+        "text": "Conduzir a velocidade moderada.",
+        "correct": true
+      },
+      {
+        "text": "Fazer uso constante do trav\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Fazer uso de pneus de chuva.",
+        "correct": false
+      },
+      {
+        "text": "Utilizar os limpa-p\u00e1ra-brisas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quando chove, a ader\u00eancia ao piso:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4868.jpg",
+    "answers": [
+      {
+        "text": "Aumenta, diminuindo no entanto a dist\u00e2ncia de seguran\u00e7a.",
+        "correct": false
+      },
+      {
+        "text": "Diminui, aumentando a dist\u00e2ncia de travagem.",
+        "correct": true
+      },
+      {
+        "text": "Diminui, e a dist\u00e2ncia de travagem tamb\u00e9m diminui.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quando o piso est\u00e1 escorregadio, a ader\u00eancia diminui e:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4869.jpg",
+    "answers": [
+      {
+        "text": "A dist\u00e2ncia de paragem n\u00e3o se altera.",
+        "correct": false
+      },
+      {
+        "text": "A dist\u00e2ncia de travagem aumenta.",
+        "correct": true
+      },
+      {
+        "text": "A dist\u00e2ncia percorrida durante o tempo de reac\u00e7\u00e3o diminui.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quando o piso est\u00e1 escorregadio:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4870.jpg",
+    "answers": [
+      {
+        "text": "A ader\u00eancia aumenta e a dist\u00e2ncia de seguran\u00e7a diminui.",
+        "correct": false
+      },
+      {
+        "text": "A ader\u00eancia aumenta e a dist\u00e2ncia de travagem diminui.",
+        "correct": false
+      },
+      {
+        "text": "A ader\u00eancia diminui e a dist\u00e2ncia de paragem aumenta.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Quando o piso est\u00e1 escorregadio:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4871.jpg",
+    "answers": [
+      {
+        "text": "A dist\u00e2ncia de travagem aumenta.",
+        "correct": true
+      },
+      {
+        "text": "A dist\u00e2ncia de travagem diminui.",
+        "correct": false
+      },
+      {
+        "text": "A dist\u00e2ncia de travagem n\u00e3o se altera.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Que ve\u00edculos podem circular numa auto-estrada?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4872.jpg",
+    "answers": [
+      {
+        "text": "Apenas os autom\u00f3veis ligeiros e os pesados.",
+        "correct": false
+      },
+      {
+        "text": "Os autom\u00f3veis, os motociclos e os triciclos de cilindrada superior a 50cm3 e as m\u00e1quinas industriais com matr\u00edcula.",
+        "correct": true
+      },
+      {
+        "text": "Todos, \u00e0 excep\u00e7\u00e3o dos tractores agr\u00edcolas.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Regra geral, qual dos seguintes factores condiciona mais a condu\u00e7\u00e3o nocturna?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4873.jpg",
+    "answers": [
+      {
+        "text": "A audi\u00e7\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "A aus\u00eancia de tr\u00e2nsito.",
+        "correct": false
+      },
+      {
+        "text": "As condi\u00e7\u00f5es de visibilidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se a visibilidade \u00e9 menor a velocidade deve ser moderada, porque:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4874.jpg",
+    "answers": [
+      {
+        "text": "H\u00e1 mais dificuldade em recolher informa\u00e7\u00e3o, logo h\u00e1 uma maior capacidade de previs\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "H\u00e1 mais informa\u00e7\u00e3o a recolher.",
+        "correct": false
+      },
+      {
+        "text": "H\u00e1 uma maior dificuldade em recolher informa\u00e7\u00e3o.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Se o pe\u00e3o iniciar a travessia, o ve\u00edculo que se encontra \u00e0 minha frente deve:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4875.jpg",
+    "answers": [
+      {
+        "text": "Ceder-lhe a passagem.",
+        "correct": true
+      },
+      {
+        "text": "Utilizar os sinais sonoros e prosseguir a marcha.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sempre que a visibilidade diminui e a intensidade de tr\u00e2nsito aumenta:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4876.jpg",
+    "answers": [
+      {
+        "text": "A velocidade deve aumentar.",
+        "correct": false
+      },
+      {
+        "text": "A velocidade deve diminuir.",
+        "correct": true
+      },
+      {
+        "text": "A velocidade n\u00e3o pode diminuir.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sempre que se verifiquem condi\u00e7\u00f5es meteorol\u00f3gicas ou ambientais que tornem a visibilidade insuficiente, nomeadamente, em caso de queda de neve, os condutores devem utilizar as luzes:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4877.jpg",
+    "answers": [
+      {
+        "text": "De cruzamento.",
+        "correct": true
+      },
+      {
+        "text": "De estrada.",
+        "correct": false
+      },
+      {
+        "text": "De presen\u00e7a.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sempre que se verifiquem condi\u00e7\u00f5es meteorol\u00f3gicas ou ambientais que tornem a visibilidade insuficiente, os condutores devem utilizar as luzes do seu ve\u00edculo?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4878.jpg",
+    "answers": [
+      {
+        "text": "N\u00e3o.",
+        "correct": false
+      },
+      {
+        "text": "Sim, mas apenas durante a noite.",
+        "correct": false
+      },
+      {
+        "text": "Sim.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Tendo acabado de ultrapassar o ve\u00edculo que circulava na via mais \u00e0 direita, posso continuar a circular nesta via ou estou obrigado a passar para a via da direita?",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4879.jpg",
+    "answers": [
+      {
+        "text": "Estou obrigado a passar para a via de tr\u00e2nsito mais \u00e0 direita, logo que o possa fazer sem perigo.",
+        "correct": true
+      },
+      {
+        "text": "Posso continuar a circular nesta ou na via de tr\u00e2nsito mais \u00e0 esquerda.",
+        "correct": false
+      },
+      {
+        "text": "Posso continuar a circular nesta via de tr\u00e2nsito.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Todas as manobras, que s\u00e3o executadas, com o pavimento molhado ou escorregadio, devem:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4880.jpg",
+    "answers": [
+      {
+        "text": "Implicar uma aten\u00e7\u00e3o especial.",
+        "correct": true
+      },
+      {
+        "text": "Ser feitas com as luzes de perigo ligadas.",
+        "correct": false
+      },
+      {
+        "text": "Ser feitas rapidamente.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uma das consequ\u00eancias da condu\u00e7\u00e3o com chuva \u00e9:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4881.jpg",
+    "answers": [
+      {
+        "text": "A diminui\u00e7\u00e3o da dist\u00e2ncia de paragem.",
+        "correct": false
+      },
+      {
+        "text": "A diminui\u00e7\u00e3o da dist\u00e2ncia de travagem.",
+        "correct": false
+      },
+      {
+        "text": "A diminui\u00e7\u00e3o da visibilidade.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Uma das precau\u00e7\u00f5es que deve ser tomada na condu\u00e7\u00e3o com gelo, ser\u00e1:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4882.jpg",
+    "answers": [
+      {
+        "text": "A utiliza\u00e7\u00e3o das luzes de nevoeiro e o aumento da dist\u00e2ncia de paragem.",
+        "correct": false
+      },
+      {
+        "text": "A utiliza\u00e7\u00e3o das luzes de nevoeiro.",
+        "correct": false
+      },
+      {
+        "text": "O aumento da dist\u00e2ncia de seguran\u00e7a.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Uma das principais caracter\u00edsticas de uma auto-estrada \u00e9:",
+    "image": "images/vias-transito-condicoes-ambientais-adversas_4883.jpg",
+    "answers": [
+      {
+        "text": "Haver cruzamentos de n\u00edvel e acesso a propriedades marginais.",
+        "correct": false
+      },
+      {
+        "text": "Ser uma via p\u00fablica destinada a tr\u00e2nsito r\u00e1pido.",
+        "correct": true
+      },
+      {
+        "text": "Ser uma via p\u00fablica localizada numa zona com edifica\u00e7\u00f5es.",
+        "correct": false
+      }
+    ]
+  }
+]

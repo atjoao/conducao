@@ -1,0 +1,5254 @@
+[
+    {
+        "question": "A indica\u00e7\u00e3o dada pelo sinal de mensagem vari\u00e1vel:",
+        "image": "images/sinais-proibicao_1723.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o tem qualquer valor.",
+                "correct": false
+            },
+            {
+                "text": "Tem car\u00e1cter facultativo.",
+                "correct": false
+            },
+            {
+                "text": "Tem car\u00e1cter obrigat\u00f3rio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A partir deste sinal fico a saber que:",
+        "image": "images/sinais-proibicao_1724.jpg",
+        "answers": [
+            {
+                "text": "Devo usar os sinais sonoros \u00e0 noite.",
+                "correct": false
+            },
+            {
+                "text": "Nunca poderei usar os sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Termina a proibi\u00e7\u00e3o de usar os sinais sonoros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A proibi\u00e7\u00e3o de transitar, imposta pelo sinal vertical, de forma circular, que se encontra do meu lado direito, aplica-se:",
+        "image": "images/sinais-proibicao_1725.jpg",
+        "answers": [
+            {
+                "text": "Aos autom\u00f3veis de mercadorias e ve\u00edculos a motor com reboque.",
+                "correct": true
+            },
+            {
+                "text": "Aos autom\u00f3veis de mercadorias e ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": false
+            },
+            {
+                "text": "Aos autom\u00f3veis pesados e ve\u00edculos a motor com reboque.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A que tipo de peso se refere o sinal?",
+        "image": "images/sinais-proibicao_1726.jpg",
+        "answers": [
+            {
+                "text": "Peso bruto.",
+                "correct": false
+            },
+            {
+                "text": "Peso total.",
+                "correct": true
+            },
+            {
+                "text": "Tara.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A que ve\u00edculos se aplica a proibi\u00e7\u00e3o sinalizada?",
+        "image": "images/sinais-proibicao_1727.jpg",
+        "answers": [
+            {
+                "text": "Aos ve\u00edculos de peso por eixo inferior a 2,4t.",
+                "correct": false
+            },
+            {
+                "text": "Aos ve\u00edculos de peso por eixo superior a 2,4t.",
+                "correct": true
+            },
+            {
+                "text": "Aos ve\u00edculos de peso total superior a 2,4t.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A que ve\u00edculos se destinam as proibi\u00e7\u00f5es constantes dos sinais?",
+        "image": "images/sinais-proibicao_1728.jpg",
+        "answers": [
+            {
+                "text": "A todos os ve\u00edculos de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "A todos os ve\u00edculos pesados.",
+                "correct": false
+            },
+            {
+                "text": "A todos os ve\u00edculos que transportem mat\u00e9rias perigosas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o pro\u00edbe a circula\u00e7\u00e3o de ve\u00edculos com peso total superior a 3,5t.",
+        "image": "images/sinais-proibicao_1729.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o da via indica-me que determinados ve\u00edculos:",
+        "image": "images/sinais-proibicao_1730.jpg",
+        "answers": [
+            {
+                "text": "Est\u00e3o obrigados a circular nesse sentido.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o podem circular nessa via.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o podem circular nesse sentido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o da via onde circulo permite-me ultrapassar um autom\u00f3vel?",
+        "image": "images/sinais-proibicao_1731.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o de mensagem vari\u00e1vel, pode proibir comportamentos ou condicionar o tr\u00e2nsito de determinada via.",
+        "image": "images/sinais-proibicao_1732.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o existente no local indica:",
+        "image": "images/sinais-proibicao_1733.jpg",
+        "answers": [
+            {
+                "text": "A proibi\u00e7\u00e3o de parar.",
+                "correct": false
+            },
+            {
+                "text": "Que devo parar.",
+                "correct": true
+            },
+            {
+                "text": "Que neste local n\u00e3o devo mudar de direc\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o existente obriga-me:",
+        "image": "images/sinais-proibicao_1734.jpg",
+        "answers": [
+            {
+                "text": "A curvar com as devidas precau\u00e7\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "A mudar de direc\u00e7\u00e3o para a direita.",
+                "correct": false
+            },
+            {
+                "text": "A mudar de direc\u00e7\u00e3o para a esquerda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o indica que a manobra de ultrapassagem \u00e9:",
+        "image": "images/sinais-proibicao_1735.jpg",
+        "answers": [
+            {
+                "text": "Permitida.",
+                "correct": true
+            },
+            {
+                "text": "Proibida.",
+                "correct": false
+            },
+            {
+                "text": "Recomendada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o indica uma zona onde:",
+        "image": "images/sinais-proibicao_1736.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 proibido o tr\u00e2nsito a pe\u00f5es e autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido o tr\u00e2nsito a pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido o tr\u00e2nsito a todos os ve\u00edculos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o limita a velocidade:",
+        "image": "images/sinais-proibicao_1737.jpg",
+        "answers": [
+            {
+                "text": "M\u00e1xima.",
+                "correct": true
+            },
+            {
+                "text": "M\u00ednima.",
+                "correct": false
+            },
+            {
+                "text": "Recomendada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o pro\u00edbe o tr\u00e2nsito:",
+        "image": "images/sinais-proibicao_1738.jpg",
+        "answers": [
+            {
+                "text": "A pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "A todos os motociclos.",
+                "correct": false
+            },
+            {
+                "text": "A ve\u00edculos de mercadorias.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o sobre limites de peso refere-se a:",
+        "image": "images/sinais-proibicao_1739.jpg",
+        "answers": [
+            {
+                "text": "Peso bruto.",
+                "correct": false
+            },
+            {
+                "text": "Peso total.",
+                "correct": true
+            },
+            {
+                "text": "Tara.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o vertical de fundo branco indica-me tr\u00e2nsito proibido:",
+        "image": "images/sinais-proibicao_1740.jpg",
+        "answers": [
+            {
+                "text": "A autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "A autom\u00f3veis pesados.",
+                "correct": true
+            },
+            {
+                "text": "A todos os autom\u00f3veis.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o vertical desta via p\u00fablica indica que os pe\u00f5es est\u00e3o proibidos de:",
+        "image": "images/sinais-proibicao_1741.jpg",
+        "answers": [
+            {
+                "text": "Atravessar as vias de tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Circular nas vias de tr\u00e2nsito.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o vertical desta via p\u00fablica pro\u00edbe a circula\u00e7\u00e3o de veloc\u00edpedes. Concorda?",
+        "image": "images/sinais-proibicao_1742.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o vertical determina:",
+        "image": "images/sinais-proibicao_1743.jpg",
+        "answers": [
+            {
+                "text": "A velocidade m\u00e1xima permitida.",
+                "correct": true
+            },
+            {
+                "text": "A velocidade m\u00ednima obrigat\u00f3ria.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o vertical existente no local:",
+        "image": "images/sinais-proibicao_1744.jpg",
+        "answers": [
+            {
+                "text": "Pro\u00edbe a manobra de invers\u00e3o do sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "Pro\u00edbe a manobra de ultrapassagem e de invers\u00e3o do sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "Pro\u00edbe a manobra de ultrapassagem.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o vertical indica-me que n\u00e3o posso circular nesta via p\u00fablica se conduzir:",
+        "image": "images/sinais-proibicao_1745.jpg",
+        "answers": [
+            {
+                "text": "Um monovolume.",
+                "correct": false
+            },
+            {
+                "text": "Um ve\u00edculo com reboque.",
+                "correct": true
+            },
+            {
+                "text": "Uma autocaravana.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o vertical indica-me tr\u00e2nsito proibido a:",
+        "image": "images/sinais-proibicao_1746.jpg",
+        "answers": [
+            {
+                "text": "Pe\u00f5es, animais e a ve\u00edculos que n\u00e3o sejam autom\u00f3veis ou motociclos.",
+                "correct": true
+            },
+            {
+                "text": "Pe\u00f5es, animais e a ve\u00edculos que n\u00e3o sejam autom\u00f3veis, motociclos ou ciclomotores.",
+                "correct": false
+            },
+            {
+                "text": "Pe\u00f5es, animais e a ve\u00edculos que n\u00e3o sejam autom\u00f3veis.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ao encontrar este sinal vertical sei que na via onde o mesmo se encontra:",
+        "image": "images/sinais-proibicao_1747.jpg",
+        "answers": [
+            {
+                "text": "O tr\u00e2nsito apenas se faz em sentido oposto ao sentido para o qual o sinal est\u00e1 orientado.",
+                "correct": true
+            },
+            {
+                "text": "O tr\u00e2nsito apenas se faz no sentido para o qual o sinal est\u00e1 orientado.",
+                "correct": false
+            },
+            {
+                "text": "Vou encontrar ve\u00edculos em ambos os sentidos de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ao entrar nesta via p\u00fablica devo saber que este sinal vertical significa:",
+        "image": "images/sinais-proibicao_1748.jpg",
+        "answers": [
+            {
+                "text": "Proximidade de um local frequentado por pe\u00f5es, pelo que devo moderar a velocidade.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de uma passagem de pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s a sinaliza\u00e7\u00e3o vertical a velocidade m\u00e1xima permitida aplica-se:",
+        "image": "images/sinais-proibicao_1749.jpg",
+        "answers": [
+            {
+                "text": "A todas as vias de tr\u00e2nsito.",
+                "correct": true
+            },
+            {
+                "text": "Apenas \u00e0 via de tr\u00e2nsito da direita.",
+                "correct": false
+            },
+            {
+                "text": "Apenas \u00e0 via de tr\u00e2nsito da esquerda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s a sinaliza\u00e7\u00e3o vertical \u00e9 permitido parar para a sa\u00edda de passageiros?",
+        "image": "images/sinais-proibicao_1750.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o sinal vertical pro\u00edbe-me de parar qualquer ve\u00edculo.",
+                "correct": true
+            },
+            {
+                "text": "Sim, mas apenas pelo tempo estritamente necess\u00e1rio.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o sinal indica-me fim de proibi\u00e7\u00e3o de parar ou estacionar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s a sinaliza\u00e7\u00e3o:",
+        "image": "images/sinais-proibicao_1751.jpg",
+        "answers": [
+            {
+                "text": "A velocidade \u00e9 limitada apenas para os ve\u00edculos pesados.",
+                "correct": false
+            },
+            {
+                "text": "A velocidade m\u00e1xima permitida \u00e9 de 60 Km/h e \u00e9 proibido o tr\u00e2nsito a autom\u00f3veis pesados.",
+                "correct": true
+            },
+            {
+                "text": "Apenas os ve\u00edculos ligeiros podem transitar a uma velocidade superior a 60 km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal de formato circular estou proibido de ultrapassar se conduzir um autom\u00f3vel pesado de passageiros.",
+        "image": "images/sinais-proibicao_1752.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal \u00e9 permitido:",
+        "image": "images/sinais-proibicao_1753.jpg",
+        "answers": [
+            {
+                "text": "Estacionar.",
+                "correct": false
+            },
+            {
+                "text": "Parar e estacionar.",
+                "correct": false
+            },
+            {
+                "text": "Parar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal \u00e9 permitido:",
+        "image": "images/sinais-proibicao_1754.jpg",
+        "answers": [
+            {
+                "text": "Estacionar em segunda fila.",
+                "correct": false
+            },
+            {
+                "text": "Estacionar na faixa de rodagem junto aos ve\u00edculos brancos.",
+                "correct": false
+            },
+            {
+                "text": "Estacionar nos locais a esse fim destinados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal \u00e9:",
+        "image": "images/sinais-proibicao_1755.jpg",
+        "answers": [
+            {
+                "text": "Permitida a manobra de ultrapassagem.",
+                "correct": true
+            },
+            {
+                "text": "Permitida a ultrapassagem apenas aos autom\u00f3veis pesados.",
+                "correct": false
+            },
+            {
+                "text": "Proibida a ultrapassagem a autom\u00f3veis ligeiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal posso estacionar?",
+        "image": "images/sinais-proibicao_1756.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal vertical existente na via, \u00e9 permitido ultrapassar?",
+        "image": "images/sinais-proibicao_1757.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, \u00e9 proibida a manobra de ultrapassagem.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal vertical, que tipo de ve\u00edculos estou proibido de ultrapassar?",
+        "image": "images/sinais-proibicao_1758.jpg",
+        "answers": [
+            {
+                "text": "Motociclos e ciclomotores.",
+                "correct": false
+            },
+            {
+                "text": "Nenhum tipo de ve\u00edculos.",
+                "correct": true
+            },
+            {
+                "text": "Todos os ve\u00edculos de duas rodas.",
+                "correct": false
+            },
+            {
+                "text": "Veloc\u00edpedes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal vertical:",
+        "image": "images/sinais-proibicao_1759.jpg",
+        "answers": [
+            {
+                "text": "Devo circular a mais de 50 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "Devo circular \u00e0 velocidade indicada.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o devo ultrapassar a velocidade indicada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal vertical:",
+        "image": "images/sinais-proibicao_1760.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 permitida a ultrapassagem.",
+                "correct": true
+            },
+            {
+                "text": "\u00c9 proibida a manobra de invers\u00e3o do sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibida a manobra de ultrapassagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal, o limite m\u00e1ximo de velocidade \u00e9 de:",
+        "image": "images/sinais-proibicao_1761.jpg",
+        "answers": [
+            {
+                "text": "100 km/h, pois o sinal indica a velocidade recomendada.",
+                "correct": false
+            },
+            {
+                "text": "120 km/h, pois o limite constante no sinal \u00e9 facultativo.",
+                "correct": false
+            },
+            {
+                "text": "80 km/h.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s o sinal:",
+        "image": "images/sinais-proibicao_1762.jpg",
+        "answers": [
+            {
+                "text": "A manobra de ultrapassagem \u00e9 proibida apenas se for necess\u00e1rio ocupar o lado esquerdo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido ultrapassar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s os sinais de proibi\u00e7\u00e3o:",
+        "image": "images/sinais-proibicao_1763.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 obrigat\u00f3ria a manobra de ultrapassagem.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 permitida a manobra de ultrapassagem.",
+                "correct": true
+            },
+            {
+                "text": "\u00c9 proibida a manobra de ultrapassagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Conduzindo um autom\u00f3vel ligeiro de passageiros, a partir deste sinal posso:",
+        "image": "images/sinais-proibicao_1764.jpg",
+        "answers": [
+            {
+                "text": "Aumentar a velocidade at\u00e9 95 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "Circular a 100 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Circular at\u00e9 90 km/h.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Conduzo um autom\u00f3vel de mercadorias. Perante a sinaliza\u00e7\u00e3o existente, s\u00f3 posso prosseguir pela via mais \u00e0 direita.",
+        "image": "images/sinais-proibicao_1765.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Conduzo um autom\u00f3vel ligeiro de passageiros. Posso seguir pela via sinalizada?",
+        "image": "images/sinais-proibicao_1766.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, \u00e9 uma via reservada a autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o sinal pro\u00edbe o tr\u00e2nsito a autom\u00f3veis de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o sinal pro\u00edbe o tr\u00e2nsito a autom\u00f3veis pesados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "De acordo com a sinaliza\u00e7\u00e3o existente no local devo:",
+        "image": "images/sinais-proibicao_1767.jpg",
+        "answers": [
+            {
+                "text": "Manter um intervalo de pelo menos 60 metros do ve\u00edculo da frente.",
+                "correct": false
+            },
+            {
+                "text": "Transitar a velocidade igual ou inferior a 60 km/h.",
+                "correct": true
+            },
+            {
+                "text": "Transitar a velocidade igual ou superior a 60 km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "De acordo com a sinaliza\u00e7\u00e3o existente, como devo proceder no local em que me encontro?",
+        "image": "images/sinais-proibicao_1768.jpg",
+        "answers": [
+            {
+                "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda ou \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Seguir em frente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "De acordo com a sinaliza\u00e7\u00e3o vertical, os condutores de autom\u00f3veis pesados:",
+        "image": "images/sinais-proibicao_1769.jpg",
+        "answers": [
+            {
+                "text": "Est\u00e3o proibidos de circular a velocidade superior a 80 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Est\u00e3o proibidos de circular na via de tr\u00e2nsito mais \u00e0 esquerda.",
+                "correct": true
+            },
+            {
+                "text": "Podem circular em qualquer via, desde que cumpram os limites de velocidade impostos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "De acordo com a sinaliza\u00e7\u00e3o vertical, quem se encontra proibido de circular na via mais \u00e0 esquerda desta auto-estrada?",
+        "image": "images/sinais-proibicao_1770.jpg",
+        "answers": [
+            {
+                "text": "Apenas os condutores de autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Apenas os condutores de autom\u00f3veis pesados de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Todos os condutores de autom\u00f3veis pesados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "De acordo com o sinal vertical \u00e0 minha direita, posso circular se conduzir um autom\u00f3vel de mercadorias?",
+        "image": "images/sinais-proibicao_1771.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, em circunst\u00e2ncia alguma.",
+                "correct": true
+            },
+            {
+                "text": "Sim, desde que seja um autom\u00f3vel ligeiro.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o tr\u00e2nsito s\u00f3 \u00e9 proibido a autom\u00f3veis pesados de passageiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "De acordo com o sinal vertical, os pe\u00f5es, animais, veloc\u00edpedes e ve\u00edculos de trac\u00e7\u00e3o animal podem transitar na via em que vou entrar.",
+        "image": "images/sinais-proibicao_1772.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Devo saber que este sinal pro\u00edbe:",
+        "image": "images/sinais-proibicao_1773.jpg",
+        "answers": [
+            {
+                "text": "A paragem e o estacionamento de ve\u00edculos pesados.",
+                "correct": false
+            },
+            {
+                "text": "O estacionamento de ve\u00edculos pesados.",
+                "correct": false
+            },
+            {
+                "text": "O tr\u00e2nsito a autom\u00f3veis de mercadorias e a ve\u00edculos a motor com reboque.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Devo saber que este sinal vertical indica:",
+        "image": "images/sinais-proibicao_1774.jpg",
+        "answers": [
+            {
+                "text": "Sa\u00edda de ve\u00edculos agr\u00edcolas.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos agr\u00edcolas.",
+                "correct": true
+            },
+            {
+                "text": "Via reservada a ve\u00edculos agr\u00edcolas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "\u00c9 permitida a realiza\u00e7\u00e3o da manobra de invers\u00e3o do sentido de marcha atendendo \u00e0 sinaliza\u00e7\u00e3o vertical?",
+        "image": "images/sinais-proibicao_1775.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, a manobra \u00e9 proibida atendendo \u00e0 sinaliza\u00e7\u00e3o vertical.",
+                "correct": true
+            },
+            {
+                "text": "Sim, a sinaliza\u00e7\u00e3o n\u00e3o pro\u00edbe a realiza\u00e7\u00e3o da manobra.",
+                "correct": false
+            },
+            {
+                "text": "Sim, dado que n\u00e3o se verifica tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Em que direc\u00e7\u00e3o posso seguir na pr\u00f3xima intersec\u00e7\u00e3o?",
+        "image": "images/sinais-proibicao_1776.jpg",
+        "answers": [
+            {
+                "text": "Mudar de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Somente mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Somente seguir em frente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Em que direc\u00e7\u00f5es posso seguir quando a luz vermelha passar a verde?",
+        "image": "images/sinais-proibicao_1777.jpg",
+        "answers": [
+            {
+                "text": "Em frente ou para a esquerda.",
+                "correct": true
+            },
+            {
+                "text": "Em qualquer direc\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "S\u00f3 para a direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-proibicao_1778.jpg",
+        "answers": [
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de ultrapassar.",
+                "correct": true
+            },
+            {
+                "text": "Fim de estacionamento proibido.",
+                "correct": false
+            },
+            {
+                "text": "Que o condutor n\u00e3o pode ultrapassar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal de desvio \u00e9 de:",
+        "image": "images/sinais-proibicao_1779.jpg",
+        "answers": [
+            {
+                "text": "Indica\u00e7\u00e3o tempor\u00e1ria.",
+                "correct": true
+            },
+            {
+                "text": "Perigo tempor\u00e1rio.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o tempor\u00e1ria.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal determina que:",
+        "image": "images/sinais-proibicao_1780.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 permitida a circula\u00e7\u00e3o a autom\u00f3veis pesados.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibida a circula\u00e7\u00e3o a autom\u00f3veis pesados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal determina:",
+        "image": "images/sinais-proibicao_1781.jpg",
+        "answers": [
+            {
+                "text": "Fim de obriga\u00e7\u00e3o de usar sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Fim de proibi\u00e7\u00e3o de usar sinais sonoros.",
+                "correct": true
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o de usar sinais luminosos",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal imp\u00f5e limite:",
+        "image": "images/sinais-proibicao_1782.jpg",
+        "answers": [
+            {
+                "text": "De velocidade.",
+                "correct": false
+            },
+            {
+                "text": "M\u00e1ximo de altura dos ve\u00edculos que podem passar nesse local.",
+                "correct": true
+            },
+            {
+                "text": "M\u00ednimo de altura dos ve\u00edculos que podem passar nesse local.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica a proibi\u00e7\u00e3o de tr\u00e2nsito a:",
+        "image": "images/sinais-proibicao_1783.jpg",
+        "answers": [
+            {
+                "text": "Ciclomotores.",
+                "correct": false
+            },
+            {
+                "text": "Motociclos.",
+                "correct": true
+            },
+            {
+                "text": "Veloc\u00edpedes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica acesso interdito a:",
+        "image": "images/sinais-proibicao_1784.jpg",
+        "answers": [
+            {
+                "text": "Ciclomotores",
+                "correct": false
+            },
+            {
+                "text": "Motociclos simples.",
+                "correct": true
+            },
+            {
+                "text": "Todos os ve\u00edculos n\u00e3o autom\u00f3veis.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica aos condutores de autom\u00f3veis:",
+        "image": "images/sinais-proibicao_1785.jpg",
+        "answers": [
+            {
+                "text": "Fim de proibi\u00e7\u00e3o de ultrapassar.",
+                "correct": true
+            },
+            {
+                "text": "Ultrapassagem proibida.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica o fim de :",
+        "image": "images/sinais-proibicao_1786.jpg",
+        "answers": [
+            {
+                "text": "Proibi\u00e7\u00e3o de parar e estacionar.",
+                "correct": false
+            },
+            {
+                "text": "Todas as proibi\u00e7\u00f5es impostas por sinaliza\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Zona de estacionamento de dura\u00e7\u00e3o limitada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica proibi\u00e7\u00e3o de ultrapassagem:",
+        "image": "images/sinais-proibicao_1787.jpg",
+        "answers": [
+            {
+                "text": "Apenas para autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Para qualquer autom\u00f3vel.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica proibi\u00e7\u00e3o de ultrapassar para:",
+        "image": "images/sinais-proibicao_1788.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados.",
+                "correct": true
+            },
+            {
+                "text": "Todos os autom\u00f3veis.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica tr\u00e2nsito proibido:",
+        "image": "images/sinais-proibicao_1789.jpg",
+        "answers": [
+            {
+                "text": "A todos os ve\u00edculos de duas rodas.",
+                "correct": false
+            },
+            {
+                "text": "A todos os ve\u00edculos.",
+                "correct": true
+            },
+            {
+                "text": "Apenas a ve\u00edculos de trac\u00e7\u00e3o animal e veloc\u00edpedes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me a proibi\u00e7\u00e3o de:",
+        "image": "images/sinais-proibicao_1790.jpg",
+        "answers": [
+            {
+                "text": "Circular a menos de 70 metros do ve\u00edculo da frente.",
+                "correct": true
+            },
+            {
+                "text": "Estacionar a menos de 70 metros do ve\u00edculo da frente.",
+                "correct": false
+            },
+            {
+                "text": "Estacionar nos pr\u00f3ximos 70 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me que nesta zona:",
+        "image": "images/sinais-proibicao_1791.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o posso estacionar mas posso parar.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o posso parar nem estacionar.",
+                "correct": false
+            },
+            {
+                "text": "Posso circular nos dois sentidos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me que o desvio que vou encontrar a 250 metros aplica-se:",
+        "image": "images/sinais-proibicao_1792.jpg",
+        "answers": [
+            {
+                "text": "A todos os autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Aos ve\u00edculos com altura superior a 3,5 metros.",
+                "correct": true
+            },
+            {
+                "text": "Aos ve\u00edculos de mercadorias com mais de 12 toneladas.",
+                "correct": false
+            },
+            {
+                "text": "Aos ve\u00edculos pesados com mais de 3,5 toneladas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me:",
+        "image": "images/sinais-proibicao_1793.jpg",
+        "answers": [
+            {
+                "text": "A proximidade de uma curva perigosa.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de inverter o sentido de marcha.",
+                "correct": true
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de mudar de direc\u00e7\u00e3o \u00e0 esquerda no pr\u00f3ximo entroncamento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me:",
+        "image": "images/sinais-proibicao_1794.jpg",
+        "answers": [
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de utilizar sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de utilizar os sinais sonoros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me?",
+        "image": "images/sinais-proibicao_1795.jpg",
+        "answers": [
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de estacionar.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de parar.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de ultrapassar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-proibicao_1796.jpg",
+        "answers": [
+            {
+                "text": "Faixa de rodagem com limita\u00e7\u00f5es ao longo de 250 metros.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos de 3,5 metros de comprimento.",
+                "correct": false
+            },
+            {
+                "text": "Um desvio obrigat\u00f3rio para ve\u00edculos com mais de 3,5 metros de altura.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-proibicao_1797.jpg",
+        "answers": [
+            {
+                "text": "Estacionamento proibido.",
+                "correct": false
+            },
+            {
+                "text": "Fim de proibi\u00e7\u00e3o de parar ou estacionar.",
+                "correct": false
+            },
+            {
+                "text": "Fim de todas as proibi\u00e7\u00f5es impostas por sinaliza\u00e7\u00e3o a ve\u00edculos em marcha.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-proibicao_1798.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de um hospital.",
+                "correct": false
+            },
+            {
+                "text": "Fim de proibi\u00e7\u00e3o de utilizar os sinais sonoros.",
+                "correct": true
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de utilizar os sinais sonoros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-proibicao_1799.jpg",
+        "answers": [
+            {
+                "text": "Fim da limita\u00e7\u00e3o da velocidade indicada no sinal.",
+                "correct": true
+            },
+            {
+                "text": "Fim de todas as proibi\u00e7\u00f5es indicadas pelos sinais anteriores.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de exceder a velocidade indicada no sinal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-proibicao_1800.jpg",
+        "answers": [
+            {
+                "text": "A proibi\u00e7\u00e3o de transitarem pe\u00f5es nesta faixa de rodagem.",
+                "correct": true
+            },
+            {
+                "text": "A proibi\u00e7\u00e3o de tr\u00e2nsito a pe\u00f5es e veloc\u00edpedes.",
+                "correct": false
+            },
+            {
+                "text": "A proibi\u00e7\u00e3o dos pe\u00f5es circularem do lado direito da faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal informa o motociclista que:",
+        "image": "images/sinais-proibicao_1801.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 obrigado a circular sempre encostado ao eixo da via.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o pode realizar a manobra de ultrapassagem.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 lhe \u00e9 permitido ultrapassar autom\u00f3veis ligeiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal informa-me que na via em que circulo n\u00e3o podem transitar ve\u00edculos pesados.",
+        "image": "images/sinais-proibicao_1802.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal permite a circula\u00e7\u00e3o de veloc\u00edpedes?",
+        "image": "images/sinais-proibicao_1803.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o permite.",
+                "correct": false
+            },
+            {
+                "text": "Sim, desde que o condutor circule a p\u00e9 com o veloc\u00edpede pela m\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, pois apenas pro\u00edbe o tr\u00e2nsito de pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal pro\u00edbe a ultrapassagem efectuada:",
+        "image": "images/sinais-proibicao_1804.jpg",
+        "answers": [
+            {
+                "text": "Apenas por autom\u00f3veis ligeiros de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Apenas por autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Por autom\u00f3veis e outros ve\u00edculos com mais de duas rodas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal pro\u00edbe o acesso a:",
+        "image": "images/sinais-proibicao_1805.jpg",
+        "answers": [
+            {
+                "text": "Motociclos simples.",
+                "correct": true
+            },
+            {
+                "text": "Todos os ve\u00edculos de duas rodas.",
+                "correct": false
+            },
+            {
+                "text": "Veloc\u00edpedes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal pro\u00edbe o tr\u00e2nsito a ve\u00edculos de:",
+        "image": "images/sinais-proibicao_1806.jpg",
+        "answers": [
+            {
+                "text": "Altura superior a 3,5 metros.",
+                "correct": true
+            },
+            {
+                "text": "Comprimento superior a 3,5 metros.",
+                "correct": false
+            },
+            {
+                "text": "Largura superior a 3,5 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal pro\u00edbe o tr\u00e2nsito a:",
+        "image": "images/sinais-proibicao_1807.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Todos os ve\u00edculos com motor.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos sem motor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal significa:",
+        "image": "images/sinais-proibicao_1808.jpg",
+        "answers": [
+            {
+                "text": "Paragem facultativa.",
+                "correct": false
+            },
+            {
+                "text": "Paragem obrigat\u00f3ria.",
+                "correct": true
+            },
+            {
+                "text": "Paragem proibida.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical \u00e9 de:",
+        "image": "images/sinais-proibicao_1809.jpg",
+        "answers": [
+            {
+                "text": "Ced\u00eancia de passagem.",
+                "correct": false
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical indica que a ultrapassagem \u00e9 proibida:",
+        "image": "images/sinais-proibicao_1810.jpg",
+        "answers": [
+            {
+                "text": "Apenas para os autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Apenas para os autom\u00f3veis pesados de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Para todos os autom\u00f3veis pesados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical indica-me:",
+        "image": "images/sinais-proibicao_1811.jpg",
+        "answers": [
+            {
+                "text": "Que vou encontrar autom\u00f3veis de mercadorias e ve\u00edculos com reboque nesta via.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a autom\u00f3veis de mercadorias e a ve\u00edculos a motor com reboque.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a todos os autom\u00f3veis pesados e a ve\u00edculos a motor com reboque.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical pro\u00edbe a ultrapassagem para:",
+        "image": "images/sinais-proibicao_1812.jpg",
+        "answers": [
+            {
+                "text": "Motociclos e ciclomotores.",
+                "correct": true
+            },
+            {
+                "text": "Todos os autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Todos os ve\u00edculos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical serve para proibir o tr\u00e2nsito de:",
+        "image": "images/sinais-proibicao_1813.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis pesados com peso total inferior a 3,5 toneladas.",
+                "correct": false
+            },
+            {
+                "text": "Todos os ve\u00edculos com altura superior \u00e0 indicada no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Todos os ve\u00edculos com peso total superior a 3,5 toneladas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical significa:",
+        "image": "images/sinais-proibicao_1814.jpg",
+        "answers": [
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos de largura superior \u00e0 indicada no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos de peso por eixo superior a 3,5 t.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos de peso total superior a 3,5 t.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Estes sinais de proibi\u00e7\u00e3o destinam-se a limitar a velocidade:",
+        "image": "images/sinais-proibicao_1815.jpg",
+        "answers": [
+            {
+                "text": "M\u00e1xima, apenas nas duas vias de tr\u00e2nsito da esquerda.",
+                "correct": false
+            },
+            {
+                "text": "M\u00e1xima, em todas as vias de tr\u00e2nsito.",
+                "correct": true
+            },
+            {
+                "text": "M\u00ednima, em todas as vias de tr\u00e2nsito, excepto naquela em que circulo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Estou autorizado a estacionar ap\u00f3s o sinal?",
+        "image": "images/sinais-proibicao_1816.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Face \u00e0 sinaliza\u00e7\u00e3o da via, devo saber que:",
+        "image": "images/sinais-proibicao_1817.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o posso exceder a velocidade de 80 Km/h.",
+                "correct": true
+            },
+            {
+                "text": "Posso exceder a velocidade de 80 Km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Face \u00e0 sinaliza\u00e7\u00e3o existente neste local n\u00e3o poderei:",
+        "image": "images/sinais-proibicao_1818.jpg",
+        "answers": [
+            {
+                "text": "Inverter o sentido de marcha e ultrapassar.",
+                "correct": true
+            },
+            {
+                "text": "Inverter o sentido de marcha, mas posso ultrapassar.",
+                "correct": false
+            },
+            {
+                "text": "Ultrapassar, mas posso inverter o sentido de marcha.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Imediatamente ap\u00f3s a passagem para pe\u00f5es, \u00e9 proibido parar?",
+        "image": "images/sinais-proibicao_1819.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, devido \u00e0 sinaliza\u00e7\u00e3o vertical.",
+                "correct": false
+            },
+            {
+                "text": "Sim, \u00e9 proibido parar junto \u00e0s passagens assinaladas para a travessia de pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na presen\u00e7a deste sinal vertical apenas os autom\u00f3veis pesados de mercadorias est\u00e3o proibidos de ultrapassar.",
+        "image": "images/sinais-proibicao_1820.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na via \u00e0 minha direita \u00e9 proibido o tr\u00e2nsito:",
+        "image": "images/sinais-proibicao_1821.jpg",
+        "answers": [
+            {
+                "text": "A motociclos, pe\u00f5es e animais.",
+                "correct": false
+            },
+            {
+                "text": "A tractores agr\u00edcolas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Na via de tr\u00e2nsito onde circulo e quando a sinaliza\u00e7\u00e3o luminosa me permitir avan\u00e7ar, posso mudar de direc\u00e7\u00e3o \u00e0 esquerda?",
+        "image": "images/sinais-proibicao_1822.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, na via de tr\u00e2nsito onde me encontro, quando me for permitido avan\u00e7ar, n\u00e3o posso mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": true
+            },
+            {
+                "text": "Sim, a sinaliza\u00e7\u00e3o luminosa e vertical n\u00e3o pro\u00edbe a manobra.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na via onde se encontra este sinal n\u00e3o podem circular:",
+        "image": "images/sinais-proibicao_1823.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis pesados de mercadorias com peso bruto superior a 3,5 toneladas.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados de mercadorias com peso total superior a 3,5 toneladas.",
+                "correct": true
+            },
+            {
+                "text": "Quaisquer ve\u00edculos com peso total superior a 3,5 toneladas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na via onde se encontra este sinal pode transitar um autom\u00f3vel pesado de passageiros com 6.000 kg de tara?",
+        "image": "images/sinais-proibicao_1824.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Na via onde se encontra este sinal, s\u00f3 \u00e9 permitido o tr\u00e2nsito de veloc\u00edpedes.",
+        "image": "images/sinais-proibicao_1825.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Na via onde se encontra o sinal vertical os pe\u00f5es podem circular?",
+        "image": "images/sinais-proibicao_1826.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Na via onde se encontra o sinal vertical s\u00f3 \u00e9 permitido:",
+        "image": "images/sinais-proibicao_1827.jpg",
+        "answers": [
+            {
+                "text": "A circula\u00e7\u00e3o de pe\u00f5es",
+                "correct": true
+            },
+            {
+                "text": "A circula\u00e7\u00e3o de veloc\u00edpedes e pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Efectuar cargas e descargas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na via onde se encontra o sinal vertical, s\u00f3 podem transitar ve\u00edculos em sentido contr\u00e1rio ao meu.",
+        "image": "images/sinais-proibicao_1828.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Na via onde se encontra o sinal vertical:",
+        "image": "images/sinais-proibicao_1829.jpg",
+        "answers": [
+            {
+                "text": "Apenas podem circular pe\u00f5es e veloc\u00edpedes levados \u00e0 m\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Apenas podem circular pe\u00f5es e veloc\u00edpedes.",
+                "correct": false
+            },
+            {
+                "text": "Podem circular veloc\u00edpedes e ciclomotores.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na zona abrangida por este sinal, quais os ve\u00edculos que podem estacionar?",
+        "image": "images/sinais-proibicao_1830.jpg",
+        "answers": [
+            {
+                "text": "Nenhuns.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 os t\u00e1xis.",
+                "correct": false
+            },
+            {
+                "text": "Todos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Nesta situa\u00e7\u00e3o, os ve\u00edculos que atrelam um reboque:",
+        "image": "images/sinais-proibicao_1831.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o podem transitar.",
+                "correct": true
+            },
+            {
+                "text": "Podem transitar se o ve\u00edculo tractor for um ligeiro.",
+                "correct": false
+            },
+            {
+                "text": "Podem transitar se o ve\u00edculo tractor for um pesado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Nesta via de tr\u00e2nsito \u00e9 proibida a circula\u00e7\u00e3o de:",
+        "image": "images/sinais-proibicao_1832.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis de mercadorias e a ve\u00edculos a motor com reboque.",
+                "correct": true
+            },
+            {
+                "text": "Autom\u00f3veis ligeiros de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Todos os autom\u00f3veis pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Nesta via \u00e9 proibido o tr\u00e2nsito a autom\u00f3veis pesados, independentemente da carga que transportarem.",
+        "image": "images/sinais-proibicao_1833.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Nesta zona, o sinal imp\u00f5e a proibi\u00e7\u00e3o de:",
+        "image": "images/sinais-proibicao_1834.jpg",
+        "answers": [
+            {
+                "text": "Estacionar para todos os ve\u00edculos.",
+                "correct": true
+            },
+            {
+                "text": "Estacionar por mais de 5 minutos.",
+                "correct": false
+            },
+            {
+                "text": "Parar para todos os ve\u00edculos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste entroncamento:",
+        "image": "images/sinais-proibicao_1835.jpg",
+        "answers": [
+            {
+                "text": "A paragem \u00e9 obrigat\u00f3ria.",
+                "correct": false
+            },
+            {
+                "text": "S\u00f3 \u00e9 permitido mudar de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 posso mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local a manobra de ultrapassagem \u00e9 proibida?",
+        "image": "images/sinais-proibicao_1836.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, desde que conduza um autom\u00f3vel de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Sim, a todos os autom\u00f3veis pesados.",
+                "correct": true
+            },
+            {
+                "text": "Sim, mas apenas se for necess\u00e1rio pisar a marca rodovi\u00e1ria.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local a ultrapassagem:",
+        "image": "images/sinais-proibicao_1837.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 permitida aos autom\u00f3veis pesados.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibida a qualquer ve\u00edculo.",
+                "correct": true
+            },
+            {
+                "text": "\u00c9 proibida apenas aos autom\u00f3veis ligeiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo iniciar uma ultrapassagem?",
+        "image": "images/sinais-proibicao_1838.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, porque o sinal de proibi\u00e7\u00e3o me impede de ultrapassar qualquer ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, porque o sinal de proibi\u00e7\u00e3o, est\u00e1 mais \u00e0 frente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local sou obrigado a mudar de direc\u00e7\u00e3o para a:",
+        "image": "images/sinais-proibicao_1839.jpg",
+        "answers": [
+            {
+                "text": "Direita.",
+                "correct": false
+            },
+            {
+                "text": "Esquerda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Neste local, os autom\u00f3veis pesados est\u00e3o proibidos de ultrapassar:",
+        "image": "images/sinais-proibicao_1840.jpg",
+        "answers": [
+            {
+                "text": "Antes de passarem o sinal.",
+                "correct": true
+            },
+            {
+                "text": "Antes e depois de passarem o sinal.",
+                "correct": false
+            },
+            {
+                "text": "Depois de passarem o sinal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local:",
+        "image": "images/sinais-proibicao_1841.jpg",
+        "answers": [
+            {
+                "text": "A manobra de invers\u00e3o de sentido de marcha torna-se obrigat\u00f3ria.",
+                "correct": false
+            },
+            {
+                "text": "A manobra de mudan\u00e7a de direc\u00e7\u00e3o \u00e0 esquerda \u00e9 proibida.",
+                "correct": true
+            },
+            {
+                "text": "A paragem \u00e9 obrigat\u00f3ria.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local:",
+        "image": "images/sinais-proibicao_1842.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o posso transitar a 40 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Posso transitar a 40 km/h.",
+                "correct": true
+            },
+            {
+                "text": "Sou obrigado a circular a 40 km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "No entroncamento posso:",
+        "image": "images/sinais-proibicao_1843.jpg",
+        "answers": [
+            {
+                "text": "Mudar de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": true
+            },
+            {
+                "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda ou \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O limite de velocidade aplica-se:",
+        "image": "images/sinais-proibicao_1844.jpg",
+        "answers": [
+            {
+                "text": "A toda a faixa de rodagem.",
+                "correct": true
+            },
+            {
+                "text": "Apenas na via de tr\u00e2nsito da direita.",
+                "correct": false
+            },
+            {
+                "text": "Apenas na via de tr\u00e2nsito da esquerda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O primeiro sinal vertical que se encontra \u00e0 minha direita \u00e9 de:",
+        "image": "images/sinais-proibicao_1845.jpg",
+        "answers": [
+            {
+                "text": "Informa\u00e7\u00e3o v\u00e1lida para todas as vias.",
+                "correct": false
+            },
+            {
+                "text": "Paragem obrigat\u00f3ria \u00e0 excep\u00e7\u00e3o da via da esquerda.",
+                "correct": true
+            },
+            {
+                "text": "Selec\u00e7\u00e3o de vias.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que indica este sinal?",
+        "image": "images/sinais-proibicao_1846.jpg",
+        "answers": [
+            {
+                "text": "Fim da limita\u00e7\u00e3o de velocidade.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de ultrapassar.",
+                "correct": true
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de ultrapassar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que indica o sinal de formato circular?",
+        "image": "images/sinais-proibicao_1847.jpg",
+        "answers": [
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de utilizar sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de utilizar sinais sonoros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que me indica o sinal de proibi\u00e7\u00e3o?",
+        "image": "images/sinais-proibicao_1848.jpg",
+        "answers": [
+            {
+                "text": "A dist\u00e2ncia m\u00e1xima a que posso transitar de outro ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "A dist\u00e2ncia m\u00e1xima entre ve\u00edculos.",
+                "correct": false
+            },
+            {
+                "text": "A dist\u00e2ncia m\u00ednima a guardar em rela\u00e7\u00e3o ao ve\u00edculo que transite \u00e0 minha frente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que me indica o sinal vertical?",
+        "image": "images/sinais-proibicao_1849.jpg",
+        "answers": [
+            {
+                "text": "O fim da limita\u00e7\u00e3o de velocidade imposta por outro sinal.",
+                "correct": false
+            },
+            {
+                "text": "O fim da proibi\u00e7\u00e3o de ultrapassar imposta por outro sinal.",
+                "correct": false
+            },
+            {
+                "text": "O fim de todas as proibi\u00e7\u00f5es impostas por outros sinais, a ve\u00edculos em marcha.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa este sinal?",
+        "image": "images/sinais-proibicao_1850.jpg",
+        "answers": [
+            {
+                "text": "Fim de limita\u00e7\u00e3o de velocidade de 40 Km/h.",
+                "correct": true
+            },
+            {
+                "text": "Velocidade m\u00e1xima permitida de 40 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "Velocidade m\u00ednima obrigat\u00f3ria de 40 Km/h",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa este sinal?",
+        "image": "images/sinais-proibicao_1851.jpg",
+        "answers": [
+            {
+                "text": "Paragem proibida al\u00e9m de 3 minutos e meio.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido aos ve\u00edculos de altura total superior a 3,5 metros.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido aos ve\u00edculos de largura superior a 3,5 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal de proibi\u00e7\u00e3o?",
+        "image": "images/sinais-proibicao_1852.jpg",
+        "answers": [
+            {
+                "text": "Curva perigosa \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de ultrapassar somente para os autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de ultrapassar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-proibicao_1853.jpg",
+        "answers": [
+            {
+                "text": "Fim da limita\u00e7\u00e3o de velocidade.",
+                "correct": false
+            },
+            {
+                "text": "Fim da paragem ou estacionamento proibidos.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de ultrapassar.",
+                "correct": false
+            },
+            {
+                "text": "Fim de todas as proibi\u00e7\u00f5es impostas anteriormente por sinaliza\u00e7\u00e3o a ve\u00edculos em marcha.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-proibicao_1854.jpg",
+        "answers": [
+            {
+                "text": "Indica\u00e7\u00e3o de via em que o tr\u00e2nsito se faz apenas num sentido.",
+                "correct": false
+            },
+            {
+                "text": "Indica\u00e7\u00e3o de via sem sa\u00edda para ve\u00edculos.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de transitar em ambos os sentidos de tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de transitar no sentido para o qual o sinal est\u00e1 orientado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-proibicao_1855.jpg",
+        "answers": [
+            {
+                "text": "Acesso interdito a ve\u00edculos com peso por eixo superior a 2,4t.",
+                "correct": true
+            },
+            {
+                "text": "Acesso interdito a ve\u00edculos de peso bruto superior a 2,4t.",
+                "correct": false
+            },
+            {
+                "text": "Acesso interdito a ve\u00edculos de tara superior a 2,4t.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal \u00e0 direita indica:",
+        "image": "images/sinais-proibicao_1856.jpg",
+        "answers": [
+            {
+                "text": "Fim de proibi\u00e7\u00e3o de parar e estacionar.",
+                "correct": true
+            },
+            {
+                "text": "In\u00edcio de uma zona de estacionamento condicionado.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de parar e estacionar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal \u00e0 direita significa que o tr\u00e2nsito \u00e9 proibido a:",
+        "image": "images/sinais-proibicao_1857.jpg",
+        "answers": [
+            {
+                "text": "Ve\u00edculos de peso bruto superior a 5,5 toneladas.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos de peso total inferior a 5,5 toneladas.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos de peso total superior a 5,5 toneladas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal \u00e0 direita significa tr\u00e2nsito proibido:",
+        "image": "images/sinais-proibicao_1858.jpg",
+        "answers": [
+            {
+                "text": "A ve\u00edculos de peso por eixo superior a 5,5 toneladas.",
+                "correct": false
+            },
+            {
+                "text": "A ve\u00edculos de peso total superior a 5,5 toneladas.",
+                "correct": true
+            },
+            {
+                "text": "A ve\u00edculos pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal circular de fundo branco, indica:",
+        "image": "images/sinais-proibicao_1859.jpg",
+        "answers": [
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos pesados que transportem produtos inflam\u00e1veis ou explosivos.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos que transportem produtos suscept\u00edveis de polu\u00edrem as \u00e1guas.",
+                "correct": true
+            },
+            {
+                "text": "Via obrigat\u00f3ria para ve\u00edculos que transportem produtos inflam\u00e1veis.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal circular indica:",
+        "image": "images/sinais-proibicao_1860.jpg",
+        "answers": [
+            {
+                "text": "Fim da obriga\u00e7\u00e3o de usar sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de usar sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de usar sinais sonoros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal circular indica:",
+        "image": "images/sinais-proibicao_1861.jpg",
+        "answers": [
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de utilizar sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o da utiliza\u00e7\u00e3o sinais sonoros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal circular que se encontra nesta via indica-me:",
+        "image": "images/sinais-proibicao_1862.jpg",
+        "answers": [
+            {
+                "text": "Fim da limita\u00e7\u00e3o de velocidade de 40 Km/h.",
+                "correct": true
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de circular a velocidade inferior \u00e0 indicada no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Que n\u00e3o posso circular a velocidade inferior \u00e0 que est\u00e1 indicada no sinal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal d\u00e1 indica\u00e7\u00e3o aos condutores de:",
+        "image": "images/sinais-proibicao_1863.jpg",
+        "answers": [
+            {
+                "text": "Fim da paragem e estacionamento proibidos.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de ultrapassar.",
+                "correct": true
+            },
+            {
+                "text": "Fim de todas as proibi\u00e7\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de fundo branco indica tr\u00e2nsito proibido a:",
+        "image": "images/sinais-proibicao_1864.jpg",
+        "answers": [
+            {
+                "text": "Todos os ve\u00edculos pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos que transportam mercadorias perigosas.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos que transportam produtos suscept\u00edveis de poluirem as \u00e1guas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de fundo branco pro\u00edbe a circula\u00e7\u00e3o de todos os autom\u00f3veis pesados excepto os de passageiros.",
+        "image": "images/sinais-proibicao_1865.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de proibi\u00e7\u00e3o aplica-se a ve\u00edculos:",
+        "image": "images/sinais-proibicao_1866.jpg",
+        "answers": [
+            {
+                "text": "De peso por eixo inferior a 5,5 toneladas.",
+                "correct": false
+            },
+            {
+                "text": "De peso total inferior a 5,5 toneladas.",
+                "correct": false
+            },
+            {
+                "text": "De peso total superior a 5,5 toneladas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de proibi\u00e7\u00e3o destina-se a limitar a velocidade:",
+        "image": "images/sinais-proibicao_1867.jpg",
+        "answers": [
+            {
+                "text": "Apenas na via de tr\u00e2nsito da direita.",
+                "correct": false
+            },
+            {
+                "text": "Em todas as vias de tr\u00e2nsito.",
+                "correct": true
+            },
+            {
+                "text": "M\u00ednima em todas as vias de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de proibi\u00e7\u00e3o destina-se a proibir a manobra de ultrapassagem:",
+        "image": "images/sinais-proibicao_1868.jpg",
+        "answers": [
+            {
+                "text": "A todos os autom\u00f3veis pesados desde que destinados ao transporte de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "A todos os autom\u00f3veis pesados.",
+                "correct": true
+            },
+            {
+                "text": "A todos os ve\u00edculos de mercadorias.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de proibi\u00e7\u00e3o impede a circula\u00e7\u00e3o a:",
+        "image": "images/sinais-proibicao_1869.jpg",
+        "answers": [
+            {
+                "text": "Todos os ve\u00edculos excepto de trac\u00e7\u00e3o animal e autom\u00f3veis de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos de trac\u00e7\u00e3o animal e autom\u00f3veis de mercadorias.",
+                "correct": true
+            },
+            {
+                "text": "Ve\u00edculos de trac\u00e7\u00e3o animal na via da esquerda e autom\u00f3veis de mercadorias na via mais \u00e0 direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de proibi\u00e7\u00e3o indica acesso interdito a:",
+        "image": "images/sinais-proibicao_1870.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados e ligeiros de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de proibi\u00e7\u00e3o indica que:",
+        "image": "images/sinais-proibicao_1871.jpg",
+        "answers": [
+            {
+                "text": "A manobra de invers\u00e3o do sentido de marcha \u00e9 proibida.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o posso mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": true
+            },
+            {
+                "text": "Sou obrigado a mudar de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de proibi\u00e7\u00e3o n\u00e3o permite a circula\u00e7\u00e3o de:",
+        "image": "images/sinais-proibicao_1872.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros e pesados de mercadorias.",
+                "correct": true
+            },
+            {
+                "text": "Qualquer ve\u00edculo ligeiro.",
+                "correct": false
+            },
+            {
+                "text": "Todos os autom\u00f3veis pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de proibi\u00e7\u00e3o n\u00e3o permite ao condutor circular a:",
+        "image": "images/sinais-proibicao_1873.jpg",
+        "answers": [
+            {
+                "text": "Menos de 60 metros do ve\u00edculo da frente.",
+                "correct": false
+            },
+            {
+                "text": "Velocidade inferior a 60 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Velocidade superior a 60 km/h.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de proibi\u00e7\u00e3o permite o tr\u00e2nsito a ve\u00edculos:",
+        "image": "images/sinais-proibicao_1874.jpg",
+        "answers": [
+            {
+                "text": "De altura superior a 5,5 metros.",
+                "correct": false
+            },
+            {
+                "text": "De peso por eixo superior a 5,5 toneladas.",
+                "correct": false
+            },
+            {
+                "text": "De peso total inferior a 5,5 toneladas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de proibi\u00e7\u00e3o permite o tr\u00e2nsito a:",
+        "image": "images/sinais-proibicao_1875.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis e motociclos.",
+                "correct": false
+            },
+            {
+                "text": "Pe\u00f5es e ciclomotores.",
+                "correct": false
+            },
+            {
+                "text": "Pe\u00f5es e veloc\u00edpedes conduzidos \u00e0 m\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal existente na via indica-me:",
+        "image": "images/sinais-proibicao_1876.jpg",
+        "answers": [
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de ultrapassar apenas para autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de ultrapassar para autom\u00f3veis ligeiros e pesados.",
+                "correct": true
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de ultrapassar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica que o tr\u00e2nsito \u00e9 proibido a ve\u00edculos de:",
+        "image": "images/sinais-proibicao_1877.jpg",
+        "answers": [
+            {
+                "text": "Mercadorias de peso total inferior a 3,5 toneladas.",
+                "correct": false
+            },
+            {
+                "text": "Mercadorias de peso total superior a 3,5 toneladas.",
+                "correct": true
+            },
+            {
+                "text": "Passageiros de lota\u00e7\u00e3o superior a nove lugares.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica que o tr\u00e2nsito \u00e9 proibido a ve\u00edculos:",
+        "image": "images/sinais-proibicao_1878.jpg",
+        "answers": [
+            {
+                "text": "De mercadorias de peso total superior a 3,5 toneladas.",
+                "correct": true
+            },
+            {
+                "text": "De passageiros e mercadorias de peso total superior a 3,5 toneladas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica que:",
+        "image": "images/sinais-proibicao_1879.jpg",
+        "answers": [
+            {
+                "text": "A velocidade est\u00e1 limitada a 60 Km/h.",
+                "correct": true
+            },
+            {
+                "text": "Durante 60 Km a velocidade \u00e9 controlada.",
+                "correct": false
+            },
+            {
+                "text": "Vou encontrar sinaliza\u00e7\u00e3o luminosa a 60 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-proibicao_1880.jpg",
+        "answers": [
+            {
+                "text": "Estacionamento proibido.",
+                "correct": false
+            },
+            {
+                "text": "Sentido proibido.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-proibicao_1881.jpg",
+        "answers": [
+            {
+                "text": "Paragem obrigat\u00f3ria.",
+                "correct": false
+            },
+            {
+                "text": "Sentido proibido.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-proibicao_1882.jpg",
+        "answers": [
+            {
+                "text": "Local destinado \u00e0 travessia de pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Pista obrigat\u00f3ria para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal limita a velocidade:",
+        "image": "images/sinais-proibicao_1883.jpg",
+        "answers": [
+            {
+                "text": "M\u00e1xima.",
+                "correct": true
+            },
+            {
+                "text": "M\u00ednima.",
+                "correct": false
+            },
+            {
+                "text": "Recomendada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal limita a velocidade:",
+        "image": "images/sinais-proibicao_1884.jpg",
+        "answers": [
+            {
+                "text": "M\u00e1xima, mas apenas para os autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "M\u00e1xima.",
+                "correct": true
+            },
+            {
+                "text": "M\u00ednima.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe o tr\u00e2nsito a ve\u00edculos:",
+        "image": "images/sinais-proibicao_1885.jpg",
+        "answers": [
+            {
+                "text": "Com mais de 2 metros de altura.",
+                "correct": false
+            },
+            {
+                "text": "Com mais de 2 metros de comprimento.",
+                "correct": false
+            },
+            {
+                "text": "Com mais de 2 metros de largura.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe o tr\u00e2nsito a:",
+        "image": "images/sinais-proibicao_1886.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe o tr\u00e2nsito a:",
+        "image": "images/sinais-proibicao_1887.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos com reboque.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos ou conjuntos de ve\u00edculos de comprimento superior a 10 metros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe o tr\u00e2nsito a:",
+        "image": "images/sinais-proibicao_1888.jpg",
+        "answers": [
+            {
+                "text": "Animais.",
+                "correct": true
+            },
+            {
+                "text": "Autom\u00f3veis de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Motociclos de cilindrada superior a 50 cc.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe o tr\u00e2nsito a:",
+        "image": "images/sinais-proibicao_1889.jpg",
+        "answers": [
+            {
+                "text": "Ve\u00edculos com reboque.",
+                "correct": true
+            },
+            {
+                "text": "Ve\u00edculos de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe o tr\u00e2nsito a:",
+        "image": "images/sinais-proibicao_1890.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis pesados e a motociclos simples.",
+                "correct": false
+            },
+            {
+                "text": "Motociclos com carro lateral.",
+                "correct": true
+            },
+            {
+                "text": "Todos os motociclos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe o tr\u00e2nsito aos autom\u00f3veis de mercadorias?",
+        "image": "images/sinais-proibicao_1891.jpg",
+        "answers": [
+            {
+                "text": "Sim, a todos os autom\u00f3veis de mercadorias.",
+                "correct": true
+            },
+            {
+                "text": "Sim, mas apenas aos autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas aos autom\u00f3veis pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe o tr\u00e2nsito:",
+        "image": "images/sinais-proibicao_1892.jpg",
+        "answers": [
+            {
+                "text": "A qualquer autom\u00f3vel com mais de 10 m de comprimento.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 a autom\u00f3veis de mercadorias com mais de 10 m de comprimento.",
+                "correct": false
+            },
+            {
+                "text": "S\u00f3 a autom\u00f3veis de passageiros com mais de 10 m de comprimento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe o tr\u00e2nsito:",
+        "image": "images/sinais-proibicao_1893.jpg",
+        "answers": [
+            {
+                "text": "A todos os ciclomotores.",
+                "correct": false
+            },
+            {
+                "text": "A ve\u00edculos de duas rodas.",
+                "correct": true
+            },
+            {
+                "text": "Apenas a motociclos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe o tr\u00e2nsito:",
+        "image": "images/sinais-proibicao_1894.jpg",
+        "answers": [
+            {
+                "text": "Aos autom\u00f3veis de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Aos pesados de mercadorias com a largura de 2 metros.",
+                "correct": false
+            },
+            {
+                "text": "Aos ve\u00edculos que ultrapassem a largura de 2 metros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe-me de:",
+        "image": "images/sinais-proibicao_1895.jpg",
+        "answers": [
+            {
+                "text": "Circular a 50 metros do ve\u00edculo que segue \u00e0 minha frente.",
+                "correct": true
+            },
+            {
+                "text": "Circular a 80 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Estacionar al\u00e9m de 70 minutos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe:",
+        "image": "images/sinais-proibicao_1896.jpg",
+        "answers": [
+            {
+                "text": "A circula\u00e7\u00e3o a menos de 10 m do ve\u00edculo da frente.",
+                "correct": false
+            },
+            {
+                "text": "O estacionamento a ve\u00edculos de comprimento superior a 10 m.",
+                "correct": false
+            },
+            {
+                "text": "O tr\u00e2nsito a ve\u00edculos com mais de 10 m de comprimento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe:",
+        "image": "images/sinais-proibicao_1897.jpg",
+        "answers": [
+            {
+                "text": "A paragem e o estacionamento.",
+                "correct": true
+            },
+            {
+                "text": "A paragem, mas permite o estacionamento.",
+                "correct": false
+            },
+            {
+                "text": "O estacionamento, mas permite a paragem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal pro\u00edbe:",
+        "image": "images/sinais-proibicao_1898.jpg",
+        "answers": [
+            {
+                "text": "O tr\u00e2nsito a mais de 70 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "Uma dist\u00e2ncia entre ve\u00edculos inferior a 70 metros.",
+                "correct": true
+            },
+            {
+                "text": "Uma dist\u00e2ncia entre ve\u00edculos superior a 70 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal que se encontra na via p\u00fablica pro\u00edbe o tr\u00e2nsito a todos os ve\u00edculos:",
+        "image": "images/sinais-proibicao_1899.jpg",
+        "answers": [
+            {
+                "text": "Pesados.",
+                "correct": false
+            },
+            {
+                "text": "Que transportem mercadorias perigosas.",
+                "correct": true
+            },
+            {
+                "text": "Que transportem produtos suscept\u00edveis de poluir as \u00e1guas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal que se encontra na via p\u00fablica:",
+        "image": "images/sinais-proibicao_1900.jpg",
+        "answers": [
+            {
+                "text": "Pro\u00edbe o tr\u00e2nsito a todos os ve\u00edculos pesados.",
+                "correct": false
+            },
+            {
+                "text": "Pro\u00edbe o tr\u00e2nsito a ve\u00edculos que transportem mercadorias perigosas.",
+                "correct": true
+            },
+            {
+                "text": "Pro\u00edbe o tr\u00e2nsito apenas a ve\u00edculos ligeiros que transportem mercadorias perigosas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal que se encontra nesta via p\u00fablica indica-me:",
+        "image": "images/sinais-proibicao_1901.jpg",
+        "answers": [
+            {
+                "text": "Pista obrigat\u00f3ria a ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": false
+            },
+            {
+                "text": "Que podem ser encontrados ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal que se encontra nesta via p\u00fablica:",
+        "image": "images/sinais-proibicao_1902.jpg",
+        "answers": [
+            {
+                "text": "Indica o fim da proibi\u00e7\u00e3o de parar ou estacionar.",
+                "correct": false
+            },
+            {
+                "text": "Pro\u00edbe a paragem e o estacionamento.",
+                "correct": false
+            },
+            {
+                "text": "Proibe o estacionamento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical \u00e0 minha frente pro\u00edbe-me de mudar de direc\u00e7\u00e3o \u00e0 direita:",
+        "image": "images/sinais-proibicao_1903.jpg",
+        "answers": [
+            {
+                "text": "At\u00e9 encontrar o respectivo sinal de fim da proibi\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "No pr\u00f3ximo cruzamento.",
+                "correct": true
+            },
+            {
+                "text": "Nos pr\u00f3ximos dois cruzamentos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical circular pro\u00edbe a ultrapassagem a:",
+        "image": "images/sinais-proibicao_1904.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados de passageiros.",
+                "correct": true
+            },
+            {
+                "text": "Motociclos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical d\u00e1 indica\u00e7\u00e3o aos condutores de:",
+        "image": "images/sinais-proibicao_1905.jpg",
+        "answers": [
+            {
+                "text": "Paragem e estacionamento proibidos.",
+                "correct": false
+            },
+            {
+                "text": "Que o tr\u00e2nsito se faz nos dois sentidos.",
+                "correct": false
+            },
+            {
+                "text": "Sentido proibido.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical d\u00e1-me indica\u00e7\u00e3o de:",
+        "image": "images/sinais-proibicao_1906.jpg",
+        "answers": [
+            {
+                "text": "Fim de pista obrigat\u00f3ria para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Que vou encontrar uma pista obrigat\u00f3ria para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de forma circular pro\u00edbe-me de ultrapassar:",
+        "image": "images/sinais-proibicao_1907.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros e pesados.",
+                "correct": true
+            },
+            {
+                "text": "Motociclos de duas rodas sem carro lateral.",
+                "correct": false
+            },
+            {
+                "text": "Veloc\u00edpedes de duas rodas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de formato circular pro\u00edbe a ultrapassagem para:",
+        "image": "images/sinais-proibicao_1908.jpg",
+        "answers": [
+            {
+                "text": "Os autom\u00f3veis ligeiros de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Os autom\u00f3veis pesados.",
+                "correct": true
+            },
+            {
+                "text": "Todos os autom\u00f3veis.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de fundo branco indica-me:",
+        "image": "images/sinais-proibicao_1909.jpg",
+        "answers": [
+            {
+                "text": "Local especialmente destinado \u00e0 passagem de pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Pista obrigat\u00f3ria para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de proibi\u00e7\u00e3o indica aos condutores pista obrigat\u00f3ria para pe\u00f5es e veloc\u00edpedes.",
+        "image": "images/sinais-proibicao_1910.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical destina-se:",
+        "image": "images/sinais-proibicao_1911.jpg",
+        "answers": [
+            {
+                "text": "A qualquer ve\u00edculo que transite no local.",
+                "correct": true
+            },
+            {
+                "text": "Apenas aos autom\u00f3veis pesados.",
+                "correct": false
+            },
+            {
+                "text": "Apenas aos ve\u00edculos em miss\u00e3o urgente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical \u00e9 de:",
+        "image": "images/sinais-proibicao_1912.jpg",
+        "answers": [
+            {
+                "text": "Indica\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica aos condutores:",
+        "image": "images/sinais-proibicao_1913.jpg",
+        "answers": [
+            {
+                "text": "Fim de todas as proibi\u00e7\u00f5es impostas anteriormente por sinaliza\u00e7\u00e3o a ve\u00edculos em marcha.",
+                "correct": true
+            },
+            {
+                "text": "O local a partir do local termina a proibi\u00e7\u00e3o de parar ou estacionar.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de parar ou estacionar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica fim de proibi\u00e7\u00e3o de ultrapassar:",
+        "image": "images/sinais-proibicao_1914.jpg",
+        "answers": [
+            {
+                "text": "Apenas para os autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Apenas para os autom\u00f3veis pesados de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Para os autom\u00f3veis ligeiros de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Para todos os autom\u00f3veis pesados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica proibi\u00e7\u00e3o de transitar:",
+        "image": "images/sinais-proibicao_1915.jpg",
+        "answers": [
+            {
+                "text": "A todos os ve\u00edculos.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 a autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "S\u00f3 a ve\u00edculos com motor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica tr\u00e2nsito proibido:",
+        "image": "images/sinais-proibicao_1916.jpg",
+        "answers": [
+            {
+                "text": "A todos os autom\u00f3veis de mercadorias cujo peso total seja superior a 3,5 toneladas.",
+                "correct": true
+            },
+            {
+                "text": "Aos autom\u00f3veis pesados de peso por eixo superior a 3,5 toneladas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me que o acesso \u00e9 interdito a animais com condutor.",
+        "image": "images/sinais-proibicao_1917.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me que o acesso \u00e9 interdito a:",
+        "image": "images/sinais-proibicao_1918.jpg",
+        "answers": [
+            {
+                "text": "Animais sem condutor.",
+                "correct": false
+            },
+            {
+                "text": "Carros conduzidos \u00e0 m\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Ve\u00edculos agr\u00edcolas.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me que o tr\u00e2nsito passa a ser proibido a:",
+        "image": "images/sinais-proibicao_1919.jpg",
+        "answers": [
+            {
+                "text": "Ciclomotores.",
+                "correct": true
+            },
+            {
+                "text": "Motociclos simples.",
+                "correct": false
+            },
+            {
+                "text": "Triciclos e quadriciclos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me tr\u00e2nsito proibido a:",
+        "image": "images/sinais-proibicao_1920.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis de mercadorias e ve\u00edculos a motor com reboque.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis de mercadorias e ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos com reboque.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me tr\u00e2nsito proibido:",
+        "image": "images/sinais-proibicao_1921.jpg",
+        "answers": [
+            {
+                "text": "A autom\u00f3veis de mercadorias.",
+                "correct": true
+            },
+            {
+                "text": "Apenas a autom\u00f3veis ligeiros de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Apenas a autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me:",
+        "image": "images/sinais-proibicao_1922.jpg",
+        "answers": [
+            {
+                "text": "Proximidade de uma pista especial para ve\u00edculos agr\u00edcolas.",
+                "correct": false
+            },
+            {
+                "text": "Que devo moderar a velocidade devido \u00e0 possibilidade de encontrar ve\u00edculos agr\u00edcolas nesta via.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos agr\u00edcolas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me:",
+        "image": "images/sinais-proibicao_1923.jpg",
+        "answers": [
+            {
+                "text": "Que se trata de uma via de sentido revers\u00edvel.",
+                "correct": false
+            },
+            {
+                "text": "Sentido proibido.",
+                "correct": true
+            },
+            {
+                "text": "Via de tr\u00e2nsito afecta, alternadamente, a um ou outro dos sentidos de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me:",
+        "image": "images/sinais-proibicao_1924.jpg",
+        "answers": [
+            {
+                "text": "Fim de todas as proibi\u00e7\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Sentido proibido.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me:",
+        "image": "images/sinais-proibicao_1925.jpg",
+        "answers": [
+            {
+                "text": "Pista obrigat\u00f3ria para veloc\u00edpedes.",
+                "correct": false
+            },
+            {
+                "text": "Que posso encontrar ciclomotores a circular nesta via p\u00fablica.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ciclomotores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me:",
+        "image": "images/sinais-proibicao_1926.jpg",
+        "answers": [
+            {
+                "text": "Proibi\u00e7\u00e3o de ultrapassar para autom\u00f3veis pesados.",
+                "correct": true
+            },
+            {
+                "text": "Que n\u00e3o posso ultrapassar autom\u00f3veis pesados.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a pesados de mercadorias.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica:",
+        "image": "images/sinais-proibicao_1927.jpg",
+        "answers": [
+            {
+                "text": "Sentido proibido.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido apenas a ve\u00edculos com motor.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica:",
+        "image": "images/sinais-proibicao_1928.jpg",
+        "answers": [
+            {
+                "text": "O fim de todas as proibi\u00e7\u00f5es impostas at\u00e9 ao momento.",
+                "correct": false
+            },
+            {
+                "text": "O fim de todas as proibi\u00e7\u00f5es, impostas por sinaliza\u00e7\u00e3o, referentes a paragem e estacionamento.",
+                "correct": true
+            },
+            {
+                "text": "O in\u00edcio de todas as proibi\u00e7\u00f5es referentes a paragem e estacionamento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical permite circular \u00e0 velocidade de 40 km/h?",
+        "image": "images/sinais-proibicao_1929.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, uma vez que dentro das localidades o limite de velocidade \u00e9 de 50 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Sim, visto que 30 km/h \u00e9 apenas a velocidade recomendada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical permite-me entrar nesta via p\u00fablica?",
+        "image": "images/sinais-proibicao_1930.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o sinal indica tr\u00e2nsito proibido.",
+                "correct": false
+            },
+            {
+                "text": "Sim, se o comprimento do meu ve\u00edculo for igual ou superior ao indicado no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Sim, se o comprimento do meu ve\u00edculo for inferior ou igual ao indicado no sinal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical pro\u00edbe o tr\u00e2nsito:",
+        "image": "images/sinais-proibicao_1931.jpg",
+        "answers": [
+            {
+                "text": "A todos os ve\u00edculos com reboque.",
+                "correct": false
+            },
+            {
+                "text": "A ve\u00edculos com reboque de dois ou mais eixos.",
+                "correct": true
+            },
+            {
+                "text": "Apenas a ve\u00edculos ligeiros com reboque.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical pro\u00edbe o tr\u00e2nsito:",
+        "image": "images/sinais-proibicao_1932.jpg",
+        "answers": [
+            {
+                "text": "Aos ve\u00edculos que ultrapassem as 20 toneladas de peso total.",
+                "correct": true
+            },
+            {
+                "text": "Apenas aos ve\u00edculos de mercadorias que ultrapassem o peso indicado no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Apenas aos ve\u00edculos que ultrapassem as 20 toneladas de peso bruto.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical que se encontra na via p\u00fablica indica-me:",
+        "image": "images/sinais-proibicao_1933.jpg",
+        "answers": [
+            {
+                "text": "Tr\u00e2nsito proibido a carros de m\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a cavaleiros.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical que se encontra na via p\u00fablica indica-me:",
+        "image": "images/sinais-proibicao_1934.jpg",
+        "answers": [
+            {
+                "text": "Sentido proibido apenas a ve\u00edculos autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Sentido proibido.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical que se encontra nesta via indica-me:",
+        "image": "images/sinais-proibicao_1935.jpg",
+        "answers": [
+            {
+                "text": "Paragem e estacionamento proibidos.",
+                "correct": true
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de parar ou estacionar, apenas para ve\u00edculos pesados.",
+                "correct": false
+            },
+            {
+                "text": "Unicamente estacionamento proibido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical significa que:",
+        "image": "images/sinais-proibicao_1936.jpg",
+        "answers": [
+            {
+                "text": "Os ciclomotores n\u00e3o podem ultrapassar.",
+                "correct": true
+            },
+            {
+                "text": "Os ve\u00edculos de duas rodas devem circular na via da esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Os ve\u00edculos de duas rodas s\u00f3 podem ultrapassar autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Os veloc\u00edpedes n\u00e3o podem ultrapassar autom\u00f3veis ligeiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical significa que:",
+        "image": "images/sinais-proibicao_1937.jpg",
+        "answers": [
+            {
+                "text": "Apenas os autom\u00f3veis ligeiros n\u00e3o podem ultrapassar outros autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o posso ultrapassar autom\u00f3veis.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o posso ultrapassar ve\u00edculos de duas rodas sem carro lateral.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical significa:",
+        "image": "images/sinais-proibicao_1938.jpg",
+        "answers": [
+            {
+                "text": "Intensidade de tr\u00e2nsito proibindo os ve\u00edculos de transitar a uma dist\u00e2ncia superior a 70 metros uns dos outros.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de transitar a uma dist\u00e2ncia inferior a 70 metros do ve\u00edculo da frente.",
+                "correct": true
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de ultrapassar numa extens\u00e3o de 70 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical significa:",
+        "image": "images/sinais-proibicao_1939.jpg",
+        "answers": [
+            {
+                "text": "Tr\u00e2nsito proibido a motociclos.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a veloc\u00edpedes.",
+                "correct": true
+            },
+            {
+                "text": "Via obrigat\u00f3ria para motociclos.",
+                "correct": false
+            },
+            {
+                "text": "Via obrigat\u00f3ria para veloc\u00edpedes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O tr\u00e2nsito de ve\u00edculos \u00e9 proibido, em ambos os sentidos, na via em que o sinal vertical se encontra colocado.",
+        "image": "images/sinais-proibicao_1940.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O tr\u00e2nsito \u00e9 proibido aos ve\u00edculos com mais de 10 m de:",
+        "image": "images/sinais-proibicao_1941.jpg",
+        "answers": [
+            {
+                "text": "Altura.",
+                "correct": false
+            },
+            {
+                "text": "Comprimento.",
+                "correct": true
+            },
+            {
+                "text": "Largura.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O ve\u00edculo que transita \u00e0 minha frente, se respeitar a sinaliza\u00e7\u00e3o, circula:",
+        "image": "images/sinais-proibicao_1942.jpg",
+        "answers": [
+            {
+                "text": "A uma velocidade moderada.",
+                "correct": true
+            },
+            {
+                "text": "A uma velocidade superior a 10 km/h, para n\u00e3o embara\u00e7ar o tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "\u00c0 velocidade que considerar adequada, porque o sinal apenas recomenda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os autom\u00f3veis ligeiros podem ultrapassar?",
+        "image": "images/sinais-proibicao_1943.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, as marcas rodovi\u00e1rias n\u00e3o o permitem.",
+                "correct": true
+            },
+            {
+                "text": "Sim, desde que ocupem a metade esquerda da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Sim, porque a sinaliza\u00e7\u00e3o vertical apenas pro\u00edbe os motociclos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os autom\u00f3veis pesados de mercadorias com um peso total de 5 toneladas est\u00e3o proibidos de circular na via em que o sinal se encontra colocado.",
+        "image": "images/sinais-proibicao_1944.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os ciclistas \u00e0 minha frente entraram numa via em que o tr\u00e2nsito \u00e9 proibido a todos os ve\u00edculos de duas rodas com motor.",
+        "image": "images/sinais-proibicao_1945.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os motociclos podem circular na presen\u00e7a deste sinal vertical?",
+        "image": "images/sinais-proibicao_1946.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o acesso \u00e9 interdito a todos os motociclos.",
+                "correct": false
+            },
+            {
+                "text": "Sim, desde que sejam motociclos com carro.",
+                "correct": false
+            },
+            {
+                "text": "Sim, desde que sejam motociclos simples.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os sinais de proibi\u00e7\u00e3o indicam, que a manobra de ultrapassagem, at\u00e9 ao local, era:",
+        "image": "images/sinais-proibicao_1947.jpg",
+        "answers": [
+            {
+                "text": "Permitida apenas aos ve\u00edculos pesados.",
+                "correct": false
+            },
+            {
+                "text": "Proibida apenas para os ve\u00edculos ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Proibida, para todos os ve\u00edculos com motor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os sinais verticais que se encontram nesta via p\u00fablica pro\u00edbem a ultrapassagem apenas a ve\u00edculos autom\u00f3veis ligeiros de passageiros. Concorda com esta afirma\u00e7\u00e3o?",
+        "image": "images/sinais-proibicao_1948.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os ve\u00edculos pesados de mercadorias com reboque de apenas um eixo est\u00e3o impedidos de circular ap\u00f3s o sinal de proibi\u00e7\u00e3o?",
+        "image": "images/sinais-proibicao_1949.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Os ve\u00edculos pesados podem seguir em frente?",
+        "image": "images/sinais-proibicao_1950.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, se a altura do ve\u00edculo for inferior a 3,5 metros.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, se transportarem mat\u00e9rias perigosas.",
+                "correct": true
+            },
+            {
+                "text": "Sim, se transportarem mat\u00e9rias perigosas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o a dist\u00e2ncia entre ve\u00edculos em marcha:",
+        "image": "images/sinais-proibicao_1951.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o pode ser igual a 70 metros.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o pode ser inferior a 70 metros.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o pode ultrapassar 70 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o de proibi\u00e7\u00e3o devo saber que:",
+        "image": "images/sinais-proibicao_1952.jpg",
+        "answers": [
+            {
+                "text": "Apenas \u00e9 permitido o tr\u00e2nsito a autom\u00f3veis de mercadorias e a ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido o tr\u00e2nsito a autom\u00f3veis de mercadorias e a ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": true
+            },
+            {
+                "text": "Estou obrigado a circular com precau\u00e7\u00e3o e apenas na via de tr\u00e2nsito mais \u00e0 direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o devo:",
+        "image": "images/sinais-proibicao_1953.jpg",
+        "answers": [
+            {
+                "text": "Avan\u00e7ar sem ceder a passagem.",
+                "correct": false
+            },
+            {
+                "text": "Ceder a passagem e mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Ceder a passagem.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o existente da via, posso mudar de direc\u00e7\u00e3o para a esquerda?",
+        "image": "images/sinais-proibicao_1954.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o sinal de proibi\u00e7\u00e3o impede-me de efectuar a manobra.",
+                "correct": true
+            },
+            {
+                "text": "Sim, a marca rodovi\u00e1ria permite-me efectuar a manobra.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o existente estou proibido de exceder a velocidade m\u00e1xima de 50 km/h na via de tr\u00e2nsito onde circulo.",
+        "image": "images/sinais-proibicao_1955.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": false
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o existente, devo saber que, na via \u00e0 minha direita, podem circular:",
+        "image": "images/sinais-proibicao_1956.jpg",
+        "answers": [
+            {
+                "text": "Ciclomotores.",
+                "correct": false
+            },
+            {
+                "text": "Motociclos de cilindrada inferior a 50 cm3.",
+                "correct": false
+            },
+            {
+                "text": "Motociclos de cilindrada superior a 50 cm3.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o n\u00e3o podem transitar:",
+        "image": "images/sinais-proibicao_1957.jpg",
+        "answers": [
+            {
+                "text": "Quadriciclos.",
+                "correct": false
+            },
+            {
+                "text": "Triciclos.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos de duas rodas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o os ciclomotores:",
+        "image": "images/sinais-proibicao_1958.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o podem ultrapassar.",
+                "correct": true
+            },
+            {
+                "text": "Podem ultrapassar, desde que na metade direita da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Podem ultrapassar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o podem transitar:",
+        "image": "images/sinais-proibicao_1959.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados de passageiros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o qual destes ve\u00edculos est\u00e1 proibido de transitar?",
+        "image": "images/sinais-proibicao_1960.jpg",
+        "answers": [
+            {
+                "text": "Ciclomotor.",
+                "correct": false
+            },
+            {
+                "text": "Motociclo com carro lateral.",
+                "correct": true
+            },
+            {
+                "text": "Motociclo simples.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o vertical devo saber que \u00e9 proibida a circula\u00e7\u00e3o de ve\u00edculos com:",
+        "image": "images/sinais-proibicao_1961.jpg",
+        "answers": [
+            {
+                "text": "Altura superior a 2 metros.",
+                "correct": false
+            },
+            {
+                "text": "Largura superior a 2 metros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o vertical est\u00e3o proibidos de ultrapassar:",
+        "image": "images/sinais-proibicao_1962.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Ciclomotores e autom\u00f3veis pesados.",
+                "correct": false
+            },
+            {
+                "text": "Motociclos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o, a realiza\u00e7\u00e3o da manobra de ultrapassagem \u00e9 proibida, aos condutores de:",
+        "image": "images/sinais-proibicao_1963.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Qualquer ve\u00edculo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o, devo:",
+        "image": "images/sinais-proibicao_1964.jpg",
+        "answers": [
+            {
+                "text": "Avan\u00e7ar, para n\u00e3o provocar embara\u00e7o no tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Parar, porque me aproximo de uma portagem.",
+                "correct": false
+            },
+            {
+                "text": "Parar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o, est\u00e3o proibidos de realizar a manobra de ultrapassagem a outros autom\u00f3veis:",
+        "image": "images/sinais-proibicao_1965.jpg",
+        "answers": [
+            {
+                "text": "Apenas os autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Apenas os ve\u00edculos de duas rodas.",
+                "correct": false
+            },
+            {
+                "text": "Todos os autom\u00f3veis pesados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o, est\u00e3o proibidos de realizar a manobra de ultrapassagem:",
+        "image": "images/sinais-proibicao_1966.jpg",
+        "answers": [
+            {
+                "text": "Apenas os autom\u00f3veis ligeiros, excepto para ultrapassar ve\u00edculos de duas rodas.",
+                "correct": false
+            },
+            {
+                "text": "Apenas os autom\u00f3veis pesados, excepto para ultrapassar ve\u00edculos de duas rodas.",
+                "correct": false
+            },
+            {
+                "text": "Todos os autom\u00f3veis, excepto para ultrapassar ve\u00edculos de duas rodas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o, o tr\u00e2nsito \u00e9 proibido a todos os ve\u00edculos de mercadorias.",
+        "image": "images/sinais-proibicao_1967.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o, os condutores de ve\u00edculos pesados:",
+        "image": "images/sinais-proibicao_1968.jpg",
+        "answers": [
+            {
+                "text": "Est\u00e3o proibidos de mudar de direc\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "S\u00e3o obrigados a mudar de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": true
+            },
+            {
+                "text": "S\u00e3o obrigados a seguir em frente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o, podem transitar:",
+        "image": "images/sinais-proibicao_1969.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados.",
+                "correct": false
+            },
+            {
+                "text": "Ciclomotores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o, um ve\u00edculo que transporte mat\u00e9rias perigosas, pode seguir em frente?",
+        "image": "images/sinais-proibicao_1970.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, mas apenas se ultrapassar a altura de 3,5 metros.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, se for um ligeiro.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o:",
+        "image": "images/sinais-proibicao_1971.jpg",
+        "answers": [
+            {
+                "text": "O tr\u00e2nsito \u00e9 proibido a todos os ve\u00edculos de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "O tr\u00e2nsito \u00e9 proibido a todos os ve\u00edculos pesados.",
+                "correct": true
+            },
+            {
+                "text": "O tr\u00e2nsito \u00e9 proibido, apenas aos ve\u00edculos pesados que transitarem a uma velocidade superior a 60 Km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o:",
+        "image": "images/sinais-proibicao_1972.jpg",
+        "answers": [
+            {
+                "text": "A mudan\u00e7a de direc\u00e7\u00e3o \u00e9 obrigat\u00f3ria.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido mudar de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o:",
+        "image": "images/sinais-proibicao_1973.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o posso utilizar os sinais sonoros.",
+                "correct": true
+            },
+            {
+                "text": "Posso utilizar os sinais sonoros, enquanto circular dentro da localidade.",
+                "correct": false
+            },
+            {
+                "text": "Posso utilizar os sinais sonoros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o:",
+        "image": "images/sinais-proibicao_1974.jpg",
+        "answers": [
+            {
+                "text": "A manobra de ultrapassagem \u00e9 obrigat\u00f3ria.",
+                "correct": false
+            },
+            {
+                "text": "Devo ultrapassar rapidamente.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 permitido ultrapassar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o:",
+        "image": "images/sinais-proibicao_1975.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o podem transitar autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Os acessos s\u00e3o condicionados.",
+                "correct": true
+            },
+            {
+                "text": "Sei que vou entrar numa auto-estrada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o:",
+        "image": "images/sinais-proibicao_1976.jpg",
+        "answers": [
+            {
+                "text": "Devo transitar a uma velocidade m\u00ednima de 40 km/h.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o posso transitar a 40 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "Posso transitar a 40 km/h.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante esta sinaliza\u00e7\u00e3o vertical, devo saber que:",
+        "image": "images/sinais-proibicao_1977.jpg",
+        "answers": [
+            {
+                "text": "Estou obrigado a seguir em frente.",
+                "correct": false
+            },
+            {
+                "text": "Estou proibido de circular a velocidade superior \u00e0 do sinal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante esta situa\u00e7\u00e3o, como devo proceder?",
+        "image": "images/sinais-proibicao_1978.jpg",
+        "answers": [
+            {
+                "text": "Devo parar.",
+                "correct": false
+            },
+            {
+                "text": "Devo transitar com muita precau\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Devo utilizar os sinais sonoros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal devo saber que:",
+        "image": "images/sinais-proibicao_1979.jpg",
+        "answers": [
+            {
+                "text": "Dentro das localidades \u00e9 sempre proibida a utiliza\u00e7\u00e3o de sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibida a utiliza\u00e7\u00e3o de sinais sonoros.",
+                "correct": true
+            },
+            {
+                "text": "S\u00f3 \u00e9 permitida a utiliza\u00e7\u00e3o de sinais sonoros fora das localidades.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal devo saber que:",
+        "image": "images/sinais-proibicao_1980.jpg",
+        "answers": [
+            {
+                "text": "Estou obrigado a utilizar os sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de utilizar sinais sonoros.",
+                "correct": true
+            },
+            {
+                "text": "Terminou a obriga\u00e7\u00e3o de utilizar sinais sonoros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal fico a saber que:",
+        "image": "images/sinais-proibicao_1981.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 proibido o uso de sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido ultrapassar sem buzinar.",
+                "correct": false
+            },
+            {
+                "text": "Terminou a proibi\u00e7\u00e3o do uso de sinais sonoros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal que ve\u00edculos podem ter acesso ao Parque?",
+        "image": "images/sinais-proibicao_1982.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis e ciclomotores.",
+                "correct": true
+            },
+            {
+                "text": "Motociclos simples.",
+                "correct": false
+            },
+            {
+                "text": "Todos os ve\u00edculos de duas rodas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal um motociclista:",
+        "image": "images/sinais-proibicao_1983.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o pode ultrapassar apenas autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o pode ultrapassar.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o pode utilizar a via de tr\u00e2nsito onde circulem autom\u00f3veis.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal vertical o acesso \u00e9 interdito a:",
+        "image": "images/sinais-proibicao_1984.jpg",
+        "answers": [
+            {
+                "text": "Ciclomotores.",
+                "correct": false
+            },
+            {
+                "text": "Motociclos simples.",
+                "correct": true
+            },
+            {
+                "text": "Todos os ve\u00edculos de duas rodas.",
+                "correct": false
+            },
+            {
+                "text": "Veloc\u00edpedes.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal vertical podem circular:",
+        "image": "images/sinais-proibicao_1985.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros e veloc\u00edpedes.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados de passageiros e de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Motociclos simples e com carro lateral.",
+                "correct": false
+            },
+            {
+                "text": "Ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal vertical posso ultrapassar algum tipo de ve\u00edculos?",
+        "image": "images/sinais-proibicao_1986.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, a ultrapassagem \u00e9 sempre proibida seja qual for o ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas autom\u00f3veis ligeiros.",
+                "correct": false
+            },
+            {
+                "text": "Sim, mas apenas ve\u00edculos de duas rodas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal vertical sei que \u00e9 proibida a ultrapassagem:",
+        "image": "images/sinais-proibicao_1987.jpg",
+        "answers": [
+            {
+                "text": "Apenas para os autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Apenas para os autom\u00f3veis pesados de passageiros.",
+                "correct": false
+            },
+            {
+                "text": "Para todos os autom\u00f3veis pesados de mercadorias ou de passageiros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal vertical sei que n\u00e3o podem circular nesta via:",
+        "image": "images/sinais-proibicao_1988.jpg",
+        "answers": [
+            {
+                "text": "Ciclomotores.",
+                "correct": false
+            },
+            {
+                "text": "Motociclos.",
+                "correct": false
+            },
+            {
+                "text": "Veloc\u00edpedes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de proibi\u00e7\u00e3o n\u00e3o podem transitar autom\u00f3veis com:",
+        "image": "images/sinais-proibicao_1989.jpg",
+        "answers": [
+            {
+                "text": "Altura superior \u00e0 indicada no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Largura indicada no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Largura superior \u00e0 indicada no sinal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de proibi\u00e7\u00e3o n\u00e3o posso:",
+        "image": "images/sinais-proibicao_1990.jpg",
+        "answers": [
+            {
+                "text": "Fazer sinais de luzes e utilizar os sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Fazer sinais de luzes.",
+                "correct": false
+            },
+            {
+                "text": "Utilizar os sinais sonoros",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de proibi\u00e7\u00e3o, \u00e9 permitido:",
+        "image": "images/sinais-proibicao_1991.jpg",
+        "answers": [
+            {
+                "text": "Estacionar por breves instantes.",
+                "correct": false
+            },
+            {
+                "text": "Imobilizar o ve\u00edculo caso exista congestionamento de tr\u00e2nsito.",
+                "correct": true
+            },
+            {
+                "text": "Parar para cargas e descargas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal n\u00e3o podem transitar:",
+        "image": "images/sinais-proibicao_1992.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis ligeiros de passageiros com reboque.",
+                "correct": true
+            },
+            {
+                "text": "Autom\u00f3veis pesados de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal que se encontra na via, devo saber que:",
+        "image": "images/sinais-proibicao_1993.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 proibido estacionar ap\u00f3s o sinal.",
+                "correct": true
+            },
+            {
+                "text": "\u00c9 proibido mudar de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido o tr\u00e2nsito a ve\u00edculos pesados de mercadorias.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal vertical n\u00e3o podem transitar:",
+        "image": "images/sinais-proibicao_1994.jpg",
+        "answers": [
+            {
+                "text": "Autom\u00f3veis com a largura de 2,10 metros.",
+                "correct": true
+            },
+            {
+                "text": "Autom\u00f3veis com a largura indicada no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Autom\u00f3veis pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal vertical, fico a saber que:",
+        "image": "images/sinais-proibicao_1995.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 proibido o tr\u00e2nsito, a autom\u00f3veis de mercadorias.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibido o tr\u00e2nsito, a autom\u00f3veis pesados.",
+                "correct": true
+            },
+            {
+                "text": "Se trata de uma via obrigat\u00f3ria para autom\u00f3veis de mercadorias.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal vertical:",
+        "image": "images/sinais-proibicao_1996.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 permitida a utiliza\u00e7\u00e3o dos sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibida a utiliza\u00e7\u00e3o dos sinais luminosos.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 proibida a utiliza\u00e7\u00e3o dos sinais sonoros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante os sinais de regulamenta\u00e7\u00e3o devo:",
+        "image": "images/sinais-proibicao_1997.jpg",
+        "answers": [
+            {
+                "text": "Ceder a passagem.",
+                "correct": true
+            },
+            {
+                "text": "Parar e mudar de direc\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Seguir em frente e parar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Posso efectuar a manobra de invers\u00e3o do sentido de marcha ap\u00f3s o sinal?",
+        "image": "images/sinais-proibicao_1998.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Posso efectuar a manobra de ultrapassagem posicionado nesta via de tr\u00e2nsito?",
+        "image": "images/sinais-proibicao_1999.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, a manobra \u00e9 proibida.",
+                "correct": true
+            },
+            {
+                "text": "Sim, a manobra \u00e9 permitida.",
+                "correct": false
+            },
+            {
+                "text": "Sim, excepto para ve\u00edculos pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Posso entrar nesta via p\u00fablica?",
+        "image": "images/sinais-proibicao_2000.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o sinal indica tr\u00e2nsito proibido a todos os ve\u00edculos.",
+                "correct": true
+            },
+            {
+                "text": "Sim, o sinal indica o in\u00edcio de uma zona em que terminam todas as proibi\u00e7\u00f5es anteriormente impostas.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o sinal n\u00e3o pro\u00edbe o tr\u00e2nsito de quaisquer ve\u00edculos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Posso entrar nesta via p\u00fablica?",
+        "image": "images/sinais-proibicao_2001.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o sinal indica tr\u00e2nsito proibido a todos os ve\u00edculos a motor.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o sinal permite o tr\u00e2nsito a ve\u00edculos cujo comprimento seja superior ao indicado no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Sim, se circular com um ve\u00edculo cujo comprimento seja inferior ao indicado no sinal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Posso inverter o sentido de marcha atendendo \u00e0 sinaliza\u00e7\u00e3o vertical?",
+        "image": "images/sinais-proibicao_2002.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, a manobra \u00e9 proibida.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o, sou obrigado a mudar de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Sim, j\u00e1 que a largura da via \u00e9 apropriada \u00e0 realiza\u00e7\u00e3o da manobra.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Posso mudar de direc\u00e7\u00e3o para a esquerda?",
+        "image": "images/sinais-proibicao_2003.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, a indica\u00e7\u00e3o resultante do sinal vertical prevalece sobre a marca rodovi\u00e1ria.",
+                "correct": true
+            },
+            {
+                "text": "Sim, a indica\u00e7\u00e3o resultante da marca rodovi\u00e1ria prevalece sobre o sinal vertical.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Posso mudar de direc\u00e7\u00e3o para a esquerda?",
+        "image": "images/sinais-proibicao_2004.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o sinal vertical de fundo branco impede-me de efectuar a manobra.",
+                "correct": true
+            },
+            {
+                "text": "Sim, a linha descont\u00ednua \u00e0 minha esquerda permite-me efectuar a manobra.",
+                "correct": false
+            },
+            {
+                "text": "Sim, devendo aproximar-me, com a necess\u00e1ria anteced\u00eancia e o mais poss\u00edvel, do limite esquerdo do eixo da faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Pretendo seguir a direc\u00e7\u00e3o \u201cSacav\u00e9m\u201d. Que velocidade devo adoptar ap\u00f3s os sinais de regulamenta\u00e7\u00e3o?",
+        "image": "images/sinais-proibicao_2005.jpg",
+        "answers": [
+            {
+                "text": "Igual ou inferior a 100 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Igual ou inferior a 120 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Igual ou inferior a 50 km/h.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Quais os ve\u00edculos que est\u00e3o proibidos de ultrapassar?",
+        "image": "images/sinais-proibicao_2006.jpg",
+        "answers": [
+            {
+                "text": "Apenas os pesados.",
+                "correct": false
+            },
+            {
+                "text": "Apenas os ve\u00edculos de quatro rodas.",
+                "correct": false
+            },
+            {
+                "text": "Todos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o dada por este sinal?",
+        "image": "images/sinais-proibicao_2007.jpg",
+        "answers": [
+            {
+                "text": "Estacionamento proibido.",
+                "correct": true
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de parar.",
+                "correct": false
+            },
+            {
+                "text": "Paragem e estacionamento proibidos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que este sinal vertical d\u00e1 aos condutores?",
+        "image": "images/sinais-proibicao_2008.jpg",
+        "answers": [
+            {
+                "text": "Indica a velocidade m\u00e1xima a que os condutores s\u00e3o aconselhados a circular.",
+                "correct": false
+            },
+            {
+                "text": "Indica o local a partir do qual \u00e9 permitido circular a velocidade superior a 40 Km/h.",
+                "correct": true
+            },
+            {
+                "text": "Que transitam fora de uma localidade e que devem circular a uma velocidade superior a 40 Km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que o sinal de proibi\u00e7\u00e3o d\u00e1 aos condutores?",
+        "image": "images/sinais-proibicao_2009.jpg",
+        "answers": [
+            {
+                "text": "Pista especial para pe\u00f5es e veloc\u00edpedes.",
+                "correct": false
+            },
+            {
+                "text": "Pista obrigat\u00f3ria para pe\u00f5es e veloc\u00edpedes.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a autom\u00f3veis e motociclos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que o sinal vertical d\u00e1 aos condutores que circulam nesta via p\u00fablica?",
+        "image": "images/sinais-proibicao_2010.jpg",
+        "answers": [
+            {
+                "text": "Fim de tr\u00e2nsito proibido.",
+                "correct": false
+            },
+            {
+                "text": "O local a partir do qual terminam todas as proibi\u00e7\u00f5es anteriormente impostas por sinaliza\u00e7\u00e3o de ve\u00edculos em marcha.",
+                "correct": true
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de efectuar a manobra de ultrapassagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que o sinal vertical d\u00e1 aos condutores?",
+        "image": "images/sinais-proibicao_2011.jpg",
+        "answers": [
+            {
+                "text": "Zona em que \u00e9 proibido o tr\u00e2nsito a todos os ve\u00edculos.",
+                "correct": true
+            },
+            {
+                "text": "Zona em que \u00e9 proibido parar e estacionar.",
+                "correct": false
+            },
+            {
+                "text": "Zona em que passa a ser permitido o tr\u00e2nsito de ve\u00edculos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que o sinal vertical d\u00e1 aos condutores?",
+        "image": "images/sinais-proibicao_2012.jpg",
+        "answers": [
+            {
+                "text": "A extens\u00e3o do tro\u00e7o com duas vias de tr\u00e2nsito no mesmo sentido.",
+                "correct": false
+            },
+            {
+                "text": "Que a 70 metros v\u00e3o encontrar uma via em que o tr\u00e2nsito se encontra proibido.",
+                "correct": false
+            },
+            {
+                "text": "Que n\u00e3o podem transitar a menos de 70 metros do ve\u00edculo da frente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual destes ve\u00edculos est\u00e1 sempre proibido de transitar para al\u00e9m do sinal de regulamenta\u00e7\u00e3o?",
+        "image": "images/sinais-proibicao_2013.jpg",
+        "answers": [
+            {
+                "text": "Um autom\u00f3vel com 20 toneladas de peso bruto.",
+                "correct": false
+            },
+            {
+                "text": "Um autom\u00f3vel pesado com 25 toneladas de peso total.",
+                "correct": true
+            },
+            {
+                "text": "Um autom\u00f3vel pesado de mercadorias de 20 toneladas de peso bruto.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual destes ve\u00edculos pode transitar para al\u00e9m do sinal?",
+        "image": "images/sinais-proibicao_2014.jpg",
+        "answers": [
+            {
+                "text": "Um motociclo simples.",
+                "correct": false
+            },
+            {
+                "text": "Um quadriciclo.",
+                "correct": true
+            },
+            {
+                "text": "Um veloc\u00edpede.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado da sinaliza\u00e7\u00e3o vertical de proibi\u00e7\u00e3o?",
+        "image": "images/sinais-proibicao_2015.jpg",
+        "answers": [
+            {
+                "text": "Velocidade m\u00e1xima permitida.",
+                "correct": true
+            },
+            {
+                "text": "Velocidade m\u00e1xima recomendada.",
+                "correct": false
+            },
+            {
+                "text": "Velocidade m\u00ednima permitida.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal vertical?",
+        "image": "images/sinais-proibicao_2016.jpg",
+        "answers": [
+            {
+                "text": "Fim da obriga\u00e7\u00e3o de ceder a passagem aos ve\u00edculos que circulam em sentido contr\u00e1rio.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Fim de todas as proibi\u00e7\u00f5es impostas anteriormente por sinaliza\u00e7\u00e3o a ve\u00edculos em marcha.",
+                "correct": true
+            },
+            {
+                "text": "Fim de via com prioridade.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal vertical?",
+        "image": "images/sinais-proibicao_2017.jpg",
+        "answers": [
+            {
+                "text": "Curva perigosa \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de inverter o sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de mudan\u00e7a de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": true
+            },
+            {
+                "text": "Via p\u00fablica sem sa\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Que significado tem a sinaliza\u00e7\u00e3o vertical?",
+        "image": "images/sinais-proibicao_2018.jpg",
+        "answers": [
+            {
+                "text": "Obriga\u00e7\u00e3o de circular \u00e0 velocidade indicada no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de circular a velocidade inferior a 30 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de circular a velocidade superior a 30 km/h.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Que significado tem o sinal vertical?",
+        "image": "images/sinais-proibicao_2019.jpg",
+        "answers": [
+            {
+                "text": "Fim da obriga\u00e7\u00e3o de utilizar os sinais sonoros \u00e0 noite.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de ultrapassar sem buzinar.",
+                "correct": false
+            },
+            {
+                "text": "Fim da proibi\u00e7\u00e3o de utilizar sinais sonoros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Se conduzir um autom\u00f3vel ligeiro de passageiros, posso mudar de direc\u00e7\u00e3o \u00e0 direita no pr\u00f3ximo entroncamento?",
+        "image": "images/sinais-proibicao_2020.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Tendo em conta a sinaliza\u00e7\u00e3o vertical, que ve\u00edculos podem circular nesta via?",
+        "image": "images/sinais-proibicao_2021.jpg",
+        "answers": [
+            {
+                "text": "Apenas os autom\u00f3veis ligeiros e pesados.",
+                "correct": false
+            },
+            {
+                "text": "Os autom\u00f3veis e os motociclos de cilindrada superior a 50cm3.",
+                "correct": true
+            },
+            {
+                "text": "Todos, \u00e0 excep\u00e7\u00e3o dos ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": false
+            },
+            {
+                "text": "Todos, \u00e0 excep\u00e7\u00e3o dos veloc\u00edpedes e dos ciclomotores.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um ve\u00edculo com altura superior a 2 metros pode circular nesta via p\u00fablica?",
+        "image": "images/sinais-proibicao_2022.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, desde que n\u00e3o seja superior \u00e0 indicada no sinal.",
+                "correct": true
+            }
+        ]
+    }
+]

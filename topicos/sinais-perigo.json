@@ -1,0 +1,5144 @@
+[
+    {
+        "question": "A partir deste sinal de perigo \u00e9 proibido inverter o sentido de marcha.",
+        "image": "images/sinais-perigo_1438.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A que dist\u00e2ncia vou encontrar o perigo indicado pelo sinal?",
+        "image": "images/sinais-perigo_1439.jpg",
+        "answers": [
+            {
+                "text": "Entre 150m a 300m do sinal.",
+                "correct": true
+            },
+            {
+                "text": "Entre 25m a 50m do sinal.",
+                "correct": false
+            },
+            {
+                "text": "Entre 50m a 100m do sinal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o indica que irei encontrar um local sobrevoado a baixa altitude:",
+        "image": "images/sinais-perigo_1440.jpg",
+        "answers": [
+            {
+                "text": "A 2 km.",
+                "correct": false
+            },
+            {
+                "text": "A uma dist\u00e2ncia de 200 metros.",
+                "correct": true
+            },
+            {
+                "text": "Durante 200 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o tempor\u00e1ria indica o perigo de:",
+        "image": "images/sinais-perigo_1441.jpg",
+        "answers": [
+            {
+                "text": "Projec\u00e7\u00e3o de gravilha.",
+                "correct": true
+            },
+            {
+                "text": "Queda de pedras.",
+                "correct": false
+            },
+            {
+                "text": "Trabalhos na via.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A sinaliza\u00e7\u00e3o vertical, indica-me que vou encontrar uma curva perigosa \u00e0 direita a 80 metros.",
+        "image": "images/sinais-perigo_1442.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ao avistar o sinal de perigo sei que me aproximo de:",
+        "image": "images/sinais-perigo_1443.jpg",
+        "answers": [
+            {
+                "text": "Um local de visibilidade reduzida.",
+                "correct": false
+            },
+            {
+                "text": "Um t\u00fanel.",
+                "correct": true
+            },
+            {
+                "text": "Uma passagem estreita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ao avistar o sinal vertical devo moderar a velocidade porque:",
+        "image": "images/sinais-perigo_1444.jpg",
+        "answers": [
+            {
+                "text": "A velocidade \u00e9 controlada pelo sistema de radar.",
+                "correct": false
+            },
+            {
+                "text": "Aproximo-me de um local onde o tr\u00e2nsito \u00e9 regulado por sinaliza\u00e7\u00e3o luminosa.",
+                "correct": true
+            },
+            {
+                "text": "Aproximo-me de uma curva perigosa.",
+                "correct": false
+            },
+            {
+                "text": "Estou a entrar numa localidade em que o limite de velocidade \u00e9 50 km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Ao circular neste local devo moderar a velocidade?",
+        "image": "images/sinais-perigo_1445.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, apenas estou obrigado a moderar a velocidade na curva.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, o sinal informa a proximidade de uma curva a mais de 350 metros.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o sinal indica-me a proximidade de uma curva perigosa \u00e0 direita.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ao encontrar este sinal, fico a saber que:",
+        "image": "images/sinais-perigo_1446.jpg",
+        "answers": [
+            {
+                "text": "A faixa de rodagem tem um estreitamento apenas do lado direito.",
+                "correct": false
+            },
+            {
+                "text": "A via de tr\u00e2nsito em que circulo vai deixar de existir.",
+                "correct": false
+            },
+            {
+                "text": "Existe um estreitamento da via.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Ap\u00f3s a sinaliza\u00e7\u00e3o devo moderar a velocidade, porque:",
+        "image": "images/sinais-perigo_1447.jpg",
+        "answers": [
+            {
+                "text": "O limite de velocidade \u00e9 de 40 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Transito num local frequentado por idosos onde o limite m\u00ednimo de velocidade \u00e9 de 50 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Transito num local frequentado por idosos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "As 'bandas sonoras' servem apenas para assinalar a presen\u00e7a de uma escola ou local frequentado por crian\u00e7as.",
+        "image": "images/sinais-perigo_1448.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Como devo comportar-me perante este sinal?",
+        "image": "images/sinais-perigo_1449.jpg",
+        "answers": [
+            {
+                "text": "Circular a velocidade especialmente moderada e estar atento ao posicionamento da cancela.",
+                "correct": true
+            },
+            {
+                "text": "Reduzir a velocidade e acender as luzes de cruzamento se a cancela estiver fechada.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade e acender as luzes de presen\u00e7a se a cancela estiver fechada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder face \u00e0 informa\u00e7\u00e3o que me \u00e9 dada pelo sinal vertical?",
+        "image": "images/sinais-perigo_1450.jpg",
+        "answers": [
+            {
+                "text": "Engrenar a primeira velocidade na depress\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Manter a velocidade e parar antes das lombas.",
+                "correct": false
+            },
+            {
+                "text": "Moderar especialmente a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Parar antes de cada lomba.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder na presen\u00e7a deste sinal de perigo?",
+        "image": "images/sinais-perigo_1451.jpg",
+        "answers": [
+            {
+                "text": "Aumentar a velocidade e a dist\u00e2ncia de seguran\u00e7a.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade e a dist\u00e2ncia de seguran\u00e7a.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade e aumentar a dist\u00e2ncia de seguran\u00e7a.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder na presen\u00e7a deste sinal de perigo?",
+        "image": "images/sinais-perigo_1452.jpg",
+        "answers": [
+            {
+                "text": "Aumentar a velocidade por forma a evitar o perigo.",
+                "correct": false
+            },
+            {
+                "text": "Moderar especialmente a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Parar at\u00e9 que o perigo passe.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder na presen\u00e7a deste sinal vertical?",
+        "image": "images/sinais-perigo_1453.jpg",
+        "answers": [
+            {
+                "text": "Assinalar a presen\u00e7a do meu ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Circular junto do eixo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Estar atento e moderar a velocidade.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder na presen\u00e7a deste sinal vertical?",
+        "image": "images/sinais-perigo_1454.jpg",
+        "answers": [
+            {
+                "text": "Buzinar para assinalar a minha presen\u00e7a.",
+                "correct": false
+            },
+            {
+                "text": "Circular \u00e0 velocidade que me \u00e9 permitida naquela via, mas assinalar a presen\u00e7a do meu ve\u00edculo.",
+                "correct": false
+            },
+            {
+                "text": "Circular com especial cuidado e prud\u00eancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder na presen\u00e7a deste sinal vertical?",
+        "image": "images/sinais-perigo_1455.jpg",
+        "answers": [
+            {
+                "text": "Circular com velocidade moderada.",
+                "correct": true
+            },
+            {
+                "text": "Circular junto ao eixo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Fazer uso das luzes de perigo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder na presen\u00e7a deste sinal vertical?",
+        "image": "images/sinais-perigo_1456.jpg",
+        "answers": [
+            {
+                "text": "Fazer uso dos sinais sonoros para alertar o condutor dos animais da minha presen\u00e7a.",
+                "correct": false
+            },
+            {
+                "text": "Prestar aten\u00e7\u00e3o e moderar especialmente a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Virar na pr\u00f3xima intersec\u00e7\u00e3o para evitar a proximidade com os animais.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder na presen\u00e7a deste sinal?",
+        "image": "images/sinais-perigo_1457.jpg",
+        "answers": [
+            {
+                "text": "Aumentar a velocidade para n\u00e3o embara\u00e7ar o tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Circular a velocidade especialmente moderada.",
+                "correct": true
+            },
+            {
+                "text": "Passar a circular do lado direito da guia.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder perante este sinal que me indica o perigo de ocorr\u00eancia de queda de pedras?",
+        "image": "images/sinais-perigo_1458.jpg",
+        "answers": [
+            {
+                "text": "Circular a velocidade especialmente moderada.",
+                "correct": true
+            },
+            {
+                "text": "Circular na via de tr\u00e2nsito da esquerda a velocidade reduzida.",
+                "correct": false
+            },
+            {
+                "text": "Utilizar os sinais sonoros para alertar os outros condutores.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder perante este sinal vertical?",
+        "image": "images/sinais-perigo_1459.jpg",
+        "answers": [
+            {
+                "text": "Conduzir com especial precau\u00e7\u00e3o, face \u00e0 possibilidade de ventos fortes.",
+                "correct": true
+            },
+            {
+                "text": "Conduzir com especial precau\u00e7\u00e3o, por estar pr\u00f3xima uma curva perigosa para a direita.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade, por estar perante uma descida de inclina\u00e7\u00e3o acentuada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder perante este sinal vertical?",
+        "image": "images/sinais-perigo_1460.jpg",
+        "answers": [
+            {
+                "text": "Moderar especialmente a velocidade devido \u00e0 proximidade de um tro\u00e7o de via com elevada intensidade de tr\u00e2nsito.",
+                "correct": true
+            },
+            {
+                "text": "Reduzir a velocidade e parar devido \u00e0 proximidade de um tro\u00e7o de via onde a circula\u00e7\u00e3o est\u00e1 obstru\u00edda por ve\u00edculos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder perante este sinal vertical?",
+        "image": "images/sinais-perigo_1461.jpg",
+        "answers": [
+            {
+                "text": "Circular com precau\u00e7\u00e3o porque a circula\u00e7\u00e3o passa a ser feita nos dois sentidos.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade perante a indica\u00e7\u00e3o de outros perigos.",
+                "correct": true
+            },
+            {
+                "text": "Passar para a via mais \u00e0 direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder perante o sinal de perigo colocado nesta via?",
+        "image": "images/sinais-perigo_1462.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade devido \u00e0 aproxima\u00e7\u00e3o de uma passagem para pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Reduzir a velocidade devido \u00e0 proximidade de bandas crom\u00e1ticas.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade devido ao perigo de encontrar pe\u00f5es a atravessar a via.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder perante o sinal de perigo que se encontra na via?",
+        "image": "images/sinais-perigo_1463.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade devido \u00e0 proximidade de uma curva \u00e0 direita e contracurva.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o circular a velocidade inferior \u00e0 que consta no sinal.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade devido \u00e0 proximidade de um tro\u00e7o de via com pavimento escorregadio.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Como devo proceder perante o sinal vertical \u00e0 minha direita?",
+        "image": "images/sinais-perigo_1464.jpg",
+        "answers": [
+            {
+                "text": "Moderar especialmente a velocidade. O pavimento pode tornar-se escorregadio.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o aumentar a velocidade. Aproxima-se uma curva perigosa \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade e parar. A via vai terminar num cais ou precip\u00edcio.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "De acordo com a sinaliza\u00e7\u00e3o vertical existente neste local, sou aconselhado a circular \u00e0 velocidade m\u00e1xima de 40 km/h, porque me aproximo de:",
+        "image": "images/sinais-perigo_1465.jpg",
+        "answers": [
+            {
+                "text": "Uma passagem estreita.",
+                "correct": true
+            },
+            {
+                "text": "Uma via com dois sentidos de tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Uma via com prioridade.",
+                "correct": false
+            },
+            {
+                "text": "Uma via de tr\u00e2nsito sem sa\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Encontro este sinal, porque me aproximo de um local:",
+        "image": "images/sinais-perigo_1466.jpg",
+        "answers": [
+            {
+                "text": "Com elevado volume de tr\u00e2nsito.",
+                "correct": true
+            },
+            {
+                "text": "Em obras.",
+                "correct": false
+            },
+            {
+                "text": "Onde posso encontrar v\u00e1rios perigos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal adverte-me de:",
+        "image": "images/sinais-perigo_1467.jpg",
+        "answers": [
+            {
+                "text": "Descida de acentuada inclina\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Subida de acentuada inclina\u00e7\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal adverte-me para o perigo de:",
+        "image": "images/sinais-perigo_1468.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma lomba.",
+                "correct": false
+            },
+            {
+                "text": "Depress\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Trabalhos na estrada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal adverte-me para o perigo de:",
+        "image": "images/sinais-perigo_1469.jpg",
+        "answers": [
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Projec\u00e7\u00e3o de gravilha.",
+                "correct": true
+            },
+            {
+                "text": "Queda de pedras.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal adverte-me para o perigo de:",
+        "image": "images/sinais-perigo_1470.jpg",
+        "answers": [
+            {
+                "text": "Descida perigosa.",
+                "correct": false
+            },
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": true
+            },
+            {
+                "text": "Pavimento irregular.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal de perigo deve estar colocado no local exacto do tro\u00e7o de via em que \u00e9 frequente a ac\u00e7\u00e3o do vento lateral.",
+        "image": "images/sinais-perigo_1471.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": false
+            },
+            {
+                "text": "Errado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal de perigo dever\u00e1 estar colocado:",
+        "image": "images/sinais-perigo_1472.jpg",
+        "answers": [
+            {
+                "text": "Na aproxima\u00e7\u00e3o da passagem de n\u00edvel sem guarda.",
+                "correct": false
+            },
+            {
+                "text": "No local exacto da passagem de n\u00edvel com guarda.",
+                "correct": false
+            },
+            {
+                "text": "No local exacto da passagem de n\u00edvel sem guarda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal de perigo indica-me o local exacto onde se encontra uma passagem de n\u00edvel sem guarda.",
+        "image": "images/sinais-perigo_1473.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal \u00e9 colocado:",
+        "image": "images/sinais-perigo_1474.jpg",
+        "answers": [
+            {
+                "text": "Entre 150m e 300m antes do ponto da via a que se refere.",
+                "correct": true
+            },
+            {
+                "text": "No ponto da via a que se refere.",
+                "correct": false
+            },
+            {
+                "text": "Pelo menos a 500m do ponto da via a que se refere.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal \u00e9 de car\u00e1cter tempor\u00e1rio.",
+        "image": "images/sinais-perigo_1475.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal \u00e9 de:",
+        "image": "images/sinais-perigo_1476.jpg",
+        "answers": [
+            {
+                "text": "Informa\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sinaliza\u00e7\u00e3o tempor\u00e1ria.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal \u00e9 de:",
+        "image": "images/sinais-perigo_1477.jpg",
+        "answers": [
+            {
+                "text": "Informa\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sinaliza\u00e7\u00e3o tempor\u00e1ria.",
+                "correct": true
+            },
+            {
+                "text": "Trabalhos na estrada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal est\u00e1 colocado:",
+        "image": "images/sinais-perigo_1478.jpg",
+        "answers": [
+            {
+                "text": "Na aproxima\u00e7\u00e3o de um desvio da minha via de tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Na aproxima\u00e7\u00e3o de uma passagem estreita.",
+                "correct": true
+            },
+            {
+                "text": "No local exacto de um desvio da faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica a aproxima\u00e7\u00e3o:",
+        "image": "images/sinais-perigo_1479.jpg",
+        "answers": [
+            {
+                "text": "De um tro\u00e7o de via em que \u00e9 frequente a ac\u00e7\u00e3o de vento lateral.",
+                "correct": true
+            },
+            {
+                "text": "De um tro\u00e7o de via em que h\u00e1 sempre vento lateral.",
+                "correct": false
+            },
+            {
+                "text": "De uma via em que \u00e9 necess\u00e1rio utilizar as luzes de cruzamento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica aos condutores:",
+        "image": "images/sinais-perigo_1480.jpg",
+        "answers": [
+            {
+                "text": "Pista obrigat\u00f3ria para cavaleiros.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de um centro de hipismo.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de um local frequentado por cavaleiros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica o perigo de:",
+        "image": "images/sinais-perigo_1481.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas.",
+                "correct": false
+            },
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Projec\u00e7\u00e3o de gravilha.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica perigo tempor\u00e1rio de projec\u00e7\u00e3o de gravilha devido a obras na via p\u00fablica.",
+        "image": "images/sinais-perigo_1482.jpg",
+        "answers": [
+            {
+                "text": "Certo.",
+                "correct": true
+            },
+            {
+                "text": "Errado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica que a via pode ser atravessada por:",
+        "image": "images/sinais-perigo_1483.jpg",
+        "answers": [
+            {
+                "text": "Animais dom\u00e9sticos.",
+                "correct": false
+            },
+            {
+                "text": "Animais em rebanho.",
+                "correct": false
+            },
+            {
+                "text": "Animais selvagens.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica que existe o risco de:",
+        "image": "images/sinais-perigo_1484.jpg",
+        "answers": [
+            {
+                "text": "Ca\u00edrem pedras do precip\u00edcio.",
+                "correct": false
+            },
+            {
+                "text": "Encontrar irregularidades no pavimento.",
+                "correct": false
+            },
+            {
+                "text": "Projec\u00e7\u00e3o de gravilha.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica, que esta passagem de n\u00edvel:",
+        "image": "images/sinais-perigo_1485.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 pouco iluminada.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o tem guarda.",
+                "correct": true
+            },
+            {
+                "text": "Tem guarda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me a aproxima\u00e7\u00e3o de:",
+        "image": "images/sinais-perigo_1486.jpg",
+        "answers": [
+            {
+                "text": "Uma curva.",
+                "correct": false
+            },
+            {
+                "text": "Uma descida.",
+                "correct": false
+            },
+            {
+                "text": "Uma lomba.",
+                "correct": true
+            },
+            {
+                "text": "Uma subida.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me a proximidade de uma:",
+        "image": "images/sinais-perigo_1487.jpg",
+        "answers": [
+            {
+                "text": "Curva \u00e0 direita e contracurva.",
+                "correct": false
+            },
+            {
+                "text": "Curva perigosa \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Sucess\u00e3o de curvas perigosas, sendo a primeira \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Sucess\u00e3o de curvas perigosas, sendo a primeira \u00e0 esquerda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me que vou encontrar:",
+        "image": "images/sinais-perigo_1488.jpg",
+        "answers": [
+            {
+                "text": "Uma passagem de n\u00edvel com guarda a 300 metros.",
+                "correct": true
+            },
+            {
+                "text": "Uma passagem de n\u00edvel com tr\u00eas vias.",
+                "correct": false
+            },
+            {
+                "text": "Uma passagem de n\u00edvel sem guarda a 150 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me que:",
+        "image": "images/sinais-perigo_1489.jpg",
+        "answers": [
+            {
+                "text": "A via pode ser atravessada por animais selvagens.",
+                "correct": true
+            },
+            {
+                "text": "Estou pr\u00f3ximo de um jardim zool\u00f3gico.",
+                "correct": false
+            },
+            {
+                "text": "O lugar \u00e9 reservado \u00e0 ca\u00e7a de animais selvagens.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica-me:",
+        "image": "images/sinais-perigo_1490.jpg",
+        "answers": [
+            {
+                "text": "Estreitamento de via.",
+                "correct": true
+            },
+            {
+                "text": "Supress\u00e3o de berma.",
+                "correct": false
+            },
+            {
+                "text": "Supress\u00e3o de via de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-perigo_1491.jpg",
+        "answers": [
+            {
+                "text": "Animais sem condutor.",
+                "correct": true
+            },
+            {
+                "text": "Circula\u00e7\u00e3o proibida a animais.",
+                "correct": false
+            },
+            {
+                "text": "Zona de ca\u00e7a.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-perigo_1492.jpg",
+        "answers": [
+            {
+                "text": "Animais sem condutor.",
+                "correct": true
+            },
+            {
+                "text": "Pista obrigat\u00f3ria para animais.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a animais.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-perigo_1493.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de passagem de n\u00edvel com guarda.",
+                "correct": true
+            },
+            {
+                "text": "Aproxima\u00e7\u00e3o de passagem de n\u00edvel sem guarda.",
+                "correct": false
+            },
+            {
+                "text": "Local exacto de passagem de n\u00edvel com guarda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-perigo_1494.jpg",
+        "answers": [
+            {
+                "text": "Passagem de n\u00edvel com guarda a 300 metros.",
+                "correct": true
+            },
+            {
+                "text": "Passagem de n\u00edvel de tr\u00eas vias f\u00e9rreas.",
+                "correct": false
+            },
+            {
+                "text": "Passagem de n\u00edvel sem guarda a 300 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-perigo_1495.jpg",
+        "answers": [
+            {
+                "text": "Curva \u00e0 direita e contracurva.",
+                "correct": true
+            },
+            {
+                "text": "Curva \u00e0 esquerda e contracurva.",
+                "correct": false
+            },
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-perigo_1496.jpg",
+        "answers": [
+            {
+                "text": "Curva \u00e0 direita e contracurva.",
+                "correct": true
+            },
+            {
+                "text": "Subida de acentuada inclina\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Subida \u00edngreme com curvas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-perigo_1497.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de passagem de n\u00edvel com guarda.",
+                "correct": false
+            },
+            {
+                "text": "Aproxima\u00e7\u00e3o de passagem de n\u00edvel sem guarda.",
+                "correct": true
+            },
+            {
+                "text": "Local exacto de passagem de n\u00edvel sem guarda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal indica:",
+        "image": "images/sinais-perigo_1498.jpg",
+        "answers": [
+            {
+                "text": "Local de passagem de n\u00edvel com duas ou mais vias.",
+                "correct": false
+            },
+            {
+                "text": "Local de passagem de n\u00edvel com guarda.",
+                "correct": false
+            },
+            {
+                "text": "Local de passagem de n\u00edvel sem guarda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal significa:",
+        "image": "images/sinais-perigo_1499.jpg",
+        "answers": [
+            {
+                "text": "Animais selvagens.",
+                "correct": false
+            },
+            {
+                "text": "Animais.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a animais sem condutor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal significa:",
+        "image": "images/sinais-perigo_1500.jpg",
+        "answers": [
+            {
+                "text": "Ced\u00eancia de passagem nos estreitamentos da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Passagem estreita.",
+                "correct": true
+            },
+            {
+                "text": "Trabalhos na via.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal significa:",
+        "image": "images/sinais-perigo_1501.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma passagem de n\u00edvel com guarda.",
+                "correct": true
+            },
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma passagem de pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Local exacto de uma passagem de n\u00edvel sem guarda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal significa:",
+        "image": "images/sinais-perigo_1502.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de passagem de n\u00edvel com guarda.",
+                "correct": false
+            },
+            {
+                "text": "Aproxima\u00e7\u00e3o de passagem de n\u00edvel sem guarda.",
+                "correct": true
+            },
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma passagem de pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal tempor\u00e1rio indica:",
+        "image": "images/sinais-perigo_1503.jpg",
+        "answers": [
+            {
+                "text": "Tr\u00e2nsito condicionado devido a obras no pavimento.",
+                "correct": false
+            },
+            {
+                "text": "Tro\u00e7o de via onde vou encontrar trabalhos na faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Tro\u00e7o de via temporariamente obstru\u00eddo por ve\u00edculos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical d\u00e1 indica\u00e7\u00e3o aos condutores de:",
+        "image": "images/sinais-perigo_1504.jpg",
+        "answers": [
+            {
+                "text": "Proximidade de pista obrigat\u00f3ria para gado em manada.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ve\u00edculos de trac\u00e7\u00e3o animal.",
+                "correct": false
+            },
+            {
+                "text": "Tro\u00e7o de via em que podem ser encontrados animais sem condutor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical d\u00e1 indica\u00e7\u00e3o aos condutores de:",
+        "image": "images/sinais-perigo_1505.jpg",
+        "answers": [
+            {
+                "text": "Curva \u00e0 esquerda e contracurva.",
+                "correct": false
+            },
+            {
+                "text": "Passagem estreita.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito nos dois sentidos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical indica o local exacto em que se encontram os sinais luminosos.",
+        "image": "images/sinais-perigo_1506.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical indica-me:",
+        "image": "images/sinais-perigo_1507.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma via em que devo ceder a passagem.",
+                "correct": false
+            },
+            {
+                "text": "Curva perigosa \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Outros perigos.",
+                "correct": true
+            },
+            {
+                "text": "Tro\u00e7o de via com perigo de projec\u00e7\u00e3o de gravilha.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Este sinal vertical indica:",
+        "image": "images/sinais-perigo_1508.jpg",
+        "answers": [
+            {
+                "text": "Sa\u00edda de ciclistas.",
+                "correct": true
+            },
+            {
+                "text": "Sa\u00edda de condutores de ve\u00edculos de duas rodas.",
+                "correct": false
+            },
+            {
+                "text": "Sa\u00edda de motociclistas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Estes sinais de perigo advertem-me da exist\u00eancia de:",
+        "image": "images/sinais-perigo_1509.jpg",
+        "answers": [
+            {
+                "text": "Perigos tempor\u00e1rios de gravilha na faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Perigos tempor\u00e1rios, de passagem estreita e altura reduzida.",
+                "correct": false
+            },
+            {
+                "text": "Perigos tempor\u00e1rios, nomeadamente de trabalhos na via.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Estes sinais verticais devem encontrar-se colocados na proximidade de uma passagem de n\u00edvel.",
+        "image": "images/sinais-perigo_1510.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Estou na presen\u00e7a de um sinal de perigo. Devo:",
+        "image": "images/sinais-perigo_1511.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade e parar se for necess\u00e1rio.",
+                "correct": true
+            },
+            {
+                "text": "Moderar a velocidade, porque estou no local exacto da passagem de pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Parar, porque o sinal a isso me obriga.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Estou perante um sinal de perigo que me indica:",
+        "image": "images/sinais-perigo_1512.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas.",
+                "correct": false
+            },
+            {
+                "text": "Outros perigos e bermas baixas.",
+                "correct": false
+            },
+            {
+                "text": "Outros perigos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Estou proibido de realizar a manobra de ultrapassagem neste local?",
+        "image": "images/sinais-perigo_1513.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, a sinaliza\u00e7\u00e3o n\u00e3o pro\u00edbe a realiza\u00e7\u00e3o da manobra.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, o sinal indica apenas curva \u00e0 direita e contracurva, n\u00e3o sendo necess\u00e1ria qualquer precau\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim, a manobra de ultrapassagem \u00e9 proibida nas curvas de visibilidade reduzida.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Face ao perigo anunciado pelo sinal vertical, no local em que me encontro devo circular:",
+        "image": "images/sinais-perigo_1514.jpg",
+        "answers": [
+            {
+                "text": "A velocidade especialmente moderada.",
+                "correct": true
+            },
+            {
+                "text": "Junto ao eixo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Utilizando as luzes de perigo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na presen\u00e7a deste sinal de perigo devo circular o mais afastado poss\u00edvel da berma.",
+        "image": "images/sinais-perigo_1515.jpg",
+        "answers": [
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 falsa.",
+                "correct": true
+            },
+            {
+                "text": "A afirma\u00e7\u00e3o \u00e9 verdadeira.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na presen\u00e7a deste sinal vertical devo ter o cuidado de adaptar a velocidade:",
+        "image": "images/sinais-perigo_1516.jpg",
+        "answers": [
+            {
+                "text": "\u00c0 acentuada inclina\u00e7\u00e3o da via para a direita.",
+                "correct": false
+            },
+            {
+                "text": "\u00c0s condi\u00e7\u00f5es de ader\u00eancia do pavimento.",
+                "correct": true
+            },
+            {
+                "text": "\u00c0s condi\u00e7\u00f5es de visibilidade.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Na presen\u00e7a deste sinal vertical sei que me aproximo de um local onde:",
+        "image": "images/sinais-perigo_1517.jpg",
+        "answers": [
+            {
+                "text": "Devo ter especial aten\u00e7\u00e3o porque os pe\u00f5es podem n\u00e3o utilizar a passagem desnivelada a eles destinada.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o tenho que ter especial aten\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Vou encontrar uma passagem para pe\u00f5es a 300 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Nesta situa\u00e7\u00e3o devo moderar especialmente a velocidade devido \u00e0 proximidade de uma:",
+        "image": "images/sinais-perigo_1518.jpg",
+        "answers": [
+            {
+                "text": "Descida acentuada.",
+                "correct": false
+            },
+            {
+                "text": "Descida perigosa.",
+                "correct": false
+            },
+            {
+                "text": "Subida acentuada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Nesta situa\u00e7\u00e3o, sou alertado para um perigo que pode ter como consequ\u00eancia:",
+        "image": "images/sinais-perigo_1519.jpg",
+        "answers": [
+            {
+                "text": "A diminui\u00e7\u00e3o da dist\u00e2ncia de paragem devido \u00e0 diminui\u00e7\u00e3o da ader\u00eancia ao piso.",
+                "correct": false
+            },
+            {
+                "text": "O aumento da ader\u00eancia ao piso.",
+                "correct": false
+            },
+            {
+                "text": "O aumento da dist\u00e2ncia de paragem.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo circular com velocidade moderada?",
+        "image": "images/sinais-perigo_1520.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, a sinaliza\u00e7\u00e3o existente na via apenas pro\u00edbe a manobra de ultrapassagem.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o sinal vertical indica-me um tro\u00e7o da via com bermas baixas do lado direito.",
+                "correct": true
+            },
+            {
+                "text": "Sim, o sinal vertical indica-me um tro\u00e7o da via com pavimento escorregadio.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo engrenar uma mudan\u00e7a de for\u00e7a para:",
+        "image": "images/sinais-perigo_1521.jpg",
+        "answers": [
+            {
+                "text": "Uma descida perigosa.",
+                "correct": false
+            },
+            {
+                "text": "Uma subida acentuada.",
+                "correct": true
+            },
+            {
+                "text": "Uma subida perigosa.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo estar especialmente atento:",
+        "image": "images/sinais-perigo_1522.jpg",
+        "answers": [
+            {
+                "text": "\u00c0 projec\u00e7\u00e3o de gravilha.",
+                "correct": true
+            },
+            {
+                "text": "\u00c0 queda de pedras.",
+                "correct": false
+            },
+            {
+                "text": "\u00c0s bermas baixas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo moderar a velocidade porque estou na presen\u00e7a de um sinal de perigo que me indica:",
+        "image": "images/sinais-perigo_1523.jpg",
+        "answers": [
+            {
+                "text": "Descida acentuada durante 200 metros.",
+                "correct": false
+            },
+            {
+                "text": "Descida perigosa a uma dist\u00e2ncia de 200 metros.",
+                "correct": true
+            },
+            {
+                "text": "Subida acentuada a uma dist\u00e2ncia de 200 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo moderar a velocidade porque o pavimento tem:",
+        "image": "images/sinais-perigo_1524.jpg",
+        "answers": [
+            {
+                "text": "Uma deforma\u00e7\u00e3o c\u00f4ncava ou uma lomba.",
+                "correct": false
+            },
+            {
+                "text": "Uma deforma\u00e7\u00e3o c\u00f4ncava.",
+                "correct": true
+            },
+            {
+                "text": "Uma lomba.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo transitar:",
+        "image": "images/sinais-perigo_1525.jpg",
+        "answers": [
+            {
+                "text": "A 50 Km/h.",
+                "correct": false
+            },
+            {
+                "text": "A pelo menos 5 metros do ve\u00edculo da frente.",
+                "correct": false
+            },
+            {
+                "text": "A velocidade especialmente moderada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo:",
+        "image": "images/sinais-perigo_1526.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade e desviar o ve\u00edculo para a via de tr\u00e2nsito mais \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade e evitar transitar na via de tr\u00e2nsito mais \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo:",
+        "image": "images/sinais-perigo_1527.jpg",
+        "answers": [
+            {
+                "text": "Manter a velocidade at\u00e9 ao precip\u00edcio e a\u00ed inverter o sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade porque a via n\u00e3o tem sa\u00edda.",
+                "correct": false
+            },
+            {
+                "text": "Moderar especialmente a velocidade.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo:",
+        "image": "images/sinais-perigo_1528.jpg",
+        "answers": [
+            {
+                "text": "Ceder a passagem.",
+                "correct": false
+            },
+            {
+                "text": "Desviar o ve\u00edculo para o lado esquerdo.",
+                "correct": false
+            },
+            {
+                "text": "Estar atento ao perigo representado pelo sinal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo:",
+        "image": "images/sinais-perigo_1529.jpg",
+        "answers": [
+            {
+                "text": "Aumentar a dist\u00e2ncia de seguran\u00e7a.",
+                "correct": true
+            },
+            {
+                "text": "Moderar a velocidade e diminuir a dist\u00e2ncia de travagem.",
+                "correct": false
+            },
+            {
+                "text": "Parar, se existir menos ader\u00eancia ao piso.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo:",
+        "image": "images/sinais-perigo_1530.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade e parar se necess\u00e1rio, porque me aproximo de uma intersec\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Parar, porque estou na presen\u00e7a de um sinal de perigo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo:",
+        "image": "images/sinais-perigo_1531.jpg",
+        "answers": [
+            {
+                "text": "Adaptar a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Evitar as irregularidades do pavimento, desviando o ve\u00edculo para o lado esquerdo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Parar antes da irregularidade do pavimento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo:",
+        "image": "images/sinais-perigo_1532.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade e estar atento ao vento intenso do lado direito.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade e estar atento ao vento intenso do lado esquerdo.",
+                "correct": true
+            },
+            {
+                "text": "Parar se estiver vento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local devo:",
+        "image": "images/sinais-perigo_1533.jpg",
+        "answers": [
+            {
+                "text": "Circular com precau\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Parar na zona regulada pelo sinal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local \u00e9 frequente:",
+        "image": "images/sinais-perigo_1534.jpg",
+        "answers": [
+            {
+                "text": "A ac\u00e7\u00e3o de vento lateral.",
+                "correct": true
+            },
+            {
+                "text": "Encontrar o pavimento escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Que a ader\u00eancia ao piso seja menor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local, devo estar atento porque:",
+        "image": "images/sinais-perigo_1535.jpg",
+        "answers": [
+            {
+                "text": "Existe a possibilidade de vento lateral.",
+                "correct": true
+            },
+            {
+                "text": "N\u00e3o sei que perigo irei encontrar.",
+                "correct": false
+            },
+            {
+                "text": "Sei que est\u00e1 vento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local, devo estar especialmente atento:",
+        "image": "images/sinais-perigo_1536.jpg",
+        "answers": [
+            {
+                "text": "\u00c0 descida perigosa que existe mais \u00e0 frente.",
+                "correct": false
+            },
+            {
+                "text": "\u00c0 indica\u00e7\u00e3o dada pela sinaliza\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "\u00c0 velocidade a que transito, porque sou obrigado a inverter o sentido de marcha.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local, devo:",
+        "image": "images/sinais-perigo_1537.jpg",
+        "answers": [
+            {
+                "text": "Reduzir a velocidade, porque me aproximo de uma curva \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Transitar com precau\u00e7\u00e3o e aproximar-me do eixo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Transitar com precau\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Neste local, devo:",
+        "image": "images/sinais-perigo_1538.jpg",
+        "answers": [
+            {
+                "text": "Transitar com muita precau\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Transitar com precau\u00e7\u00e3o e utilizar os sinais sonoros.",
+                "correct": false
+            },
+            {
+                "text": "Utilizar os sinais sonoros, assinalando assim a minha presen\u00e7a.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Neste local, perante a sinaliza\u00e7\u00e3o, fico a saber que:",
+        "image": "images/sinais-perigo_1539.jpg",
+        "answers": [
+            {
+                "text": "A circula\u00e7\u00e3o pode ser temporariamente interrompida.",
+                "correct": true
+            },
+            {
+                "text": "A ponte m\u00f3vel impede que os ve\u00edculos sigam em frente.",
+                "correct": false
+            },
+            {
+                "text": "O piso tem pouca ader\u00eancia.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "No local em que vou transitar:",
+        "image": "images/sinais-perigo_1540.jpg",
+        "answers": [
+            {
+                "text": "A visibilidade pode ser insuficiente.",
+                "correct": true
+            },
+            {
+                "text": "Sou obrigado a ligar as luzes de presen\u00e7a.",
+                "correct": false
+            },
+            {
+                "text": "Vou encontrar neve.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer nesta situa\u00e7\u00e3o?",
+        "image": "images/sinais-perigo_1541.jpg",
+        "answers": [
+            {
+                "text": "Aumentar um pouco a velocidade, porque a intensidade de tr\u00e2nsito \u00e9 bastante reduzida.",
+                "correct": false
+            },
+            {
+                "text": "Parar.",
+                "correct": false
+            },
+            {
+                "text": "Transitar com precau\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer neste local?",
+        "image": "images/sinais-perigo_1542.jpg",
+        "answers": [
+            {
+                "text": "Estar atento e ceder a passagem apenas aos pe\u00f5es que iniciem a travessia nos locais assinalados na faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Estar atento porque podem surgir pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Parar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer neste local?",
+        "image": "images/sinais-perigo_1543.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade, porque o sinal indica que o local tem pouca visibilidade.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Parar, porque posso encontrar crian\u00e7as.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer perante a sinaliza\u00e7\u00e3o deste local?",
+        "image": "images/sinais-perigo_1544.jpg",
+        "answers": [
+            {
+                "text": "Adaptar a velocidade, porque posso encontrar uma situa\u00e7\u00e3o perigosa.",
+                "correct": true
+            },
+            {
+                "text": "Moderar a velocidade e inverter o sentido de marcha, se necess\u00e1rio.",
+                "correct": false
+            },
+            {
+                "text": "Parar, porque n\u00e3o sei que perigo posso encontrar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer perante a sinaliza\u00e7\u00e3o?",
+        "image": "images/sinais-perigo_1545.jpg",
+        "answers": [
+            {
+                "text": "Adaptar a velocidade \u00e0s circunst\u00e2ncias do local.",
+                "correct": true
+            },
+            {
+                "text": "Diminuir a velocidade e parar.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade e nunca parar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer perante a sinaliza\u00e7\u00e3o?",
+        "image": "images/sinais-perigo_1546.jpg",
+        "answers": [
+            {
+                "text": "Adaptar a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Inverter o sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade n\u00e3o transitando a uma velocidade superior a 40 km/h.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer perante o sinal de perigo?",
+        "image": "images/sinais-perigo_1547.jpg",
+        "answers": [
+            {
+                "text": "Adaptar a velocidade, porque vou encontrar grande volume de tr\u00e2nsito.",
+                "correct": true
+            },
+            {
+                "text": "Adaptar a velocidade, porque vou encontrar obras na via p\u00fablica.",
+                "correct": false
+            },
+            {
+                "text": "Parar, porque circulo numa via que vai ter muita intensidade de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer perante o sinal de perigo?",
+        "image": "images/sinais-perigo_1548.jpg",
+        "answers": [
+            {
+                "text": "Adequar a velocidade porque me aproximo de uma passagem de pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Moderar a velocidade, porque o sinal indica a presen\u00e7a de crian\u00e7as.",
+                "correct": false
+            },
+            {
+                "text": "Parar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer quando encontro este sinal?",
+        "image": "images/sinais-perigo_1549.jpg",
+        "answers": [
+            {
+                "text": "Estar atento ao perigo que representa.",
+                "correct": true
+            },
+            {
+                "text": "Fazer marcha atr\u00e1s.",
+                "correct": false
+            },
+            {
+                "text": "Inverter o sentido de marcha.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que devo fazer, perante o sinal de perigo?",
+        "image": "images/sinais-perigo_1550.jpg",
+        "answers": [
+            {
+                "text": "Estar especialmente atento a eventuais obras que possa encontrar.",
+                "correct": true
+            },
+            {
+                "text": "Moderar a velocidade, porque o sinal indica perigos v\u00e1rios.",
+                "correct": false
+            },
+            {
+                "text": "Parar, porque posso encontrar bermas baixas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que indica este sinal?",
+        "image": "images/sinais-perigo_1551.jpg",
+        "answers": [
+            {
+                "text": "Informa\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Perigo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que indica o sinal?",
+        "image": "images/sinais-perigo_1552.jpg",
+        "answers": [
+            {
+                "text": "Neve ou gelo.",
+                "correct": true
+            },
+            {
+                "text": "Piso escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Visibilidade insuficiente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que indica o sinal?",
+        "image": "images/sinais-perigo_1553.jpg",
+        "answers": [
+            {
+                "text": "Local frequentado por crian\u00e7as.",
+                "correct": false
+            },
+            {
+                "text": "Passagem de pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Travessia de pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que me indica o sinal de perigo?",
+        "image": "images/sinais-perigo_1554.jpg",
+        "answers": [
+            {
+                "text": "A presen\u00e7a de idosos e o limite m\u00ednimo de velocidade.",
+                "correct": false
+            },
+            {
+                "text": "O limite m\u00e1ximo de velocidade.",
+                "correct": false
+            },
+            {
+                "text": "Um local frequentado por idosos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que representa o sinal de perigo?",
+        "image": "images/sinais-perigo_1555.jpg",
+        "answers": [
+            {
+                "text": "Obstru\u00e7\u00e3o de uma via de tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Passagem estreita.",
+                "correct": true
+            },
+            {
+                "text": "Via de sentido \u00fanico.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal de perigo?",
+        "image": "images/sinais-perigo_1556.jpg",
+        "answers": [
+            {
+                "text": "Bermas altas.",
+                "correct": false
+            },
+            {
+                "text": "Depress\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Lomba.",
+                "correct": false
+            },
+            {
+                "text": "Lombas e depress\u00e3o.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal de perigo?",
+        "image": "images/sinais-perigo_1557.jpg",
+        "answers": [
+            {
+                "text": "Neve ou gelo.",
+                "correct": false
+            },
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Projec\u00e7\u00e3o de gravilha.",
+                "correct": false
+            },
+            {
+                "text": "Visibilidade insuficiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal de perigo?",
+        "image": "images/sinais-perigo_1558.jpg",
+        "answers": [
+            {
+                "text": "Dist\u00e2ncia de seguran\u00e7a obrigat\u00f3ria.",
+                "correct": false
+            },
+            {
+                "text": "Tro\u00e7o com elevado volume de tr\u00e2nsito.",
+                "correct": true
+            },
+            {
+                "text": "Velocidade m\u00e1xima permitida de 90 km/h.",
+                "correct": false
+            },
+            {
+                "text": "Via reservada a autom\u00f3veis ligeiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal triangular:",
+        "image": "images/sinais-perigo_1559.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de passagem de pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Lugar onde s\u00f3 podem transitar pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical superior?",
+        "image": "images/sinais-perigo_1560.jpg",
+        "answers": [
+            {
+                "text": "Intersec\u00e7\u00e3o com via onde circulam ve\u00edculos sobre carris.",
+                "correct": true
+            },
+            {
+                "text": "Passagem de n\u00edvel sem guarda.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de passagem de n\u00edvel com cancelas ou barreiras.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-perigo_1561.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas do lado esquerdo.",
+                "correct": false
+            },
+            {
+                "text": "Ced\u00eancia de passagem no estreitamento da via.",
+                "correct": false
+            },
+            {
+                "text": "Desvio da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Passagem estreita.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-perigo_1562.jpg",
+        "answers": [
+            {
+                "text": "Acentuada depress\u00e3o no pavimento.",
+                "correct": false
+            },
+            {
+                "text": "Bermas altas.",
+                "correct": false
+            },
+            {
+                "text": "Descida perigosa.",
+                "correct": true
+            },
+            {
+                "text": "Subida de inclina\u00e7\u00e3o acentuada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-perigo_1563.jpg",
+        "answers": [
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Projec\u00e7\u00e3o de gravilha.",
+                "correct": false
+            },
+            {
+                "text": "Queda de pedras.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-perigo_1564.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma via privada de acesso a um aeroporto.",
+                "correct": false
+            },
+            {
+                "text": "Local que pode ser sobrevoado por avi\u00f5es a baixa altitude.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-perigo_1565.jpg",
+        "answers": [
+            {
+                "text": "Proximidade de aeroporto.",
+                "correct": false
+            },
+            {
+                "text": "Vento lateral forte incidindo da direita para a esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Vento lateral forte incidindo da esquerda para a direita.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O que significa o sinal vertical?",
+        "image": "images/sinais-perigo_1566.jpg",
+        "answers": [
+            {
+                "text": "Circula\u00e7\u00e3o alternada.",
+                "correct": false
+            },
+            {
+                "text": "Fim de obras.",
+                "correct": false
+            },
+            {
+                "text": "Trabalhos na via.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal colocado \u00e0 minha direita \u00e9 de:",
+        "image": "images/sinais-perigo_1567.jpg",
+        "answers": [
+            {
+                "text": "Car\u00e1cter tempor\u00e1rio.",
+                "correct": true
+            },
+            {
+                "text": "Mensagem vari\u00e1vel.",
+                "correct": false
+            },
+            {
+                "text": "Perigos v\u00e1rios.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de ced\u00eancia de passagem indica:",
+        "image": "images/sinais-perigo_1568.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma rotunda com tr\u00e2nsito girat\u00f3rio.",
+                "correct": true
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o de contornar a rotunda.",
+                "correct": false
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de contornar a rotunda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo alerta-me para a possibilidade de encontrar:",
+        "image": "images/sinais-perigo_1569.jpg",
+        "answers": [
+            {
+                "text": "Pe\u00f5es a atravessar a faixa de rodagem.",
+                "correct": true
+            },
+            {
+                "text": "Pista obrigat\u00f3ria para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Uma escola.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo colocado \u00e0 minha direita indica:",
+        "image": "images/sinais-perigo_1570.jpg",
+        "answers": [
+            {
+                "text": "A aproxima\u00e7\u00e3o de um local onde h\u00e1 o perigo de queda de pedras.",
+                "correct": true
+            },
+            {
+                "text": "O local exacto da queda de pedras.",
+                "correct": false
+            },
+            {
+                "text": "O local exacto de um precip\u00edcio onde caem pedras.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo d\u00e1 indica\u00e7\u00e3o aos condutores:",
+        "image": "images/sinais-perigo_1571.jpg",
+        "answers": [
+            {
+                "text": "Da proximidade de sinaliza\u00e7\u00e3o luminosa.",
+                "correct": true
+            },
+            {
+                "text": "Da proximidade de uma passagem de n\u00edvel.",
+                "correct": false
+            },
+            {
+                "text": "Que a sinaliza\u00e7\u00e3o luminosa n\u00e3o est\u00e1 a funcionar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo deve estar colocado, na aproxima\u00e7\u00e3o de:",
+        "image": "images/sinais-perigo_1572.jpg",
+        "answers": [
+            {
+                "text": "Um local de visibilidade insuficiente.",
+                "correct": false
+            },
+            {
+                "text": "Um t\u00fanel.",
+                "correct": true
+            },
+            {
+                "text": "Uma passagem estreita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica que este local:",
+        "image": "images/sinais-perigo_1573.jpg",
+        "answers": [
+            {
+                "text": "\u00c9 frequentado por crian\u00e7as e idosos.",
+                "correct": false
+            },
+            {
+                "text": "\u00c9 frequentado por crian\u00e7as.",
+                "correct": true
+            },
+            {
+                "text": "Tem pouca visibilidade.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica que todos os condutores devem:",
+        "image": "images/sinais-perigo_1574.jpg",
+        "answers": [
+            {
+                "text": "Inverter o sentido de marcha.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade e se necess\u00e1rio parar.",
+                "correct": true
+            },
+            {
+                "text": "Parar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica-me:",
+        "image": "images/sinais-perigo_1575.jpg",
+        "answers": [
+            {
+                "text": "Curva perigosa \u00e0 direita.",
+                "correct": true
+            },
+            {
+                "text": "Que devo passar para a via de tr\u00e2nsito mais \u00e0 direita no pr\u00f3ximo entroncamento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica-me:",
+        "image": "images/sinais-perigo_1576.jpg",
+        "answers": [
+            {
+                "text": "Estreitamento da via com a configura\u00e7\u00e3o constante no sinal.",
+                "correct": true
+            },
+            {
+                "text": "Proximidade de curva perigosa \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Que o tr\u00e2nsito se faz nos dois sentidos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1577.jpg",
+        "answers": [
+            {
+                "text": "Caminho obrigat\u00f3rio para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Trabalhos na via.",
+                "correct": false
+            },
+            {
+                "text": "Travessia de pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1578.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de sinaliza\u00e7\u00e3o luminosa.",
+                "correct": true
+            },
+            {
+                "text": "Aproxima\u00e7\u00e3o de via de sentido revers\u00edvel.",
+                "correct": false
+            },
+            {
+                "text": "Perigos v\u00e1rios.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1579.jpg",
+        "answers": [
+            {
+                "text": "A localiza\u00e7\u00e3o de uma passagem de pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de bermas baixas na via.",
+                "correct": false
+            },
+            {
+                "text": "Um tro\u00e7o de via com uma lomba no pavimento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1580.jpg",
+        "answers": [
+            {
+                "text": "Curva \u00e0 direita com contracurva.",
+                "correct": false
+            },
+            {
+                "text": "Curva \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Curva \u00e0 esquerda e contracurva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1581.jpg",
+        "answers": [
+            {
+                "text": "Ced\u00eancia de passagem no estreitamento da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Desvio na faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Estreitamento da faixa de rodagem.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1582.jpg",
+        "answers": [
+            {
+                "text": "Descida perigosa.",
+                "correct": false
+            },
+            {
+                "text": "Via que termina num cais ou precip\u00edcio.",
+                "correct": true
+            },
+            {
+                "text": "Via sem sa\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1583.jpg",
+        "answers": [
+            {
+                "text": "Cais ou precip\u00edcio.",
+                "correct": true
+            },
+            {
+                "text": "Descida perigosa.",
+                "correct": false
+            },
+            {
+                "text": "Rua sem sa\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1584.jpg",
+        "answers": [
+            {
+                "text": "A aproxima\u00e7\u00e3o de uma intersec\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "O local exacto da sinaliza\u00e7\u00e3o luminosa.",
+                "correct": false
+            },
+            {
+                "text": "Sinaliza\u00e7\u00e3o luminosa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1585.jpg",
+        "answers": [
+            {
+                "text": "Congestionamento.",
+                "correct": true
+            },
+            {
+                "text": "Obst\u00e1culos ocasionais na via p\u00fablica.",
+                "correct": false
+            },
+            {
+                "text": "Via obstru\u00edda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1586.jpg",
+        "answers": [
+            {
+                "text": "Obras na via p\u00fablica.",
+                "correct": false
+            },
+            {
+                "text": "Outros perigos.",
+                "correct": true
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de ultrapassar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1587.jpg",
+        "answers": [
+            {
+                "text": "Que me aproximo de um tro\u00e7o de via com bermas baixas.",
+                "correct": true
+            },
+            {
+                "text": "Que o local onde me encontro tem bermas baixas.",
+                "correct": false
+            },
+            {
+                "text": "Que sa\u00ed de um local com bermas baixas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1588.jpg",
+        "answers": [
+            {
+                "text": "Curva \u00e0 direita e contracurva.",
+                "correct": false
+            },
+            {
+                "text": "Curva \u00e0 direita.",
+                "correct": true
+            },
+            {
+                "text": "Curva perigosa \u00e0 esquerda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo indica:",
+        "image": "images/sinais-perigo_1589.jpg",
+        "answers": [
+            {
+                "text": "Uma descida acentuada.",
+                "correct": false
+            },
+            {
+                "text": "Uma subida acentuada.",
+                "correct": true
+            },
+            {
+                "text": "Uma subida perigosa.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo pode representar:",
+        "image": "images/sinais-perigo_1590.jpg",
+        "answers": [
+            {
+                "text": "Congestionamento de tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Obst\u00e1culos ocasionais na via p\u00fablica.",
+                "correct": true
+            },
+            {
+                "text": "Perigos v\u00e1rios.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo que se encontra na via indica:",
+        "image": "images/sinais-perigo_1591.jpg",
+        "answers": [
+            {
+                "text": "A exist\u00eancia de uma curva perigosa \u00e0 direita. Nesta situa\u00e7\u00e3o devo moderar a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Proximidade de um tro\u00e7o de via em que \u00e9 frequente a ac\u00e7\u00e3o de vento lateral com a orienta\u00e7\u00e3o indicada no sinal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo significa:",
+        "image": "images/sinais-perigo_1592.jpg",
+        "answers": [
+            {
+                "text": "Local onde s\u00f3 podem transitar pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Travessia de pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo significa:",
+        "image": "images/sinais-perigo_1593.jpg",
+        "answers": [
+            {
+                "text": "Local frequentado por crian\u00e7as.",
+                "correct": true
+            },
+            {
+                "text": "Proibida a passagem de crian\u00e7as.",
+                "correct": false
+            },
+            {
+                "text": "Travessia de pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo significa:",
+        "image": "images/sinais-perigo_1594.jpg",
+        "answers": [
+            {
+                "text": "Chuva.",
+                "correct": false
+            },
+            {
+                "text": "Neve ou gelo.",
+                "correct": false
+            },
+            {
+                "text": "Visibilidade insuficiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo significa:",
+        "image": "images/sinais-perigo_1595.jpg",
+        "answers": [
+            {
+                "text": "Crian\u00e7as.",
+                "correct": true
+            },
+            {
+                "text": "Escola.",
+                "correct": false
+            },
+            {
+                "text": "Visibilidade insuficiente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal de perigo, n\u00e3o poder\u00e1 estar colocado a menos de:",
+        "image": "images/sinais-perigo_1596.jpg",
+        "answers": [
+            {
+                "text": "150 metros.",
+                "correct": true
+            },
+            {
+                "text": "200 metros.",
+                "correct": false
+            },
+            {
+                "text": "300 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica a aproxima\u00e7\u00e3o de:",
+        "image": "images/sinais-perigo_1597.jpg",
+        "answers": [
+            {
+                "text": "Cavaleiros.",
+                "correct": true
+            },
+            {
+                "text": "Escola de equita\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Hip\u00f3dromo.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica a exist\u00eancia de um local:",
+        "image": "images/sinais-perigo_1598.jpg",
+        "answers": [
+            {
+                "text": "De entrada ou atravessamento de cavaleiros na faixa de rodagem.",
+                "correct": true
+            },
+            {
+                "text": "Destinado \u00e0 circula\u00e7\u00e3o de cavaleiros.",
+                "correct": false
+            },
+            {
+                "text": "Onde os cavaleiros est\u00e3o proibidos de atravessar a faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica aproxima\u00e7\u00e3o de:",
+        "image": "images/sinais-perigo_1599.jpg",
+        "answers": [
+            {
+                "text": "Depress\u00e3o no pavimento.",
+                "correct": true
+            },
+            {
+                "text": "Lomba no pavimento.",
+                "correct": false
+            },
+            {
+                "text": "Lomba ou depress\u00e3o no pavimento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica que na faixa de rodagem onde transito:",
+        "image": "images/sinais-perigo_1600.jpg",
+        "answers": [
+            {
+                "text": "Existe uma pista reservada a ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Existe uma sa\u00edda para ciclomotores.",
+                "correct": false
+            },
+            {
+                "text": "Podem existir veloc\u00edpedes a entrar na via.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica que na via em que transito posso encontrar:",
+        "image": "images/sinais-perigo_1601.jpg",
+        "answers": [
+            {
+                "text": "Animais com condutor.",
+                "correct": false
+            },
+            {
+                "text": "Animais selvagens.",
+                "correct": false
+            },
+            {
+                "text": "Animais sem condutor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica que vou transitar num local frequentado por:",
+        "image": "images/sinais-perigo_1602.jpg",
+        "answers": [
+            {
+                "text": "Idosos e crian\u00e7as.",
+                "correct": false
+            },
+            {
+                "text": "Idosos.",
+                "correct": true
+            },
+            {
+                "text": "Pessoas portadoras de defici\u00eancia.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica-me a aproxima\u00e7\u00e3o de:",
+        "image": "images/sinais-perigo_1603.jpg",
+        "answers": [
+            {
+                "text": "Um local frequentado por idosos.",
+                "correct": true
+            },
+            {
+                "text": "Uma passadeira destinada \u00e0 travessia de idosos.",
+                "correct": false
+            },
+            {
+                "text": "Uma via destinada exclusivamente ao tr\u00e2nsito de idosos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica-me que a via:",
+        "image": "images/sinais-perigo_1604.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o tem sa\u00edda.",
+                "correct": false
+            },
+            {
+                "text": "Tem uma ponte m\u00f3vel.",
+                "correct": false
+            },
+            {
+                "text": "Termina num cais ou precip\u00edcio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1605.jpg",
+        "answers": [
+            {
+                "text": "Pista obrigat\u00f3ria para ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Sa\u00edda de ciclistas.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ciclistas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1606.jpg",
+        "answers": [
+            {
+                "text": "Sa\u00edda de ciclistas.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Via reservada a ciclistas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1607.jpg",
+        "answers": [
+            {
+                "text": "Pavimento em mau estado.",
+                "correct": false
+            },
+            {
+                "text": "Piso escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Ponte m\u00f3vel.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1608.jpg",
+        "answers": [
+            {
+                "text": "Curva perigosa \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Desvio.",
+                "correct": false
+            },
+            {
+                "text": "Estreitamento da faixa de rodagem.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1609.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas temporariamente.",
+                "correct": true
+            },
+            {
+                "text": "Obras na via p\u00fablica que ocasionam um desvio.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito temporariamente congestionado.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1610.jpg",
+        "answers": [
+            {
+                "text": "Caminho para ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Pista obrigat\u00f3ria para ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Sa\u00edda de ciclistas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1611.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma sucess\u00e3o de curvas, sendo a primeira \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma sucess\u00e3o de curvas, sendo a primeira \u00e0 esquerda.",
+                "correct": true
+            },
+            {
+                "text": "Curva \u00e0 direita, no local exacto em que me encontro.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1612.jpg",
+        "answers": [
+            {
+                "text": "Ponte m\u00f3vel.",
+                "correct": false
+            },
+            {
+                "text": "Vento lateral.",
+                "correct": true
+            },
+            {
+                "text": "Visibilidade insuficiente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1613.jpg",
+        "answers": [
+            {
+                "text": "Pista de avia\u00e7\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Ponte m\u00f3vel.",
+                "correct": false
+            },
+            {
+                "text": "Sinaliza\u00e7\u00e3o luminosa.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1614.jpg",
+        "answers": [
+            {
+                "text": "Que o local onde transito \u00e9 sobrevoado a baixa altitude.",
+                "correct": false
+            },
+            {
+                "text": "Um local sobrevoado a baixa altitude, a 200 metros.",
+                "correct": true
+            },
+            {
+                "text": "Uma pista de avia\u00e7\u00e3o numa extens\u00e3o de 200 metros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1615.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de passagem de pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Local frequentado por crian\u00e7as.",
+                "correct": false
+            },
+            {
+                "text": "Local frequentado por idosos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1616.jpg",
+        "answers": [
+            {
+                "text": "Depress\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Lomba ou depress\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Lomba.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal indica:",
+        "image": "images/sinais-perigo_1617.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas.",
+                "correct": false
+            },
+            {
+                "text": "Projec\u00e7\u00e3o de gravilha.",
+                "correct": true
+            },
+            {
+                "text": "Queda de pedras.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal que se encontra nesta via p\u00fablica indica a proximidade de:",
+        "image": "images/sinais-perigo_1618.jpg",
+        "answers": [
+            {
+                "text": "Um tro\u00e7o de via onde podem ser encontrados animais sem condutor.",
+                "correct": false
+            },
+            {
+                "text": "Uma passagem de n\u00edvel com guarda.",
+                "correct": true
+            },
+            {
+                "text": "Uma passagem de n\u00edvel sem guarda.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal que se encontra nesta via p\u00fablica indica-me:",
+        "image": "images/sinais-perigo_1619.jpg",
+        "answers": [
+            {
+                "text": "Curva perigosa \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Descida de inclina\u00e7\u00e3o acentuada.",
+                "correct": false
+            },
+            {
+                "text": "Subida de inclina\u00e7\u00e3o acentuada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal que se encontra nesta via, indica aos condutores:",
+        "image": "images/sinais-perigo_1620.jpg",
+        "answers": [
+            {
+                "text": "Proximidade de uma ponte m\u00f3vel.",
+                "correct": true
+            },
+            {
+                "text": "Que a ponte m\u00f3vel se encontra levantada.",
+                "correct": false
+            },
+            {
+                "text": "Que a via p\u00fablica n\u00e3o tem sa\u00edda para ve\u00edculos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal representa:",
+        "image": "images/sinais-perigo_1621.jpg",
+        "answers": [
+            {
+                "text": "Animais selvagens.",
+                "correct": true
+            },
+            {
+                "text": "Animais sem condutor.",
+                "correct": false
+            },
+            {
+                "text": "Cavaleiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal representa:",
+        "image": "images/sinais-perigo_1622.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas.",
+                "correct": false
+            },
+            {
+                "text": "Cais ou precip\u00edcio.",
+                "correct": false
+            },
+            {
+                "text": "Queda de pedras.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal representa:",
+        "image": "images/sinais-perigo_1623.jpg",
+        "answers": [
+            {
+                "text": "Curva \u00e0 direita e contracurva.",
+                "correct": false
+            },
+            {
+                "text": "Curva \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Curva \u00e0 esquerda e contracurva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal triangular adverte-me para a aproxima\u00e7\u00e3o de:",
+        "image": "images/sinais-perigo_1624.jpg",
+        "answers": [
+            {
+                "text": "Um local frequentado por crian\u00e7as.",
+                "correct": false
+            },
+            {
+                "text": "Uma passagem para pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Uma via destinada exclusivamente ao tr\u00e2nsito de pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal triangular indica aos condutores:",
+        "image": "images/sinais-perigo_1625.jpg",
+        "answers": [
+            {
+                "text": "Curva \u00e0 esquerda e contracurva.",
+                "correct": true
+            },
+            {
+                "text": "\u00d3leo na via p\u00fablica.",
+                "correct": false
+            },
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal triangular indica-me que:",
+        "image": "images/sinais-perigo_1626.jpg",
+        "answers": [
+            {
+                "text": "O tr\u00e2nsito passa a efectuar-se nos dois sentidos.",
+                "correct": true
+            },
+            {
+                "text": "O tr\u00e2nsito passa a efectuar-se num s\u00f3 sentido.",
+                "correct": false
+            },
+            {
+                "text": "Tenho prioridade nas passagens estreitas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal triangular indica:",
+        "image": "images/sinais-perigo_1627.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma passagem estreita.",
+                "correct": false
+            },
+            {
+                "text": "Que o tr\u00e2nsito passa a fazer-se nos dois sentidos.",
+                "correct": true
+            },
+            {
+                "text": "Sentidos obrigat\u00f3rios.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal triangular indica:",
+        "image": "images/sinais-perigo_1628.jpg",
+        "answers": [
+            {
+                "text": "Que me aproximo de um t\u00fanel.",
+                "correct": false
+            },
+            {
+                "text": "Que no t\u00fanel \u00e9 obrigat\u00f3rio transitar com as luzes de cruzamento ligadas.",
+                "correct": false
+            },
+            {
+                "text": "Que o tr\u00e2nsito passa a fazer-se nos dois sentidos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal triangular que se encontra na via indica-me:",
+        "image": "images/sinais-perigo_1629.jpg",
+        "answers": [
+            {
+                "text": "Estreitamento da via com a configura\u00e7\u00e3o constante do sinal.",
+                "correct": true
+            },
+            {
+                "text": "Que no estreitamento da via devo ceder a passagem aos ve\u00edculos que transitem em sentido contr\u00e1rio.",
+                "correct": false
+            },
+            {
+                "text": "Que tenho prioridade nos estreitamentos da faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical d\u00e1 indica\u00e7\u00e3o aos condutores de:",
+        "image": "images/sinais-perigo_1630.jpg",
+        "answers": [
+            {
+                "text": "Pavimento com prec\u00e1rias condi\u00e7\u00f5es de ader\u00eancia e risco de hidroplanagem.",
+                "correct": false
+            },
+            {
+                "text": "Piso molhado ou enlameado.",
+                "correct": false
+            },
+            {
+                "text": "Tro\u00e7o de via em que existe o risco de projec\u00e7\u00e3o de gravilha.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical de forma triangular \u00e9 utilizado para avisar os condutores:",
+        "image": "images/sinais-perigo_1631.jpg",
+        "answers": [
+            {
+                "text": "Da exist\u00eancia de v\u00e1rios perigos.",
+                "correct": false
+            },
+            {
+                "text": "De elevado volume de tr\u00e2nsito.",
+                "correct": true
+            },
+            {
+                "text": "De piso escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "De que a via est\u00e1 obstru\u00edda por ve\u00edculos acidentados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica a proximidade de um tro\u00e7o de via com:",
+        "image": "images/sinais-perigo_1632.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas e risco de capotar.",
+                "correct": false
+            },
+            {
+                "text": "Congestionamento.",
+                "correct": false
+            },
+            {
+                "text": "Obstru\u00e7\u00e3o da via.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica aos condutores a proximidade de um tro\u00e7o de via:",
+        "image": "images/sinais-perigo_1633.jpg",
+        "answers": [
+            {
+                "text": "Com descida perigosa em que existe o risco de despiste.",
+                "correct": false
+            },
+            {
+                "text": "Em que o pavimento pode tornar-se escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Onde a circula\u00e7\u00e3o se encontra obstru\u00edda por ve\u00edculos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica aos condutores:",
+        "image": "images/sinais-perigo_1634.jpg",
+        "answers": [
+            {
+                "text": "Proximidade de um parque natural.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de uma reserva natural.",
+                "correct": false
+            },
+            {
+                "text": "Que a via pode ser atravessada por animais selvagens.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me a aproxima\u00e7\u00e3o de:",
+        "image": "images/sinais-perigo_1635.jpg",
+        "answers": [
+            {
+                "text": "Um cemit\u00e9rio.",
+                "correct": false
+            },
+            {
+                "text": "Um hospital.",
+                "correct": false
+            },
+            {
+                "text": "Uma passagem de n\u00edvel com guarda.",
+                "correct": false
+            },
+            {
+                "text": "Uma passagem desnivelada para pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me a proximidade de um tro\u00e7o de via p\u00fablica:",
+        "image": "images/sinais-perigo_1636.jpg",
+        "answers": [
+            {
+                "text": "Em que \u00e9 frequente o aparecimento de nevoeiro.",
+                "correct": false
+            },
+            {
+                "text": "Em que pode existir o risco de projec\u00e7\u00e3o de gravilha ou pequenas pedras.",
+                "correct": true
+            },
+            {
+                "text": "Onde podem existir condi\u00e7\u00f5es ambientais que tornem a visibilidade insuficiente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me a proximidade de:",
+        "image": "images/sinais-perigo_1637.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas.",
+                "correct": false
+            },
+            {
+                "text": "Lomba.",
+                "correct": true
+            },
+            {
+                "text": "Passagem estreita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me que, a partir do local em que se encontra colocado, a via passa a ter:",
+        "image": "images/sinais-perigo_1638.jpg",
+        "answers": [
+            {
+                "text": "Dois sentidos de tr\u00e2nsito.",
+                "correct": true
+            },
+            {
+                "text": "Duas faixas de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Duas filas de tr\u00e2nsito em cada sentido.",
+                "correct": false
+            },
+            {
+                "text": "Duas filas de tr\u00e2nsito no mesmo sentido.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me que:",
+        "image": "images/sinais-perigo_1639.jpg",
+        "answers": [
+            {
+                "text": "A circula\u00e7\u00e3o deixa de realizar-se com duas vias de tr\u00e2nsito em cada sentido.",
+                "correct": false
+            },
+            {
+                "text": "Me aproximo de uma passagem estreita.",
+                "correct": false
+            },
+            {
+                "text": "O tr\u00e2nsito passa a efectuar-se nos dois sentidos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me:",
+        "image": "images/sinais-perigo_1640.jpg",
+        "answers": [
+            {
+                "text": "Que tenho prioridade no pr\u00f3ximo estreitamento da via p\u00fablica.",
+                "correct": false
+            },
+            {
+                "text": "Um alargamento da via p\u00fablica.",
+                "correct": false
+            },
+            {
+                "text": "Um estreitamento da via p\u00fablica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical indica-me:",
+        "image": "images/sinais-perigo_1641.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas.",
+                "correct": true
+            },
+            {
+                "text": "Curva perigosa \u00e0 direita.",
+                "correct": false
+            },
+            {
+                "text": "Res\u00edduos no pavimento que podem provocar despiste.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical que se encontra na via indica-me:",
+        "image": "images/sinais-perigo_1642.jpg",
+        "answers": [
+            {
+                "text": "O desenvolvimento de um tro\u00e7o em curva.",
+                "correct": false
+            },
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": true
+            },
+            {
+                "text": "Que posso encontrar ve\u00edculos a circular em excesso de velocidade em sentido contr\u00e1rio.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical que se encontra na via indica:",
+        "image": "images/sinais-perigo_1643.jpg",
+        "answers": [
+            {
+                "text": "Fim da pista obrigat\u00f3ria para cavaleiros.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de um local frequentado por cavaleiros.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a cavaleiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical que se encontra na via p\u00fablica indica-me:",
+        "image": "images/sinais-perigo_1644.jpg",
+        "answers": [
+            {
+                "text": "A proximidade de uma passagem de pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "A proximidade de uma pista obrigat\u00f3ria para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Que estou a circular num local frequentado por crian\u00e7as.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical que se encontra nesta via indica:",
+        "image": "images/sinais-perigo_1645.jpg",
+        "answers": [
+            {
+                "text": "Circula\u00e7\u00e3o numa via reservada a ve\u00edculos autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Local onde \u00e9 autorizado o estacionamento na berma.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de um tro\u00e7o de via com elevado volume de tr\u00e2nsito.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical que se encontra nesta via p\u00fablica:",
+        "image": "images/sinais-perigo_1646.jpg",
+        "answers": [
+            {
+                "text": "Apenas interessa aos condutores que circulam em sentido contr\u00e1rio devido \u00e0 configura\u00e7\u00e3o da via onde circulam.",
+                "correct": false
+            },
+            {
+                "text": "Indica proximidade de uma passagem estreita.",
+                "correct": true
+            },
+            {
+                "text": "Indica que o tr\u00e2nsito passa de duas para apenas uma via de tr\u00e2nsito.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical triangular de fundo branco indica-me:",
+        "image": "images/sinais-perigo_1647.jpg",
+        "answers": [
+            {
+                "text": "A exist\u00eancia de baias direccionais.",
+                "correct": false
+            },
+            {
+                "text": "A exist\u00eancia de uma curva perigosa \u00e0 esquerda.",
+                "correct": true
+            },
+            {
+                "text": "Proibi\u00e7\u00e3o de efectuar a manobra de invers\u00e3o do sentido de marcha.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical triangular de fundo branco na via de tr\u00e2nsito, indica-me a proximidade de:",
+        "image": "images/sinais-perigo_1648.jpg",
+        "answers": [
+            {
+                "text": "Uma depress\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Uma lomba ou depress\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Uma passagem superior.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "O sinal vertical triangular indica:",
+        "image": "images/sinais-perigo_1649.jpg",
+        "answers": [
+            {
+                "text": "Estreitamento da via com a configura\u00e7\u00e3o do sinal.",
+                "correct": false
+            },
+            {
+                "text": "Passagem desnivelada para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de lomba no pavimento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Os sinais de perigo t\u00eam fundo amarelo porque:",
+        "image": "images/sinais-perigo_1650.jpg",
+        "answers": [
+            {
+                "text": "S\u00e3o de confirma\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "S\u00e3o de regulamenta\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "S\u00e3o sinaliza\u00e7\u00e3o tempor\u00e1ria.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o devo moderar a velocidade, e:",
+        "image": "images/sinais-perigo_1651.jpg",
+        "answers": [
+            {
+                "text": "Parar antes da descida que se encontra a uma dist\u00e2ncia de 200 metros.",
+                "correct": false
+            },
+            {
+                "text": "Utilizar apenas o trav\u00e3o de servi\u00e7o porque a descida \u00e9 perigosa.",
+                "correct": false
+            },
+            {
+                "text": "Utilizar o motor como auxiliar do trav\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o devo:",
+        "image": "images/sinais-perigo_1652.jpg",
+        "answers": [
+            {
+                "text": "Parar.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade e travar antes da lomba.",
+                "correct": false
+            },
+            {
+                "text": "Seguir atentamente e moderar a velocidade.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o devo:",
+        "image": "images/sinais-perigo_1653.jpg",
+        "answers": [
+            {
+                "text": "Estar especialmente atento.",
+                "correct": true
+            },
+            {
+                "text": "Inverter o sentido de marcha antes do sinal.",
+                "correct": false
+            },
+            {
+                "text": "Parar imediatamente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o existente neste local devo:",
+        "image": "images/sinais-perigo_1654.jpg",
+        "answers": [
+            {
+                "text": "Adaptar a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Aumentar a dist\u00e2ncia de reac\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Diminuir a dist\u00e2ncia de paragem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante a sinaliza\u00e7\u00e3o, como devo proceder para circular em seguran\u00e7a?",
+        "image": "images/sinais-perigo_1655.jpg",
+        "answers": [
+            {
+                "text": "Adoptar uma velocidade especialmente moderada.",
+                "correct": true
+            },
+            {
+                "text": "Aumentar a press\u00e3o dos pneus para reduzir o efeito das irregularidades do pavimento.",
+                "correct": false
+            },
+            {
+                "text": "Circular em marcha lenta e, se poss\u00edvel, em primeira velocidade.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade e circular pelo centro da faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante esta sinaliza\u00e7\u00e3o devo:",
+        "image": "images/sinais-perigo_1656.jpg",
+        "answers": [
+            {
+                "text": "Estar atento apenas \u00e0 intersec\u00e7\u00e3o que se aproxima.",
+                "correct": false
+            },
+            {
+                "text": "Estar especialmente atento.",
+                "correct": true
+            },
+            {
+                "text": "Moderar a velocidade, porque o sinal luminoso me obriga a parar.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal de perigo, devo:",
+        "image": "images/sinais-perigo_1657.jpg",
+        "answers": [
+            {
+                "text": "Aproximar o meu ve\u00edculo do eixo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade e aproximar o meu ve\u00edculo do eixo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal devo:",
+        "image": "images/sinais-perigo_1658.jpg",
+        "answers": [
+            {
+                "text": "Manter a velocidade.",
+                "correct": false
+            },
+            {
+                "text": "Reduzir a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Ultrapassar o ve\u00edculo da frente.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal devo:",
+        "image": "images/sinais-perigo_1659.jpg",
+        "answers": [
+            {
+                "text": "Circular com velocidade adaptada \u00e0s caracter\u00edsticas da via.",
+                "correct": true
+            },
+            {
+                "text": "Circular o mais pr\u00f3ximo poss\u00edvel do eixo da faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal devo:",
+        "image": "images/sinais-perigo_1660.jpg",
+        "answers": [
+            {
+                "text": "Adaptar a velocidade e estar atento \u00e0 aproxima\u00e7\u00e3o de uma passagem de pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Parar sempre.",
+                "correct": false
+            },
+            {
+                "text": "Transitar com precau\u00e7\u00e3o, porque o sinal me indica um local frequentado por crian\u00e7as.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal estou obrigado a moderar a velocidade do meu ve\u00edculo. Concorda com esta afirma\u00e7\u00e3o?",
+        "image": "images/sinais-perigo_1661.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal sei que:",
+        "image": "images/sinais-perigo_1662.jpg",
+        "answers": [
+            {
+                "text": "Estou pr\u00f3ximo de um local frequentado por ciclistas.",
+                "correct": true
+            },
+            {
+                "text": "Vou encontrar uma passagem para ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Vou encontrar uma pista reservada a ciclistas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal um condutor deve:",
+        "image": "images/sinais-perigo_1663.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade devido ao perigo da via poder ser atravessada por animais selvagens.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade devido ao perigo de encontrar animais sem condutor na via p\u00fablica.",
+                "correct": true
+            },
+            {
+                "text": "Saber que vai entrar numa zona em que os condutores de gado em manada s\u00e3o obrigados a transitar numa pista reservada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal vertical devo ter a preocupa\u00e7\u00e3o de adaptar a velocidade de circula\u00e7\u00e3o:",
+        "image": "images/sinais-perigo_1664.jpg",
+        "answers": [
+            {
+                "text": "\u00c0 inclina\u00e7\u00e3o da via.",
+                "correct": true
+            },
+            {
+                "text": "\u00c0s condi\u00e7\u00f5es ambientais adversas.",
+                "correct": false
+            },
+            {
+                "text": "\u00c0s condi\u00e7\u00f5es de ader\u00eancia do piso.",
+                "correct": false
+            },
+            {
+                "text": "\u00c0s condi\u00e7\u00f5es de visibilidade reduzida.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal vertical, devo:",
+        "image": "images/sinais-perigo_1665.jpg",
+        "answers": [
+            {
+                "text": "Manter o limite m\u00e1ximo de velocidade permitido para esta via.",
+                "correct": false
+            },
+            {
+                "text": "Moderar especialmente a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Transitar em marcha lenta por estar pr\u00f3ximo um tro\u00e7o da via p\u00fablica obstru\u00edda por ve\u00edculos.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante este sinal:",
+        "image": "images/sinais-perigo_1666.jpg",
+        "answers": [
+            {
+                "text": "Devo ceder a passagem no estreitamento da via.",
+                "correct": false
+            },
+            {
+                "text": "Devo circular a velocidade especialmente moderada.",
+                "correct": true
+            },
+            {
+                "text": "Devo passar primeiro no estreitamento da via.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de perigo devo transitar com precau\u00e7\u00e3o, porque:",
+        "image": "images/sinais-perigo_1667.jpg",
+        "answers": [
+            {
+                "text": "A via \u00e9 estreita.",
+                "correct": false
+            },
+            {
+                "text": "Aproximo-me de um lugar frequentado por idosos.",
+                "correct": true
+            },
+            {
+                "text": "Vou encontrar passagens assinaladas para a travessia de pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de perigo devo:",
+        "image": "images/sinais-perigo_1668.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade e transitar fora da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Transitar com especial prud\u00eancia.",
+                "correct": true
+            },
+            {
+                "text": "Transitar no eixo da faixa de rodagem, para me desviar das pedras.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de perigo devo:",
+        "image": "images/sinais-perigo_1669.jpg",
+        "answers": [
+            {
+                "text": "Aproximar o ve\u00edculo do eixo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Transitar com precau\u00e7\u00e3o no eixo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Transitar com precau\u00e7\u00e3o.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de perigo devo:",
+        "image": "images/sinais-perigo_1670.jpg",
+        "answers": [
+            {
+                "text": "Adaptar a minha condu\u00e7\u00e3o ao perigo representado pelo sinal.",
+                "correct": true
+            },
+            {
+                "text": "Aumentar um pouco a velocidade antes da curva.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade e aproximar o ve\u00edculo do eixo da faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de perigo devo:",
+        "image": "images/sinais-perigo_1671.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade e desviar o meu ve\u00edculo para a esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade e desviar o ve\u00edculo para o eixo da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de perigo, \u00e9 necess\u00e1rio:",
+        "image": "images/sinais-perigo_1672.jpg",
+        "answers": [
+            {
+                "text": "Adaptar a condu\u00e7\u00e3o \u00e0s condi\u00e7\u00f5es adversas que possam surgir.",
+                "correct": true
+            },
+            {
+                "text": "Ligar as luzes de nevoeiro, porque a visibilidade pode ser menor.",
+                "correct": false
+            },
+            {
+                "text": "Parar, porque a neve torna o piso escorregadio.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de perigo, fico a saber:",
+        "image": "images/sinais-perigo_1673.jpg",
+        "answers": [
+            {
+                "text": "Que o tr\u00e2nsito se faz nos dois sentidos e que vou transitar num t\u00fanel.",
+                "correct": false
+            },
+            {
+                "text": "Que o tr\u00e2nsito se faz nos dois sentidos.",
+                "correct": true
+            },
+            {
+                "text": "Que vou transitar num t\u00fanel.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de perigo:",
+        "image": "images/sinais-perigo_1674.jpg",
+        "answers": [
+            {
+                "text": "A velocidade deve ser moderada e a utiliza\u00e7\u00e3o das luzes \u00e9 obrigat\u00f3ria.",
+                "correct": false
+            },
+            {
+                "text": "A velocidade deve ser moderada e a utiliza\u00e7\u00e3o das luzes n\u00e3o \u00e9 permitida.",
+                "correct": false
+            },
+            {
+                "text": "A velocidade deve ser moderada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal de perigo:",
+        "image": "images/sinais-perigo_1675.jpg",
+        "answers": [
+            {
+                "text": "Devo inverter o sentido de marcha, n\u00e3o arriscando assim encontrar animais selvagens.",
+                "correct": false
+            },
+            {
+                "text": "Devo inverter o sentido de marcha, n\u00e3o arriscando assim encontrar animais sem condutor.",
+                "correct": false
+            },
+            {
+                "text": "Devo moderar a velocidade.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal devo:",
+        "image": "images/sinais-perigo_1676.jpg",
+        "answers": [
+            {
+                "text": "Aumentar a velocidade, porque circulo numa recta.",
+                "correct": false
+            },
+            {
+                "text": "Buzinar e prosseguir a marcha.",
+                "correct": false
+            },
+            {
+                "text": "Prestar especial aten\u00e7\u00e3o e moderar a velocidade.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal devo:",
+        "image": "images/sinais-perigo_1677.jpg",
+        "answers": [
+            {
+                "text": "Avan\u00e7ar, porque o sinal est\u00e1 verde.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade face \u00e0 aproxima\u00e7\u00e3o da sinaliza\u00e7\u00e3o luminosa.",
+                "correct": true
+            },
+            {
+                "text": "Parar, porque o sinal est\u00e1 vermelho.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal devo:",
+        "image": "images/sinais-perigo_1678.jpg",
+        "answers": [
+            {
+                "text": "Parar e aguardar a descida da ponte m\u00f3vel.",
+                "correct": false
+            },
+            {
+                "text": "Parar e aguardar pelo barco de transporte de autom\u00f3veis.",
+                "correct": false
+            },
+            {
+                "text": "Tomar as devidas precau\u00e7\u00f5es, pois estou \u00e0 beira do cais.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal devo:",
+        "image": "images/sinais-perigo_1679.jpg",
+        "answers": [
+            {
+                "text": "Ligar as luzes de nevoeiro.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade e ligar as luzes de cruzamento.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal devo:",
+        "image": "images/sinais-perigo_1680.jpg",
+        "answers": [
+            {
+                "text": "Ceder a passagem aos ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Parar, se encontrar ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Transitar com precau\u00e7\u00e3o, porque posso encontrar ciclistas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal devo:",
+        "image": "images/sinais-perigo_1681.jpg",
+        "answers": [
+            {
+                "text": "Parar antes do sinal, para me certificar que n\u00e3o h\u00e1 animais no local.",
+                "correct": false
+            },
+            {
+                "text": "Transitar com precau\u00e7\u00e3o especial.",
+                "correct": true
+            },
+            {
+                "text": "Utilizar os sinais sonoros, para que os animais n\u00e3o ocupem a faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal devo:",
+        "image": "images/sinais-perigo_1682.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade e parar antes de cada irregularidade.",
+                "correct": false
+            },
+            {
+                "text": "Moderar a velocidade.",
+                "correct": true
+            },
+            {
+                "text": "Parar antes de cada irregularidade.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal devo:",
+        "image": "images/sinais-perigo_1683.jpg",
+        "answers": [
+            {
+                "text": "Engrenar a mudan\u00e7a adequada \u00e0 inclina\u00e7\u00e3o da via.",
+                "correct": true
+            },
+            {
+                "text": "Parar, antes da descida.",
+                "correct": false
+            },
+            {
+                "text": "Preparar o ve\u00edculo para a descida.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal que se encontra na via devo:",
+        "image": "images/sinais-perigo_1684.jpg",
+        "answers": [
+            {
+                "text": "Moderar a velocidade porque me aproximo de uma passagem de n\u00edvel localizada a 300 metros.",
+                "correct": true
+            },
+            {
+                "text": "Reduzir a velocidade devido \u00e0 proximidade de um entroncamento em que transitam ve\u00edculos pesados.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal vertical que procedimentos devo adoptar?",
+        "image": "images/sinais-perigo_1685.jpg",
+        "answers": [
+            {
+                "text": "Segurar o volante com firmeza e, se necess\u00e1rio, compensar a for\u00e7a do vento virando o volante para o lado de onde o vento sopra.",
+                "correct": true
+            },
+            {
+                "text": "Segurar o volante com suavidade.",
+                "correct": false
+            },
+            {
+                "text": "Virar o volante para o lado contr\u00e1rio ao da incid\u00eancia do vento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal vertical que se encontra na via p\u00fablica devo tomar alguma precau\u00e7\u00e3o?",
+        "image": "images/sinais-perigo_1686.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o tr\u00e2nsito passa a ser feito apenas num s\u00f3 sentido.",
+                "correct": false
+            },
+            {
+                "text": "Sim, aproxima-se um estreitamento da via com a configura\u00e7\u00e3o igual \u00e0 do sinal.",
+                "correct": true
+            },
+            {
+                "text": "Sim, dado que n\u00e3o tenho prioridade no pr\u00f3ximo entroncamento.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal vertical que se encontra na via, fico a saber:",
+        "image": "images/sinais-perigo_1687.jpg",
+        "answers": [
+            {
+                "text": "Que a ponte m\u00f3vel se encontra levantada e que circula\u00e7\u00e3o se encontra temporariamente interrompida.",
+                "correct": false
+            },
+            {
+                "text": "Que a via onde circulo vai terminar num cais ou precip\u00edcio.",
+                "correct": false
+            },
+            {
+                "text": "Que me aproximo de um local onde existe uma ponte m\u00f3vel.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante o sinal vertical que se encontra nesta via p\u00fablica estou obrigado a moderar a velocidade?",
+        "image": "images/sinais-perigo_1688.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, apenas estou obrigado a moderar a velocidade nas descidas de inclina\u00e7\u00e3o acentuada.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, apenas estou obrigado a moderar a velocidade sempre que exista grande intensidade de tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Sim, estou obrigado a moderar a velocidade em todos os locais com sinais de perigo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Perante qualquer sinal de perigo estou obrigado a moderar a velocidade do meu ve\u00edculo?",
+        "image": "images/sinais-perigo_1689.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Posso circular na via p\u00fablica onde se encontra o sinal vertical?",
+        "image": "images/sinais-perigo_1690.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, \u00e9 uma via exclusiva para cavaleiros.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, o sinal indica-me sa\u00edda de cavaleiros.",
+                "correct": false
+            },
+            {
+                "text": "Sim, com velocidade moderada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Posso ultrapassar?",
+        "image": "images/sinais-perigo_1691.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Sim, desde que sinalize correctamente a manobra.",
+                "correct": false
+            },
+            {
+                "text": "Sim, porque n\u00e3o existe sinaliza\u00e7\u00e3o a proibir a manobra.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Pratico infrac\u00e7\u00e3o ao C\u00f3digo da Estrada caso n\u00e3o modere especialmente a velocidade nesta via p\u00fablica?",
+        "image": "images/sinais-perigo_1692.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o, o C\u00f3digo da Estrada n\u00e3o prev\u00ea qualquer san\u00e7\u00e3o para este comportamento.",
+                "correct": false
+            },
+            {
+                "text": "N\u00e3o, o sinal indica-me apenas que a via com prioridade muda de direc\u00e7\u00e3o \u00e0 esquerda.",
+                "correct": false
+            },
+            {
+                "text": "Sim, o sinal de perigo indica-me a exist\u00eancia de uma curva perigosa \u00e0 esquerda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o dada pelo sinal de perigo?",
+        "image": "images/sinais-perigo_1693.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas.",
+                "correct": true
+            },
+            {
+                "text": "Obstru\u00e7\u00e3o de via.",
+                "correct": false
+            },
+            {
+                "text": "Queda de pedras.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que este sinal d\u00e1 aos condutores?",
+        "image": "images/sinais-perigo_1694.jpg",
+        "answers": [
+            {
+                "text": "Obstru\u00e7\u00e3o da via.",
+                "correct": false
+            },
+            {
+                "text": "Outros perigos.",
+                "correct": true
+            },
+            {
+                "text": "Trabalhos na via.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que este sinal vertical d\u00e1 aos condutores?",
+        "image": "images/sinais-perigo_1695.jpg",
+        "answers": [
+            {
+                "text": "Exist\u00eancia de curva perigosa \u00e0 direita.",
+                "correct": true
+            },
+            {
+                "text": "Que a via com prioridade muda de direc\u00e7\u00e3o \u00e0 direita.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que este sinal vertical d\u00e1 aos condutores?",
+        "image": "images/sinais-perigo_1696.jpg",
+        "answers": [
+            {
+                "text": "Local frequentado por cavaleiros.",
+                "correct": true
+            },
+            {
+                "text": "Pista obrigat\u00f3ria para cavaleiros.",
+                "correct": false
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a cavaleiros.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que o sinal vertical d\u00e1 aos condutores?",
+        "image": "images/sinais-perigo_1697.jpg",
+        "answers": [
+            {
+                "text": "Proximidade de um local onde se encontram ve\u00edculos estacionados na berma.",
+                "correct": false
+            },
+            {
+                "text": "Um estreitamento da via e que devem utilizar parte da berma.",
+                "correct": false
+            },
+            {
+                "text": "Um tro\u00e7o de via com bermas baixas do lado direito.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que o sinal vertical d\u00e1 aos condutores?",
+        "image": "images/sinais-perigo_1698.jpg",
+        "answers": [
+            {
+                "text": "Que a via pode ser atravessada por animais selvagens.",
+                "correct": true
+            },
+            {
+                "text": "Sinaliza\u00e7\u00e3o de zona de ca\u00e7a.",
+                "correct": false
+            },
+            {
+                "text": "Tro\u00e7o de via onde podem ser encontrados animais sem condutor.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que o sinal vertical d\u00e1 aos condutores?",
+        "image": "images/sinais-perigo_1699.jpg",
+        "answers": [
+            {
+                "text": "Aconselha a circular ao centro da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Bermas baixas dos dois lados da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de uma lomba no pavimento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que o sinal vertical triangular d\u00e1 aos condutores?",
+        "image": "images/sinais-perigo_1700.jpg",
+        "answers": [
+            {
+                "text": "A exist\u00eancia de trabalhos na via e a configura\u00e7\u00e3o do desvio de itiner\u00e1rio.",
+                "correct": false
+            },
+            {
+                "text": "A proximidade de uma sucess\u00e3o de curvas perigosas, sendo a primeira \u00e0 direita.",
+                "correct": true
+            },
+            {
+                "text": "Curva \u00e0 esquerda e contracurva.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que o sinal vertical triangular d\u00e1 aos condutores?",
+        "image": "images/sinais-perigo_1701.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de uma passagem de pe\u00f5es.",
+                "correct": true
+            },
+            {
+                "text": "Informa os condutores da localiza\u00e7\u00e3o de uma passagem para pe\u00f5es desnivelada.",
+                "correct": false
+            },
+            {
+                "text": "Que podem ser encontrados pe\u00f5es a atravessar a faixa de rodagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual a indica\u00e7\u00e3o que o sinal vertical triangular d\u00e1 aos condutores?",
+        "image": "images/sinais-perigo_1702.jpg",
+        "answers": [
+            {
+                "text": "In\u00edcio de uma pista obrigat\u00f3ria para pe\u00f5es.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de um local frequentado por crian\u00e7as.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a pe\u00f5es.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o perigo indicado por este sinal?",
+        "image": "images/sinais-perigo_1703.jpg",
+        "answers": [
+            {
+                "text": "Bermas baixas.",
+                "correct": false
+            },
+            {
+                "text": "Projec\u00e7\u00e3o de gravilha.",
+                "correct": false
+            },
+            {
+                "text": "Queda de pedras.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado deste sinal?",
+        "image": "images/sinais-perigo_1704.jpg",
+        "answers": [
+            {
+                "text": "Animais selvagens.",
+                "correct": true
+            },
+            {
+                "text": "Gado em manada.",
+                "correct": false
+            },
+            {
+                "text": "Local reservado \u00e0 ca\u00e7a de animais selvagens.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal de perigo?",
+        "image": "images/sinais-perigo_1705.jpg",
+        "answers": [
+            {
+                "text": "Passagem estreita.",
+                "correct": true
+            },
+            {
+                "text": "Supress\u00e3o da via da direita.",
+                "correct": false
+            },
+            {
+                "text": "Velocidade m\u00e1xima recomendada.",
+                "correct": false
+            },
+            {
+                "text": "Velocidade m\u00ednima recomendada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal de perigo?",
+        "image": "images/sinais-perigo_1706.jpg",
+        "answers": [
+            {
+                "text": "Depress\u00e3o.",
+                "correct": true
+            },
+            {
+                "text": "Lomba ou depress\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Lomba.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal vertical?",
+        "image": "images/sinais-perigo_1707.jpg",
+        "answers": [
+            {
+                "text": "Curva \u00e0 esquerda e contracurva.",
+                "correct": true
+            },
+            {
+                "text": "Indica o sentido obrigat\u00f3rio poss\u00edvel.",
+                "correct": false
+            },
+            {
+                "text": "Obriga\u00e7\u00e3o de seguir no sentido indicado pela seta.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal vertical?",
+        "image": "images/sinais-perigo_1708.jpg",
+        "answers": [
+            {
+                "text": "Aproxima\u00e7\u00e3o de pista obrigat\u00f3ria para ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Sa\u00edda de ciclistas.",
+                "correct": true
+            },
+            {
+                "text": "Tr\u00e2nsito proibido a ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Via reservada a ve\u00edculos de duas rodas.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal vertical?",
+        "image": "images/sinais-perigo_1709.jpg",
+        "answers": [
+            {
+                "text": "Descida de inclina\u00e7\u00e3o acentuada.",
+                "correct": false
+            },
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Pavimento irregular.",
+                "correct": false
+            },
+            {
+                "text": "Subida de inclina\u00e7\u00e3o acentuada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal vertical?",
+        "image": "images/sinais-perigo_1710.jpg",
+        "answers": [
+            {
+                "text": "Condi\u00e7\u00f5es atmosf\u00e9ricas adversas.",
+                "correct": false
+            },
+            {
+                "text": "Neve ou gelo.",
+                "correct": true
+            },
+            {
+                "text": "Pavimento escorregadio.",
+                "correct": false
+            },
+            {
+                "text": "Visibilidade reduzida.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal vertical?",
+        "image": "images/sinais-perigo_1711.jpg",
+        "answers": [
+            {
+                "text": "Animais sem condutor.",
+                "correct": true
+            },
+            {
+                "text": "Entrada em zona de pastagem.",
+                "correct": false
+            },
+            {
+                "text": "In\u00edcio de reserva natural.",
+                "correct": false
+            },
+            {
+                "text": "Pista para gado em manada.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Qual o significado do sinal vertical?",
+        "image": "images/sinais-perigo_1712.jpg",
+        "answers": [
+            {
+                "text": "Intersec\u00e7\u00e3o com via onde circulam autom\u00f3veis pesados.",
+                "correct": false
+            },
+            {
+                "text": "Passagem de n\u00edvel com cancelas ou barreiras.",
+                "correct": false
+            },
+            {
+                "text": "Passagem de n\u00edvel com guarda.",
+                "correct": false
+            },
+            {
+                "text": "Passagem de n\u00edvel sem guarda.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Que indica\u00e7\u00e3o me d\u00e1 o sinal vertical?",
+        "image": "images/sinais-perigo_1713.jpg",
+        "answers": [
+            {
+                "text": "Local frequentado por condutores de ve\u00edculos de duas rodas.",
+                "correct": false
+            },
+            {
+                "text": "Obrigatoriedade de ceder a passagem aos ciclistas.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de local frequentemente utilizado por ciclistas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Que indica\u00e7\u00e3o me d\u00e1 o sinal vertical?",
+        "image": "images/sinais-perigo_1714.jpg",
+        "answers": [
+            {
+                "text": "Indica-me um tro\u00e7o de via com bermas baixas.",
+                "correct": true
+            },
+            {
+                "text": "Que a circula\u00e7\u00e3o passa a fazer-se apenas num s\u00f3 sentido.",
+                "correct": false
+            },
+            {
+                "text": "Que vou entrar numa via reservada a ve\u00edculos autom\u00f3veis.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Que manobra(s) estou proibido de realizar at\u00e9 encontrar este sinal?",
+        "image": "images/sinais-perigo_1715.jpg",
+        "answers": [
+            {
+                "text": "Invers\u00e3o do sentido de marcha.",
+                "correct": true
+            },
+            {
+                "text": "Mudan\u00e7a de direc\u00e7\u00e3o.",
+                "correct": false
+            },
+            {
+                "text": "Paragem e estacionamento.",
+                "correct": false
+            },
+            {
+                "text": "Ultrapassagem.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Que significado tem o sinal de perigo?",
+        "image": "images/sinais-perigo_1716.jpg",
+        "answers": [
+            {
+                "text": "Estreitamento da faixa de rodagem.",
+                "correct": false
+            },
+            {
+                "text": "T\u00fanel.",
+                "correct": true
+            },
+            {
+                "text": "Visibilidade reduzida.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Que significado tem o sinal vertical?",
+        "image": "images/sinais-perigo_1717.jpg",
+        "answers": [
+            {
+                "text": "Indica\u00e7\u00e3o de um local frequentado por trabalhadores agr\u00edcolas.",
+                "correct": false
+            },
+            {
+                "text": "Proximidade de via sem sa\u00edda devido a obras no local.",
+                "correct": false
+            },
+            {
+                "text": "Trabalhos na via.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Regra geral, a situa\u00e7\u00e3o de perigo para a qual este sinal me adverte, encontra-se:",
+        "image": "images/sinais-perigo_1718.jpg",
+        "answers": [
+            {
+                "text": "Entre 100 a 250 metros do sinal.",
+                "correct": false
+            },
+            {
+                "text": "Entre 150 a 300 metros do sinal.",
+                "correct": true
+            },
+            {
+                "text": "Entre 25 a 50 metros do sinal.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Sempre que vejo este sinal, sei que vou encontrar:",
+        "image": "images/sinais-perigo_1719.jpg",
+        "answers": [
+            {
+                "text": "Um local frequentado por crian\u00e7as.",
+                "correct": false
+            },
+            {
+                "text": "Uma escola.",
+                "correct": false
+            },
+            {
+                "text": "Uma passagem de pe\u00f5es.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Sou advertido(a) para a situa\u00e7\u00e3o de perigo que:",
+        "image": "images/sinais-perigo_1720.jpg",
+        "answers": [
+            {
+                "text": "Ir\u00e1 manter-se numa extens\u00e3o de 1,3 km.",
+                "correct": true
+            },
+            {
+                "text": "Se encontra a 1,45 km.",
+                "correct": false
+            },
+            {
+                "text": "Tem in\u00edcio dentro de 1,3 km.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Um destes sinais verticais indica que existem obras no local?",
+        "image": "images/sinais-perigo_1721.jpg",
+        "answers": [
+            {
+                "text": "N\u00e3o. Estes sinais apenas me indicam que existem algumas altera\u00e7\u00f5es no tr\u00e2nsito.",
+                "correct": false
+            },
+            {
+                "text": "Sim, ambos os sinais.",
+                "correct": false
+            },
+            {
+                "text": "Sim.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Uma descida perigosa com 8% de inclina\u00e7\u00e3o significa que:",
+        "image": "images/sinais-perigo_1722.jpg",
+        "answers": [
+            {
+                "text": "Em cada 100 metros percorridos descemos 8 metros.",
+                "correct": true
+            },
+            {
+                "text": "Em cada 100 metros percorridos descemos 80 metros.",
+                "correct": false
+            },
+            {
+                "text": "Em cada quil\u00f3metro percorrido descemos 8 metros.",
+                "correct": false
+            }
+        ]
+    }
+]
