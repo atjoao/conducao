@@ -1,3 +1,4 @@
+## wip
 import re
 import base64
 import glob, json
@@ -64,16 +65,16 @@ for file in glob.glob("topicos/*.json"):
             correct = 0
             wrong = 0
             
+            ## i need to check the correct answer and then change it
             for i, el in enumerate(a["answers"]):
                 if el["correct"] == True:
                     correct += 1
                 else:
                     wrong += 1
                     
-            if correct == 0:
-                modified = True
-            elif wrong == 0:
-                modified = True
+            if correct == 0 or wrong == 0:
+                # modify the answer here
+                pass
 
         if modified:
             with open(file, "w") as f:
