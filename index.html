@@ -234,6 +234,7 @@
                 document.querySelectorAll('input[type="checkbox"]:checked').forEach(checkbox => {
                     selectedTopics.push(checkbox.id);
                 });
+                hideCustom();
             } else {
                 selectedTopics = topicos.map(t => t.id);
             }
