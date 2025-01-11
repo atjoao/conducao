@@ -443,7 +443,7 @@
             document.getElementById("wrong").textContent = wrong.length
 
             let final;
-            if (wrong.length >= 3) {
+            if (wrong.length > 3) {
                 final = "Reprovado"
                 audiolost.play()
             } else {
