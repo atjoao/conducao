@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>onename - exame</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
+        rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -14,13 +17,13 @@
             box-sizing: border-box;
             font-family: 'Comic Neue', cursive;
         }
-    
-        html{
+
+        html {
             width: 100%;
             height: 100%;
         }
-    
-        body{
+
+        body {
             width: 100%;
             max-width: 1170px;
             margin: 0 auto;
@@ -29,7 +32,7 @@
             flex-direction: column;
             padding: 20px;
         }
-    
+
         header {
             display: flex;
             justify-content: space-between;
@@ -37,24 +40,24 @@
             height: fit-content;
             padding: 20px 0px 40px 0px;
         }
-    
-        header > div {
+
+        header>div {
             display: flex;
             flex-direction: row;
             align-items: center;
             gap: 20px;
         }
-    
-        header > div > p{
+
+        header>div>p {
             font-size: 1.2rem;
         }
-    
+
         .content {
             display: flex;
             flex-direction: row;
             gap: 40px;
         }
-    
+
         #selection {
             display: flex;
             flex-direction: column;
@@ -62,28 +65,28 @@
             align-items: start;
             margin-bottom: 30px;
         }
-    
+
         #question {
             font-size: 1.4rem;
             line-height: 1.6;
             margin-bottom: 20px;
         }
-    
+
         #selection img {
             max-width: 600px;
             height: auto;
             border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
-    
+
         .buttons {
             display: grid;
             grid-template-columns: 1fr;
             gap: 15px;
             width: 100%;
         }
-    
-        .buttons > button {
+
+        .buttons>button {
             padding: 15px 25px;
             font-size: 1.2rem;
             font-weight: 500;
@@ -94,23 +97,23 @@
             background: white;
             text-align: left;
         }
-    
-        .buttons > button:hover:not([disabled]) {
+
+        .buttons>button:hover:not([disabled]) {
             background: #f5f5f5;
         }
-    
-        .buttons > .selected {
+
+        .buttons>.selected {
             background: #e8e8e8;
             border-color: #999;
         }
 
-        .buttons > .correct {
+        .buttons>.correct {
             background: #00A519;
             border-color: #52C363;
             color: white;
         }
 
-        .buttons > .wrong {
+        .buttons>.wrong {
             background: #D90000;
             border-color: rgb(195, 82, 82);
             color: white;
@@ -201,20 +204,37 @@
             border: 1px solid black;
         }
 
-        .layout > button{
+        .layout>button {
             padding: 10px;
             font-size: 1.2rem;
             font-weight: bold;
         }
 
         @keyframes shake {
-            0%, 100% { transform: translateY(0) translateX(0) translateZ(0); }
-            10%, 30%, 50%, 70%, 90% { transform: translateY(-5px) translateX(-5px) translateZ(-5px);}
-            20%, 40%, 60%, 80% { transform: translateY(5px) translateX(5px) translateZ(5px); }
+
+            0%,
+            100% {
+                transform: translateY(0) translateX(0) translateZ(0);
+            }
+
+            10%,
+            30%,
+            50%,
+            70%,
+            90% {
+                transform: translateY(-5px) translateX(-5px) translateZ(-5px);
+            }
+
+            20%,
+            40%,
+            60%,
+            80% {
+                transform: translateY(5px) translateX(5px) translateZ(5px);
+            }
         }
 
         .shake {
-            animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both infinite;
+            animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both infinite;
             transform: translate3d(0, 0, 0);
             backface-visibility: hidden;
             perspective: 1000px;
@@ -233,10 +253,105 @@
             color: white;
         }
 
-        
+        #selection img {
+            max-width: 600px;
+            width: 600px;
+        }
 
+
+        @media screen and (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            header {
+                flex-direction: column;
+                gap: 15px;
+                padding: 10px 0px 20px 0px;
+            }
+
+            header>div {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .content {
+                gap: 20px;
+            }
+
+            #selection {
+                gap: 15px;
+                align-items: center;
+            }
+
+            #selection>div {
+                flex-direction: column-reverse !important;
+                align-items: center;
+            }
+
+            #selection img {
+                max-width: 420px;
+                width: 420px;
+            }
+
+            #question {
+                font-size: 1.2rem;
+            }
+
+            .buttons>button {
+                padding: 12px 20px;
+                font-size: 1rem;
+            }
+
+            #continue {
+                padding: 12px 20px;
+                font-size: 1rem;
+            }
+
+            #timer {
+                position: static !important;
+                width: 100%;
+                text-align: center;
+                margin-bottom: 15px;
+            }
+
+            .layout {
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                font-size: 20px !important;
+            }
+
+            .resultados {
+                padding: 10px;
+            }
+
+            .resultados h1 {
+                font-size: 1.5rem;
+            }
+
+            .resultados h2 {
+                font-size: 1.3rem;
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            header h1 {
+                font-size: 1.5rem;
+            }
+
+            #question {
+                font-size: 1.1rem;
+            }
+
+            .buttons>button {
+                padding: 10px 15px;
+                font-size: 0.9rem;
+            }
+        }
     </style>
 </head>
+
 <body>
     <header>
         <h1>Perguntas Exame - Categoria B</h1>
@@ -250,14 +365,16 @@
     <div class="content" style="position: relative;">
         <div style="width: 100%;">
             <div>
-                <div id="timer" style="position: fixed; top: 20px; right: 20px; font-size: 24px; font-weight: bold;"></div>
+                <div id="timer" style="position: fixed; top: 20px; right: 20px; font-size: 24px; font-weight: bold;">
+                </div>
             </div>
             <div id="selection">
                 <div style="display: flex; gap: 10px; flex-direction: row-reverse;">
                     <p id="question">A carregar ..</p>
-                    <img width="800px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbUTKT4JPN4tBMpELFFJPlvWeS7WTylMxrbQ&s" alt="">    
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbUTKT4JPN4tBMpELFFJPlvWeS7WTylMxrbQ&s"
+                        alt="">
                 </div>
-                <div class="buttons"></div>    
+                <div class="buttons"></div>
             </div>
 
             <button id="continue" disabled onclick="answerQuestion()">Continuar</button>
@@ -281,12 +398,14 @@
 
         <div class="perguntas"></div>
 
-        <div style="display: flex;align-content: center;align-items: center;/*! justify-items: center; */padding-bottom: 20px;justify-content: space-between;">
+        <div
+            style="display: flex;align-content: center;align-items: center;/*! justify-items: center; */padding-bottom: 20px;justify-content: space-between;">
             <h2 style="padding-right: 10px;">Resultados</h2>
-            <div style="display: flex; /*! flex-direction: column; */ /*! justify-content: space-between; */ /*! margin-bottom: 30px; */gap: 20px;">
+            <div
+                style="display: flex; /*! flex-direction: column; */ /*! justify-content: space-between; */ /*! margin-bottom: 30px; */gap: 20px;">
                 <b>Acertaste: <span id="correct">0</span></b>
-                <b>Erraste: <span id="wrong">0</span></b>    
-            </div>    
+                <b>Erraste: <span id="wrong">0</span></b>
+            </div>
         </div>
         <button id="back" onclick="window.location.href = 'index.html'">Voltar ao inicio</button>
     </div>
@@ -305,7 +424,7 @@
         let correct = []
         let wrong = []
 
-        function loadResultados(){
+        function loadResultados() {
             document.querySelector(".content").style.display = "none"
             document.querySelector(".resultados").style.display = ""
 
@@ -313,7 +432,7 @@
 
             const answered = correct.length + wrong.length
             if (answered < total.length) {
-                for(let i = 0; i < total.length; i++) {
+                for (let i = 0; i < total.length; i++) {
                     if (!correct.find((el) => el.question == i) && !wrong.find((el) => el.question == i)) {
                         wrong.push(i)
                     }
@@ -324,12 +443,12 @@
             document.getElementById("wrong").textContent = wrong.length
 
             let final;
-            if (wrong.length >= 3){
+            if (wrong.length >= 3) {
                 final = "Reprovado"
                 audiolost.play()
             } else {
                 final = "Aprovado"
-                if (streak == total.length){
+                if (streak == total.length) {
                     final = "Aprovado com distinção!!😎😎"
                 }
                 audiowon.play()
@@ -482,8 +601,8 @@
 
             })
 
-            document.querySelectorAll("#nextQuestion").forEach((element)=>{
-                element.addEventListener("click", (e)=> {
+            document.querySelectorAll("#nextQuestion").forEach((element) => {
+                element.addEventListener("click", (e) => {
                     const questions = JSON.parse(localStorage.getItem("exam"))
 
                     document.querySelector(".layout.correct").style.display = "none"
@@ -535,19 +654,19 @@
             })
         })
 
-        let timeLeft = 30*60;
+        let timeLeft = 30 * 60;
         const timerDisplay = document.getElementById('timer');
 
         function startTimer() {
             timer = setInterval(() => {
                 timeLeft--;
-                
+
                 const minutes = Math.floor(timeLeft / 60);
                 const seconds = timeLeft % 60;
-                
+
                 timerDisplay.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
 
-                if (timeLeft <= 30){
+                if (timeLeft <= 30) {
                     timerDisplay.style.color = "red";
                     if (!document.querySelector("body").classList.contains("shake")) {
                         document.querySelector("body").classList.add("shake")
@@ -567,4 +686,5 @@
 
     </script>
 </body>
+
 </html>
