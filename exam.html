@@ -454,7 +454,7 @@
                 audiowon.play()
             }
             document.getElementById("resultado").textContent = final
-            document.getElementById("resultado").style.color = wrong.length >= 3 ? "red" : "green"
+            document.getElementById("resultado").style.color = wrong.length > 3 ? "red" : "green"
 
             let joinedarr = wrong.concat(correct)
             joinedarr.forEach((el) => {
