@@ -662,6 +662,9 @@
         const timerDisplay = document.getElementById('timer');
 
         function startTimer() {
+            if (localStorage.getItem("examType") == "maratona") {
+                return;
+            }
             timer = setInterval(() => {
                 timeLeft--;
 

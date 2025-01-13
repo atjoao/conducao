@@ -331,16 +331,17 @@
 
             finalQuestions = finalQuestions.sort(() => 0.5 - Math.random());
 
-            storeExam();
+            storeExam(type);
         }
 
-        function storeExam() {
+        function storeExam(examType) {
             localStorage.setItem('exam', JSON.stringify(finalQuestions));
+            localStorage.setItem('examType', examType);
             if (JSON.parse(localStorage.getItem('exam')).length == 0) {
                 // why the delay? because it neeeds time somehow and I don't know why
                 // because i dont wait for dom to be ready (i think)
                 setTimeout(() => {
-                    storeExam();
+                    storeExam(examType);
                 }, 500);
             } else {
                 console.log("Exame criado!")
