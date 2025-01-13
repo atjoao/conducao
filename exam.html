@@ -446,12 +446,16 @@
             if (wrong.length > 3) {
                 final = "Reprovado"
                 audiolost.play()
+                let numreprovado = parseInt(localStorage.getItem("reprovado")) || 0
+                localStorage.setItem("reprovado", numreprovado + 1)
             } else {
                 final = "Aprovado"
                 if (streak == total.length) {
                     final = "Aprovado com distinção!!😎😎"
                 }
                 audiowon.play()
+                let numaprovado = parseInt(localStorage.getItem("aprovado")) || 0
+                localStorage.setItem("aprovado", numreprovado + 1)
             }
             document.getElementById("resultado").textContent = final
             document.getElementById("resultado").style.color = wrong.length >= 3 ? "red" : "green"

@@ -181,12 +181,13 @@
                 <button onclick="startExam('random')" style="background-color: #00A519; color: white;">Iniciar</button>
                 <button onclick="alert('em progresso...')" style="background-color: #D90000; color: white;">Mais Erradas
                     =(</button>
+                <button onclick="startExamMaratona()" style="background-color: #d94500; color: white;">Maratona!!</button>
                 <button onclick="showCustom()" style="background-color: #B8B8B8; color: black;">Costumizado</button>
             </div>
 
             <div id="stats">
-                <p>Vez(es) aprovado: <span id="number">0</span></p>
-                <p>Vez(es) reprovado: <span id="number">0</span></p>
+                <p>Vez(es) aprovado: <span id="numberaprov">0</span></p>
+                <p>Vez(es) reprovado: <span id="numberrepro">0</span></p>
             </div>
         </div>
         <div id="page" class="loading" style="display: none;">
@@ -204,6 +205,12 @@
     </div>
 
     <script>
+        let numaprovado = localStorage.getItem('aprovado') || 0;
+        let numreprovado = localStorage.getItem('reprovado') || 0;
+
+        document.getElementById('numberaprov').innerText = numaprovado;
+        document.getElementById('numberrepro').innerText = numreprovado;
+
         let topicos = [];
         fetch("topicos.json").then((r) => r.json()).then((top) => {
             let content = document.querySelector('.modal-content');
@@ -237,6 +244,12 @@
 
         let finalQuestions = [];
 
+        function startExamMaratona() {
+            if (confirm("Este exame não tem limite de tempo e tens de responder a todas as perguntas. (os parametros para passar e reprovar também não alteram) Cotninuar?")){
+                startExam('maratona');
+            };
+        }
+
         function startExam(type) {
             let selectedTopics = [];
 
@@ -248,47 +261,70 @@
                     selectedTopics.push(checkbox.id);
                 });
                 hideCustom();
-            } else {
+            } else if (type == 'random') {
                 selectedTopics = topicos.map(t => t.id);
-            }
 
-            for (const topicId of selectedTopics) {
-                const topic = topicos.find(t => t.id === topicId);
-                if (topic && topic.questions) {
-                    try {
-                        const response = fetch("topicos/" + topic.id)
-                            .then(r => r.json())
-                            .then((resp) => {
-                                const shuffled = resp.sort(() => 0.5 - Math.random());
+                for (const topicId of selectedTopics) {
+                    const topic = topicos.find(t => t.id === topicId);
+                    if (topic && topic.questions) {
+                        try {
+                            const response = fetch("topicos/" + topic.id)
+                                .then(r => r.json())
+                                .then((resp) => {
+                                    const shuffled = resp.sort(() => 0.5 - Math.random());
 
-                                let totalTopics = selectedTopics.length;
-                                const questionsPerTopic = Math.floor(30 / totalTopics);
-                                const remainder = 30 % totalTopics;
+                                    let totalTopics = selectedTopics.length;
+                                    const questionsPerTopic = Math.floor(30 / totalTopics);
+                                    const remainder = 30 % totalTopics;
 
-                                const selectedQuestions = [];
-                                let questionCount = 0;
+                                    const selectedQuestions = [];
+                                    let questionCount = 0;
 
-                                for (let i = 0; i < selectedTopics.length; i++) {
-                                    const extraQuestion = i < remainder ? 1 : 0;
-                                    const topicQuestions = shuffled.slice(questionCount, questionCount + questionsPerTopic + extraQuestion);
+                                    for (let i = 0; i < selectedTopics.length; i++) {
+                                        const extraQuestion = i < remainder ? 1 : 0;
+                                        const topicQuestions = shuffled.slice(questionCount, questionCount + questionsPerTopic + extraQuestion);
 
-                                    questionCount += questionsPerTopic + extraQuestion;
+                                        questionCount += questionsPerTopic + extraQuestion;
 
-                                    for (const question of topicQuestions) {
+                                        for (const question of topicQuestions) {
+                                            finalQuestions.push({
+                                                question: question.question,
+                                                answers: question.answers,
+                                                image: question.image
+                                            });
+                                        }
+                                    }
+
+                                    if (finalQuestions.length > 30) {
+                                        finalQuestions.splice(30, finalQuestions.length - 30);
+                                    }
+                                });
+                        } catch (error) {
+                            console.error(`Erro ao obter questões para ${topicId}:`, error);
+                        }
+                    }
+                }
+            } else if (type == 'maratona') {
+                selectedTopics = topicos.map(t => t.id);
+
+                for (const topicId of selectedTopics) {
+                    const topic = topicos.find(t => t.id === topicId);
+                    if (topic && topic.questions) {
+                        try {
+                            const response = fetch("topicos/" + topic.id)
+                                .then(r => r.json())
+                                .then((resp) => {
+                                    for (const question of resp) {
                                         finalQuestions.push({
                                             question: question.question,
                                             answers: question.answers,
                                             image: question.image
                                         });
                                     }
-                                }
-
-                                if (finalQuestions.length > 30) {
-                                    finalQuestions.splice(30, finalQuestions.length - 30);
-                                }
-                            });
-                    } catch (error) {
-                        console.error(`Erro ao obter questões para ${topicId}:`, error);
+                                });
+                        } catch (error) {
+                            console.error(`Erro ao obter questões para ${topicId}:`, error);
+                        }
                     }
                 }
             }
