@@ -290,8 +290,8 @@
             }
 
             #selection img {
-                max-width: 420px;
-                width: 420px;
+                max-width: 320px;
+                width: 320px;
             }
 
             #question {
@@ -458,7 +458,7 @@
                 localStorage.setItem("aprovado", numreprovado + 1)
             }
             document.getElementById("resultado").textContent = final
-            document.getElementById("resultado").style.color = wrong.length >= 3 ? "red" : "green"
+            document.getElementById("resultado").style.color = wrong.length > 3 ? "red" : "green"
 
             let joinedarr = wrong.concat(correct)
             joinedarr.forEach((el) => {
