@@ -261,6 +261,48 @@
                     selectedTopics.push(checkbox.id);
                 });
                 hideCustom();
+                selectedTopics = topicos.map(t => t.id);
+
+                for (const topicId of selectedTopics) {
+                    const topic = topicos.find(t => t.id === topicId);
+                    if (topic && topic.questions) {
+                        try {
+                            const response = fetch("topicos/" + topic.id)
+                                .then(r => r.json())
+                                .then((resp) => {
+                                    const shuffled = resp.sort(() => 0.5 - Math.random());
+
+                                    let totalTopics = selectedTopics.length;
+                                    const questionsPerTopic = Math.floor(30 / totalTopics);
+                                    const remainder = 30 % totalTopics;
+
+                                    const selectedQuestions = [];
+                                    let questionCount = 0;
+
+                                    for (let i = 0; i < selectedTopics.length; i++) {
+                                        const extraQuestion = i < remainder ? 1 : 0;
+                                        const topicQuestions = shuffled.slice(questionCount, questionCount + questionsPerTopic + extraQuestion);
+
+                                        questionCount += questionsPerTopic + extraQuestion;
+
+                                        for (const question of topicQuestions) {
+                                            finalQuestions.push({
+                                                question: question.question,
+                                                answers: question.answers,
+                                                image: question.image
+                                            });
+                                        }
+                                    }
+
+                                    if (finalQuestions.length > 30) {
+                                        finalQuestions.splice(30, finalQuestions.length - 30);
+                                    }
+                                });
+                        } catch (error) {
+                            console.error(`Erro ao obter questões para ${topicId}:`, error);
+                        }
+                    }
+        }
             } else if (type == 'random') {
                 selectedTopics = topicos.map(t => t.id);
 
