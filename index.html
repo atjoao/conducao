@@ -261,8 +261,6 @@
                     selectedTopics.push(checkbox.id);
                 });
                 hideCustom();
-                selectedTopics = topicos.map(t => t.id);
-
                 for (const topicId of selectedTopics) {
                     const topic = topicos.find(t => t.id === topicId);
                     if (topic && topic.questions) {
