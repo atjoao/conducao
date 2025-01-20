@@ -455,7 +455,7 @@
                 }
                 audiowon.play()
                 let numaprovado = parseInt(localStorage.getItem("aprovado")) || 0
-                localStorage.setItem("aprovado", numreprovado + 1)
+                localStorage.setItem("aprovado", numaprovado + 1)
             }
             document.getElementById("resultado").textContent = final
             document.getElementById("resultado").style.color = wrong.length > 3 ? "red" : "green"
