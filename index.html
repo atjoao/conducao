@@ -201,6 +201,7 @@
             <h2>Escolhe os temas</h2>
             <div class="modal-content"></div>
             <button onclick="startExam('custom')" style="background-color: #00A519; color: white;">Continuar</button>
+            <button onclick="startExam('maratona_custom')" style="background-color: #d94500; color: white;">Maratona</button>
         </div>
     </div>
 
@@ -347,6 +348,31 @@
             } else if (type == 'maratona') {
                 selectedTopics = topicos.map(t => t.id);
 
+                for (const topicId of selectedTopics) {
+                    const topic = topicos.find(t => t.id === topicId);
+                    if (topic && topic.questions) {
+                        try {
+                            const response = fetch("topicos/" + topic.id)
+                                .then(r => r.json())
+                                .then((resp) => {
+                                    for (const question of resp) {
+                                        finalQuestions.push({
+                                            question: question.question,
+                                            answers: question.answers,
+                                            image: question.image
+                                        });
+                                    }
+                                });
+                        } catch (error) {
+                            console.error(`Erro ao obter questões para ${topicId}:`, error);
+                        }
+                    }
+                }
+            } else if (type == 'maratona_custom') {
+                document.querySelectorAll('input[type="checkbox"]:checked').forEach(checkbox => {
+                    selectedTopics.push(checkbox.id);
+                });
+                hideCustom();
                 for (const topicId of selectedTopics) {
                     const topic = topicos.find(t => t.id === topicId);
                     if (topic && topic.questions) {

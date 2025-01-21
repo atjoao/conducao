@@ -662,7 +662,7 @@
         const timerDisplay = document.getElementById('timer');
 
         function startTimer() {
-            if (localStorage.getItem("examType") == "maratona") {
+            if (localStorage.getItem("examType") == "maratona" || localStorage.getItem("examType") == "maratona_custom") {
                 return;
             }
             timer = setInterval(() => {
